@@ -17,14 +17,14 @@ Hints: Always be around. Come or go to everything. Always go to classes. Read an
 
 ## How it plays out here
 
-- 1 is our trust fall: this classroom is the place, keep leaning in.
-- 2 and 3 are our mutual scavenger hunt—grab knowledge from everyone and let them grab from you.
-- 4 lets every assignment be a lab experiment; the mess is part of the lesson.
-- 5 turns discipline into a choice: pick mentors, chase better habits.
-- 6 means flops are just drafts.
-- 7 says grind beats luck, so show up and do the work.
-- 8 reminds us to separate jamming from judging.
-- 9 shouts out joy as a tool; use it whenever it shows up.
-- 10 leaves wiggle room for the unexpected—bend these notes when the moment demands it.
+- 1 is our like trust fall: this classroom is the place, keep leaning in and we'll maybe end up somewhere unexpected, but definitely safe.
+- 2 and 3 are the state of things. Our mutual scavenger hunt—grab knowledge from everyone and let them grab from you.
+- 4 lets us use every assignment be a lab experiment; the mess is part of the lesson.
+- 5 is asking you, dear reader, to turn discipline into a choice: pick mentors, chase better habits.
+- 6 means flops are just drafts. There is still more time on the clock than you know.
+- 7 grind beats luck, so show up and do the work.
+- 8 is a reminder for us to separate jamming from judging and to honor the task at hand. Nearly a papradox anymore, but it pays dividends.
+- 9 joy as a tool and method for living is a valid response to the world; use it whenever it shows up.
+- 10  always leave wiggle room for the unexpected. Prepare to improvise as habit and still give it your everything.
 
-The hints are your survival kit: keep showing up, devour media, and hoard scraps. They'll bail you out more than caffeine ever could.
+The hints are our survival kit: keep showing up, devour media, and hoard scraps. Those connections will bail you out more than caffeine ever could.
