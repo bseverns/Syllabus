@@ -14,3 +14,4 @@ Foundation-level media art class. The docs here are raw and varied—think assig
 - `Pedagogy in times of displacement and unrest.docx`: notes on teaching through crisis.
 
 Open, adapt, and twist these for your own foundation students.
+Need the ground rules? Corita Kent's Ten Rules steer us—peek [shared/policies](../shared/policies) before rolling.

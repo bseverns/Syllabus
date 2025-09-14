@@ -24,3 +24,4 @@ station-cards/
 | Troubleshooting | When it all goes sideways, start here. | [troubleshooting.md](./troubleshooting.md) |
 
 Stay scrappy, keep it clean.
+For how we treat each other while patching, scope the [shared policies](../../shared/policies).

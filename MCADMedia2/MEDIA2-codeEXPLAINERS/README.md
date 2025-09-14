@@ -16,3 +16,4 @@ Tiny p5.js sketches used to demo concepts in Media 2. These are bare-bones, mean
 | `whileIRVar` | placeholder for an interactive `while` loop demo (missing sketch). |
 
 Open `index.html` in a browser or run them via the p5 editor.
+And yeah, our Corita-drenched [shared policies](../../shared/policies) apply here too.

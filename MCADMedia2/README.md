@@ -12,3 +12,4 @@ The sequel to Media 1—more code, more experimentation, more weird. Documentati
 - [`MEDIA2-codeEXPLAINERS`](./MEDIA2-codeEXPLAINERS): p5.js demos showing loops, animation, arrays, and other wizardry.
 
 Use these to push students past polite media art.
+Before you go rogue, scan the Corita-inspired [shared policies](../shared/policies) we live by.
