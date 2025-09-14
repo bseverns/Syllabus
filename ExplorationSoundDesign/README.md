@@ -67,5 +67,8 @@ Each day has an objective and recommended support cards. The [lessons README](./
 - [S21 — Final Touches & Peer Review](./lessons/s21-final-touches-peer-review.md)
 - [S22 — Showcase & Reflection](./lessons/s22-showcase-reflection.md)
 
+## Policies
+Our classroom vibe riffs on Corita Kent's Ten Rules—skim [shared/policies](../shared/policies) before you spark up the laptops.
+
 ## License
 © /home/sandbox — Educational use permitted; please attribute. Adjust license as needed for your institution.

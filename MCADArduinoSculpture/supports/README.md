@@ -4,3 +4,4 @@
 - [Assumption ledger](../../shared/templates/assumption-ledger.md)
 - [AI use](../../shared/policies/ai-use.md)
 - [Safety: soldering](../../shared/policies/safety-soldering.md)
+- [Classroom policies (Corita's Ten Rules remix)](../../shared/policies)

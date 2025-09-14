@@ -13,6 +13,8 @@ I hate losing track of good teaching material, so this is my dumping ground. For
 
 Stay curious, stay loud.
 
+Our classroom policies riff on Corita Kent's Ten Rules—check [shared/policies](./shared/policies) if you want the full manifesto.
+
 ## Tidy Map
 - [shared/](./shared): templates, policies, rubrics
 - [course-briefs/](./course-briefs): day-one course starters
