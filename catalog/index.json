@@ -1,0 +1,65 @@
+[
+  {
+    "course_id": "ai-story-society",
+    "title": "AI, Story & Society",
+    "level": "Mixed",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "mcad-arduino-sculpture",
+    "title": "Arduino Sculpture Lab",
+    "level": "Undergrad",
+    "delivery": "Lab",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "critical-making-civic-media",
+    "title": "Critical Making & Civic Media",
+    "level": "Undergrad",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "digital-storytelling-data-viz",
+    "title": "Digital Storytelling & Data Viz",
+    "level": "Undergrad",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "exploration-sound-design",
+    "title": "Exploration: Sound Design",
+    "level": "HS",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "imaging-otherwise",
+    "title": "Imaging Otherwise",
+    "level": "Undergrad",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "mcad-media1",
+    "title": "Media 1",
+    "level": "Undergrad",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "mcad-media2",
+    "title": "Media 2: Systems",
+    "level": "Undergrad",
+    "delivery": "Studio-Seminar",
+    "updated": "2024-05-29"
+  },
+  {
+    "course_id": "sound-systems-society",
+    "title": "Sound Systems & Society",
+    "level": "HS",
+    "delivery": "Hybrid",
+    "updated": "2024-05-29"
+  }
+]

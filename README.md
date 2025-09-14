@@ -12,3 +12,19 @@ A messy, honest archive of courses I've slung across classrooms, studios, and ha
 I hate losing track of good teaching material, so this is my dumping ground. Fork it, remix it, throw it at your students. If something's missing, yell at me or submit a PR.
 
 Stay curious, stay loud.
+
+## Tidy Map
+- [shared/](./shared): templates, policies, rubrics
+- [course-briefs/](./course-briefs): day-one course starters
+- Courses:
+  - [ExplorationSoundDesign](./ExplorationSoundDesign)
+  - [MCADArduinoSculpture](./MCADArduinoSculpture)
+  - [MCADMedia1](./MCADMedia1)
+  - [MCADMedia2](./MCADMedia2)
+
+## How to use
+1. Copy bits from `shared/` into your course folder.
+2. Fill in `brief.md` with the YAML front matter.
+3. Adapt templates, link policies, keep process logs.
+4. Run `python tools/validate.py` to lint and rebuild the catalog.
+5. Check `catalog/index.json` to see your course show up.
