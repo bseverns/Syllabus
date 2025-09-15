@@ -1,6 +1,6 @@
 # Syllabus Grab Bag
 
-A messy, honest archive of courses I've slung across classrooms, studios, and half-baked workshops. Each folder is a snapshot of a semester, complete with syllabi, assignments, and weird little experiments. Some files are slick markdown, others are scrappy `.docx` and `.pdf` survivors—open them however you can.
+A messy, honest archive of courses I've slung across classrooms, studios, and workshops. Each folder is a snapshot of a semester, complete with syllabi, assignments, and weird little experiments. Some files are slick markdown, others are scrappy `.docx` and `.pdf` survivors—open them however you can.
 
 ## Map
 - [ExplorationSoundDesign](./ExplorationSoundDesign): complete Chromebook-friendly sound design course with station cards and 22-day lesson run.
