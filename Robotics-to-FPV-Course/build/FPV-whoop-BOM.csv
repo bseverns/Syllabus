@@ -1,0 +1,10 @@
+Qty,Category,Item/Spec,Example Models,Connector / Size,Notes
+1,Frame,65–75 mm ducted micro frame,Meteor65/Mobula65/Ur65 class,,Lightweight; durable ducts
+4,Motors,"0802 ~19,000 KV, 1.0 mm shaft",SE0802 / 0802SE,,Order +20% spares
+6,Props (sets),"31 mm tri‑blade, 1.0 mm hub",Gemfan/HQ,,Expect frequent replacements
+1,AIO FC/VTX/RX,1S AIO FC with OSD + 5.8 GHz VTX + ELRS 2.4,Matrix 1S / DiamondF4,PH2.0 or BT2.0,Cap VTX to 25 mW indoors
+1,Camera,Nano analog FPV camera,RunCam Nano / Caddx Ant Lite,,Lock focus after install
+1,Canopy + screws,Nano cam canopy w/ hardware,,,Use soft mounts/grommets
+6–10,Batteries,1S 300–550 mAh LiPo,PH2.0 or BT2.0,,Label & rotate; store at 3.8 V
+1,Charger,Multi‑port 1S charger or smart charger + 1S board,ISDT/ToolkitRC + parallel board,,Supervise charging; use LiPo bags
+1,Tools (team),"Driver set, flush cutters, tweezers, heat‑shrink",,,Shared across teams OK
