@@ -1,0 +1,4 @@
+week,student_name,filename,estimated_time_min,color,priority,status,notes
+1,Avery,W01_Avery_Nameplate_v1.stl,32,gray,high,queued,
+1,Jordan,W01_Jordan_Nameplate_v1.stl,41,gray,high,printed,
+2,Casey,W02_Casey_KeyTag_v1.stl,27,blue,high,queued,
