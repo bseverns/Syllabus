@@ -1,0 +1,24 @@
+<!doctype html><html><head><meta charset="utf-8"><title>WebMIDI Visualizer</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script></head><body>
+<script>
+let msgs=[];
+function setup(){
+  createCanvas(800,400); textFont('monospace'); textSize(14);
+  if(navigator.requestMIDIAccess){
+    navigator.requestMIDIAccess().then(midi=>{
+      for (let input of midi.inputs.values()){
+        input.onmidimessage = e => {
+          msgs.push([...e.data]); if(msgs.length>100) msgs.shift();
+        }
+      }
+    });
+  } else { console.log('WebMIDI not supported'); }
+}
+function draw(){
+  background(20); fill(230);
+  text('Incoming MIDI (WebMIDI):', 10, 20);
+  for(let i=0;i<msgs.length;i++){
+    text(msgs[i].map(b=>('0x'+b.toString(16).padStart(2,'0'))).join(' '),10,40+i*14);
+  }
+}
+</script></body></html>

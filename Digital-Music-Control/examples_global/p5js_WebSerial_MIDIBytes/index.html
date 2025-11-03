@@ -1,0 +1,36 @@
+<!doctype html><html><head><meta charset="utf-8"><title>WebSerial MIDI-Bytes Visualizer</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script></head><body>
+<button id="connect">Connect Serial</button>
+<script>
+let port, reader; let lines = [];
+async function connect(){
+  try{
+    port = await navigator.serial.requestPort();
+    await port.open({ baudRate: 115200 });
+    const decoder = new TextDecoderStream();
+    port.readable.pipeTo(decoder.writable);
+    reader = decoder.readable.getReader();
+    readLoop();
+  }catch(e){ console.log(e); }
+}
+async function readLoop(){
+  let buf='';
+  while(true){
+    const {value, done} = await reader.read();
+    if(done) break;
+    buf += value;
+    const parts = buf.split('\n'); buf = parts.pop();
+    for(const p of parts){
+      // Expect raw bytes written via Serial.write; show hex groups of 3
+      const hex = p.trim().split(/[ ,]+/).map(x=>x.trim()).filter(Boolean);
+      lines.push(hex.join(' ')); if(lines.length>100) lines.shift();
+    }
+  }
+}
+document.getElementById('connect').addEventListener('click', connect);
+function setup(){ createCanvas(800, 480); textFont('monospace'); textSize(14); }
+function draw(){ background(18); fill(235);
+  text('Raw Serial (expect MIDI status/data bytes):', 10, 20);
+  for(let i=0;i<lines.length;i++){ text(lines[i], 10, 40+i*14); }
+}
+</script></body></html>
