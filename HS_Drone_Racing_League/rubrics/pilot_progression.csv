@@ -1,0 +1,9 @@
+Stage,Skill,Descriptor,Evidence
+A,Sim consistency,50 clean gates no crash,PB log > 50 gate streak
+A,LOS control,Stable hover + squares,Spotter signoff
+B,FPV fundamentals,Complete 3-lap heat no crash,Timing sheet
+B,Throttle discipline,Smooth entries no bobble,Coach observation
+C,Passing etiquette,Calls and safe passes,Marshal notes
+C,Recovery,Turtle-mode + safe disarm,Coach signoff
+D,Race craft,Qualifies mid-pack or better,Results sheet
+D,Leadership,Serves as spotter/marshal effectively,Coach notes
