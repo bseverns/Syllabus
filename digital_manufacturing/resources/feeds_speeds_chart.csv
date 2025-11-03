@@ -1,0 +1,5 @@
+material,tool,diameter_mm,spindle_rpm,feed_mm_min,plunge_mm_min,doc_mm,notes
+soft_wood,flat_endmill,3.175,12000,500,180,1.0,conservative classroom start
+plywood,flat_endmill,3.175,12000,450,150,0.8,tape+CA or clamps
+acrylic,flat_endmill,3.175,14000,350,120,0.6,use single‑flute if available
+PLA,0.4_nozzle,0.40,NA,NA,NA,layer_height=0.2,infill=20%; 205°C/60°C

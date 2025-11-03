@@ -1,0 +1,11 @@
+{
+  "profile_name": "LulzBot Mini 2 \u2014 Base",
+  "layer_height": 0.2,
+  "wall_line_count": 2,
+  "infill_density": 20,
+  "printing_temperature": 205,
+  "build_plate_temperature": 60,
+  "support_enable": false,
+  "adhesion_type": "brim",
+  "speed_print": 45
+}
