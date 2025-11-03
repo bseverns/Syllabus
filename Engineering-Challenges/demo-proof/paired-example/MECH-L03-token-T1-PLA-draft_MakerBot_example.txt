@@ -1,0 +1,4 @@
+EXAMPLE — MakerBot package placeholder
+- STL: demo-proof/assets/MECH-demo-token_40x3.stl
+- Pause: ~1.25 mm (≈ Layer 5 @ 0.25 mm)
+- Action: swap to second color; purge off-part; resume
