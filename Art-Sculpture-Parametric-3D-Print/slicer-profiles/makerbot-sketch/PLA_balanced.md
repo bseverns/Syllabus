@@ -1,0 +1,11 @@
+# PLA — Balanced (General)
+- Nozzle: 0.4 mm
+- Layer Height: 0.20 mm
+- Walls/Shells: 3
+- Top Layers: 4
+- Bottom Layers: 4
+- Infill: 18% (Gyroid)
+- Print Speed: 45 mm/s (outer 30)
+- Bed: 60 °C; Nozzle: 205 °C
+- Cooling: 100%
+- Adhesion: Skirt (2 lines)

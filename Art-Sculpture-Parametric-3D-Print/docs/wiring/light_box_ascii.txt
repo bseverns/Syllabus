@@ -1,0 +1,9 @@
+5V USB  ──────────────┐
+                      │
+                  +───┴───+
+                  │  LED  │  (WS2812B strip or 5V puck)
+                  +───┬───+
+                      │
+GND  ─────────────────┘
+DIN  ──[220Ω]────────────> LED DIN (only for addressable strips)
+Cbulk: 1000µF between 5V and GND at LED input (recommended)

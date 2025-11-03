@@ -1,0 +1,7 @@
+item,qty,unit_cost,source,notes
+Line sensor or wheel encoders,12,,"","Closed-loop control"
+IMU (MPU-6050/6886),12,,"","Fusion"
+I2C OLED 0.96in,12,,"","Debug UI"
+IR LED/receiver or radio pair,12,,"","Sync/roles"
+ToF sensor (VL53L0X),12,,"","Enhanced ranging"
+Extra battery capacity,12,,"","Safety margin"

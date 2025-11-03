@@ -1,0 +1,11 @@
+parameter,lulzbot_cura_value,makerbot_target_notes
+nozzle_diameter_mm,0.5,Match if possible; otherwise track in log
+layer_height_mm,0.25,Use closest quality preset
+initial_layer_height_mm,0.32,Use closest available
+perimeters_count,3,Match 'walls/shells' count
+infill_percent,18,Use gyroid/lines equivalent
+top_layers,4,Use similar top thickness
+bottom_layers,4,Use similar bottom thickness
+print_speed_mm_s,45,Match outer/inner approximations
+cooling_percent,100,Match fan behavior per material
+adhesion,skirt,Use skirt/brim analog

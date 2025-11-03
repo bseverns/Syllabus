@@ -1,0 +1,8 @@
+flowchart LR
+  A[CAD Decision] --> B{Overhang > 45°?}
+  B -- Yes --> C[Add chamfer/fillet OR supports]
+  B -- No --> D[OK]
+  C --> E{Bridge span > 25 mm?}
+  E -- Yes --> F[Increase cooling, orient to shorten span]
+  E -- No --> D
+  D --> G[Orient for strength along load path]

@@ -1,0 +1,11 @@
+# PLA — Draft (Studies)
+- Nozzle: 0.4 mm
+- Layer Height: 0.30 mm
+- Walls/Shells: 2
+- Top Layers: 3
+- Bottom Layers: 3
+- Infill: 12% (Lines)
+- Print Speed: 55 mm/s (outer 35)
+- Bed: 60 °C; Nozzle: 205–210 °C
+- Cooling: 100% after 2nd layer
+- Adhesion: Brim (4 mm) for tall/skinny studies

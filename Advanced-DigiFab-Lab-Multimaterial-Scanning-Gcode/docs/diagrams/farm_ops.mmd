@@ -1,0 +1,8 @@
+flowchart LR
+  A[Request] --> B[Slice & Queue]
+  B --> C{Resources?}
+  C -- Yes --> D[Run]
+  C -- No --> E[Schedule]
+  D --> F[QC]
+  F -->|Pass| G[Deliver]
+  F -->|Fail| H[Triage & Requeue]

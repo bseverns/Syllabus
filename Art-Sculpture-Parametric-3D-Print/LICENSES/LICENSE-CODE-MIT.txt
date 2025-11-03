@@ -1,0 +1,4 @@
+MIT License
+Copyright (c) 2025 Ben + Contributors
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+(Include full MIT license if publishing publicly.)

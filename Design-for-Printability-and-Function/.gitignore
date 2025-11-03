@@ -1,0 +1,28 @@
+# System
+.DS_Store
+Thumbs.db
+
+# CAD / Slicer generated
+*.3mf
+*.3mf.zip
+*.3mf#*
+*.step
+*.stp
+*.f3d
+*.fcstd
+*.gcode
+*.ufp
+*.gx
+*.bgcode
+*.factory
+*.amf
+
+# Images / Previews
+*.png
+*.jpg
+*.jpeg
+
+# Analysis
+__pycache__/
+*.ipynb_checkpoints
+.env

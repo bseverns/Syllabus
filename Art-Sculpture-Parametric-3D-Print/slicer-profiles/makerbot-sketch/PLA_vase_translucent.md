@@ -1,0 +1,11 @@
+# PLA — Vase / Translucent (Finals & Lanterns)
+- Enable **Spiralize (Vase Mode)** when available.
+- Layer Height: 0.24 mm
+- Walls: 1 (or 2 for sturdier lanterns; if 2, disable spiralize)
+- Top Layers: 0
+- Bottom Layers: 3
+- Flow: 98–100% (tune per filament brand for clarity)
+- Print Speed: 30–35 mm/s; Outer Wall 20–25 mm/s
+- Bed: 60 °C; Nozzle: 200–205 °C (cooler improves clarity)
+- Cooling: 100%, gentle part cooling (avoid warps at tall heights)
+- Note: If Spiralize is unavailable, emulate with single-wall, no top, seam aligned at the least-visible edge.

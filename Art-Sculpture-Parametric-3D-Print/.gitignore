@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.3mf
+*.step
+*.stp
+*.f3d
+*.gcode
+*.png
+*.jpg
+*.jpeg
+.env

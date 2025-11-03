@@ -1,0 +1,10 @@
+item,qty,unit_cost,source,notes
+ESP32 boards or nRF24 modules,12,,"","Radio comms (policy‑dependent)"
+USB‑DMX adapter,1,,"","Cue control"
+Small DMX fixtures,2-4,,"","Stage wash"
+Overhead UVC camera,1,,"","Fiducial tracking (optional)"
+Printed fiducials/line tape,1,,"","Localization"
+I2C OLEDs,12,,"","On‑robot debug UI"
+Audio interface / small amp,1,,"","Sound cues"
+Network switch & long USB,1,,"","Operator station"
+Gaffer tape & stands,1,,"","Safety & rigging"

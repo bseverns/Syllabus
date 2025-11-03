@@ -1,0 +1,6 @@
+flowchart LR
+  PSU[5V USB PSU] -->|5V| LED[LED Strip/Puck]
+  PSU -->|GND| LED
+  MCU[Optional Microcontroller] -->|DIN via 220Ω| LED
+  classDef hw fill:#eef,stroke:#88f;
+  class PSU,LED,MCU hw;
