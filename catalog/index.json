@@ -1,65 +1,822 @@
 [
   {
+    "course_id": "3d-printing-course-3-5",
+    "title": "3D Printing Course (Grades 3–5)",
+    "level": "Elementary",
+    "hours": "11×90 min (16.5h)",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "3D printing",
+      "Tinkercad",
+      "Elementary",
+      "MakerBot",
+      "Empathy"
+    ],
+    "outcomes": [
+      "Model, slice, and print safely from idea to finished object.",
+      "Measure in millimeters and manage tolerances through guided builds.",
+      "Practice equitable print lab operations and naming conventions.",
+      "Design for a partner and iterate based on feedback."
+    ],
+    "access_notes": "Chromebook-friendly plans with MakerBot Digital Factory workflows and weekly color rotations keep the queue equitable.",
+    "artifacts": [
+      "Capstone empathy print",
+      "Design journal entries",
+      "Tolerance toy challenge"
+    ],
+    "lineage": [
+      "Design-for-Printability-and-Function",
+      "digital_manufacturing"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "advanced-digifab-lab",
+    "title": "Advanced Digital Fabrication Lab — Multi-Material, Scanning & G-code Hacks",
+    "level": "HS",
+    "hours": "14–16 week semester",
+    "delivery": "Lab",
+    "keywords": [
+      "Multi-material",
+      "G-code",
+      "3D scanning",
+      "Print operations",
+      "Capstone"
+    ],
+    "outcomes": [
+      "Operate a multi-printer fleet with maintenance and QC routines.",
+      "Execute multi-material workflows across MMU, AMS, and manual swaps.",
+      "Capture and clean 3D scans for hybrid CAD workflows.",
+      "Author, test, and log custom G-code edits for inserts and pauses.",
+      "Publish a capstone portfolio documenting operations decisions."
+    ],
+    "access_notes": "Includes printable checklists, queue logs, and offline docs for labs with limited connectivity.",
+    "artifacts": [
+      "Multi-material capstone print",
+      "Queue and maintenance log",
+      "Scanning workflow documentation"
+    ],
+    "lineage": [
+      "Design-for-Printability-and-Function",
+      "Engineering-Challenges",
+      "digital_manufacturing"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
     "course_id": "ai-story-society",
     "title": "AI, Story & Society",
     "level": "Mixed",
+    "hours": "3 credits",
     "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "keywords": [
+      "AI",
+      "Story",
+      "Ethics"
+    ],
+    "outcomes": [
+      "Interrogate AI narratives across media and history.",
+      "Co-write with models while annotating machine contributions.",
+      "Map societal impacts and articulate local boundaries.",
+      "Prototype publishable zines that cite machine collaborators."
+    ],
+    "access_notes": "Requires account setup but offers offline prompt decks and small-model alternatives.",
+    "artifacts": [
+      "Annotated syllabus",
+      "Process log",
+      "Final storytelling project"
+    ],
+    "lineage": [
+      "future-course-briefs"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
-    "course_id": "mcad-arduino-sculpture",
-    "title": "Arduino Sculpture Lab",
-    "level": "Undergrad",
-    "delivery": "Lab",
-    "updated": "2024-05-29"
+    "course_id": "art-sculpture-parametric-3d-print",
+    "title": "Art, Sculpture & Parametric Patterning in 3D Print",
+    "level": "HS",
+    "hours": "8-week A/B blocks",
+    "delivery": "Studio",
+    "keywords": [
+      "Parametric",
+      "OpenSCAD",
+      "Pattern",
+      "Vase mode",
+      "Critique"
+    ],
+    "outcomes": [
+      "Compose sculptural work with parametric rules and constraint-based thinking.",
+      "Translate 2D imagery into 3D patterns using OpenSCAD or p5.js pipelines.",
+      "Manipulate slicer parameters to choreograph light, translucency, and texture.",
+      "Stage gallery-ready critiques with artist statements and process logs."
+    ],
+    "access_notes": "Starter files run on low-spec laptops; includes printable critique forms and safety briefs.",
+    "artifacts": [
+      "Gallery-ready print",
+      "Artist statement",
+      "Process log zine"
+    ],
+    "lineage": [
+      "Design-for-Printability-and-Function",
+      "digital_manufacturing",
+      "ImagingOtherwise"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "critical-making-civic-media",
     "title": "Critical Making & Civic Media",
     "level": "Undergrad",
+    "hours": "3 credits",
     "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "keywords": [
+      "Civic",
+      "Making",
+      "Media"
+    ],
+    "outcomes": [
+      "Hack public narratives through fast prototyping.",
+      "Prototype civic media tools for local partners.",
+      "Analyze media power structures with collaborative critique.",
+      "Document builds for replication and accountability."
+    ],
+    "access_notes": "Designed for community partnerships; favors low-cost, easily sourced materials.",
+    "artifacts": [
+      "Course syllabus",
+      "Process log",
+      "Final civic media action"
+    ],
+    "lineage": [
+      "future-course-briefs"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "ctm-sound-design",
+    "title": "Sound Design for Theater (CTM Collaborative)",
+    "level": "HS",
+    "hours": "8×90 min",
+    "delivery": "Workshop",
+    "keywords": [
+      "Sound design",
+      "Theater",
+      "BandLab",
+      "Cue sheets",
+      "Collaboration"
+    ],
+    "outcomes": [
+      "Design intentional cues that support live performance beats.",
+      "Capture and edit original Foley and atmospheres with accessible gear.",
+      "Coordinate playback using shared standby/go language with stage managers.",
+      "Document cue stacks, rehearsal notes, and collaboration reflections."
+    ],
+    "access_notes": "Built for Chromebooks and phones; provides printable cue sheets and offline rehearsal plans.",
+    "artifacts": [
+      "Cue sheet set",
+      "Rehearsal recording",
+      "Reflection journal"
+    ],
+    "lineage": [
+      "ExplorationSoundDesign",
+      "SoundSystemsSociety",
+      "Digital-Music-Control"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "design-for-printability-and-function",
+    "title": "Design for Printability & Function",
+    "level": "MS",
+    "hours": "10-week A/B blocks",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "Printability",
+      "OpenSCAD",
+      "Tolerance",
+      "Functional design",
+      "Testing"
+    ],
+    "outcomes": [
+      "Apply printability constraints during CAD planning instead of post-processing.",
+      "Prototype snap-fit assemblies with tolerance sweeps and fit gauges.",
+      "Analyze slicer parameter effects using structured strength tests.",
+      "Deliver a locking container that passes fit, drop, and shake trials."
+    ],
+    "access_notes": "Dual-licensed content plus CSV templates make LMS uploads and data collection painless.",
+    "artifacts": [
+      "Printability test artifacts",
+      "Design review deck",
+      "Capstone locking container"
+    ],
+    "lineage": [
+      "3d-printing-course-3-5",
+      "Engineering-Challenges",
+      "digital_manufacturing"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "digital-imaging-lab",
+    "title": "Digital Imaging Lab — Level 1",
+    "level": "MS-HS",
+    "hours": "12×90 min",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "Imaging",
+      "Photopea",
+      "Critical media",
+      "Glitch",
+      "Exhibition"
+    ],
+    "outcomes": [
+      "Explain pixel-based imaging concepts and manage resolution intentionally.",
+      "Capture purposeful photographs with attention to light, framing, and consent.",
+      "Edit and composite using layer-based workflows across free tools.",
+      "Curate a mini exhibition with artist statements and ethical reflections."
+    ],
+    "access_notes": "Session files include local notes blocks for hardware constraints and offline adaptation.",
+    "artifacts": [
+      "Session planning sheets",
+      "Anchor project briefs",
+      "Mini exhibition plan"
+    ],
+    "lineage": [
+      "ImagingOtherwise",
+      "MCADMedia1"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "digital-manufacturing",
+    "title": "Digital Manufacturing — Studio/Lab",
+    "level": "MS-HS",
+    "hours": "12 sessions",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "CNC",
+      "3D printing",
+      "CAM",
+      "Workflow",
+      "Posters"
+    ],
+    "outcomes": [
+      "Translate concepts into toolpaths across CNC and additive workflows.",
+      "Run guided fabrication sessions while maintaining machine safety routines.",
+      "Interpret G-code and slicer profiles to troubleshoot prints and cuts.",
+      "Document processes using provided posters, logs, and rubrics."
+    ],
+    "access_notes": "Ships with ready-to-run Cubiko G-code, Cura profiles, and printable wall posters for low-tech spaces.",
+    "artifacts": [
+      "Module lesson plans",
+      "Machine workflow posters",
+      "Student assessment forms"
+    ],
+    "lineage": [
+      "Design-for-Printability-and-Function",
+      "Engineering-Challenges"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "digital-music-control",
+    "title": "Digital Music Control — MOARkNOBS-42 Course Family",
+    "level": "Mixed",
+    "hours": "3×4-week tracks (2h weekly)",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "MIDI",
+      "Arduino",
+      "Firmware",
+      "Controllerism",
+      "Performance UX"
+    ],
+    "outcomes": [
+      "Build Arduino-based MIDI controllers through progressive labs.",
+      "Structure firmware with modular patterns and reusable classes.",
+      "Deploy USB or DIN MIDI outputs with responsive feedback systems.",
+      "Document performance UX decisions across maker and studio tracks."
+    ],
+    "access_notes": "Targets Arduino Uno-class hardware; printable packets support low-connectivity classrooms.",
+    "artifacts": [
+      "Finished MIDI controller",
+      "Firmware repository",
+      "Performance mapping worksheet"
+    ],
+    "lineage": [
+      "MCADArduinoSculpture",
+      "ExplorationSoundDesign",
+      "CTMSoundDesign"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "digital-storytelling-data-viz",
     "title": "Digital Storytelling & Data Viz",
     "level": "Undergrad",
+    "hours": "3 credits",
     "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "keywords": [
+      "Data",
+      "Story",
+      "Visualization"
+    ],
+    "outcomes": [
+      "Find narratives in public datasets and vet sources.",
+      "Sketch storyboards that pair text, visuals, and reader flows.",
+      "Prototype interactive charts with accessible annotations.",
+      "Credit collaborators and publish with alt text and metadata."
+    ],
+    "access_notes": "Relies on open data sets and emphasizes screen-reader-friendly layouts.",
+    "artifacts": [
+      "Course syllabus",
+      "Process log",
+      "Final data story"
+    ],
+    "lineage": [
+      "future-course-briefs"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "diy-local-ai-workshop",
+    "title": "DIY Local AI – Owning Your Own Model",
+    "level": "Adult",
+    "hours": "3-hour workshop",
+    "delivery": "Workshop",
+    "keywords": [
+      "Local AI",
+      "Ollama",
+      "Command line",
+      "Ethics",
+      "Autonomy"
+    ],
+    "outcomes": [
+      "Install and run a local language model using Ollama or Python scripts.",
+      "Differentiate cloud-hosted and local models when advising peers.",
+      "Wrap a model in a tiny CLI tool for summarizing or rewriting.",
+      "Articulate personal boundaries for trustworthy automation."
+    ],
+    "access_notes": "Guides assume mixed-OS cohorts and include hardware minimums plus offline PDFs.",
+    "artifacts": [
+      "Installation walkthrough",
+      "Prompt recipe deck",
+      "Local CLI tool starter"
+    ],
+    "lineage": [
+      "future-course-briefs",
+      "Digital-Music-Control"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "engineering-challenges",
+    "title": "Engineering Challenges with 3D Printed Mechanisms",
+    "level": "HS",
+    "hours": "10–12 weeks",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "Mechanisms",
+      "OpenSCAD",
+      "Testing rigs",
+      "Engineering",
+      "Iteration"
+    ],
+    "outcomes": [
+      "Design and fabricate functional mechanisms that hit measurable targets.",
+      "Use printability heuristics to reduce failed parts and wasted time.",
+      "Gather data with shared rigs and analyze performance trade-offs.",
+      "Document redesign decisions through rubrics and demo proofs."
+    ],
+    "access_notes": "Provides printable rigs, dual-fleet slicer notes, and safety checklists for mixed hardware labs.",
+    "artifacts": [
+      "Mechanism challenge brief",
+      "Test rig setup guide",
+      "Dual-fleet demo proof"
+    ],
+    "lineage": [
+      "Design-for-Printability-and-Function",
+      "digital_manufacturing"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "exploration-sound-design",
-    "title": "Exploration: Sound Design",
+    "title": "Intro to Sound Design & Engineering",
     "level": "HS",
-    "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "hours": "22×60 min",
+    "delivery": "Studio-Workshop",
+    "keywords": [
+      "Sound design",
+      "BandLab",
+      "Foley",
+      "Chromebook",
+      "Station cards"
+    ],
+    "outcomes": [
+      "Capture, edit, and mix sounds using mobile-friendly workflows.",
+      "Design Foley, synthesis, and sampling assets for original pieces.",
+      "Collaborate through station cards and daily peer critique routines.",
+      "Stage a showcase with process notes and reflection prompts."
+    ],
+    "access_notes": "Every session includes Chromebook-friendly instructions and printable station cards.",
+    "artifacts": [
+      "Syllabus",
+      "Station card set",
+      "Lesson stack"
+    ],
+    "lineage": [
+      "CTMSoundDesign",
+      "SoundSystemsSociety"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "future-course-briefs",
+    "title": "Future Course Briefs",
+    "level": "Mixed",
+    "hours": "Varies",
+    "delivery": "Briefs",
+    "keywords": [
+      "Prototyping",
+      "Course design",
+      "Briefs"
+    ],
+    "outcomes": [
+      "Outline new course ideas with clear intent and scope.",
+      "Capture initial learning outcomes and access considerations.",
+      "Seed future syllabi with artifact expectations."
+    ],
+    "access_notes": "Markdown briefs ready for expansion into full syllabi; low-tech friendly.",
+    "artifacts": [
+      "AI, Story & Society brief",
+      "Critical Making & Civic Media brief",
+      "Digital Storytelling & Data Viz brief"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "hs-drone-racing-league",
+    "title": "High School Drone Racing League Starter Kit",
+    "level": "HS",
+    "hours": "4-week bootcamp + season playbook",
+    "delivery": "Extracurricular",
+    "keywords": [
+      "FPV",
+      "Safety",
+      "Checklists",
+      "Sim training",
+      "League"
+    ],
+    "outcomes": [
+      "Launch a safe FPV program grounded in current regulations.",
+      "Train pilots through simulator drills and field exercises.",
+      "Maintain charging, field, and repair ops via shared checklists.",
+      "Customize forms and schedules for district compliance."
+    ],
+    "access_notes": "Docs favor sub-250g setups and include printable checklists for offline fields.",
+    "artifacts": [
+      "Safety and law brief",
+      "Bootcamp schedule",
+      "Pilot logbook template"
+    ],
+    "lineage": [
+      "Robotics-to-FPV-Course",
+      "TinyWhoop-Workshop"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "imaging-otherwise",
     "title": "Imaging Otherwise",
     "level": "Undergrad",
+    "hours": "15-week semester",
     "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "keywords": [
+      "Imaging",
+      "Speculation",
+      "Critical design",
+      "Assignments",
+      "Reading list"
+    ],
+    "outcomes": [
+      "Critique dominant imaging pipelines and propose alternatives.",
+      "Build speculative imaging tools and document process logs.",
+      "Synthesize readings, media, and experiments into public share-outs.",
+      "Practice access-minded studio norms and collaborative critique."
+    ],
+    "access_notes": "Syllabus foregrounds access practices and open-share documentation expectations.",
+    "artifacts": [
+      "Syllabus",
+      "Process log",
+      "Final project brief"
+    ],
+    "lineage": [
+      "MCADMedia2",
+      "digital-imaging-lab"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "mcad-arduino-sculpture",
+    "title": "MCAD Arduino Sculpture",
+    "level": "Undergrad",
+    "hours": "Semester (studio)",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "Arduino",
+      "Sculpture",
+      "Interactive",
+      "MCAD",
+      "Syllabus"
+    ],
+    "outcomes": [
+      "Blend physical sculpture with interactive Arduino-based behaviors.",
+      "Prototype responsive works with LEDs, sensors, and motion.",
+      "Document build processes for critique and exhibition.",
+      "Adopt studio policies grounded in Corita Kent's Ten Rules."
+    ],
+    "access_notes": "Local copy of syllabus with pointers to full kit in external repo for deep dives.",
+    "artifacts": [
+      "Course syllabus",
+      "Project briefs (external)",
+      "Studio policy reference"
+    ],
+    "lineage": [
+      "Digital-Music-Control",
+      "MCADMedia2"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "mcad-media1",
-    "title": "Media 1",
+    "title": "MCAD Media 1",
     "level": "Undergrad",
-    "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "hours": "15-week semester",
+    "delivery": "Studio",
+    "keywords": [
+      "Media art",
+      "Photography",
+      "Foundations",
+      "Assignments",
+      "Camera guides"
+    ],
+    "outcomes": [
+      "Guide foundation students through media explorations with structured prompts.",
+      "Support camera literacy using quick-reference cheat sheets.",
+      "Facilitate reflective writing about intent and context.",
+      "Adapt assignments for crisis-responsive teaching scenarios."
+    ],
+    "access_notes": "Mix of DOCX and PDF artifacts; include prompts for pre-day surveys and local adaptation.",
+    "artifacts": [
+      "Foundation syllabus",
+      "Camera cheat sheets",
+      "Reflection prompts"
+    ],
+    "lineage": [
+      "MCADMedia2",
+      "ImagingOtherwise"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "mcad-media2",
-    "title": "Media 2: Systems",
+    "title": "MCAD Media 2",
     "level": "Undergrad",
-    "delivery": "Studio-Seminar",
-    "updated": "2024-05-29"
+    "hours": "15-week semester",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "Media art",
+      "p5.js",
+      "Modular synth",
+      "Assignments",
+      "Experiments"
+    ],
+    "outcomes": [
+      "Extend foundation media practices into experimental coding and sound.",
+      "Guide students through unplug experiments and speculative briefs.",
+      "Teach p5.js fundamentals with annotated code explainers.",
+      "Support site-specific installations and narrative exploration."
+    ],
+    "access_notes": "Provides DOCX prompts plus code explainers for low-friction remixing.",
+    "artifacts": [
+      "Project briefs",
+      "MEDIA2 code explainers",
+      "Site-specific score"
+    ],
+    "lineage": [
+      "MCADMedia1",
+      "ImagingOtherwise"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "mps-comed",
+    "title": "MPS Community Ed Archives",
+    "level": "Community",
+    "hours": "Varies",
+    "delivery": "Workshop Series",
+    "keywords": [
+      "Community ed",
+      "Lesson plans",
+      "Archives",
+      "Docx",
+      "Planning"
+    ],
+    "outcomes": [
+      "Provide legacy lesson plans for community education cohorts.",
+      "Document daily structures and planning guides for reuse.",
+      "Inspire adaptation of archived workshops for new partners."
+    ],
+    "access_notes": "Docx archives need local editing; intended as starting points for facilitators.",
+    "artifacts": [
+      "Class descriptions",
+      "Daily planning guide"
+    ],
+    "lineage": [
+      "SMM",
+      "Syllabus root"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "robotics-hs-spikeprime",
+    "title": "Robotics with LEGO Spike Prime (High School)",
+    "level": "HS",
+    "hours": "12 hours",
+    "delivery": "Workshop",
+    "keywords": [
+      "Spike Prime",
+      "Robotics",
+      "Lego",
+      "Lesson plans",
+      "PDF"
+    ],
+    "outcomes": [
+      "Introduce Spike Prime hardware, sensors, and programming fundamentals.",
+      "Guide teams through build-test cycles within 12 instructional hours.",
+      "Provide printable teacher and student packets for rapid deployment."
+    ],
+    "access_notes": "Includes both Markdown and PDF handouts for classrooms with limited tech.",
+    "artifacts": [
+      "Course syllabus",
+      "Lesson PDFs",
+      "Instructor notes"
+    ],
+    "lineage": [
+      "Robotics-to-FPV-Course",
+      "TinyWhoop-Workshop"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "robotics-to-fpv",
+    "title": "Robotics → FPV (15 Weeks × 1.5 h)",
+    "level": "MS-HS",
+    "hours": "15×90 min",
+    "delivery": "Lab",
+    "keywords": [
+      "FPV",
+      "Arduino",
+      "LiPo",
+      "Checklists",
+      "Sim drills"
+    ],
+    "outcomes": [
+      "Bridge Arduino robotics basics into sub-250 g FPV flight.",
+      "Teach soldering, harness craft, and LiPo safety through repeated drills.",
+      "Configure, tune, and fly whoops using shared checklists and journals.",
+      "Align classroom practice with FAA TRUST guidance and local policy."
+    ],
+    "access_notes": "Provides BOMs, simulator drill cards, and printable safety placards for field days.",
+    "artifacts": [
+      "Week-by-week curriculum",
+      "Bench check checklist",
+      "Pilot logbook"
+    ],
+    "lineage": [
+      "TinyWhoop-Workshop",
+      "HS_Drone_Racing_League"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "smm",
+    "title": "SMM Workshop Archive",
+    "level": "MS",
+    "hours": "Varies",
+    "delivery": "Workshop",
+    "keywords": [
+      "Workshops",
+      "Chain reaction",
+      "Photography",
+      "Archive",
+      "Docx"
+    ],
+    "outcomes": [
+      "Offer quick-start workshops for chain reactions and digital photography.",
+      "Provide editable DOCX prompts for informal STEM settings.",
+      "Encourage remixing of legacy activities for new programs."
+    ],
+    "access_notes": "Legacy DOCX files require local conversion; ideal for instructors comfortable remixing prompts.",
+    "artifacts": [
+      "Chain reaction mini build",
+      "Digital photography brief"
+    ],
+    "lineage": [
+      "MPS_comEd",
+      "digital-imaging-lab"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   },
   {
     "course_id": "sound-systems-society",
-    "title": "Sound Systems & Society",
+    "title": "Sound / Systems / Society",
+    "level": "Undergrad",
+    "hours": "15-week semester",
+    "delivery": "Studio-Seminar",
+    "keywords": [
+      "Sound systems",
+      "Community",
+      "Listening",
+      "Assignments",
+      "Reading list"
+    ],
+    "outcomes": [
+      "Treat sound systems as civic infrastructure through critical listening.",
+      "Design small PA interventions that foreground community needs.",
+      "Maintain listening logs and process documentation for each project.",
+      "Facilitate accessible gatherings and document impact."
+    ],
+    "access_notes": "Assignments stress access practices and flexible equipment setups for varied venues.",
+    "artifacts": [
+      "Syllabus",
+      "Listening log template",
+      "Community mix project brief"
+    ],
+    "lineage": [
+      "ExplorationSoundDesign",
+      "CTMSoundDesign"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
+  },
+  {
+    "course_id": "tinywhoop-workshop",
+    "title": "Tuning Tiny Whoops: A Betaflight Configurator Workshop",
     "level": "HS",
-    "delivery": "Hybrid",
-    "updated": "2024-05-29"
+    "hours": "4×90 min",
+    "delivery": "Workshop",
+    "keywords": [
+      "Tiny whoop",
+      "Betaflight",
+      "Safety",
+      "Config",
+      "Checklists"
+    ],
+    "outcomes": [
+      "Configure and tune Betaflight-based tiny whoops safely.",
+      "Build backup habits through diff exports and SD card routines.",
+      "Dial rates and modes to achieve personal flight feel.",
+      "Document tuning changes for future flights and troubleshooting."
+    ],
+    "access_notes": "Includes printable checklists and handouts so teams can work offline at the field.",
+    "artifacts": [
+      "Syllabus",
+      "Instructor notes",
+      "Session handouts"
+    ],
+    "lineage": [
+      "Robotics-to-FPV-Course",
+      "HS_Drone_Racing_League"
+    ],
+    "version": "2024.06",
+    "updated": "2024-06-02"
   }
 ]
