@@ -818,5 +818,503 @@
     ],
     "version": "2024.06",
     "updated": "2024-06-02"
+  },
+  {
+    "course_id": "primary_scratch_game_design_animation_grades3_5",
+    "title": "Scratch Game Design + Cutscenes Lab (Grades 3–5)",
+    "level": "Elementary",
+    "hours": "12×60 min",
+    "delivery": "Studio-Lab",
+    "keywords": [
+      "Scratch",
+      "Game design",
+      "Cutscenes",
+      "Levels",
+      "Animation"
+    ],
+    "outcomes": [
+      "Build a Scratch game with a start screen, multiple levels, and a clear ending.",
+      "Use broadcasts, variables, and sprites to manage game flow and state changes.",
+      "Prototype and playtest levels, then iterate based on peer feedback.",
+      "Publish a capstone project that demonstrates level design and cutscene sequencing."
+    ],
+    "access_notes": "Designed for energetic, large classes with short demos and frequent playtesting. Runs smoother with a helper or rotating student help desk; printable handouts keep the chaos productive.",
+    "artifacts": [
+      "Published Scratch game",
+      "Session handouts",
+      "Template plan"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "secondary_lofi_beats_hs",
+    "title": "Lo-Fi Beats & Broken Rooms (High School)",
+    "level": "HS",
+    "hours": "8×90 min",
+    "delivery": "Studio-Workshop",
+    "keywords": [
+      "Lo-fi",
+      "Field recording",
+      "DAW",
+      "Soundscape",
+      "Acoustics"
+    ],
+    "outcomes": [
+      "Capture short recordings with accessible gear and organize usable clips.",
+      "Edit, chop, and loop sounds into a beat or soundscape.",
+      "Use physical rooms as effect units by re-recording for texture and reverb.",
+      "Share a short track with a title and reflection on mood and imperfection."
+    ],
+    "access_notes": "Requires headphones and a simple DAW; ideal if you can borrow stairwells, hallways, or bathrooms for re-recording. TODO: fill in local notes (rooms, platform, assessment).",
+    "artifacts": [
+      "30–60 second broken-room track",
+      "Listening reflection",
+      "Cover art or track card"
+    ],
+    "lineage": [
+      "ExplorationSoundDesign"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "secondary_stringfield_studio_hs",
+    "title": "StringField Studio: Physical Sound Drawing (High School)",
+    "level": "HS",
+    "hours": "8×90 min",
+    "delivery": "Studio-Workshop",
+    "keywords": [
+      "Gesture",
+      "String instrument",
+      "Sound drawing",
+      "Recording",
+      "Composition"
+    ],
+    "outcomes": [
+      "Experiment with pluck, bow, scrape, and touch as distinct gesture types.",
+      "Record and label gesture clips to build a shared movement vocabulary.",
+      "Arrange gesture recordings into a short composition or sound collage.",
+      "Reflect on the relationship between physical movement and what we hear or see."
+    ],
+    "access_notes": "Needs StringField rigs (or a simplified string build), a recording setup, and a room layout that supports movement. TODO: note accessibility/sensory needs for your space.",
+    "artifacts": [
+      "Gesture library",
+      "Short composition",
+      "Studio showing notes"
+    ],
+    "lineage": [
+      "ExplorationSoundDesign",
+      "SoundSystemsSociety"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "secondary_sensing_and_gesture",
+    "title": "Sensing & Gesture (College Studio/Seminar)",
+    "level": "Undergrad",
+    "hours": "14-week semester",
+    "delivery": "Studio-Seminar",
+    "keywords": [
+      "Sensing",
+      "Gesture",
+      "Wearables",
+      "Microcontrollers",
+      "Embodied systems"
+    ],
+    "outcomes": [
+      "Investigate gesture as signal, protocol, and politics through studio experiments.",
+      "Prototype sensing systems using cameras, microcontrollers, or wearables.",
+      "Connect readings to design decisions through written or oral responses.",
+      "Deliver a final piece that registers and responds to embodied action."
+    ],
+    "access_notes": "Includes instructor notes, tech tiers, and ethics guidance plus a local notes template for constraints. Bring your own hardware stack and keep consent practices explicit.",
+    "artifacts": [
+      "Prototype documentation",
+      "Reading responses",
+      "Final sensing project"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "secondary_robotic_vibes",
+    "title": "Robotics & Vibe Coding — Course Syllabi Collection",
+    "level": "MS-HS",
+    "hours": "8×120 min per level",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "Robotics",
+      "Vibe coding",
+      "LEGO Spike",
+      "Arduino",
+      "MicroPython"
+    ],
+    "outcomes": [
+      "Guide students through a structured robot build-test iteration cycle.",
+      "Choose a coding dialect (LEGO Spike, Arduino, or MicroPython) and deliver aligned lessons.",
+      "Run a small lab with safety checklists, materials tracking, and clear routines.",
+      "Document learning with teacher/student guides, rubrics, and reproducible build steps."
+    ],
+    "access_notes": "Budget-tiered BOMs and facilities checklists keep this scrappy and portable. Plan for 12 robots max unless you have extra kits and adult hands.",
+    "artifacts": [
+      "Syllabus + enrichment track",
+      "Materials and facilities checklists",
+      "Session plans and guides"
+    ],
+    "lineage": [
+      "Robotics_HS_SpikePrime"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "secondary_robotics_to_fpv_course",
+    "title": "Robotics → FPV (15 Weeks × 1.5 h)",
+    "level": "MS-HS",
+    "hours": "15×90 min",
+    "delivery": "Lab",
+    "keywords": [
+      "FPV",
+      "Arduino",
+      "Soldering",
+      "LiPo safety",
+      "Flight training"
+    ],
+    "outcomes": [
+      "Explain the FPV flight stack from ESCs and IMUs to radios and VTX links.",
+      "Execute safe soldering, LiPo handling, bench testing, and field repairs.",
+      "Progress from LOS to stabilized to acro flight using drills and checklists.",
+      "Maintain pilot logs that reflect flight data, troubleshooting, and safety choices."
+    ],
+    "access_notes": "Requires a safe flight space, charging zone, and simulator setup. TODO: align with current FAA TRUST rules and local district policies before flight days.",
+    "artifacts": [
+      "Week-by-week curriculum",
+      "Bench check and checkride checklists",
+      "Pilot logbook"
+    ],
+    "lineage": [
+      "TinyWhoop-Workshop",
+      "HS_Drone_Racing_League"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "secondary_hs_game_tech_intro",
+    "title": "HS Game & Tech Intro — Scratch + micro:bit",
+    "level": "HS",
+    "hours": "6×60 min per course",
+    "delivery": "Workshop",
+    "keywords": [
+      "Scratch",
+      "micro:bit",
+      "Intro programming",
+      "Game design",
+      "Physical computing"
+    ],
+    "outcomes": [
+      "Read and remix starter projects to learn core programming vocabulary.",
+      "Explain sprite events, conditions, and variables in Scratch game builds.",
+      "Describe inputs, outputs, sensors, and algorithms with micro:bit projects.",
+      "Complete low-stakes assignments focused on effort, completion, and reflection."
+    ],
+    "access_notes": "Designed for beginners with ready-to-paste Google Classroom posts. TODO: tailor grading expectations and tech constraints to your campus.",
+    "artifacts": [
+      "Scratch session syllabus",
+      "micro:bit session syllabus",
+      "Shared rubric"
+    ],
+    "lineage": [
+      "Scratch-Game-Design-Animation_Grades3-5"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "post_secondary_advanced_digifab_lab_multimaterial_scanning_gcode",
+    "title": "Advanced Digital Fabrication Lab — Multi-Material, Scanning & G-code Hacks",
+    "level": "HS",
+    "hours": "14–16 week semester",
+    "delivery": "Lab",
+    "keywords": [
+      "Multi-material",
+      "3D scanning",
+      "G-code",
+      "Lab operations",
+      "Capstone"
+    ],
+    "outcomes": [
+      "Operate a multi-printer lab with safe queue and maintenance routines.",
+      "Run multi-material workflows including manual swaps and soluble supports.",
+      "Capture and clean 3D scans for hybrid CAD workflows.",
+      "Author and test G-code edits, documenting impacts in a portfolio."
+    ],
+    "access_notes": "Best with multiple printers, checklists, and calibration artifacts. Includes vendor presets and printable logs for labs that need low-tech resilience.",
+    "artifacts": [
+      "Capstone portfolio",
+      "Maintenance and QC logs",
+      "G-code hack demos"
+    ],
+    "lineage": [
+      "Design-for-Printability-and-Function",
+      "digital_manufacturing"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "post_secondary_swarm_aesthetics",
+    "title": "Swarm Aesthetics: Perceptual Drift Studio",
+    "level": "Undergrad",
+    "hours": "14-week semester",
+    "delivery": "Studio-Seminar",
+    "keywords": [
+      "Swarm aesthetics",
+      "Perception",
+      "Studio",
+      "Assignments",
+      "Readings"
+    ],
+    "outcomes": [
+      "Organize a studio arc using the provided schedule and session stubs.",
+      "Develop assignments and critiques that frame perceptual drift as a design lens.",
+      "Anchor studio work in reading clusters and instructor notes.",
+      "Document course evolution for future iterations."
+    ],
+    "access_notes": "This repo is a skeleton. TODO: expand outcomes using COURSE_DESCRIPTION.md and fill in local notes, tech tiers, and assessment specifics.",
+    "artifacts": [
+      "Course description draft",
+      "Week-by-week schedule",
+      "Session stubs"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "post_secondary_tms_limiter_workshop",
+    "title": "TMS Limiter Workshop",
+    "level": "Undergrad",
+    "hours": "Workshop (duration TBD)",
+    "delivery": "Workshop",
+    "keywords": [
+      "Audio",
+      "Limiter",
+      "Dynamics",
+      "Workshop",
+      "Signal flow"
+    ],
+    "outcomes": [
+      "Introduce limiter fundamentals through guided demos and hands-on examples.",
+      "Compare limiter behaviors using provided docs and example materials.",
+      "Document listening notes for future session refinement."
+    ],
+    "access_notes": "README missing. TODO: confirm intent, duration, and outcomes from local docs and add access guidance.",
+    "artifacts": [
+      "Workshop slides",
+      "Example materials",
+      "Listening notes"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "post_secondary_diy_instrument_lab",
+    "title": "DIY Instrument Lab (College, 14 Weeks)",
+    "level": "Undergrad",
+    "hours": "14-week semester",
+    "delivery": "Studio-Seminar",
+    "keywords": [
+      "Instrument building",
+      "Contact mics",
+      "Circuits",
+      "Sensors",
+      "Sound politics"
+    ],
+    "outcomes": [
+      "Design and build original instruments using found objects and electronics.",
+      "Experiment with contact mics, analog circuits, and microcontroller controllers.",
+      "Connect instrumentality and labor readings to design decisions.",
+      "Document builds and performances with process notes and reflections."
+    ],
+    "access_notes": "Course can be tuned up for advanced electronics or down for low-tech sculptural builds; instructor notes include safety and contingency planning.",
+    "artifacts": [
+      "Student-built instrument",
+      "Process documentation",
+      "Reading responses"
+    ],
+    "lineage": [
+      "SoundSystemsSociety"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "ae_crushing_time_lab",
+    "title": "Crushing Time Lab (AE Modular Breadboard)",
+    "level": "Adult",
+    "hours": "2×90–120 min",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "AE Modular",
+      "Bit-crusher",
+      "Breadboard",
+      "CMOS",
+      "Audio circuits"
+    ],
+    "outcomes": [
+      "Build a voltage-controlled sample-rate reducer on the AE BRAEDBOARD.",
+      "Wire Vref biasing, clock generation, and sample/hold stages with checkpoints.",
+      "Patch dry and crushed signals while experimenting with CV control.",
+      "Troubleshoot common failure modes using provided guides."
+    ],
+    "access_notes": "Designed for fast, resilient bench work; requires AE Modular BRAEDBOARD kits and parts list in the repo.",
+    "artifacts": [
+      "Working crusher circuit",
+      "Troubleshooting log",
+      "Performance patch notes"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "ae_gates_from_gravity",
+    "title": "Gates from Gravity",
+    "level": "Adult",
+    "hours": "2×90–120 min",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "AE Modular",
+      "Comparator",
+      "Window comparator",
+      "Gates",
+      "CMOS"
+    ],
+    "outcomes": [
+      "Build a window comparator that turns control voltage into musical gates.",
+      "Use op-amps and logic cleanup to stabilize threshold decisions.",
+      "Patch the comparator as a playable instrument for rhythmic control.",
+      "Document threshold choices and musical outcomes."
+    ],
+    "access_notes": "Requires AE BRAEDBOARD hardware and basic CMOS parts (MCP602, CD40106).",
+    "artifacts": [
+      "Window comparator build",
+      "Patch recipes",
+      "Threshold test notes"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "ae_switch_orchard",
+    "title": "Switch Orchard",
+    "level": "Adult",
+    "hours": "2×90–120 min",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "AE Modular",
+      "Routing",
+      "Analog switch",
+      "Sequencing",
+      "CD4051"
+    ],
+    "outcomes": [
+      "Build a patchable routing module centered on the CD4051 analog switch.",
+      "Compare manual selection vs. scanned routing with optional clock logic.",
+      "Translate routing choices into musical form and variation.",
+      "Document wiring variations and patch experiments."
+    ],
+    "access_notes": "Two-mode workshop that scales from minimal IC count to full scanner mode; bring extra breadboard time for debugging.",
+    "artifacts": [
+      "Routing module",
+      "Patch notes",
+      "Build checklist"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "ae_choir_divider",
+    "title": "Choir Divider",
+    "level": "Adult",
+    "hours": "2×90–120 min",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "AE Modular",
+      "Clock division",
+      "CD4017",
+      "Rhythm",
+      "Logic"
+    ],
+    "outcomes": [
+      "Build a CMOS clock divider that turns one pulse into multiple rhythmic voices.",
+      "Demonstrate counting and division using LED step proofs.",
+      "Patch divider outputs into polyrhythms and rhythmic masks.",
+      "Reflect on how state and counting become musical structure."
+    ],
+    "access_notes": "Optional internal clock uses NE555; external AE clock works too. Allow extra time for pulse conditioning if students are new to CMOS logic.",
+    "artifacts": [
+      "Clock divider build",
+      "Patch recipes",
+      "Session reflection"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
+  },
+  {
+    "course_id": "ae_fold_and_fire",
+    "title": "Fold & Fire",
+    "level": "Adult",
+    "hours": "2×90–120 min",
+    "delivery": "Lab-Workshop",
+    "keywords": [
+      "AE Modular",
+      "Wave shaping",
+      "Distortion",
+      "Op-amp",
+      "Schmitt trigger"
+    ],
+    "outcomes": [
+      "Build a single-supply distortion circuit with biasing and gain staging.",
+      "Experiment with diode clipping and asymmetry to shape harmonics.",
+      "Derive gate outputs from distorted waveforms using a Schmitt trigger.",
+      "Document sonic differences and patch uses for control signals."
+    ],
+    "access_notes": "Requires MCP602 and optional CD40106; include a quick primer on Vref and single-supply audio so the build stays punk but safe.",
+    "artifacts": [
+      "Distortion circuit",
+      "Gate output demo",
+      "Sound/pitch notes"
+    ],
+    "lineage": [
+      "Syllabus root"
+    ],
+    "version": "2025.12",
+    "updated": "2025-12-27"
   }
 ]
