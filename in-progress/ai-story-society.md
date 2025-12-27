@@ -17,6 +17,22 @@ version: "v0.1"
 updated: "2024-05-29"
 ---
 
+## Snapshot
+**Working title:** AI, Story & Society  
+**Intended level:** POST_SECONDARY  
+**Estimated hours:** 45 (3 credits)  
+**Learning outcomes:**
+- Interrogate AI narratives in culture and policy.
+- Co-write with models and document the collaboration.
+- Map societal impacts across labor, bias, and power.
+- Cite machine collaborators and data sources with care.
+
+**What’s missing:**
+- [ ] Week-by-week schedule
+- [ ] Assignment briefs + deliverables
+- [ ] Assessment rubric
+- [ ] Tooling/access plan
+
 ## Why
 Because AI writes with or without us; let's steer the pen.
 
