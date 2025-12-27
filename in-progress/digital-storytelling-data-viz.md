@@ -17,6 +17,22 @@ version: "v0.1"
 updated: "2024-05-29"
 ---
 
+## Snapshot
+**Working title:** Digital Storytelling & Data Viz  
+**Intended level:** POST_SECONDARY  
+**Estimated hours:** 45 (3 credits)  
+**Learning outcomes:**
+- Find stories in datasets and frame their stakes.
+- Sketch visual narratives that guide reader attention.
+- Prototype interactive charts with accessible defaults.
+- Credit sources clearly and track data provenance.
+
+**What’s missing:**
+- [ ] Week-by-week schedule
+- [ ] Assignment briefs + deliverables
+- [ ] Assessment rubric
+- [ ] Dataset sourcing plan
+
 ## Why
 Numbers have drama; let's stage it.
 

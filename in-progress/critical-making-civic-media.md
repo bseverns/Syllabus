@@ -17,6 +17,22 @@ version: "v0.1"
 updated: "2024-05-29"
 ---
 
+## Snapshot
+**Working title:** Critical Making & Civic Media  
+**Intended level:** POST_SECONDARY  
+**Estimated hours:** 45 (3 credits)  
+**Learning outcomes:**
+- Hack public narratives with tactical media prototypes.
+- Prototype civic tools that serve real community needs.
+- Analyze media power, bias, and institutional friction.
+- Document builds so others can replicate and remix.
+
+**What’s missing:**
+- [ ] Week-by-week schedule
+- [ ] Assignment briefs + deliverables
+- [ ] Assessment rubric
+- [ ] Partner onboarding checklist
+
 ## Why
 Make media that pokes the bear and invites neighbors.
 
