@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "device": {
+    "name": "MyController",
+    "midi_channel": 1
+  },
+  "knobs": {
+    "count": 8,
+    "mapping": {
+      "curve": "expo",
+      "deadband": 3,
+      "smoothing_alpha": 0.12
+    }
+  },
+  "buttons": {
+    "double_click_ms": 320,
+    "long_press_ms": 800
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Foundations of Signals and Systems \u2014 a DSP on-ramp",
+  "duration_weeks": 12,
+  "level": [
+    "advanced_high_school",
+    "undergraduate"
+  ],
+  "tags": [
+    "dsp",
+    "signals",
+    "systems",
+    "audio",
+    "python",
+    "jupyter"
+  ],
+  "folders": [
+    "syllabus",
+    "sessions",
+    "labs",
+    "assignments",
+    "project",
+    "setup",
+    "scripts",
+    "resources"
+  ]
+}

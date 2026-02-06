@@ -1,0 +1,21 @@
+{
+  "title": "Digital Tools and Platforms \u2014 microcontrollers as creative material",
+  "duration_weeks": 12,
+  "level": [
+    "advanced_high_school",
+    "undergraduate"
+  ],
+  "tags": [
+    "embedded",
+    "microcontrollers",
+    "serial",
+    "midi",
+    "hardware",
+    "hci"
+  ],
+  "primary_tools": [
+    "Arduino IDE",
+    "Python",
+    "Jupyter"
+  ]
+}

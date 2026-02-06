@@ -1,0 +1,27 @@
+{
+  "title": "Interfaces, Mapping, and Protocols \u2014 turning gestures into meaning",
+  "duration_weeks": 12,
+  "level": [
+    "advanced_high_school",
+    "undergraduate"
+  ],
+  "tags": [
+    "midi",
+    "osc",
+    "serial",
+    "mapping",
+    "interaction_design",
+    "embedded"
+  ],
+  "primary_tools": [
+    "Arduino IDE",
+    "Python",
+    "Jupyter"
+  ],
+  "optional_tools": [
+    "TouchDesigner",
+    "Max",
+    "SuperCollider",
+    "WebSerial"
+  ]
+}

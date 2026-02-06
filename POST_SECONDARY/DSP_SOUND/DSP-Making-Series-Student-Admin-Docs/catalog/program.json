@@ -1,0 +1,48 @@
+{
+  "title": "DSP / Digital Making Series",
+  "modules": [
+    {
+      "n": 1,
+      "title": "Foundations of Signals and Systems"
+    },
+    {
+      "n": 2,
+      "title": "Introduction to Digital Tools and Platforms"
+    },
+    {
+      "n": 3,
+      "title": "Digital Signal Processing Essentials"
+    },
+    {
+      "n": 4,
+      "title": "Building Instruments and Interfaces"
+    },
+    {
+      "n": 5,
+      "title": "Systems Thinking & Modularity"
+    },
+    {
+      "n": 6,
+      "title": "Creative Applications & Composition"
+    },
+    {
+      "n": 7,
+      "title": "Ethics, Accessibility, and Long-Term Thinking"
+    },
+    {
+      "n": 8,
+      "title": "Capstone Projects"
+    }
+  ],
+  "audience": [
+    "advanced_high_school",
+    "undergraduate",
+    "community_lab"
+  ],
+  "core_principles": [
+    "build-measure-listen-document-improve",
+    "lane-flexible",
+    "evidence-based assessment"
+  ],
+  "date_generated": "2026-02-05"
+}

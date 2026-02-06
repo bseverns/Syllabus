@@ -1,0 +1,13 @@
+# Responsibility Pack (final)
+
+Include links to:
+- PROMISE
+- CONSENT_AND_DATA
+- ACCESSIBILITY_AUDIT + change evidence
+- TRANSPARENCY_AUDIT
+- REPAIRABILITY_AUDIT + maintenance plan
+- LIFECYCLE_NOTE
+- LICENSING_PLAN + CREDITS + third-party notices
+- QUICK_START + TROUBLESHOOTING + diagram
+- CONTRIBUTION_NOTE
+- CHANGELOG + POSTMORTEM

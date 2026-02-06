@@ -1,0 +1,25 @@
+{
+  "title": "Capstone: Instrument + Systems Studio",
+  "duration_weeks": 12,
+  "track": "single_studio",
+  "optional_lanes": [
+    "instrument",
+    "plugin",
+    "installation",
+    "curricula",
+    "release"
+  ],
+  "level": [
+    "advanced_high_school",
+    "undergraduate"
+  ],
+  "tags": [
+    "capstone",
+    "systems",
+    "midi",
+    "audio",
+    "embedded",
+    "documentation",
+    "release"
+  ]
+}

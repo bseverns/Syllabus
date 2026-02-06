@@ -1,0 +1,26 @@
+{
+  "title": "Embedded Systems + Real-Time Instruments",
+  "duration_weeks": 12,
+  "level": [
+    "advanced_high_school",
+    "undergraduate"
+  ],
+  "tags": [
+    "embedded",
+    "real_time",
+    "firmware",
+    "midi_controller",
+    "scheduling",
+    "state_machine",
+    "persistence"
+  ],
+  "primary_tools": [
+    "Arduino IDE",
+    "Python",
+    "Jupyter"
+  ],
+  "recommended_hw": [
+    "Teensy 4.x",
+    "Arduino-class MCU"
+  ]
+}

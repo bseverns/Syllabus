@@ -1,0 +1,23 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Device Config (WebSerial)</title>
+<style>body{font-family:system-ui,sans-serif;margin:24px;max-width:900px}textarea{width:100%;height:220px}button{padding:10px 14px}pre{background:#f3f3f3;padding:12px;overflow:auto}</style>
+</head><body>
+<h1>Device Config (WebSerial)</h1>
+<p>Send <code>INFO</code> or <code>CFG:&lt;json&gt;</code> to firmware implementing the week10 protocol.</p>
+<p><button id="connect">Connect</button> <button id="info">INFO</button> <button id="send">Send CFG</button></p>
+<textarea id="cfg">{ "version": 1, "device": {"name":"MyController","midi_channel":1} }</textarea>
+<pre id="log"></pre>
+<script>
+let port, reader, writer; const logEl=document.getElementById('log');
+const log=(s)=>{logEl.textContent+=s+"\n"; logEl.scrollTop=logEl.scrollHeight;};
+async function connect(){port=await navigator.serial.requestPort(); await port.open({baudRate:115200});
+writer=port.writable.getWriter(); reader=port.readable.getReader(); log("CONNECTED"); readLoop();}
+async function readLoop(){const dec=new TextDecoder(); let buf="";
+while(true){const {value,done}=await reader.read(); if(done)break; buf+=dec.decode(value);
+const lines=buf.split(/\r?\n/); buf=lines.pop(); for(const ln of lines) log("RX: "+ln);}}
+async function sendLine(line){const enc=new TextEncoder(); await writer.write(enc.encode(line+"\n")); log("TX: "+line);}
+document.getElementById('connect').onclick=connect;
+document.getElementById('info').onclick=()=>sendLine("INFO");
+document.getElementById('send').onclick=()=>sendLine("CFG:"+document.getElementById('cfg').value.trim());
+</script></body></html>
