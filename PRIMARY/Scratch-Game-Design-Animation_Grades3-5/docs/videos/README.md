@@ -12,7 +12,7 @@ These short videos are designed to keep the room moving: **2–5 minutes**, one 
 ## Video list
 | # | File | Length | Used in session | What it unlocks |
 |---|------|--------|-----------------|-----------------|
-| 00 | `Video_00_Piper_GPIO_Keyboard.md` | ~4:00 | Session 1 (setup) | Mouse-only → working controls |
+| 00 | `Video_00_Piper_GPIO_Keyboard.md` | ~3:30 | Session 1 (setup) | DIY keyboard + control test |
 | 01 | `Video_01_Welcome_Studio_Culture.md` | ~3:30 | Session 1 | Studio norms + story boundaries |
 | 02 | `Video_02_Scratch_Basics_Save.md` | ~4:00 | Session 1 | Navigation + save ritual |
 | 03 | `Video_03_Controls_Freeze_Unfreeze.md` | ~4:30 | Session 3 | Player controls + cutscene-safe controls |

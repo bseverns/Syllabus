@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.4 (draft)
+- Added Piper GPIO keyboard “start from 0” pathway (Handout 00 + Session 01 rewrite)
+- Added `docs/` (video pack + assessment) to align with the 12-week version
+
 ## v0.3 (draft)
 - Updated one-pager and school-facing syllabus with Studio Culture + Story Content guidance
 

@@ -3,6 +3,9 @@
 This file standardizes **titles, thumbnails, and on-screen chapter captions** so the video set feels like one coherent season.
 
 ## Naming convention
+
+> **Note:** If you record the optional setup video for building a Piper GPIO keyboard, label it **W00**.
+
 **Video title format (YouTube / LMS / file):**  
 `Scratch Game Studio — W##_ <Topic>`
 
@@ -34,9 +37,3 @@ HOOK → GOAL → BUILD → COMMON BUG → PAUSE & BUILD → SAVE
 ## Lower-third caption cards
 Each video script includes a **Lower-third captions for BUILD** section.  
 These are one-line caption cards you can paste into your editor as on-screen text cues.
-
-
-## Optional setup episode (Week 0)
-If students don’t have a keyboard, record a short setup episode:
-- **W00: Build Your Keyboard (Piper + GPIO)**
-- Goal: mouse-only start → working LEFT/RIGHT/UP/DOWN/SPACE keys

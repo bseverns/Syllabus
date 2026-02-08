@@ -7,6 +7,7 @@ This folder is designed to drop into a syllabus repository as a self-contained c
 - A detailed **instructor play-by-play** (minute-by-minute session plans)
 - **Handouts** for at least 6 sessions (printable Markdown)
 - A **template plan** (project architecture + naming + broadcast map)
+- Optional: `docs/` — **video scripts** + **assessment** pack
 
 ## Quick links
 - School-facing syllabus: `01_School-Facing/Syllabus_SchoolFacing.md`

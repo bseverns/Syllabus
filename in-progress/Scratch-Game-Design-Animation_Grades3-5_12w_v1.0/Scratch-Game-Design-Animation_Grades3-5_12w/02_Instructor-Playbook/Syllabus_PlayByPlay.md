@@ -61,8 +61,9 @@ Students leave with a game that includes:
 
 ## Teacher prep (before Week 1)
 1. Confirm devices can open Scratch and save projects.
+   - If using Piper kits without keyboards: plan a Week 1 setup sprint to build a GPIO keyboard using the Piper app (mouse-only start).
 2. Decide account strategy (individual logins vs class studio).
-3. Print the 6 core handouts in `03_Handouts/`.
+3. Print Handout 00 (Piper Keyboard Build) plus the 6 core handouts in `03_Handouts/`.
 4. Create (or rehearse) a minimal **starter template** concept:
    - variables: `level`, `score`, `lives`, `controlsOn`
    - broadcasts: `start game`, `freeze`, `unfreeze`, `level complete`, `reset`, `game over`

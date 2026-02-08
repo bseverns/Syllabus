@@ -19,7 +19,7 @@ Students leave with a game that includes:
 
 ### The weekly rhythm (same every week)
 **0:00–0:05 | Launch Circle**
-- “Eyes on me — hands off keys.”
+- “Eyes on me — hands off controls.”
 - Today’s mission: one sentence.
 - 1-minute demo of the *exact* thing they will build.
 
@@ -60,6 +60,7 @@ Students leave with a game that includes:
 ---
 
 ## Teacher prep (before Week 1)
+0. If your room starts **without keyboards**, plan the Session 1 Piper GPIO keyboard build (see `03_Handouts/Handout_00_Piper_Keyboard_Build.md`).
 1. Confirm devices can open Scratch and save projects.
 2. Decide account strategy (individual logins vs class studio).
 3. Print the 6 core handouts in `03_Handouts/`.
