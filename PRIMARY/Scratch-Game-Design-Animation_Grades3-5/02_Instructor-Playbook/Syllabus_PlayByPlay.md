@@ -60,7 +60,8 @@ Students leave with a game that includes:
 ---
 
 ## Teacher prep (before Week 1)
-0. If your room starts **without keyboards**, plan the Session 1 Piper GPIO keyboard build (see `03_Handouts/Handout_00_Piper_Keyboard_Build.md`).
+0. If you have Piper kits, plan Session 1 as a Piper StoryMode controller build (Mars → Cheeseteroid) (see `03_Handouts/Handout_00A_Piper_StoryMode_Mars_Cheeseteroid.md`).
+   - If your room starts **without keyboards** and you want Scratch to have physical keys, use the optional GPIO keyboard build (see `03_Handouts/Handout_00_Piper_Keyboard_Build.md`).
 1. Confirm devices can open Scratch and save projects.
 2. Decide account strategy (individual logins vs class studio).
 3. Print the 6 core handouts in `03_Handouts/`.

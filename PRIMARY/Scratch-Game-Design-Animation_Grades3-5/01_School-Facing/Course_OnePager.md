@@ -8,6 +8,9 @@ A playable Scratch game with:
 - 1+ cutscene (animated story moment between levels)
 - score or goal, obstacles, and an ending
 
+## Optional hardware on-ramp
+If kits are available, students can start by building a simple **motion controller** with GPIO (Piper StoryMode). This makes “inputs → actions” concrete before we build controls in Scratch.
+
 ## Skills students learn
 - Core coding blocks: events, loops, conditionals, variables
 - Animation: costumes, timing, show/hide, effects

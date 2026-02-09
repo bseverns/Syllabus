@@ -18,6 +18,8 @@ Students will:
 
 The course emphasizes creativity, clarity, and persistence. Students learn to “think like designers,” making choices about how players move, what challenges mean, and how to communicate instructions.
 
+Optional hardware on-ramp (if kits are available): students begin by building a simple **motion controller** with GPIO (Piper StoryMode) to learn how inputs become actions.
+
 
 ---
 

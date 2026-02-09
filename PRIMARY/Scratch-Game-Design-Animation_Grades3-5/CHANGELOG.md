@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-02-08
+- Added Piper StoryMode Session 01 (Mars → Cheeseteroid) controller build (Handout 00A + Video 00).
+- Kept GPIO Keyboard build as optional (Video 00B) for keyboardless Scratch control extensions.
+
+
 ## v0.4 (draft)
 - Added Piper GPIO keyboard “start from 0” pathway (Handout 00 + Session 01 rewrite)
 - Added `docs/` (video pack + assessment) to align with the 12-week version

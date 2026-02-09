@@ -4,7 +4,7 @@ This file standardizes **titles, thumbnails, and on-screen chapter captions** so
 
 ## Naming convention
 
-> **Note:** If you record the optional setup video for building a Piper GPIO keyboard, label it **W00**.
+> **Note:** If you record the setup videos for Piper, label them **W00** (StoryMode) and **W00B** (optional GPIO keyboard).
 
 **Video title format (YouTube / LMS / file):**  
 `Scratch Game Studio — W##_ <Topic>`
