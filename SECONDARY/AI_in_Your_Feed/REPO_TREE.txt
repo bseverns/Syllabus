@@ -1,0 +1,21 @@
+AI_in_Your_Feed_Northside_Course_Repo/
+  COURSE_OVERVIEW.md
+  FACILITATOR_GUIDE.md
+  README.md
+  ASSESSMENT/
+    Exit_Ticket_Prompts.md
+    Portfolio_and_Feedback_Rubric.md
+  COMMUNITY/
+    Family_Program_Description.md
+    Implementation_Notes.md
+  HANDOUTS/
+    AI_Survival_and_Creation_Guide.md
+    Community_Agreements.md
+    Prompt_Cards.md
+  SESSIONS/
+    Session_1_Meet_Your_AI.md
+    Session_2_AI_in_Action_Games_and_Creativity.md
+    Session_3_Spot_the_Bias_and_Verify.md
+    Session_4_Privacy_Safety_and_Showoff.md
+  TOOLS/
+    Recommended_Tool_Stack.md

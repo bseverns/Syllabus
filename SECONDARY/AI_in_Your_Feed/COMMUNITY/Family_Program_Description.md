@@ -1,0 +1,3 @@
+# Family Program Description
+
+**AI in Your Feed: Create, Explore, Protect** is a hands-on class for high school students to explore how AI shows up in music, images, games, social media, and everyday online life. Students will try creative AI tools, make small projects, and learn how to improve their results through revision and experimentation. Along the way, they will also talk about bias, misinformation, privacy, and how to stay safe when using new digital tools. The class treats students as creators and critical thinkers, not just consumers of technology. By the end, each student will leave with a small project and a practical guide for using AI with more care, confidence, and control.
