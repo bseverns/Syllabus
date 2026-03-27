@@ -1,0 +1,12 @@
+{
+  "course_title": "AI at Work: Tools, Judgment, and Professional Practice",
+  "subtitle": "A 6-week workforce studio for high school students preparing for professional settings",
+  "duration_weeks": 6,
+  "days_per_week": 4,
+  "session_hours": 2,
+  "total_sessions": 24,
+  "total_hours": 48,
+  "audience": "High school students preparing for professional settings",
+  "partner_context": "Genesys Works / GenSys Works aligned workforce readiness",
+  "license": "MIT"
+}
