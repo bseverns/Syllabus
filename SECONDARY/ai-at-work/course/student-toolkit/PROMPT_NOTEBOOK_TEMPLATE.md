@@ -22,3 +22,6 @@ What did I change?
 
 ### Final lesson
 What should I remember for next time?
+
+### Microsoft Learn connection
+Which concept or term from the study pathway does this prompt connect to?

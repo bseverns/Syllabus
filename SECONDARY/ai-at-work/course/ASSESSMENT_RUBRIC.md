@@ -1,7 +1,7 @@
 # Assessment Rubric
 
 ## Assessment model
-Competency-based, portfolio-driven, and practical.
+Competency-based, portfolio-driven, practical, and hybrid-aware.
 
 ## Categories
 
@@ -10,7 +10,7 @@ Competency-based, portfolio-driven, and practical.
 - Can repeat vocabulary but struggles to explain what tools do
 
 **Developing**
-- Can explain basic differences between search, chat, and generation
+- Can explain basic differences between search, chat, machine learning, and generation
 
 **Proficient**
 - Clearly explains how AI tools function at a practical level and where they are limited
@@ -70,10 +70,25 @@ Competency-based, portfolio-driven, and practical.
 **Strong**
 - Can explain, improve, and transfer a workflow to new situations
 
+### 6. Credential-readiness habits
+**Emerging**
+- Rarely completes Microsoft Learn notes or remote checkpoints
+
+**Developing**
+- Completes some study tasks but inconsistently tracks understanding
+
+**Proficient**
+- Completes Microsoft Learn tasks, tracks vocabulary, and uses review tools productively
+
+**Strong**
+- Connects Microsoft Learn concepts back to workplace practice and can explain why they matter
+
 ## Evidence sources
 - folder checks
 - prompt notebook
 - revision artifacts
 - scenario outputs
 - reflection notes
+- Microsoft Learn progress tracker
+- study / vocabulary log
 - final capstone and presentation

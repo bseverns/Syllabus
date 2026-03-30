@@ -16,3 +16,4 @@
 - human review
 - uncertainty
 - accountability
+- how certification language does not cancel privacy rules

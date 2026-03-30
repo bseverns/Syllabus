@@ -9,4 +9,5 @@
 ## Problems I know how to solve
 ## Times I helped a team
 ## Responsibilities I have handled
+## Certifications or learning pathways I am exploring
 ## What kind of work I want to grow toward

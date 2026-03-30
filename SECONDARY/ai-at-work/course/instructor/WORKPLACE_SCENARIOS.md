@@ -16,3 +16,4 @@ Each scenario should include:
 - at least one ambiguity
 - a privacy or professionalism decision point
 - a required final product
+- one concept term students can connect back to Microsoft Learn

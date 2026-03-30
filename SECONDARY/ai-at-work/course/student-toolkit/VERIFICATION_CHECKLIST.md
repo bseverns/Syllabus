@@ -10,3 +10,4 @@ Before using AI output in real work, check:
 - Did I remove anything private, sensitive, or inappropriate?
 - Would I be comfortable putting my name on this?
 - Does a human need to review this before it is used?
+- Can I explain which AI concept this task actually used?

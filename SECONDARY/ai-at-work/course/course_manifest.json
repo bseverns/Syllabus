@@ -1,12 +1,19 @@
 {
-  "course_title": "AI at Work: Tools, Judgment, and Professional Practice",
-  "subtitle": "A 6-week workforce studio for high school students preparing for professional settings",
+  "course_title": "AI at Work with Microsoft Learn: Tools, Judgment, and Professional Practice",
+  "subtitle": "A 6-week hybrid workforce studio for high school students preparing for professional settings",
   "duration_weeks": 6,
   "days_per_week": 4,
   "session_hours": 2,
   "total_sessions": 24,
   "total_hours": 48,
+  "weekly_pattern": [
+    "in-person",
+    "distance-learning",
+    "in-person",
+    "distance-learning"
+  ],
   "audience": "High school students preparing for professional settings",
-  "partner_context": "Genesys Works / GenSys Works aligned workforce readiness",
+  "partner_context": "GenSys Works workforce readiness",
+  "credential_focus": "Microsoft Azure AI Fundamentals (AI-900) alignment",
   "license": "MIT"
 }

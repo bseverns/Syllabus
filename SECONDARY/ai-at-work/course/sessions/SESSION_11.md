@@ -1,56 +1,62 @@
-# Session 11: Professional Judgment and Escalation
+# Session 11: Vision, Language, Translation, and Transcription at Work
+
+## Mode
+**In-person**
+
+## Week
+Week 3
 
 ## Session focus
-Students decide when AI is enough and when a human must review.
+Students explore computer vision and language-processing tasks through realistic workplace examples such as transcription, translation, tagging, and document understanding.
 
 ## Learning targets
-- 
-- 
-- 
+- Distinguish vision and language workloads
+- Match tasks to likely AI workload types
+- Discuss where these tools help and where they fail
+
+## Microsoft alignment
+Computer vision and NLP concepts
 
 ## Materials
 - device and internet access
 - shared docs or LMS
 - notebook or reflection sheet
-- selected source materials for comparison
+- Microsoft Learn access or teacher-posted module links
+- course toolkit templates
 
 ## Session flow (2 hours)
-### 1. Opening / warm-up (15-20 min)
-Suggested opener:
-- quick-write or pair-share
-- revisit prior vocabulary
-- connect today's concept to real workplace use
-
+### 1. Opening / warm-up (15 min)
+- retrieval practice from the previous session
+- review 2-3 student bridge-note themes
+- name today's workplace connection
 ### 2. Mini-lesson / model (20 min)
-Facilitator models:
-- concept explanation
-- one strong and one weak example
-- visible thinking around risk, revision, or decision-making
-
-### 3. Lab / practice (45-50 min)
-Students:
-- complete the main task
-- document prompts used
-- save versions of their work
-- compare outputs and revisions
-
-### 4. Debrief / revision (20 min)
-- what worked
-- what failed
-- what still needed a human
-- what to save into the toolkit
-
-### 5. Reflection / exit (10 min)
-Prompt:
-- What did I learn today that feels useful outside this room?
+- explain the core concept in plain language
+- show one strong and one weak example
+- connect the idea to the Microsoft Learn vocabulary thread
+### 3. Guided practice (20 min)
+- complete a short whole-class or partner task
+- surface misconceptions early
+- make the verification process visible
+### 4. Lab / studio (45 min)
+- produce the main artifact
+- document prompts and revisions
+- save versions using the course naming rules
+### 5. Debrief / bridge setup (20 min)
+- name what worked and what failed
+- identify where human judgment still mattered
+- preview the next distance-learning task
 
 ## Suggested artifact
-- one saved document or template update
-- one reflection note
-- one prompt or revision example
+- scenario sort + notes
+- one reflection note or bridge note
+- one saved versioned file
+
+## Continuity note
+This session should visibly connect to the previous one and feed the next one. Do not let the artifact disappear after completion; it should travel into the student's toolkit or review folder.
 
 ## Facilitator notes
 - keep the pace steady
 - make quality visible
 - reward revision
 - call attention to hidden workplace rules when they appear
+- name where the Microsoft concept is useful in real work rather than as isolated trivia

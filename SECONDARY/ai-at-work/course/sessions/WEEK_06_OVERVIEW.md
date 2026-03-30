@@ -1,14 +1,13 @@
-# Week 6 Overview
+# Week 06 Overview
 
 ## Theme
-Personal system build and capstone
+Personal toolkit, mock review, capstone, and transition forward
 
 ## Main question
-What reusable workflow am I ready to carry into future work?
+What system have I built that I can actually carry into future work, study, or certification?
 
 ## Student outputs by end of week
-- organized toolkit folder
-- polished template pack
-- final workflow artifact
-- capstone presentation
-- next-steps reflection
+- capstone toolkit
+- mock review evidence
+- presentation
+- next-step plan

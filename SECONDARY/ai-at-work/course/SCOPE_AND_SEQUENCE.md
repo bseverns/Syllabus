@@ -4,66 +4,42 @@
 - 24 sessions
 - 2 hours each
 - 48 total hours
+- 6 weeks
+- weekly rhythm: in-person / distance-learning / in-person / distance-learning
 
-## Session rhythm (recommended)
-- 20 min opening / mini-lesson
+## Session rhythms (recommended)
+
+### In-person day rhythm
+- 15 min opening / retrieval practice
+- 20 min mini-lesson
 - 20 min modeled example
-- 50 min lab or simulation
-- 20 min revision / cleanup
-- 10 min reflection and documentation
+- 45 min lab or simulation
+- 10 min artifact save + versioning
+- 10 min reflection / bridge setup
+
+### Distance-learning day rhythm
+- 10 min launch checklist
+- 40 min Microsoft Learn or assigned module work
+- 25 min guided notes / glossary / vocabulary log
+- 25 min applied artifact or short task
+- 10 min bridge note / upload / exit check
 
 ## Weekly sequence
 
-### Week 1 — Systems, files, and AI basics
-**Weekly goal:** Students understand what AI is, what it is not, and how digital work environments are structured.
+### Week 1 — Systems, files, AI basics, and Microsoft pathway orientation
+**Weekly goal:** Students understand what AI is, what it is not, how digital work environments are structured, and how the certification thread will sit inside the course.
 
-**Key outcomes**
-- Identify basic AI vocabulary
-- Distinguish AI from search and traditional software
-- Build a professional folder structure
-- Practice version naming and file discipline
+### Week 2 — Prompting, responsible AI, and verification
+**Weekly goal:** Students learn to produce stronger drafts, test outputs instead of trusting them, and connect responsible AI ideas to workplace norms.
 
-### Week 2 — Prompting and verification
-**Weekly goal:** Students learn to produce stronger drafts and test outputs instead of trusting them.
-
-**Key outcomes**
-- Improve prompts using role, audience, task, and constraints
-- Compare weak and strong prompts
-- Practice verification against source material
-- Build a first prompt notebook
-
-### Week 3 — Privacy, bias, and professional judgment
-**Weekly goal:** Students learn safe and responsible professional use.
-
-**Key outcomes**
-- Recognize risky data-sharing behavior
-- Identify bias and uneven outcomes
-- Build a personal AI use policy
-- Practice deciding when a human should review or take over
+### Week 3 — Data, machine learning, privacy, bias, vision, and language tools
+**Weekly goal:** Students gain plain-language familiarity with major AI workload areas and understand how those concepts affect real work.
 
 ### Week 4 — Communication and admin practicum
-**Weekly goal:** Students use AI in everyday professional tasks.
+**Weekly goal:** Students use AI in everyday professional tasks while revisiting Microsoft vocabulary and concept checks.
 
-**Key outcomes**
-- Draft and revise emails
-- Turn notes into action items
-- Summarize articles and documents
-- Rewrite text for different audiences
+### Week 5 — Workplace simulations and review spirals
+**Weekly goal:** Students use AI inside role-based scenarios and practice recalling certification-aligned concepts without losing practical judgment.
 
-### Week 5 — Workplace simulations
-**Weekly goal:** Students use AI within job-like scenarios.
-
-**Key outcomes**
-- Complete role-based workflow tasks
-- Document errors and revisions
-- Escalate appropriately
-- Work more independently
-
-### Week 6 — Personal toolkit and capstone
-**Weekly goal:** Students leave with a repeatable personal work system.
-
-**Key outcomes**
-- Finalize toolkit documents
-- Demonstrate one end-to-end workflow
-- Reflect on strengths, risks, and next steps
-- Present process and product
+### Week 6 — Personal toolkit, mock review, capstone, and next steps
+**Weekly goal:** Students leave with a repeatable personal work system, a portfolio artifact, and a realistic next-step credential plan.

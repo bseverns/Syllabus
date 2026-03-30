@@ -7,3 +7,4 @@ Recommended first-day move:
 - duplicate each template into that folder
 - rename files with the student's name or initials
 - keep versions rather than overwriting everything
+- add Microsoft Learn evidence in the same system so study and practice stay connected

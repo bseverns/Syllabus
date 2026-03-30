@@ -23,3 +23,6 @@ I will not paste in:
 
 ## My professionalism rule
 Before I submit or send anything, I will:
+
+## My certification / learning rule
+When I learn a new term from Microsoft Learn, I will connect it to a real task I have actually practiced.

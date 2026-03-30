@@ -14,6 +14,7 @@ Treat AI as a support tool, not as a truth machine. Repeatedly model:
 - versioning and documentation
 - judgment over speed
 - student voice over generic polished output
+- certification as an option, not a weapon
 
 ## Strong classroom moves
 - compare human and AI drafts side by side
@@ -21,6 +22,7 @@ Treat AI as a support tool, not as a truth machine. Repeatedly model:
 - keep a public wall of "red flags"
 - ask students to explain why they changed a draft
 - reward revision, not just completion
+- begin in-person sessions with evidence from the remote task
 
 ## Supports
 - sentence frames
@@ -29,3 +31,4 @@ Treat AI as a support tool, not as a truth machine. Repeatedly model:
 - worked examples
 - role cards for simulations
 - printed checklists
+- remote launch and bridge-note routines

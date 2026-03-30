@@ -1,40 +1,43 @@
 # Capstone
 
-## Capstone title
-**My AI-at-Work Toolkit**
+## Final capstone title
+**My AI-at-Work Toolkit and Workflow**
 
-## Capstone task
+## Capstone goal
+Each student demonstrates one complete, repeatable, professional workflow that uses AI carefully and effectively.
 
-Each student builds and presents a personal toolkit showing how they can use AI responsibly in a professional setting. The project is not only a collection of files; it is a demonstration of process, judgment, and readiness.
+## Required capstone contents
+- folder structure
+- prompt notebook
+- verification checklist
+- personal AI use policy
+- email / meeting / summary templates
+- Microsoft Learn progress evidence
+- one workflow demonstration from start to finish
+- one reflection on risk, privacy, and what still requires human judgment
+- one next-step plan for continued learning or certification pursuit
 
-## Required components
-1. Professional folder structure
-2. Prompt notebook with at least 5 tested prompts
-3. Verification checklist
-4. Personal AI use policy
-5. Template pack with at least 3 reusable documents
-6. One end-to-end workflow demonstration
+## Suggested workflow examples
+- preparing and summarizing meeting notes
+- drafting and revising a professional follow-up email
+- turning research into a concise supervisor update
+- rewriting a technical explanation for a community audience
+- organizing a help-desk or operations support workflow
 
-## Example workflow topics
-- preparing for a meeting
-- writing and revising a follow-up email
-- turning notes into action items
-- summarizing research for a supervisor
-- rewriting technical information in plain language
-- organizing a help-desk or admin support task
+## Presentation structure
+1. The task I chose
+2. The materials I started with
+3. The prompts and tools I used
+4. What the AI did well
+5. What I had to fix or verify
+6. What I would never automate blindly
+7. How this workflow could help me in school, internship, or work
 
-## Presentation format
-Students should present:
-- the task
-- the prompt(s) used
-- the raw AI output
-- the revisions made
-- the verification steps
-- the final result
-- what still required human judgment
-
-## Reflection questions
-- What kind of task does AI help me with most?
-- What kinds of output do I still trust least?
-- What rules will I use going forward?
-- How will I keep improving this system after the course ends?
+## Assessment emphasis
+Students are rewarded for:
+- clarity
+- judgment
+- documentation
+- revision
+- transferability
+not for pretending the tool is perfect.

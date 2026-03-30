@@ -1,16 +1,16 @@
 # Syllabus
 
-## AI at Work: Tools, Judgment, and Professional Practice
+## AI at Work with Microsoft Learn: Tools, Judgment, and Professional Practice
 
 ### Subtitle
-A 6-week workforce studio for high school students preparing for professional settings
+A 6-week hybrid workforce studio for high school students preparing for professional settings
 
 ### Partner alignment
-Designed for a workforce-readiness context aligned with Genesys Works / GenSys Works values: professional communication, digital fluency, confidence, accountability, and preparation for real-world work.
+Designed for a workforce-readiness context aligned with **GenSys Works** values: professional communication, digital fluency, confidence, accountability, and preparation for real-world work.
 
 ## Course description
 
-AI tools are now part of many workplaces, but using them well takes more than typing a prompt. In this course, students learn how these systems work, where they fail, how to check their outputs, and how to use them responsibly in professional settings. Through labs, simulations, and document-building exercises, students practice real tasks such as email drafting, note-taking, summarizing research, rewriting for different audiences, and organizing repeatable workflows. The course ends with a personal AI toolkit and capstone presentation that students can carry into future classes, internships, and jobs.
+AI tools are now part of many workplaces, but using them well takes more than typing a prompt. In this course, students learn how these systems work, where they fail, how to check their outputs, and how to use them responsibly in professional settings. Through labs, simulations, and document-building exercises, students practice real tasks such as email drafting, note-taking, summarizing research, rewriting for different audiences, and organizing repeatable workflows. The course is also aligned to a Microsoft Learn / AI fundamentals study path so students build certification-ready vocabulary and concept familiarity while making practical work.
 
 ## Essential questions
 
@@ -18,18 +18,20 @@ AI tools are now part of many workplaces, but using them well takes more than ty
 2. How can I use AI to support work without trusting it blindly?
 3. What should never be shared with public tools?
 4. How do I communicate clearly and professionally with or without AI?
-5. What workflow can I build now that will still help me later?
+5. How can I study for a Microsoft AI credential without losing sight of real workplace practice?
+6. What workflow can I build now that will still help me later?
 
 ## Learning outcomes
 
 Students will:
 - describe core AI concepts in accessible language
-- distinguish between search, chat, generation, and automation
+- distinguish between search, chat, generation, automation, and machine learning workloads
 - write stronger prompts using context, constraints, and audience awareness
 - verify AI output against source material
 - identify privacy, bias, and professional-risk concerns
 - complete workplace-style simulations using AI support
 - build a reusable personal toolkit of prompts, templates, and checklists
+- demonstrate familiarity with Microsoft AI fundamentals concept domains
 
 ## Materials / platforms
 
@@ -40,21 +42,32 @@ Suggested tools may include:
 - spreadsheet software
 - presentation software
 - selected AI tools approved by program staff
+- Microsoft Learn modules selected by staff
 - printed handouts for verification and reflection
+
+## Weekly structure
+
+Each week follows a repeatable four-part rhythm:
+1. **In-person A:** launch, model, guided practice
+2. **Distance-learning B:** Microsoft Learn module(s), notes, knowledge check, evidence artifact
+3. **In-person C:** studio task, workplace simulation, coaching, revision
+4. **Distance-learning D:** quiz, reflection, portfolio update, bridge note for the next week
 
 ## Course structure
 
-### Unit 1: Foundations (Weeks 1-3)
+### Unit 1: Foundations + Certification Grounding (Weeks 1-3)
 - how digital systems work
 - what AI is and is not
 - prompting and context
 - error checking and revision
 - privacy, bias, and professional judgment
+- Microsoft AI fundamentals vocabulary and concept mapping
 
-### Unit 2: Practicum (Weeks 4-6)
+### Unit 2: Practicum + Credential Readiness (Weeks 4-6)
 - communication workflows
 - admin workflows
 - role-based professional simulations
+- Microsoft Learn review routines
 - personal toolkit building
 - capstone workflow design and presentation
 
@@ -68,6 +81,7 @@ Students are assessed on:
 - verification habits
 - communication clarity
 - workflow independence
+- Microsoft Learn completion habits and concept retention
 
 Evidence may include:
 - daily lab artifacts
@@ -75,6 +89,7 @@ Evidence may include:
 - reflection notes
 - templates and checklists
 - simulation outputs
+- Microsoft Learn note pages and checkpoints
 - capstone presentation
 
 ## Participation expectations
@@ -86,6 +101,7 @@ Students are expected to:
 - respect privacy and confidentiality rules
 - document their process
 - support peers during collaborative tasks
+- complete distance-learning bridge tasks so the weekly sequence remains connected
 
 ## Accessibility and supports
 
@@ -96,6 +112,7 @@ The course should offer:
 - paired practice before solo work
 - translated or bilingual key terms when possible
 - multiple modes of reflection: written, spoken, or recorded
+- short remote-task checklists with predictable structure
 
 ## Final project
 
@@ -105,13 +122,15 @@ Each student creates and presents a personal AI-at-work toolkit containing:
 - template pack
 - verification process
 - personal AI use policy
+- Microsoft Learn progress evidence
 - one end-to-end professional workflow demonstration
+- a next-step credential or growth plan
 
 ## Weekly arc
 
-- **Week 1:** Digital work systems and AI basics
-- **Week 2:** Prompting, context, revision, and verification
-- **Week 3:** Risk, bias, privacy, and professional judgment
+- **Week 1:** Digital work systems, AI basics, and certification orientation
+- **Week 2:** Prompting, context, responsible AI, and revision
+- **Week 3:** Machine learning, privacy, bias, vision, and language tools
 - **Week 4:** Writing, communication, and administrative tasks
-- **Week 5:** Job-lane simulations and role-based workflows
-- **Week 6:** Personal system build, capstone, and transition forward
+- **Week 5:** Job-lane simulations and Microsoft review spirals
+- **Week 6:** Personal system build, mock review, capstone, and transition forward

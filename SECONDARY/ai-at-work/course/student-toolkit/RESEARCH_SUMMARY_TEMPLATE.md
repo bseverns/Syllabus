@@ -13,3 +13,4 @@
 ## What needs verification?
 ## Questions I still have
 ## How this information could be used in a workplace task
+## Which AI concept domain this connects to
