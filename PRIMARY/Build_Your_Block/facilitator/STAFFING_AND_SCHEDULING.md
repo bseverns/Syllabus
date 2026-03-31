@@ -7,18 +7,30 @@
 
 ## Time models
 
-### Model A — 2-hour weekly session
-- Arrival / challenge — 15 min
-- Demo — 20 min
-- Build — 60 min
-- Share / cleanup / reflection — 25 min
+### Model A — 4 x 60-minute classes per week
+Each day should include:
+- arrival / warm-up — 5-10 min
+- demo / discussion — 10-15 min
+- build — 30-35 min
+- share / cleanup / reflection — 10-15 min
 
-### Model B — two 75–90 minute sessions per week
-Session 1:
-- Warm-up + demo + build start
+### Model B — 4 x 75-minute classes per week
+Each day should include:
+- arrival / warm-up — 10 min
+- demo / discussion — 10-15 min
+- build — 40-45 min
+- share / cleanup / reflection — 10-15 min
 
-Session 2:
-- build continuation + reflection + documentation
+### Model C — 2 longer blocks per week
+Use the same weekly sequence by combining:
+- Block 1: Day 1 + Day 2
+- Block 2: Day 3 + Day 4
+
+## Weekly teaching bases
+- Day 1 — launch and explore
+- Day 2 — build the core skill
+- Day 3 — extend and personalize
+- Day 4 — share, document, and connect
 
 ## Prep rhythm for staff
 - pre-sort materials the day before

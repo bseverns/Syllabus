@@ -3,15 +3,15 @@
 
 **Partner site:** Urban Ventures, Minneapolis  
 **Provider:** createMPLS  
-**Format:** 12-week summer session  
+**Format:** 16-week maker course  
 **Audience:** Rising grades 3–7  
-**Duration:** 12 sessions; recommended 2 hours each
+**Duration:** 16 weeks, 4 class days per week; recommended 60-75 minutes each
 
 ---
 
 ## Course description
 
-In **Build Your Block**, students become inventors, artists, and problem-solvers. They will build working creations that light up, move, react, make sound, and tell stories about the places they know. Along the way, they learn how tools work, how to test ideas, how to fix what breaks, and how to work together with care. By the end of the summer, each student or team will create a finished neighborhood-inspired project for a public showcase.
+In **Build Your Block**, students become inventors, artists, and problem-solvers. They build working creations that light up, move, react, make sound, and tell stories about the places they know. Along the way, they learn how tools work, how to test ideas, how to fix what breaks, and how to work together with care. By the end of the course, each student or team creates a finished neighborhood-inspired project for a public showcase.
 
 ---
 
@@ -64,10 +64,10 @@ Assessment in this class is based on participation, experimentation, revision, a
 ## Weekly sequence
 
 ### Week 1 — Welcome to the lab
-Make a first successful object and learn routines.
+Learn routines, tool care, and first-build success.
 
 ### Week 2 — Light
-Build circuits and glowing signs or symbols.
+Build circuits, switches, and glowing signs or symbols.
 
 ### Week 3 — Motion
 Explore motors, movement, and simple mechanics.
@@ -85,19 +85,49 @@ Use code as a material to control action and sequence.
 Observe, discuss, and sketch projects connected to local life.
 
 ### Week 8 — Prototype 1
-Begin capstone projects.
+Begin capstone construction with a first working version.
 
 ### Week 9 — Prototype 2
-Test, debug, reinforce, and revise.
+Test, debug, and revise.
 
-### Week 10 — Make it understandable
-Add titles, labels, documentation, and clear explanations.
+### Week 10 — Combine systems
+Integrate multiple building blocks such as light, sound, motion, sensing, or code.
 
-### Week 11 — Rehearsal and polish
-Practice demos and prepare for visitors.
+### Week 11 — Make it durable
+Strengthen structures, interfaces, and repeated-use reliability.
 
-### Week 12 — Showcase
-Present projects to peers, families, and staff.
+### Week 12 — Make it understandable
+Add titles, labels, diagrams, and audience instructions.
+
+### Week 13 — Neighborhood testing
+Test with peers or visitors and revise using feedback.
+
+### Week 14 — Rehearsal and polish
+Practice demos, finish surfaces, and prepare speaking roles.
+
+### Week 15 — Showcase setup
+Install projects, solve logistics, and run a soft opening.
+
+### Week 16 — Showcase and reflection
+Present projects, document learning, and reflect on growth.
+
+---
+
+## Weekly structure
+
+Each week follows the same four-day arc so students revisit the same learning bases with new content:
+
+- **Day 1 — Launch and explore:** warm-up question, neighborhood connection, mini-demo, first test
+- **Day 2 — Build the core skill:** guided build focused on the week's main mechanism
+- **Day 3 — Extend and personalize:** revision, feature growth, and creative decision-making
+- **Day 4 — Share, document, and connect:** peer feedback, explanation, cleanup, and reflection
+
+Each class day should still include:
+- a short opening question or challenge
+- a concrete demo
+- protected build time
+- documentation or verbal reflection
+- cleanup routines that students can own
 
 ---
 
@@ -120,4 +150,4 @@ Each week should include:
 
 ## Showcase outcome
 
-By the final week, students or teams will present a neighborhood-inspired invention, artwork, or interactive object that demonstrates both technical learning and creative intent.
+By the final week, students or teams will present a neighborhood-inspired invention, artwork, or interactive object that demonstrates technical learning, revision over time, and creative intent.

@@ -1,12 +1,12 @@
 # Build Your Block: A Neighborhood Makers Lab
 
-A 12-week summer session class for **Urban Ventures, Minneapolis** to be offered by **createMPLS**.
+A 16-week neighborhood maker course for **Urban Ventures, Minneapolis** to be offered by **createMPLS**.
 
-This repository packages a neighborhood-rooted summer maker course designed for youth in grades 3–7, with enough flexibility to be adapted upward or downward by age, staffing, and available equipment. The course treats invention as both technical and civic: students learn to build with circuits, motion, sound, sensors, coding, and fabrication while grounding their work in the lived realities, memories, and futures of their own neighborhood.
+This repository packages a neighborhood-rooted maker course designed for youth in grades 3–7, with enough flexibility to be adapted upward or downward by age, staffing, and available equipment. The course treats invention as both technical and civic: students learn to build with circuits, motion, sound, sensors, coding, and fabrication while grounding their work in the lived realities, memories, and futures of their own neighborhood.
 
 ## Core idea
 
-Students become inventors, artists, and problem-solvers. Over twelve weeks, they build working projects that light up, move, react, make sound, and tell stories about place. The final third of the course pivots toward neighborhood-responsive capstones, culminating in a community showcase.
+Students become inventors, artists, and problem-solvers. Over sixteen weeks, they build working projects that light up, move, react, make sound, and tell stories about place. The course moves from short skill builds into neighborhood-responsive capstones, culminating in a community showcase.
 
 ## Learning goals
 
@@ -22,8 +22,8 @@ By the end of the session, students should be able to:
 ## Recommended implementation
 
 - **Audience:** Rising grades 3–7
-- **Session length:** 1 x 2-hour session per week for 12 weeks  
-  or 2 x 75–90 minute blocks per week using the same sequence
+- **Session length:** 4 x 60-75 minute classes per week for 16 weeks  
+  or 2 longer blocks per week by combining Days 1-2 and Days 3-4
 - **Ideal group size:** 12–18 students
 - **Staffing:** 1 lead facilitator; 1 assistant strongly recommended
 - **Course tone:** low-floor, high-ceiling, highly visible weekly outcomes
@@ -40,11 +40,16 @@ By the end of the session, students should be able to:
 
 ## Suggested weekly rhythm
 
-- 15 min — arrival / warm-up challenge
-- 20 min — demo and discussion
-- 60 min — build time
-- 15 min — share-out / cleanup / documentation
-- 10 min — reflection
+- **Day 1:** launch and explore
+- **Day 2:** build the core skill
+- **Day 3:** extend and personalize
+- **Day 4:** share, document, and connect
+
+Within each day, keep the same bases:
+- short arrival challenge or question
+- concrete mini-demo
+- protected build time
+- share-out, documentation, and cleanup
 
 ## Materials snapshot
 

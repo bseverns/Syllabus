@@ -1,42 +1,80 @@
 # Week 2: Light
 
 ## Big idea
-Power moves through a system.
+Power moves through a path, and light can communicate safety, celebration, and story.
 
-## Learning goals
-- understand simple circuit paths
-- use LEDs, batteries, and switches
-- translate an idea into a glowing sign or symbol
+## Weekly learning goals
+- understand simple closed circuits and switches
+- use light as a design choice, not just a technical effect
+- explain where power travels in a working build
 
-## Warm-up prompt
-Where do we notice light in daily life? Safety, celebration, art, navigation?
-
-## Mini-demo focus
-Battery polarity, LED orientation, making and breaking a circuit.
-
-## Main build
-Paper circuits, light-up neighborhood icons, glowing signs, or map fragments
-
-## Suggested session flow
-- 15 min — arrival and warm-up
-- 20 min — demo and guided exploration
-- 60 min — build block
-- 15 min — share-out and documentation
-- 10 min — reflection and cleanup
+## Weekly rhythm
+- Day 1 — launch and explore
+- Day 2 — build the core skill
+- Day 3 — extend and personalize
+- Day 4 — share, document, and connect
 
 ## Materials
-Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus any week-specific kits.
+Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus LEDs, coin cells, copper tape, binder clips, foil tape, vellum, and map or sign templates.
 
-## Differentiation
-- **Low-floor option:** simplify build to one core mechanism or one visible outcome
-- **Stretch challenge:** Create a sign with two lights or a simple switch system.
-- **Team option:** allow pairs or small groups to divide structure / electronics / decoration / explanation
+## Day 1 — Launch and explore
+### Warm-up prompt
+Where do we notice light in daily life: safety, celebration, art, navigation, or memory?
 
-## Reflection prompt
+### Mini-demo focus
+Review closed vs. open circuits and show several examples of switches.
+
+### Build activity
+Students test quick circuit stations, then choose a neighborhood icon, sign, or map fragment to light up.
+
+### Exit question
+Where does light help people on a block?
+
+## Day 2 — Build the core skill
+### Warm-up prompt
+What makes a switch useful?
+
+### Mini-demo focus
+How to make a flap switch or pressure switch with paper and tape.
+
+### Build activity
+Students build a light-up sign or map element with at least one intentional on/off action.
+
+### Exit question
+How does your switch change the way someone uses the project?
+
+## Day 3 — Extend and personalize
+### Warm-up prompt
+What should glow first, and why?
+
+### Mini-demo focus
+Layering paper, tracing wires cleanly, and using translucent materials to diffuse light.
+
+### Build activity
+Students add a second light, use color intentionally, or design a sign system that tells a small story.
+
+### Exit question
+What does your lighting choice communicate?
+
+## Day 4 — Share, document, and connect
+### Warm-up prompt
+How can you show the hidden parts of a circuit to someone else?
+
+### Mini-demo focus
+Model a labeled diagram with battery, path, LED, and switch clearly marked.
+
+### Build activity
+Students create a simple how-it-works card and do a gallery walk focused on function and clarity.
+
+### Exit question
 Where did the power travel in your project?
 
+## Differentiation
+- **Low-floor option:** one LED, one battery, one simple sign shape.
+- **Stretch challenge:** use two lights with different functions or build a cleaner custom switch.
+- **Team option:** one student designs the visible sign while the other prototypes the circuit path, then both explain it.
+
 ## Facilitator notes
-- keep demonstration concrete and brief
-- get materials into students' hands early
-- capture at least one photo per table or team
-- close by naming what students discovered, not just what they finished
+- keep spare batteries and pre-tested LEDs ready so troubleshooting stays productive
+- ask students to predict before testing whenever possible
+- capture one image with the top paper layer lifted so the circuit path remains visible

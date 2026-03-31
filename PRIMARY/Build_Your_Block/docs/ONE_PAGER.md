@@ -2,13 +2,13 @@
 ## Build Your Block: A Neighborhood Makers Lab
 
 **What it is**  
-A 12-week summer maker course for youth in Minneapolis that blends engineering, art, storytelling, and community observation.
+A 16-week maker course for youth in Minneapolis that blends engineering, art, storytelling, and community observation.
 
 **Who it is for**  
 Rising grades 3–7, with adaptable entry points for mixed readiness levels.
 
 **What students do**  
-Students build projects that light up, move, make sound, respond to input, and eventually grow into neighborhood-inspired capstones. They work with circuits, robotics, simple coding, cardboard construction, and creative fabrication.
+Students build projects that light up, move, make sound, respond to input, and grow into neighborhood-inspired capstones. They work with circuits, robotics, simple coding, cardboard construction, and creative fabrication.
 
 **Why it matters**  
 This class builds confidence through visible making. Students learn how systems work, how to test ideas, how to persist through failure, and how invention can speak to the realities and possibilities of their own community.
@@ -21,17 +21,16 @@ This class builds confidence through visible making. Students learn how systems 
 - Ends in a family-friendly showcase
 
 **Signature move**  
-The final third of the class turns outward: students build projects rooted in neighborhood life, memory, need, joy, or future dreams.
+The course keeps the same four-day rhythm every week: launch, build, extend, and share. In the second half, students turn that rhythm toward neighborhood-rooted capstone projects.
 
 **Staffing recommendation**  
 1 lead facilitator + 1 assistant for 12–18 students.
 
 **Typical session structure**
-- arrival challenge
-- mini-demo
-- build block
-- cleanup and documentation
-- reflection
+- Day 1: launch and explore
+- Day 2: build the core skill
+- Day 3: extend and personalize
+- Day 4: share, document, and connect
 
 **Possible project types**
 - light-up signs and maps
