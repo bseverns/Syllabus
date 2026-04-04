@@ -15,7 +15,7 @@ Students complete a review cycle that turns scattered terms into a usable concep
 - Write one plain-language explanation for a peer
 
 ## Microsoft alignment
-AI-900 style review across concept domains
+AI fundamentals style review across concept domains
 
 ## Materials
 - device and internet access

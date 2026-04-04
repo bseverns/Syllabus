@@ -13,6 +13,7 @@ Use Microsoft Learn as a structured backbone, not as the only learning experienc
 - current AI fundamentals certification title
 - current exam code and page
 - current module collection
+- whether Microsoft Learn materials now use Microsoft Foundry terminology
 - whether learners need accounts, school email addresses, or vouchers
 - whether any labs require Azure resources you do not want students provisioning
 

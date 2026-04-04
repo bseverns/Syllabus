@@ -8,13 +8,13 @@ This repo packages a **Syllabus-repo style course bundle** designed for a **GenS
 - **Day 3:** in-person
 - **Day 4:** distance-learning
 
-The course keeps the original 24-session / 48-hour structure while flexing toward a Microsoft credential pathway.
+The course keeps the original 24-session / 48-hour structure while flexing toward a Microsoft AI fundamentals credential pathway.
 
 ## Certification strategy
 
-This version is built around a **Microsoft Azure AI Fundamentals (AI-900) alignment** plus selected **Microsoft Learn** study routines. The design goal is not to turn the whole class into test prep. Instead, students learn the practical workplace uses of AI while also building the vocabulary, concepts, and confidence needed to pursue a Microsoft credential.
+This version is built around a **Microsoft AI fundamentals study alignment** plus selected **Microsoft Learn** study routines. The design goal is not to turn the whole class into test prep. Instead, students learn the practical workplace uses of AI while also building the vocabulary, concepts, and confidence needed to pursue a Microsoft credential.
 
-**Important note:** the certification alignment in this repo is based on the Microsoft AI fundamentals pathway and exam domains that were stable through 2025. Before launch, staff should verify current certification names, links, exam policies, and domain wording on Microsoft Learn / Credentials.
+**Important note:** Microsoft still offers **Exam AI-900: Azure AI Fundamentals** through **June 30, 2026**, but Microsoft has announced a transition to **Exam AI-901** and newer Microsoft Foundry-oriented training in 2026. Before launch, staff should verify the current certification name, exam code, links, policies, and domain wording on Microsoft Learn / Credentials.
 
 ## Design logic
 

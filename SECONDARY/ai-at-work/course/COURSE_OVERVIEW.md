@@ -14,7 +14,7 @@
 
 ## Course description
 
-This course helps students build a grounded, professional understanding of how AI tools work and how they can be used responsibly in real-world workplace settings. Students begin by learning the foundations: digital systems, files and folders, prompting, verification, privacy, bias, and professional judgment. They then move into workplace simulations and practicum tasks such as drafting emails, summarizing research, organizing notes, rewriting for different audiences, and building repeatable workflows. Throughout the sequence, students also work through a Microsoft Learn-aligned study track aimed at Azure AI Fundamentals (AI-900 level concepts), so the course can function both as workforce preparation and as an entry point to a recognized credential pathway.
+This course helps students build a grounded, professional understanding of how AI tools work and how they can be used responsibly in real-world workplace settings. Students begin by learning the foundations: digital systems, files and folders, prompting, verification, privacy, bias, and professional judgment. They then move into workplace simulations and practicum tasks such as drafting emails, summarizing research, organizing notes, rewriting for different audiences, and building repeatable workflows. Throughout the sequence, students also work through a Microsoft Learn-aligned study track aimed at Microsoft AI fundamentals concepts, so the course can function both as workforce preparation and as an entry point to a recognized credential pathway.
 
 ## Big goals
 
@@ -43,7 +43,7 @@ Each student should leave with:
 - a personal AI use policy
 - a Microsoft Learn progress tracker and vocabulary log
 - a capstone workflow and presentation
-- an optional next-step plan for sitting a Microsoft AI fundamentals credential or continuing into related Learn modules
+- an optional next-step plan for sitting a current Microsoft AI fundamentals credential or continuing into related Learn modules
 
 ## Pedagogical notes
 

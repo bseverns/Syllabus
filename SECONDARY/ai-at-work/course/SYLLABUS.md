@@ -10,7 +10,7 @@ Designed for a workforce-readiness context aligned with **GenSys Works** values:
 
 ## Course description
 
-AI tools are now part of many workplaces, but using them well takes more than typing a prompt. In this course, students learn how these systems work, where they fail, how to check their outputs, and how to use them responsibly in professional settings. Through labs, simulations, and document-building exercises, students practice real tasks such as email drafting, note-taking, summarizing research, rewriting for different audiences, and organizing repeatable workflows. The course is also aligned to a Microsoft Learn / AI fundamentals study path so students build certification-ready vocabulary and concept familiarity while making practical work.
+AI tools are now part of many workplaces, but using them well takes more than typing a prompt. In this course, students learn how these systems work, where they fail, how to check their outputs, and how to use them responsibly in professional settings. Through labs, simulations, and document-building exercises, students practice real tasks such as email drafting, note-taking, summarizing research, rewriting for different audiences, and organizing repeatable workflows. The course is also aligned to a Microsoft Learn / AI fundamentals study path so students build current, certification-ready vocabulary and concept familiarity while making practical work.
 
 ## Essential questions
 

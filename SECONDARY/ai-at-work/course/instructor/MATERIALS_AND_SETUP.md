@@ -16,6 +16,6 @@
 - prepare shared folders
 - duplicate student toolkit templates
 - decide where remote work will be submitted
-- verify current Microsoft Learn modules and certification language
+- verify current Microsoft Learn modules, certification language, and whether the cohort should use AI-900 or the current successor pathway
 - print verification and safety handouts
 - decide job-lane scenarios for week 5
