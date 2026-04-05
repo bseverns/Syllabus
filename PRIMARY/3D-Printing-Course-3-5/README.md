@@ -28,6 +28,7 @@
 - Handouts: `./handouts/`
 - Rubrics: `./assessments/`
 - Safety + Equity: `./policies/`
+- ClassHub import layer: `./classhub_import/`
 
 ## Class Constraints (for equitable throughput)
 - **Material:** PLA only. **Colors:** limited palette per week.
@@ -39,6 +40,16 @@
 - Rotation on who prints first. Everyone gets a print by Week 2.
 - Pair design sessions; solo reflection via design journal.
 - Multiple ways to show understanding (drawings, talk‑throughs, builds).
+
+## ClassHub import
+
+This course now includes a ClassHub ingest layer:
+
+- `classhub_import/public_overview_classhub.md`
+- `classhub_import/teacher_plan_classhub.md`
+- `classhub_import/README.md`
+
+That layer treats each week as one importable session so the LMS can ingest the full 11-week arc while preserving the repo's stronger print-ops, safety, and handout structure.
 
 ## License
 See `LICENSE`. Educational reuse encouraged with attribution.

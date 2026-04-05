@@ -36,6 +36,7 @@ By the end of the session, students should be able to:
 - `facilitator/` — implementation guidance, staffing, setup, behavior, differentiation
 - `docs/` — one-pager, materials, assessment, showcase guidance
 - `templates/` — reusable student-facing and staff-facing templates
+- `classhub_import/` — thin LMS-ingest layer for ClassHub
 - `assets/` — placeholder for future printable or visual assets
 
 ## Suggested weekly rhythm
@@ -78,6 +79,16 @@ This repo is intentionally written in plain Markdown so it can be:
 - converted into PDF or web pages
 - adapted for other partner sites
 - remixed into age-band-specific variants
+
+## ClassHub import
+
+This course now includes a ClassHub ingest layer:
+
+- `classhub_import/public_overview_classhub.md`
+- `classhub_import/teacher_plan_classhub.md`
+- `classhub_import/README.md`
+
+That layer treats each weekly plan as one importable session so the LMS can ingest the full 16-week arc without flattening the underlying four-day teaching rhythm.
 
 ## License
 
