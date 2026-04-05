@@ -82,6 +82,16 @@ When in doubt, choose:
 - clearer boundaries
 - better documentation
 
+## ClassHub import
+
+This course now includes an ingest-ready packaging layer for ClassHub:
+
+- `classhub_import/public_overview_classhub.md`
+- `classhub_import/teacher_plan_classhub.md`
+- `classhub_import/README.md`
+
+Those files are formatted to match the `ingest_syllabus_md.py` contract from the sibling `selfhosted-classhub` repo, so the course can be imported quickly without manually rebuilding each lesson.
+
 ## Licensing note
 
 Educational materials in this repo are written to be adaptable. Add the license that best fits your use case before public release.

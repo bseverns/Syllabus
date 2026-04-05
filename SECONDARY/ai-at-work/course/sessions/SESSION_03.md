@@ -23,6 +23,7 @@ AI workloads, search vs generation, model behavior
 - notebook or reflection sheet
 - Microsoft Learn access or teacher-posted module links
 - course toolkit templates
+- AI systems flow reference
 
 ## Session flow (2 hours)
 ### 1. Opening / warm-up (15 min)

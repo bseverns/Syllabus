@@ -32,6 +32,16 @@ sound-design-course/
 3. Print/laminate station cards from **[station-cards](./station-cards/)**.
 4. Teach from **[lessons](./lessons/)**: each day has student steps + teacher playbook.
 
+## ClassHub import
+
+This course now includes a lightweight LMS-import layer for the ClassHub `course_ingest` workflow:
+
+- `classhub_import/public_overview_classhub.md`
+- `classhub_import/teacher_plan_classhub.md`
+- `classhub_import/README.md`
+
+Those files are formatted to match the ingest parser described in the sibling `selfhosted-classhub` repo, so you can generate a ClassHub coursepack without manually rewriting the whole repo.
+
 ## Station Cards
 Need a pep talk for each workflow? Scope the [station-cards README](./station-cards/README.md) for one‑liners and a printable cheat‑sheet map.
 - [Record / Foley](./station-cards/record-foley.md)

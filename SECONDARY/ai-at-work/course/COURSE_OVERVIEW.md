@@ -38,6 +38,8 @@ Each student should leave with:
 - a resume or brag-sheet starter
 - a prompt notebook
 - a verification checklist
+- an AI systems-flow reference
+- a deeper-dive reference guide with reputable sources
 - an email and meeting-notes template set
 - a research summary template
 - a personal AI use policy

@@ -23,6 +23,8 @@ Responsible AI, vision, language, privacy
 - notebook or reflection sheet
 - Microsoft Learn access or teacher-posted module links
 - course toolkit templates
+- AI systems flow reference
+- deeper-dive reference guide
 
 ## Session flow (2 hours)
 ### 1. Launch checklist (10 min)

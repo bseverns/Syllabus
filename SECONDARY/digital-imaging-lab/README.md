@@ -51,6 +51,16 @@ At the top of each session file you’ll find a block like this:
 
 Edit these lines to reflect your actual lab, hardware, and policies so future-you (or another instructor) remembers how the plan was implemented in this context.
 
+## ClassHub import
+
+This course now includes a lightweight ClassHub import layer:
+
+- `classhub_import/public_overview_classhub.md`
+- `classhub_import/teacher_plan_classhub.md`
+- `classhub_import/README.md`
+
+Those files are formatted for the ClassHub `ingest_syllabus_md.py` workflow so the course can be imported quickly without manually rewriting the session files.
+
 ## License
 
 All written material is released under the MIT License (see `LICENSE`).  

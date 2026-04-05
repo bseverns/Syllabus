@@ -67,6 +67,25 @@ course/
 - Duplicate items in `course/student-toolkit/` so each student gets a working doc set
 - Use `course/admin/ONE_PAGER.md` and `course/admin/CREDENTIAL_VALUE_NOTE.md` for partner conversations
 
+## Student reference layer
+
+The student toolkit now includes two non-template anchor docs for concepts and deeper reading:
+
+- `course/student-toolkit/AI_SYSTEMS_FLOW_REFERENCE.md`
+- `course/student-toolkit/AI_DEEPER_DIVES_AND_REFERENCES.md`
+
+These are meant to give students a more stable map of AI systems, responsible use, and reputable follow-up reading instead of leaving concept-building to isolated session notes.
+
+## ClassHub import
+
+This course now includes a ClassHub ingest layer:
+
+- `classhub_import/public_overview_classhub.md`
+- `classhub_import/teacher_plan_classhub.md`
+- `classhub_import/README.md`
+
+Those files are formatted for the `ingest_syllabus_md.py` workflow in the sibling `selfhosted-classhub` repo, so the course can be packaged for fast LMS import without flattening the richer course bundle.
+
 ## Notes
 
 This package is written in Markdown-first form so it can be:
