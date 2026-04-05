@@ -14,6 +14,7 @@
 
 - Prepare paper and drawing tools (markers, pens, etc.).
 - Ensure audio playback works for recorded gestures.
+- Print or duplicate `handouts/gesture_map_template.md` if you want a scaffold for students who freeze when the page is blank.
 
 ## In-class plan
 
@@ -49,6 +50,7 @@
 ## After class / Homework
 
 - Optional: refine gesture map or color-code sections for intensity.
+- If Session 4 will move quickly, photograph or scan the maps now so recordings can be matched to them later.
 
 ## Local notes (edit before teaching)
 

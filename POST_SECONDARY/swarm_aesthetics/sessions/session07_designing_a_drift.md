@@ -1,9 +1,38 @@
 # Session 07 – Designing a Drift
 
-This is a stub file matching the Swarm Aesthetics course skeleton.
+## At a glance
 
-You can replace this text with the detailed session plan from our chat for this session (At a glance / Before class / In-class plan / After class / Local notes).
+- approximate length: 2 to 3 hours
+- focus: convert the prototype into a structured event concept
+- output: final project proposal + production plan
 
-- Title: Designing a Drift
-- Approx. length: 2–3 hours
-- See SCHEDULE.md for where this sits in the arc.
+## Before class
+
+- ask groups to review Prototype 0 evidence and identify the strongest behavior
+- duplicate `PROJECT_BRIEF.md`
+
+## In-class plan
+
+1. Begin with a short discussion: what behavior is worth staging publicly?
+2. Have groups identify:
+   - project title
+   - audience setup
+   - duration
+   - key signals or roles
+3. Draft a modest production plan:
+   - equipment
+   - space
+   - people
+   - documentation needs
+4. Review plans in pairs and cut anything that cannot be rehearsed well.
+5. End with a short instructor check-in on feasibility.
+
+## Artifacts
+
+- final project proposal
+- production plan with clear scope
+
+## Instructor notes
+
+- enforce modesty here
+- the right question is not "what else can we add?" but "what can we rehearse confidently?"

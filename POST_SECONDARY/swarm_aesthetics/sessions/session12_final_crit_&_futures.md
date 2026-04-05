@@ -1,9 +1,38 @@
 # Session 12 – Final Crit & Futures
 
-This is a stub file matching the Swarm Aesthetics course skeleton.
+## At a glance
 
-You can replace this text with the detailed session plan from our chat for this session (At a glance / Before class / In-class plan / After class / Local notes).
+- approximate length: 2 to 3 hours
+- focus: final critique, transfer, and what the work suggests next
+- output: final portfolio submission
 
-- Title: Final Crit & Futures
-- Approx. length: 2–3 hours
-- See SCHEDULE.md for where this sits in the arc.
+## Before class
+
+- ask each group to submit or stage their final bundle in advance if possible
+- prepare critique prompts tied to the rubric
+
+## In-class plan
+
+1. Present each project with a concise framing statement.
+2. Critique using the shared categories:
+   - systems thinking
+   - process
+   - roles and protocols
+   - ethics and framing
+   - legibility
+   - documentation
+3. Ask each group to end with one future version:
+   - what gets sharper?
+   - what gets smaller?
+   - what changes medium?
+4. Close by connecting the course to adjacent pathways such as telemetry art, interface design, performance systems, or more advanced technical labs.
+
+## Artifacts
+
+- final portfolio submission
+- final reflection on next steps
+
+## Instructor notes
+
+- keep critique concrete and evidence-based
+- the goal is not to crown a winner, but to clarify what each project actually achieved

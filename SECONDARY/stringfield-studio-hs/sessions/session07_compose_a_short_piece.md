@@ -15,6 +15,7 @@
 - Decide on a target length (e.g., 60–90 seconds).
 - Prepare a simple structure suggestion:
   - Start → build → shift → end.
+- Review `projects/final_piece_brief.md` so students know exactly what must be ready for the showing.
 
 ## In-class plan
 
@@ -48,6 +49,7 @@
 ## After class / Homework
 
 - Students implement final tweaks before Session 08.
+- Students draft or finish the short reflection in `handouts/artist_statement_template.md`.
 
 ## Local notes (edit before teaching)
 

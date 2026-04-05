@@ -11,6 +11,7 @@ By the end of this session, students will:
 
 - Understand basic safety expectations for the workshop.
 - Identify major components of a tiny whoop quadcopter.
+- Explain the difference between the control link, the video link, and the power system.
 - Connect their quad to Betaflight Configurator.
 - Export and save a configuration backup.
 - Verify that the FC orientation matches the physical quad.
@@ -22,6 +23,7 @@ By the end of this session, students will:
 - Confirm all machines can open the Betaflight Configurator app / web tool.
 - Test one demo quad from USB connection through backup export.
 - Print copies of `materials/Preflight_Checklist_student.md` (optional) so students can start marking their own habits.
+- Read `resources/tinywhoop_basics_air65.md` so you can narrate one concrete signal path for the room.
 
 ---
 
@@ -57,8 +59,27 @@ By the end of this session, students will:
   - VTX/camera (if present)
   - Battery leads and connector
 - Show on your demo rig where the USB connector and any boot button/pads live.
+- If you have an Air65-style whoop, explain the basic chain:
+  - Radio -> ELRS receiver -> flight controller -> ESCs -> motors
+  - Camera -> analog VTX -> goggles / receiver
+  - Battery -> everything
 
-### 0:30–0:45 – Meet Betaflight Configurator
+### 0:30–0:45 – What Each System Actually Does
+
+On the projector or board:
+
+- Define in plain language:
+  - **FC** = the board that reads sensors and pilot input
+  - **ESC** = the motor-speed controller
+  - **ELRS** = the radio-control link
+  - **Analog VTX** = the video transmitter for goggles
+  - **OSD** = flight info drawn on top of the camera feed
+- Emphasize that the radio link and video link are separate.
+- Ask students:
+  - "What still works if the video feed drops?"
+  - "What still works if the radio link drops?"
+
+### 0:45–1:00 – Meet Betaflight Configurator
 
 On the projector:
 
@@ -72,7 +93,7 @@ On the projector:
   - Motors tab
 - Emphasize: we’ll move slowly and always aim for understanding, not random slider–dragging.
 
-### 0:45–1:20 – First Connections (Hands–On)
+### 1:00–1:35 – First Connections (Hands–On)
 
 Students:
 
@@ -88,17 +109,17 @@ Circulate to help with:
 - Driver / permission hiccups
 - Identifying the correct firmware target & version
 
-### 1:20–1:40 – Guided Reflection & Quick Share
+### 1:35–1:50 – Guided Reflection & Quick Share
 
 - Ask a few students:
   - “What did you notice inside Betaflight that you weren’t expecting?”
   - “What part of the quad’s anatomy is still confusing?”
 - If time permits, let one or two students share their backup file names and where they stored them; reinforce backup habits.
 
-### 1:40–2:00 – Wrap & Exit Ticket
+### 1:50–2:00 – Wrap & Exit Ticket
 
 - Ask students to write a one–sentence reflection:
-  - “One thing I learned about my whoop today is…”
+  - “One part of the whoop I understand better now is…”
 - Make sure every student:
   - Has at least one saved backup.
   - Knows where they saved it.

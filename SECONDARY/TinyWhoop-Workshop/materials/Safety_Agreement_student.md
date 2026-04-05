@@ -10,7 +10,8 @@ By participating, I agree to:
 4. **Only arm my quad when it is in a safe place to take off.**
 5. **Listen to and respect stop–flying or land–now instructions.**
 6. **Report any damage or weird behavior to the instructor before flying again.**
-7. **Help keep the flying area safe for everyone.**
+7. **Do a crash check before I relaunch after a hit, tumble, or hard landing.**
+8. **Help keep the flying area safe for everyone.**
 
 I understand that if I ignore these rules, I may lose the privilege to fly in this workshop.
 

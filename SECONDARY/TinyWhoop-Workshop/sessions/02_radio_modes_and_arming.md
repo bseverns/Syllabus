@@ -10,6 +10,7 @@
 By the end of this session, students will:
 
 - Bind or verify the bind between radio and whoop.
+- Explain what ELRS is doing when the quad is linked to the radio.
 - Use the Receiver tab to confirm correct channel mapping.
 - Configure arming and basic flight modes.
 - Perform safe arming tests with props off.
@@ -25,6 +26,7 @@ By the end of this session, students will:
 - Prepare a short slide or whiteboard sketch explaining:
   - Roll, pitch, yaw, throttle
   - AUX channels as “extra switches”
+- Be ready to explain that ELRS is the **control** link, not the FPV video link.
 
 ---
 
@@ -50,6 +52,9 @@ By the end of this session, students will:
 Brief talk/demo:
 
 - Explain that different whoops use different receiver protocols.
+- Explain that many beginner whoops now use **ELRS 2.4 GHz**:
+  - the radio and quad exchange control packets
+  - if the link is unhealthy, you may see low link quality, failsafe behavior, or no stick response
 - Show how your demo rig indicates a successful bind (LED behavior, Betaflight status).
 - Model a simple binding process for your hardware.
 
@@ -99,6 +104,7 @@ Reinforce:
 
 - Do not arm on the bench with props installed.
 - Always know which switch is your arming switch.
+- Always know which model memory is active on your radio before plugging in a battery.
 
 ### 1:30–1:50 – Safe Motor Testing
 

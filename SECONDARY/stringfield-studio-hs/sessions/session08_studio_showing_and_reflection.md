@@ -15,6 +15,7 @@
 
 - Arrange playback (speakers, projector if visuals).
 - Decide on order for presentations.
+- Print the criteria from `rubrics/final_piece_rubric.md` or project them so feedback stays specific.
 
 ## In-class plan
 
@@ -41,6 +42,7 @@
   - “Which gesture are you most proud of, and why?”
   - “What surprised you about how gesture turned into sound?”
   - “What would you try next with more time or more strings?”
+- Students can use `handouts/artist_statement_template.md` if they need support turning notes into a short statement.
 
 ### 80–90 min — Closing circle
 

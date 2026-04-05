@@ -1,6 +1,6 @@
-# Session 3 – Feel & Feedback: Rates, Presets & OSD
+# Session 3 – VelociDrone, Analog FPV, OSD & First Flights
 
-**Theme:** Turning sliders into feelings.  
+**Theme:** Seeing what the quad sees without losing your head.  
 **Duration:** 90–120 minutes
 
 ---
@@ -9,19 +9,20 @@
 
 By the end of this session, students will:
 
-- Apply a sensible baseline tune or preset for their tiny whoop (if available).
-- Adjust rate and expo settings and feel the difference in flight.
-- Configure a basic on–screen display (OSD) with voltage and timer.
-- Complete short, safe test flights.
+- Use VelociDrone for beginner launch, hover, turn, and landing practice.
+- Explain the difference between the radio-control link and the analog FPV video link.
+- Configure a basic OSD with battery voltage and timer.
+- Follow a safe indoor channel and pilot-area routine.
+- Complete short first flights with control and safe landing habits.
 
 ---
 
 ## Instructor Prep
 
-- Decide on a baseline preset or tune for your fleet (or at least for your demo rig).
 - Prepare a simple indoor track:
-  - Cones, chairs, gates, tape on the floor, etc.
+  - cones, chairs, gates, tape on the floor, etc.
 - Make sure you have at least one fully working whoop you can demo with.
+- Decide on an indoor VTX power and channel plan before class if more than one whoop will be powered.
 
 ---
 
@@ -29,6 +30,7 @@ By the end of this session, students will:
 
 - Student quads and radios
 - Laptops with Betaflight Configurator
+- VelociDrone-capable machines if available
 - Indoor flight area / track
 - Optional: FPV goggles
 
@@ -41,53 +43,45 @@ By the end of this session, students will:
 - Revisit:
   - Radio on before battery.
   - Props stay off on the bench.
+  - Pilot area and spectator area stay separate.
 - Ask a few students to summarize:
-  - What ARM and ANGLE modes do.
+  - What ELRS is doing.
+  - What the VTX is doing.
 
-### 0:10–0:30 – Presets & Baseline Tune
+### 0:10–0:30 – VelociDrone Warm-Up
 
-On the projector:
+- Connect a radio as a USB controller if that is part of your setup.
+- Run a short sequence:
+  - arm
+  - lift
+  - hold a hover
+  - turn
+  - land
+- If students have mixed ability, let beginners stay on hover/turn drills while advanced students run simple gates.
 
-- Show how to access Betaflight presets (if available for your version).
-- Explain why presets are useful:
-  - They encode the experience of many pilots and many test flights.
-- Apply a tiny–whoop–appropriate preset to your demo quad.
+### 0:30–0:45 – Analog FPV Basics
 
-Students:
+On the projector or board:
 
-- If presets are available for their target:
-  - Apply an appropriate whoop preset under your guidance.
-- If presets are not available:
-  - Start from the stock tune and focus on rates and OSD today.
+- Explain the analog chain:
+  - camera -> VTX -> goggles / receiver
+- Explain why this is different from the ELRS control link.
+- Set norms:
+  - use low VTX power indoors
+  - know your channel before powering multiple whoops
+  - do not assume "more power" is better in a classroom
 
-### 0:30–1:00 – Rates & Expo as “Character Controls”
+If your fleet includes Air65-style hardware, note that a typical beginner setup may default to **25 mW** indoors and should stay conservative unless there is a real reason to change it.
 
-On the PID / Rates tab:
-
-- Show one rate profile on the projector.
-- Demonstrate:
-  - Higher rates = more sensitive, faster flips and rolls.
-  - Lower rates = smoother, more cinematic.
-- Introduce expo:
-  - Softer center stick for finer control, especially for beginners.
-
-Students:
-
-1. Set up **Profile 1** as a “gentle” set of rates.
-2. Set up **Profile 2** as a “spicier” set of rates.
-3. Save their settings and note which profile is active.
-
-Encourage students to write down or screenshot their starting values.
-
-### 1:00–1:20 – OSD Basics
+### 0:45–1:00 – OSD Basics
 
 On the projector:
 
 - Open the **OSD** tab.
 - Enable at least:
-  - Main voltage.
-  - Flight time or timer.
-  - An arming indicator or warning.
+  - main voltage
+  - flight time or timer
+  - an arming indicator or warning
 
 Students:
 
@@ -96,37 +90,40 @@ Students:
 
 Explain that this information helps them decide when to land and whether something is wrong in flight.
 
-### 1:20–1:50 – Short Test Flights
+### 1:00–1:15 – Flight Area Briefing
+
+- Walk the class through the track.
+- Define:
+  - takeoff area
+  - landing area
+  - pilot line
+  - spectator area
+  - no-fly directions and stop commands
+
+### 1:15–1:50 – First Controlled Flights
 
 In the flight area:
 
-- Establish a clear pilot area and spectator area.
-- One at a time (or a few at once, if space allows), students:
-  - Take short flights through the track.
-  - Try both Rate Profile 1 and Profile 2 (if safe to do so).
-  - Pay attention to:
-    - How quickly the quad responds.
-    - How readable the OSD is.
+- One at a time or in carefully spaced pairs, students:
+  - arm safely
+  - lift into a stable hover
+  - complete a short pattern or partial lap
+  - land and disarm cleanly
 
-In between flights, ask reflection questions:
-
-- “Which profile felt more comfortable?”  
-- “Was it easier to control pitch or roll?”  
-- “Did you notice your battery voltage dropping as you flew?”
+Students may fly line-of-sight first, then use FPV if they are ready and your room setup supports it.
 
 ### 1:50–2:00 – Wrap & Exit Ticket
 
 Students jot down:
 
-- Which rate profile they currently prefer and why.
-- One change they might try next session to improve control.
+- What felt easier in the simulator than in the real room.
+- What OSD element helped the most.
+- Whether line-of-sight or FPV felt more manageable today.
+- One safety habit they need to keep practicing.
 
 ---
 
 ## Notes & Variations
 
-- If flight space is tight, you can:
-  - Use a very simple track (just hover boxes or gentle figure–eights).
-  - Have students fly line–of–sight first, then switch to FPV if appropriate.
-- If students are nervous, allow them to “buddy fly”:
-  - One student at the sticks, one student reading OSD info aloud.
+- If students are nervous, use hover boxes or short gate-to-gate moves instead of full laps.
+- If the room is small, focus on smooth takeoff, short controlled motion, and landing rather than speed.

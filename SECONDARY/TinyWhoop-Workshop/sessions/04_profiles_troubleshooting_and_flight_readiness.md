@@ -1,6 +1,6 @@
-# Session 4 – Profiles, Troubleshooting & Flight Readiness
+# Session 4 – Rates, Presets & Flight Feel
 
-**Theme:** Leaving with a whoop that feels like yours.  
+**Theme:** Turning sliders into feelings.  
 **Duration:** 90–120 minutes
 
 ---
@@ -9,20 +9,18 @@
 
 By the end of this session, students will:
 
-- Save a “final” backup of their preferred tune.
-- Recognize common arming flags and basic error states.
-- Work through a structured troubleshooting process.
-- Draft and practice a personal pre–flight checklist.
-- Demonstrate safe, intentional operation of their whoop.
+- Apply a sensible baseline tune or preset for their tiny whoop if available.
+- Adjust rate and expo settings and feel the difference in flight.
+- Compare at least two rate profiles.
+- Explain how a more gentle profile differs from a more aggressive one.
 
 ---
 
 ## Instructor Prep
 
-- Prepare a demo rig with one or two intentional problems:
-  - Wrong motor order or motor direction.
-  - Mode set up incorrectly so it will not arm.
-- Print or share `materials/Preflight_Checklist_student.md`.
+- Decide on a baseline preset or tune for your fleet or at least for your demo rig.
+- Prepare a simple indoor track for comparison flights.
+- Make sure you have at least one fully working whoop you can demo with.
 
 ---
 
@@ -30,98 +28,85 @@ By the end of this session, students will:
 
 - Student quads and radios
 - Laptops with Betaflight Configurator
-- Indoor flight area
-- Printed checklists or notebooks
+- Indoor flight area / track
 
 ---
 
 ## Schedule (example for 2 hours)
 
-### 0:00–0:15 – Warm–Up & Status Check
+### 0:00–0:10 – Safety & Recap
 
+- Revisit:
+  - pilot area discipline
+  - low-power indoor VTX habits
+  - safe takeoff and landing sequence
 - Ask students:
-  - “How is your whoop flying after last time?”
-  - “What setting change helped the most?”
-- Have each student quickly connect to Betaflight to confirm:
-  - Receiver is responding.
-  - Modes look correct.
-  - OSD elements are still where they left them.
+  - What felt too sensitive or too sluggish in Session 3?
 
-### 0:15–0:35 – Final Backup & Profiles
+### 0:10–0:25 – VelociDrone Warm-Up
 
-Students:
+- Run short launch, turn, and landing drills in VelociDrone.
+- If possible, mirror the shape of the real track students will fly later.
 
-1. Connect their whoop.
-2. Save a new backup with a meaningful name:
-   - e.g., `studentname-whoop1-final-tune.json`
-3. Note which rate profile they are using as their default.
-4. Optionally, take a screenshot of the PID / Rates tab.
+### 0:25–0:45 – Presets & Baseline Tune
 
-Explain that this backup is like a “restore point” they can return to after future experiments.
+On the projector:
 
-### 0:35–1:05 – Troubleshooting Clinic
-
-On the projector, use your intentionally broken demo rig:
-
-1. Show a problem (e.g., the quad arm but flips immediately).
-2. Ask students to hypothesize the cause.
-3. Walk through a systematic process:
-   - Check Setup tab for orientation.
-   - Check Motors tab for correct motor numbering and direction.
-   - Check Receiver and Modes tabs for correct switch behavior.
-   - Check arming flags or warnings on the Setup tab.
-
-Then, invite students to:
-
-- Share any issues their own quads have had.
-- Pair up to diagnose with your supervision.
-
-Encourage them to narrate their reasoning:
-- “I’m checking the Receiver tab first because…”
-- “If it won’t arm, I’m going to look at the arming flags next…”
-
-### 1:05–1:35 – Pre–Flight Checklist Drafting
-
-Hand out or display `materials/Preflight_Checklist_student.md` as a template.
+- Show how to access Betaflight presets if available for your version.
+- Explain why presets are useful:
+  - they encode a tested starting point
+  - they are not magic
+  - you still need backups before major changes
 
 Students:
 
-1. Customize the checklist for their own habits and hardware.
-2. Include:
-   - Before plugging in (radio on, area clear, battery check).
-   - After plugging in (link verified, OSD info visible).
-   - Before arming (modes correct, arming switch known).
-   - After landing (battery unplugged, pack cooled, quad inspected).
+- Apply an appropriate tiny-whoop preset under guidance if one fits their hardware.
+- If presets are not available, keep the stock tune and focus on rates today.
 
-Have a few students read aloud one line they added or changed.
+### 0:45–1:15 – Rates & Expo as "Character Controls"
 
-### 1:35–1:55 – Demonstrations
+On the PID / Rates tab:
 
-If space and safety allow:
+- Show one rate profile on the projector.
+- Demonstrate:
+  - higher rates = faster response
+  - lower rates = calmer response
+  - expo = softer center stick for fine control
 
-- Have each student perform a short demonstration:
-  - Use their checklist.
-  - Arm, take a brief controlled flight, and land.
-  - Disarm and unplug safely.
+Students:
 
-If flight is not possible, they can:
+1. Set up **Profile 1** as a "gentle" set of rates.
+2. Set up **Profile 2** as a "spicier" set of rates.
+3. Save their settings and note which profile is active.
 
-- Walk through the checklist and show in Betaflight that everything is configured as expected.
+Encourage students to write down or screenshot their starting values.
 
-### 1:55–2:00 – Closing Reflection
+### 1:15–1:50 – Comparison Flights
 
-Invite students to share:
+In the flight area:
 
-- One thing they now understand about Betaflight that felt mysterious before.
-- One experiment they might try in the future (e.g., different rates, designing a new track, trying a simulator).
+- Students fly short, controlled patterns with both profiles if safe to do so.
+- Keep the comparison simple:
+  - one takeoff
+  - one or two gates or turns
+  - one landing
 
-Thank them and encourage them to keep good backups and good habits as they keep flying.
+Reflection prompts between flights:
+
+- Which profile feels easier to hold steady?
+- Which one feels twitchy?
+- Which one would you trust on race day right now?
+
+### 1:50–2:00 – Wrap & Exit Ticket
+
+Students jot down:
+
+- Which rate profile they currently prefer and why.
+- One change they might try next time to improve control.
 
 ---
 
 ## Notes & Variations
 
-- If many students are still in the troubleshooting phase, devote more time to pair–work and less to flying.
-- For more advanced groups, you can:
-  - Introduce blackbox logging if their hardware supports it.
-  - Explore more advanced tuning concepts or custom OSD layouts.
+- If students are very new, stay conservative and avoid huge rate differences.
+- If room space is tight, compare profiles on hover, launch, and one clean turn rather than full laps.
