@@ -30,10 +30,10 @@ Tester:
 - [ ] The team can explain the reset in a few short steps.
 - [ ] Needed reset materials are nearby.
 
-## User understanding
+## Public use
 
 - [ ] A visitor understands what to do without a long explanation.
-- [ ] The visitor understands what the project is for.
+- [ ] The visitor understands who the project is for or what it is about.
 - [ ] The visitor can describe what happened after using it.
 
 ## Repeated use
@@ -41,6 +41,12 @@ Tester:
 - [ ] The project survives repeated use.
 - [ ] The project still works after 3 tries.
 - [ ] The project still works after 5 tries.
+
+## Showcase readiness
+
+- [ ] The station is easy to approach.
+- [ ] The labels help instead of confuse.
+- [ ] The team can host and reset the project calmly.
 
 ## What failed or got confusing?
 

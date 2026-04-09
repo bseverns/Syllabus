@@ -2,56 +2,60 @@
 
 ## Core principle
 
-Build Your Block works best when every student has a real job, a reachable entry point, and room to grow. Differentiate by changing the size of the task, the amount of scaffolding, the mode of explanation, or the technical complexity, not by deciding that some students get the "real" project and others do not.
+Build Your Block works when every student has a real entry point, a real job, and room to grow. Differentiate by changing the size of the task, the level of scaffolding, the documentation mode, or the technical complexity, not by deciding that some students get the “real” project and others do not.
 
-## Low-floor / high-ceiling design
+## Mixed-age intensive design
+
+In a 7-week intensive:
+
+- younger students need fast visible wins and strong repetition
+- older or faster students need deeper challenge, not helper duty
+- everyone needs project ownership early
+- long sessions require planned movement, role changes, and internal resets
+
+## Low-floor / high-ceiling moves
 
 Every week should offer:
 
-- one small version that works quickly
-- one extension that increases complexity or design quality
-- room for student style, neighborhood connection, and explanation
-- more than one way to document learning
-
-## Mixed-age grouping principles
-
-- group by shared project interest when possible
-- avoid pairing every younger student with the oldest student automatically
-- avoid making older or faster students permanent helpers
-- rotate roles so technical work, testing, documentation, and speaking are shared
-- regroup if one student becomes the only builder or the only explainer
+- one smaller version that works quickly
+- one extension that deepens the work
+- room for neighborhood connection and personal style
+- more than one way to document understanding
 
 ## Younger-leaning supports
 
 - pre-cut templates
 - shorter build menus
-- visible examples
-- sentence starters
+- one clear technical target at a time
 - picture checklists
-- adult or peer modeling of one step at a time
+- sentence starters
 - spoken reflection instead of writing when needed
+- adult or peer modeling of one step at a time
 
 ## Older/faster extensions
 
 - compare two designs and justify a choice
 - add a second system after the first works
-- improve clarity, reliability, or user experience
-- document version changes with more precision
-- refine public explanation for a real audience
+- improve reliability, clarity, or audience use
+- create a stronger explanation or systems map
+- refine station flow, signage, or reset routine
 
-The extension should deepen the work, not turn the student into unpaid classroom support.
+The extension should deepen their work, not turn them into assistant staff.
 
-## Dignified low-floor moves
-
-Low-floor does not mean childish or incomplete. It means the task is focused and teachable.
-
-Examples:
+## Dignified low-floor examples
 
 - one reliable LED and one clear switch
-- one motor behavior tested several times
-- one input and one output explained clearly
-- one short coded behavior with a strong verbal explanation
-- one reinforced weak point plus a reset routine
+- one motor behavior tested repeatedly
+- one obvious input and one obvious output
+- one short coded behavior with a clear explanation
+- one sturdy, understandable prototype rather than a crowded unfinished one
+
+## Long-session differentiation moves
+
+- break one long task into two sprint goals
+- let students switch roles between sprint 1 and sprint 2
+- offer a short reset or movement choice before attention drops
+- use gallery walks and partner tests as energy resets, not only as formal assessments
 
 ## Documentation differentiation
 
@@ -60,44 +64,32 @@ Students can show learning through:
 - photos
 - arrows and labels
 - audio notes
-- short interviews
-- live demos
+- partner interviews
 - quick writing
 - diagrams
+- live demos
 
-Do not require the same reflection mode from every student every week.
+Do not require the same documentation mode from every student every week.
 
-## Multilingual and low-language supports
+## Grouping principles
 
-- keep key maker words visible
-- allow explanation in multiple languages when possible
-- accept gestures, pointing, and diagrams as part of explanation
-- use icons for input, output, test, fix, audience, and reset
-- let students rehearse with a partner before whole-group sharing
+- group by shared project direction when possible
+- do not automatically pair the youngest student with the oldest student
+- rotate roles so building, testing, documenting, and speaking are shared
+- regroup if one student becomes the only technical worker or the only speaker
 
 ## Common pitfalls
 
 - older students getting drafted into teaching instead of extending their own work
 - younger students getting over-helped and losing ownership
-- one student becoming the only person who touches the electronics or code
-- "fast finishers" adding random features instead of improving clarity or reliability
+- “fast finishers” adding random features instead of strengthening the project
+- long sessions becoming endurance contests instead of paced studio time
 - assuming writing is the best or only way to document understanding
 
 ## One-adult room moves
 
-- offer two clear paths, not five
-- keep the extension self-directed with challenge cards or posted prompts
-- use visible role rotation on team projects
-- let students choose spoken or visual documentation
+- offer two clear paths, not many
+- keep extensions visible and self-directed
 - shorten demos and expand build time
-
-## Course-phase reminders
-
-### Weeks 1–6
-Differentiate by technical complexity and level of scaffolding.
-
-### Weeks 7–10
-Differentiate by project size, planning support, and number of systems.
-
-### Weeks 11–16
-Differentiate by durability, clarity, leadership in presentation, and depth of reflection.
+- use role cards and status cards to distribute attention
+- choose the simplest documentation mode that still preserves continuity

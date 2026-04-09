@@ -2,7 +2,7 @@
 
 ## Core operating principle
 
-Keep the room predictable, the build goals visible, and the backup path ready. This course gets stronger when students feel the routine is stable even if the materials or tech are not.
+Keep the room predictable, the session rhythm visible, and the capstone thread alive from the first week. In a 7-week intensive, students need to feel that every session advances real project work.
 
 ## Room setup
 
@@ -12,50 +12,71 @@ Create distinct zones:
 - tool and materials table
 - electronics testing station
 - build tables
-- project parking or storage shelf
+- project parking shelf or carts
 - documentation wall or capture station
 - repair / fast-fix bin
 
-Use the same zones every week if possible. Mixed-age groups do better when they do not have to relearn the room.
+Use the same zones every week if possible.
+
+## Long-session pacing
+
+Each 2.5-hour session should include:
+
+- 10–15 min launch / prompt
+- 10–15 min mini-demo
+- 45–55 min build sprint 1
+- 10 min movement / snack / water / reset
+- 45–55 min build sprint 2
+- 20–25 min share / document / cleanup / park
+
+Do not use the whole block as one continuous build stretch. Younger students especially need an internal reset.
+
+## Energy management
+
+- keep demos short and concrete
+- use the mid-session reset on purpose
+- shift students from floor to table or table to gallery moment when energy drifts
+- protect the final 20 minutes so cleanup and parking do not collapse
+- during late prototype weeks, schedule one short whole-room pause before sprint 2 to reset attention
 
 ## Weekly prep rhythm
 
 ### Before the week starts
-- read the weekly file and highlight the fastest successful build
-- pull only the must-have materials first
-- test batteries, LEDs, motors, sensors, Makey Makey clips, and any coding devices
+- read the week file and highlight the fastest successful build
+- pull must-have materials first
+- pre-test batteries, LEDs, motors, sensors, and any coding devices
 - choose the backup plan before class begins
-- pre-label storage bins or folders for each student or team if projects will carry over
+- prep storage bins or folders for each student or team
 
-### Before each class day
-- set out the demo example and one half-finished example
-- lay out materials in trays, not in one crowded pile
-- confirm chargers, logins, and power access before students arrive
-- post the warm-up and the build target
+### Before each session
+- set out one demo example and one half-finished example
+- post the launch prompt and sprint targets
+- lay materials out in trays, not one large pile
+- make sure the fast-fix bin is ready
 
-### After each class day
+### After each session
 - do a 5-minute project parking reset
 - replace dead batteries and return tested electronics to a known spot
-- move one photo or note into the documentation record
-- write down any material shortage before the next day
+- move one photo, note, or quote into the documentation record
+- write down what the first move should be next session
 
-## Project storage for multi-week builds
+## Project storage and parking
 
-- give every student or team a named bin, tray, or folder by Week 7
-- keep loose electronics in a smaller labeled bag inside the main bin
-- tape a status card to the outside: working now, broken, missing part, next step
-- store fragile upright builds on a separate shelf, not in deep bins
-- keep labels and planners with the project, not in a separate pile
+- give every student or team a named bin, tray, or folder by the end of Week 1
+- keep loose electronics in smaller labeled bags inside the main bin
+- use a session parking card on every in-progress project by Week 3
+- store fragile upright builds on a shelf, not in deep bins
+- keep labels, diagrams, and planners with the project, not in another stack
 
-The storage system matters. A strong project can be lost in two messy transitions.
+Long sessions generate more materials spread. Strong project parking is not optional.
 
 ## Electronics testing habits
 
-- test batteries before class, not during the first student build attempt
-- keep a cup marked `tested` and a cup marked `needs checking`
-- pre-test LEDs, motors, and clip leads for the demo set
-- if a device or board is unreliable, remove it from rotation instead of hoping it works later
-- teach the same fast test order repeatedly: power source, orientation, connection, trigger, retry
+- test batteries before class, not during the first student attempt
+- keep one `tested` bin and one `needs checking` bin
+- pre-test the demo set
+- if a board or device is unreliable, remove it from rotation
+- teach the same fast check order every time: power source, orientation, connection, trigger, test again
 
 ## Fast-fix system
 
@@ -65,60 +86,48 @@ Keep one visible repair bin stocked with:
 - extra LEDs
 - copper tape
 - masking tape
-- glue sticks and one working glue gun
+- glue and glue sticks
 - zip ties or velcro dots
 - markers and labels
-- spare clips, wires, and cardboard patches
+- spare clips, wires, cardboard patches
 
-Post a short repair sequence:
+Post a short repair routine:
 
 1. Name the problem.
 2. Check the simplest cause first.
 3. Swap one thing.
 4. Test again.
-5. Record what changed.
+5. Record the next step.
 
-## Mixed-age facilitation moves
+## Early capstone operations
 
-- give choice between a smaller reliable path and a stronger extension
-- keep demos short and concrete
-- use role cards for shared work: builder, tester, recorder, reset lead, host
-- rotate roles instead of leaving one student permanently on materials or writing
-- do not treat older students as backup staff for the room
+Because capstones start early in this intensive:
 
-## When only one adult is available
+- keep a wall of neighborhood issues, joys, memories, and project sparks during Weeks 1–2
+- conference with students about project direction by the end of Week 2
+- require a chosen audience and first testable version in Week 3
+- start project parking and status tracking before prototype week, not during it
 
-- narrow the build target to the fastest successful build
-- reduce station count instead of trying to supervise everything at once
-- pre-bag materials by table
-- use table captains for cleanup, not for teaching
-- run one visible help queue so students are not chasing the adult around the room
-- keep one strong offline backup for any tech-heavy day
+## Keeping sound and motion work structured
 
-One adult can run the course, but only if the weekly target stays tight.
-
-## Keeping motion and sound weeks from becoming chaos
-
-### Motion week
+### Motion
 - define test lanes before students begin
-- test in short turns, not all-room roaming
-- require a parked project position on tables
+- test in short turns, not free-for-all roaming
+- require projects to return to a parked position after testing
 - keep loose wheels, weights, and motors in trays
 
-### Sound week
+### Sound
 - model quiet test, medium test, and performance volume
 - run table-by-table sound checks
-- set one quiet corner for students who need a calmer path
-- pause whole-group noise and reset it if the room drifts
+- keep one quieter corner active for students who need it
+- pause the room and reset norms when noise drifts
 
-## Showcase preparation starts early
+## Showcase preparation in an intensive format
 
-- Week 8: start storage, labels, and status tracking
-- Week 10: start systems diagrams and clearer parts naming
-- Week 11: start reset routines and durability thinking
-- Week 12: start public explanation and label drafting
-- Week 13: capture real user feedback for later speaking points
-- Week 14: photograph near-final work
-- Week 15: rehearse the room, not only the project talk
+- Week 3: start audience and use-case language
+- Week 4: label parts and protect prototype storage
+- Week 5: build reset thinking and clearer interfaces
+- Week 6: run testing, station design, and soft-opening logic
+- Week 7: install, host, document, and deinstall
 
-The showcase should feel like the end of a process students have been building toward for weeks, not a surprise event dropped on top of the class.
+The shorter calendar means showcase thinking must begin while prototypes are still rough.

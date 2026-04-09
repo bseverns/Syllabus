@@ -3,37 +3,38 @@
 
 **Partner site:** Urban Ventures, Minneapolis  
 **Provider:** createMPLS  
-**Format:** 16-week neighborhood maker course  
+**Format:** 7-week neighborhood invention intensive  
 **Audience:** Grades 3–7  
-**Duration:** 16 weeks, 4 class days per week, recommended 60–75 minutes each
+**Schedule:** 4 class days per week, 2.5 hours per session  
+**Total:** 28 sessions, 70 contact hours
 
 ---
 
 ## Course description
 
-In **Build Your Block**, students become inventors, artists, and problem-solvers. They build projects that light up, move, make sound, respond to input, and tell stories about the places they know. Early weeks focus on maker building blocks such as circuits, motion, sound, sensing, and coding. The middle of the course turns those skills toward neighborhood problem-finding and capstone planning. The final stretch focuses on prototype, revision, durability, communication, testing, rehearsal, showcase, and reflection.
+In **Build Your Block**, students become inventors, artists, and neighborhood problem-solvers. They build projects that light up, move, make sound, respond to input, and communicate something about the places and people around them. The course is designed as a **studio-intensive**, not a slow sampler. Students enter quickly into real making, seed neighborhood project ideas from the first week, choose a capstone direction early, and then spend the middle and final weeks in prototype, revision, testing, explanation, installation, and public sharing.
 
-The course stays hands-on, process-driven, and public-facing. Students are not only learning how tools work. They are learning how to test ideas, fix what breaks, explain decisions, and make something meaningful for other people.
+This version keeps the same Build Your Block values while changing the time structure. Students are still learning technical skills, but those skills are always tied to audience, place, and public use.
 
 ---
 
 ## Core promise
 
-Students leave the course having:
+Students leave the intensive having:
 
-1. built real working artifacts across multiple media
-2. practiced revision instead of chasing perfection on the first try
-3. connected invention to neighborhood life, memory, joy, and possibility
-4. contributed to a public showcase of community-rooted projects
+1. built working artifacts with multiple maker systems
+2. developed and revised a neighborhood-rooted public project
+3. practiced testing, repair, and explanation as part of the work
+4. presented their work to an audience
 
 ---
 
 ## Essential questions
 
 - What can we build with the tools and materials around us?
-- How do light, motion, sound, sensing, and code become building blocks for expression and public use?
-- How do ideas get stronger through testing and revision?
-- What can invention say about a neighborhood?
+- How do light, motion, sound, sensing, and code become building blocks for public experience?
+- What makes a neighborhood project feel useful, joyful, memorable, or inviting?
+- How do ideas get stronger through testing, revision, and repeated use?
 - How do we make projects that other people can understand and use?
 
 ---
@@ -42,12 +43,12 @@ Students leave the course having:
 
 Students will:
 
-1. identify and safely use a range of maker materials and tools
-2. construct basic working systems using electricity, motion, sound, sensing, and code
-3. collaborate in pairs or small groups without one student taking over all technical work
-4. document process through photos, diagrams, spoken explanation, or short written reflection
-5. revise projects after testing for function, clarity, and durability
-6. produce and present a final project rooted in neighborhood experience, imagination, or need
+1. safely use a range of maker materials and tools
+2. build with light, motion, sound, sensing, and simple code in visible ways
+3. connect project decisions to neighborhood need, joy, memory, or future possibility
+4. document process through photos, diagrams, spoken explanation, short writing, or audio
+5. revise work for durability, clarity, and audience use
+6. produce and present a final project for families, peers, staff, or community visitors
 
 ---
 
@@ -57,133 +58,103 @@ Students will:
 - We test before we judge.
 - We help without taking over.
 - We leave traces so others can learn from our work.
-- We make room for many kinds of ideas, voices, and build paths.
+- We build for people, not only for ourselves.
 
 ---
 
 ## Assessment philosophy
 
-Assessment in this class is based on participation, experimentation, revision, communication, and care rather than perfection. Students are evaluated through observation, build artifacts, documentation, reflection, and the ability to explain what changed.
+Assessment in this class is based on participation, experimentation, revision, communication, and care rather than perfection. In a faster intensive, the most important evidence is continuity: students keep moving a project forward, keep documenting what changed, and keep making decisions with audience and place in mind.
 
 ### Evidence of learning
 
-- weekly build participation
+- visible weekly builds and prototype versions
 - safe tool and materials use
-- willingness to test and revise
+- willingness to test, repair, and revise
 - collaboration and role-sharing
-- verbal, visual, audio, or written reflection
-- final showcase presentation
+- verbal, visual, audio, or written documentation
+- final showcase presentation and reflection
 
-See [ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) for weekly look-fors and documentation modes.
-
----
-
-## Weekly sequence
-
-### Weeks 1–6: Build the maker toolkit
-
-**Week 1 — Welcome to the Lab**  
-Room routines, first-build success, and visible making on day one.
-
-**Week 2 — Light**  
-Circuits, switches, and how light can communicate safety, celebration, and story.
-
-**Week 3 — Motion**  
-Motors, balance, movement, and how behavior changes meaning.
-
-**Week 4 — Sound**  
-Playable, responsive, and expressive sound systems.
-
-**Week 5 — Sensing and Reacting**  
-Inputs, outputs, triggers, and readable cause-and-effect.
-
-**Week 6 — Coding Without Fear**  
-Code as instructions and another way to shape visible behavior.
-
-### Weeks 7–10: Turn building blocks toward neighborhood capstones
-
-**Week 7 — Neighborhood Problem-Finding**  
-Observation, idea generation, and project selection.
-
-**Week 8 — Prototype 1**  
-First rough build focused on the smallest version worth testing.
-
-**Week 9 — Prototype 2**  
-Repair, revision, and clearer short-term priorities.
-
-**Week 10 — Combine Systems**  
-Bring multiple technical building blocks together without losing clarity.
-
-### Weeks 11–16: Prepare projects for public use and public sharing
-
-**Week 11 — Make It Durable**  
-Reinforce structure, wiring, and repeat-use reliability.
-
-**Week 12 — Make It Understandable**  
-Titles, labels, diagrams, instructions, and clearer public communication.
-
-**Week 13 — Neighborhood Testing**  
-Gather real user feedback and revise from evidence.
-
-**Week 14 — Rehearsal and Polish**  
-Practice speaking, improve finish, and tighten the visitor experience.
-
-**Week 15 — Showcase Setup**  
-Install projects, solve logistics, and rehearse the room.
-
-**Week 16 — Showcase and Reflection**  
-Present work publicly and reflect on process, growth, and next steps.
+See [ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) for weekly look-fors and session-based documentation modes.
 
 ---
 
-## Weekly structure
+## 7-week arc
 
-Each week follows the same four-day arc:
+### Week 1 — Studio Entry: Light, Motion, and Neighborhood Sparks
+Students learn room routines, experience first-build success, and begin imagining how technical building blocks might belong in neighborhood projects.
 
-- **Day 1 — Launch and explore:** question, demo, first test, neighborhood or audience connection
-- **Day 2 — Build the core skill:** guided construction or revision around the week’s main mechanism
-- **Day 3 — Extend and personalize:** design choices, audience focus, or feature growth
-- **Day 4 — Share, document, and connect:** peer feedback, explanation, reflection, cleanup, and next-step planning
+### Week 2 — Interaction Lab: Sound, Sensing, Code, and Choice
+Students explore interaction and audience response while narrowing possible project directions.
 
-Each class day should still include:
+### Week 3 — Neighborhood Project Planning and Mockups
+Students define audience, purpose, and public use, then choose a project direction and test a first small mockup.
 
-- a short opening question or challenge
-- a concrete demo
-- protected build time
-- documentation or verbal reflection
-- cleanup routines that students can own
+### Week 4 — Prototype Sprint I
+Students build the first working version of a capstone project and answer core technical questions early.
+
+### Week 5 — Prototype Sprint II: Durability and Clarity
+Students strengthen what works, improve public readability, and start planning for repeated use.
+
+### Week 6 — User Testing, Revision, and Showcase Design
+Students test with real users, revise from evidence, and design the final station, reset routine, and project explanation.
+
+### Week 7 — Installation, Showcase, Reflection, and Archive
+Students install, present, document, reflect, and leave behind a visible record of the work.
+
+---
+
+## Session structure
+
+Each **2.5-hour class session** should contain a full studio cycle:
+
+- launch / prompt
+- short demo
+- build sprint 1
+- break, movement, and room reset
+- build sprint 2
+- share, documentation, cleanup, and project parking
+
+This course no longer depends on very short daily periods. Every session should feel substantial, paced, and physically manageable for grades 3–7.
 
 ---
 
 ## Mixed-age implementation
 
-This course is written for real mixed-age rooms. Each weekly plan includes:
+This course is designed for real mixed-age rooms. Each week includes:
 
-- a clear younger-leaning path
-- a stronger older/faster extension
-- a tech-failure backup plan
+- a younger-leaning path
+- an older/faster extension
+- a fastest successful build
+- a tech-failure backup
 - a documentation target
-- concrete signals of what success looks and sounds like that week
+- clear signals of what success looks and sounds like
 
-The goal is not to make older students into unpaid assistants. The goal is to keep every student doing meaningful work at an appropriate level of complexity.
+The goal is not to make older students into unpaid assistants. The goal is to keep every student doing meaningful studio work.
 
 ---
 
-## Materials and adaptation
+## Materials and platform choices
 
 See [MATERIALS_AND_EQUIPMENT.md](docs/MATERIALS_AND_EQUIPMENT.md) for the full materials list.
 
-For lower-resource sites, see [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). The course can still run well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and limited coding access.
+This intensive works best when a site narrows tool sprawl:
+
+- choose **one** coding platform if coding is used
+- keep build menus tighter than in a long semester
+- protect continuity by reducing platform switching
+
+For lower-resource sites, see [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md).
 
 ---
 
 ## Showcase outcome
 
-By the end of the course, students or teams present a neighborhood-inspired invention, artwork, or interactive object that:
+By the end of the intensive, students or teams present a neighborhood-inspired invention, artwork, or interactive object that:
 
-- does something visible or interactive
+- does something visible or responsive
 - shows evidence of testing and revision
+- can be used or understood by visitors
 - communicates who it is for and why it matters
-- can be demonstrated to families, staff, peers, or community visitors
 
-The final showcase is not only a celebration. It is part of the curriculum.
+The public showcase is not an extra event after the curriculum. It is part of the curriculum from the beginning.

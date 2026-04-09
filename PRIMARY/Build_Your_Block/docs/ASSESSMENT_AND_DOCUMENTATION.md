@@ -2,7 +2,7 @@
 
 ## Core stance
 
-This course values process, experimentation, care, revision, and explanation. Students do not need to produce polished work every week to be successful. They do need to keep building, testing, documenting, and making decisions that move the work forward.
+This course values process, experimentation, care, revision, and explanation. In a 7-week intensive, the main question is not “Did the project get perfect?” The main question is “Did the student keep making, testing, documenting, and strengthening the work over time?”
 
 ## What to assess
 
@@ -14,27 +14,34 @@ This course values process, experimentation, care, revision, and explanation. St
 5. Communication and documentation
 6. Final project contribution and public sharing
 
-## Weekly look-fors
+## Intensive-format look-fors
 
-### Early build weeks
-- student starts making without long delay
-- student can name what the main part or action does
-- student tests at least once after a change
-- student leaves behind a trace: photo, sketch, audio note, diagram, or spoken reflection
+### Weeks 1–2: rapid toolkit building and project emergence
+- student enters build time without long delay
+- student can name what a tool or system does
+- student can connect a technical move to a neighborhood idea or possible audience
+- student leaves a trace of work each session
 
-### Transition into capstone
-- student can name a neighborhood issue, joy, memory, or dream connected to the project
-- student can explain who the project is for
+### Week 3: project selection and planning
+- student can name who the project is for
+- student can name what the project is meant to do
 - student can identify the smallest version worth testing first
+- student helps move a chosen direction forward instead of restarting from zero
 
-### Prototype and revision weeks
+### Weeks 4–5: prototype sprints
+- student builds a working version, however rough
 - student can name what broke, confused people, or needs reinforcement
-- student makes a change based on testing instead of guessing randomly
-- student can describe the difference between one version and the next
+- student makes changes based on testing instead of random feature-adding
+- student leaves a clear next-step note for the next session
 
-### Showcase weeks
+### Week 6: testing and revision
+- student watches how real users respond
+- student can sort feedback into fix now, later, or not needed
+- student revises for clarity, durability, or audience use
+
+### Week 7: installation and reflection
 - student can explain what the project does and why it matters
-- student can help reset, host, or document the project
+- student can help host, reset, or document the project
 - student reflects on growth, challenge, and next steps
 
 ## Suggested rubric language
@@ -43,23 +50,33 @@ This course values process, experimentation, care, revision, and explanation. St
 Student participates with support, experiments with materials, and can describe some parts of the process.
 
 ### Developing
-Student completes builds, tests ideas, makes revisions, and explains how key parts work.
+Student completes builds, tests ideas, makes revisions, and explains how key parts work and who the project is for.
 
 ### Strong
-Student works independently or collaboratively with care, troubleshoots effectively, documents changes, and clearly communicates design decisions and project purpose.
+Student works independently or collaboratively with care, troubleshoots effectively, documents changes, and clearly communicates design choices, audience, and project purpose.
+
+## Session documentation system
+
+Each long session should end with a small continuity record. Use the smallest useful capture:
+
+- one photo plus one sentence
+- one audio note
+- one quick diagram
+- one project parking card
+- one status-card update
+
+The point is to preserve momentum across fewer weeks and longer sessions.
 
 ## Documentation modes
 
-Documentation should stay flexible. Every week does not need the same format.
-
 ### Short writing options
-- 1–2 sentence reflection
 - what worked / what changed / what is next
-- labeled parts list
-- one sticky note with a test result
+- one-sticky-note test result
+- parts list
+- risk or stuck point
 
 ### Low-writing options
-- quick photo with a spoken explanation
+- quick photo with spoken explanation
 - audio note
 - video clip of the project in use
 - arrows and labels on a sketch
@@ -67,57 +84,72 @@ Documentation should stay flexible. Every week does not need the same format.
 - partner interview with one recorded answer
 
 ### Visual options
-- input/output diagram
 - systems map
-- prototype sketch with revision marks
-- color-coded labels on the actual build
-- photo of the project with one caption
+- input/output diagram
+- mockup with labels
+- prototype photo marked with revision notes
+- station layout sketch
 
 ### Verbal options
 - exit interview at cleanup
-- table share-out
 - one-minute demo explanation
-- audio reflection recorded on a shared device
+- table share-out
+- staff-recorded quote
+
+## Continuity tools
+
+Use these repeatedly:
+
+- `CAPSTONE_PROJECT_PLANNER.md`
+- `WEEKLY_PROJECT_STATUS_CARD.md`
+- `SESSION_PARKING_AND_NEXT_STEP_CARD.md`
+- `DURABILITY_AND_USER_TEST_CHECKLIST.md`
+
+Students do not need to fill every tool every day. Staff should choose the lightest tool that preserves continuity.
 
 ## When writing stamina is low
 
-Use the smallest useful capture:
+Use:
 
-- one photo plus one sentence
-- one diagram plus one spoken note
-- one checklist plus one quote from the student
+- one photo plus one spoken note
+- one sketch plus arrows
+- one checklist plus one quote
+- one partner interview
 
-The goal is not paperwork. The goal is a visible trace of thinking and change over time.
+The goal is not paperwork. The goal is a visible trace of thinking and change.
 
 ## Multilingual and low-language supports
 
 - offer sentence stems, icons, arrows, and labels
-- allow students to explain in their home language, then add one translated keyword if possible
-- use partner interviews instead of solo writing when helpful
+- allow explanation in home language when possible
+- use partner interviews instead of solo writing
 - let students point to parts while speaking
 - accept photos, diagrams, gestures, and oral explanation as real evidence
-- keep project vocabulary posted and visible: input, output, test, fix, reset, audience, purpose
+- keep key words visible: audience, input, output, test, fix, reset, purpose, visitor
 
-## Staff capture routine
+## Staff capture guidance
 
-Each week, staff should try to capture:
+### Prototype weeks
+Capture:
 
-- one image of the build in progress
-- one image of the finished or current version
-- one student quote, reflection, or explanation
-- one note about what changed, broke, or improved
+- one image of the current version
+- one image of the project in use or in test
+- one note about what changed
+- one quote about what still needs work
 
-This can be done on paper, in a shared drive, or in an LMS later. The important part is consistency, not the platform.
+### Testing week
+Capture:
 
-## Showcase capture
+- one user interaction photo or note
+- one misunderstanding or confusion point
+- one revision that came from testing
+- one note about durability or reset
 
-During the showcase, staff should capture:
+### Showcase week
+Capture:
 
-- one photo of each project station
-- one photo of students with their project
-- one close-up of the interaction or key mechanism
+- one full station photo
+- one close-up of the key interaction
 - one student quote about purpose or revision
-- one visitor response, question, or reaction
-- one note about what held up well and what needed reset or repair
-
-That material supports reflection, future planning, partner communication, and program storytelling.
+- one visitor response
+- one note about what held up well and what needed help

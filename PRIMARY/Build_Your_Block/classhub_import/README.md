@@ -1,6 +1,6 @@
 # ClassHub Import Notes
 
-These files package `Build Your Block` for the ClassHub syllabus ingest flow while staying aligned with the stronger repo-native course package.
+These files package `Build Your Block` for the ClassHub syllabus ingest flow while staying aligned with the current **7-week intensive** version of the course.
 
 ## Files
 
@@ -22,31 +22,17 @@ python3 scripts/ingest_syllabus_md.py \
 
 ## Why this layer exists
 
-The core course files are written for live facilitation. This folder keeps a smaller, stricter source format that ClassHub can ingest cleanly without flattening the course identity.
+The core repo files are written for live facilitation. This folder keeps the smaller, stricter source format that ClassHub can ingest cleanly.
 
-This import layer now mirrors the stronger package assumptions:
+This import layer now mirrors the intensive package:
 
-- one ClassHub session per course week
-- consistent weekly structure
-- mixed-age adaptations
-- clear fastest-success targets
-- tech-failure backup thinking
-- process-centered documentation
-- explicit capstone continuity
-
-## Main package references
-
-If a staff team wants the fuller implementation layer, point them to:
-
-- `../README.md`
-- `../SYLLABUS.md`
-- `../docs/MINIMUM_VIABLE_IMPLEMENTATION.md`
-- `../docs/ASSESSMENT_AND_DOCUMENTATION.md`
-- `../facilitator/IMPLEMENTATION_NOTES.md`
-- `../templates/CAPSTONE_PROJECT_PLANNER.md`
-- `../templates/WEEKLY_PROJECT_STATUS_CARD.md`
-- `../templates/DURABILITY_AND_USER_TEST_CHECKLIST.md`
+- 7 weeks
+- 28 sessions
+- 2.5-hour studio blocks
+- early capstone identity
+- narrower tool pathways
+- earlier testing, clarity, durability, and showcase logic
 
 ## Import note
 
-In this import layer, each weekly plan is treated as one ClassHub session so the LMS can ingest the full 16-week arc quickly without flattening the original four-day teaching rhythm.
+In this version, each actual studio session is treated as one ClassHub session so the LMS reflects the real pacing of the intensive.

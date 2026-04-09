@@ -6,11 +6,11 @@
 
 ## Who is this project for?
 
-## What does it do?
-
 ## What neighborhood issue, joy, memory, or dream does it connect to?
 
-## Why does this matter to you?
+## What do you want a visitor to do, notice, feel, or understand?
+
+## What does the project do?
 
 ## What systems might it use?
 - light
@@ -23,11 +23,11 @@
 
 ## What is the smallest version worth testing first?
 
-## What does the visitor do?
-
-## What do you need to build first?
+## What has to work before anything else?
 
 ## What materials do you need next?
+
+## What could make this project confusing, fragile, or hard to reset?
 
 ## Sketch or label the first version
 

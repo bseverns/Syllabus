@@ -1,60 +1,101 @@
 # Build Your Block: A Neighborhood Makers Lab
 
-Build Your Block is a 16-week neighborhood-rooted maker course for grades 3–7. Students build with light, motion, sound, sensing, simple code, cardboard construction, and everyday materials, then turn those building blocks into public-facing projects about their own block, block stories, and block futures.
+Build Your Block is a **7-week neighborhood invention intensive** for grades 3–7.
 
-This is not a generic robotics class and not only a craft class. The course treats invention as technical, expressive, collaborative, and civic. Students make visible things every week, revise them in public, and end with a neighborhood-inspired capstone showcase.
+- **7 weeks**
+- **4 class days per week**
+- **2.5 hours per class session**
+- **28 total sessions**
+- **70 total contact hours**
 
-## What students do
+Students build with light, motion, sound, sensing, simple coding, cardboard construction, and everyday materials, but they do not spend half the program waiting to start the “real” work. From the first week, they are already building toward public-facing neighborhood projects for real people.
 
-Across sixteen weeks, students:
+This is not a generic robotics camp and not only a craft class. It is a studio-intensive maker course where technical systems, story, place, audience, revision, and public use all matter.
 
-- build quick wins with circuits, motion, sound, sensing, and code
-- learn how to test, repair, explain, and improve their work
-- notice neighborhood issues, joys, memories, and dreams
-- develop capstone projects for a real audience
-- rehearse, install, present, and reflect
+## What changes in the intensive version
 
-## What makes this course work
+The course now works like a neighborhood invention studio:
 
-- the same four-day rhythm every week: launch, build, extend, share
-- low-floor, high-ceiling builds that still feel dignified in mixed-age rooms
-- process-centered assessment focused on testing, revision, and explanation
-- neighborhood grounding that keeps the capstone work public-facing and specific
-- practical backup paths for low-tech rooms, thin staffing, and uneven materials
+- toolkit building happens fast
+- neighborhood and audience thinking starts in Week 1
+- capstone directions emerge by the end of Week 2
+- prototype sprints begin in Week 4
+- durability, clarity, and user experience arrive earlier
+- showcase logic is built into the second half of the course, not saved for the end
+
+The guiding idea is:
+
+> We are already making neighborhood projects. Each new tool helps them become possible.
+
+## Studio session rhythm
+
+Each **2.5-hour session** should feel like a full studio cycle, not one long block:
+
+- launch / prompt
+- short mini-demo
+- build sprint 1
+- break / movement / reset
+- build sprint 2
+- share / document / park / cleanup
+
+Demos stay short. Build time stays protected. Cleanup and explanation stay part of the making.
+
+## Course arc
+
+- **Week 1:** welcome, first-build success, rapid entry into light and motion, neighborhood seeding
+- **Week 2:** sound, sensing, coding, interaction design, project-direction emergence
+- **Week 3:** neighborhood problem-finding, capstone planning, mockups, audience definition
+- **Week 4:** prototype sprint I
+- **Week 5:** prototype sprint II, durability, and clarity
+- **Week 6:** user testing, revision, and showcase/station design
+- **Week 7:** installation, showcase, reflection, and archive
+
+## What makes Build Your Block still feel like Build Your Block
+
+- neighborhood-rooted making
+- public-facing final work
+- low-floor / high-ceiling builds
+- visible weekly success
+- revision over perfection
+- process-centered assessment
+- mixed-age dignity
+- explanation, documentation, and cleanup as part of making
+- students building for people, not only for themselves
 
 ## Implementation snapshot
 
 - **Audience:** Grades 3–7
-- **Length:** 16 weeks
-- **Rhythm:** 4 class days per week, usually 60–75 minutes each
+- **Length:** 7 weeks
+- **Schedule:** 4 sessions per week
+- **Session length:** 2.5 hours
 - **Group size:** 12–18 is a strong target
-- **Staffing:** 1 lead facilitator; 1 assistant strongly recommended when possible
-- **Build style:** visible weekly success, steady documentation, real revision, public sharing
+- **Staffing:** 1 lead facilitator can work with a tight plan; 1 assistant is strongly recommended
+- **Platform rule:** if coding is used, choose one platform per site
 
 ## If your site has limited materials
 
-This package includes a stripped-down delivery path in [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A site can still run the course well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and very limited coding access.
+See [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A thinner site can still run the intensive well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and very limited device access.
 
 ## Package structure
 
-- [SYLLABUS.md](SYLLABUS.md) — full course overview and weekly arc
-- [curriculum/weeks/](curriculum/weeks/) — weekly plans with prep, adaptations, backup paths, and success indicators
-- [facilitator/IMPLEMENTATION_NOTES.md](facilitator/IMPLEMENTATION_NOTES.md) — room systems, prep rhythm, storage, repair, and showcase prep
-- [facilitator/DIFFERENTIATION.md](facilitator/DIFFERENTIATION.md) — mixed-age design guidance
-- [facilitator/STAFFING_AND_SCHEDULING.md](facilitator/STAFFING_AND_SCHEDULING.md) — staffing models and one-adult guidance
-- [docs/ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) — process-centered assessment and documentation options
+- [SYLLABUS.md](SYLLABUS.md) — full course overview and 7-week arc
+- [curriculum/weeks/](curriculum/weeks/) — weekly studio plans with session-by-session objectives
+- [facilitator/IMPLEMENTATION_NOTES.md](facilitator/IMPLEMENTATION_NOTES.md) — long-session pacing, storage, reset, repair, and showcase prep
+- [facilitator/DIFFERENTIATION.md](facilitator/DIFFERENTIATION.md) — mixed-age and low-floor/high-ceiling guidance
+- [facilitator/STAFFING_AND_SCHEDULING.md](facilitator/STAFFING_AND_SCHEDULING.md) — scheduling models, staffing, and one-adult moves
+- [docs/ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) — process-centered assessment and fast documentation systems
 - [docs/PARENT_FACING_DESCRIPTION.md](docs/PARENT_FACING_DESCRIPTION.md) — public-facing language
-- [docs/ONE_PAGER.md](docs/ONE_PAGER.md) — partner-ready summary
-- [templates/](templates/) — capstone, status, showcase, and weekly planning templates
+- [docs/ONE_PAGER.md](docs/ONE_PAGER.md) — partner-ready overview
+- [templates/](templates/) — capstone, status, parking, testing, and showcase tools
 - [classhub_import/](classhub_import/) — LMS-friendly import layer
 
 ## Design commitments
 
-1. Start with hands, materials, and visible action.
-2. Keep every week teachable even when staffing or tech is uneven.
-3. Give younger students real ownership and older students real challenge.
-4. Treat repair, explanation, and cleanup as part of making.
-5. Keep the neighborhood present from the first month through the final showcase.
+1. Start with visible making, not long explanation.
+2. Seed neighborhood audience and project purpose from the first week.
+3. Keep every session teachable even when tools, staffing, or devices are uneven.
+4. Narrow platform sprawl to protect momentum.
+5. Treat revision, explanation, durability, and cleanup as core studio habits.
 
 ## License
 

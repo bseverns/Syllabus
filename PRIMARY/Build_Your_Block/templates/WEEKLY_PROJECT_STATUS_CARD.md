@@ -4,16 +4,20 @@
 
 ## Team members
 
-## This week, we worked on:
+## This week's goal:
+
+## What we worked on:
 
 ## What worked:
 
-## What broke or confused people:
+## What broke, confused people, or slowed us down:
 
-## What we will do next:
+## What we changed:
+
+## What we will do next week:
 
 ## Current risk or stuck point:
 
 ## Materials needed next class:
 
-## Staff note or quick check-in:
+## Staff conference note:

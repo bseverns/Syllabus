@@ -1,43 +1,55 @@
 # Weekly Lesson Template
 
 ## Week / Theme
+## Teacher at a glance
 ## Big idea
-## Weekly learning goals
-## Weekly rhythm
-## Materials
+## Weekly goals
+## Long-session rhythm
 ## Must-have materials this week
 ## Nice-to-have materials
-## Fastest successful build
+## Fastest successful build or minimum viable output
 ## Grades 3–4 adaptation
 ## Grades 5–7 extension
 ## If tech fails, do this instead
 ## Documentation target for the week
-## This week, success looks like...
-## This week, success sounds like...
+## What success looks like
+## What success sounds like
 
-## Day 1 — Launch and explore
-### Warm-up prompt
-### Mini-demo focus
-### Build activity
-### Exit question
+## Session 1
+### Objective
+### Launch / prompt
+### Demo focus
+### Build sprint 1
+### Break / reset
+### Build sprint 2
+### Share / document / park
 
-## Day 2 — Build the core skill
-### Warm-up prompt
-### Mini-demo focus
-### Build activity
-### Exit question
+## Session 2
+### Objective
+### Launch / prompt
+### Demo focus
+### Build sprint 1
+### Break / reset
+### Build sprint 2
+### Share / document / park
 
-## Day 3 — Extend and personalize
-### Warm-up prompt
-### Mini-demo focus
-### Build activity
-### Exit question
+## Session 3
+### Objective
+### Launch / prompt
+### Demo focus
+### Build sprint 1
+### Break / reset
+### Build sprint 2
+### Share / document / park
 
-## Day 4 — Share, document, and connect
-### Warm-up prompt
-### Mini-demo focus
-### Build activity
-### Exit question
+## Session 4
+### Objective
+### Launch / prompt
+### Demo focus
+### Build sprint 1
+### Break / reset
+### Build sprint 2
+### Share / document / park
 
-## Differentiation
 ## Facilitator notes
+## Capstone continuity notes

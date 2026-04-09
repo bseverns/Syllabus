@@ -43,8 +43,7 @@
 ## Computing
 - laptops or Chromebooks
 - stable charging access
-- Scratch access
-- SPIKE app access
+- one chosen coding platform such as Scratch or SPIKE
 - projector or display for demos
 
 ## Nice-to-have extras
@@ -56,3 +55,5 @@
 
 ## Supply philosophy
 The center of the class should be rapid building and iteration, not waiting on expensive machines. Machines should support the course, not become the course.
+
+In the intensive version, narrower tool choices are a strength. If a site uses coding, choose one platform and stay consistent across the 7 weeks.

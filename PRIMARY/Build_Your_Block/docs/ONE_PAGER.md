@@ -2,46 +2,50 @@
 ## Build Your Block: A Neighborhood Makers Lab
 
 **What it is**  
-A 16-week neighborhood-rooted maker course where students build with circuits, cardboard construction, motion, sound, sensing, and simple coding, then turn those skills into public-facing capstone projects.
+A 7-week neighborhood invention intensive where students build with circuits, cardboard construction, motion, sound, sensing, and simple coding, then turn those tools into public-facing capstone projects.
+
+**Schedule**  
+7 weeks, 4 class days per week, 2.5 hours per session, 28 sessions total, 70 contact hours.
 
 **Who it is for**  
 Grades 3–7, with real mixed-age adaptations built into the weekly plans.
 
 **What students do**  
-Students make visible working projects every week, then move into neighborhood problem-finding, prototype, revision, durability, communication, testing, rehearsal, and showcase. The course ends with a community-facing event where students present neighborhood-inspired inventions.
+Students enter quickly into visible making, seed neighborhood project ideas in Week 1, narrow project directions in Week 2, choose a capstone in Week 3, and spend the second half of the intensive in prototype, revision, durability, testing, showcase design, installation, and reflection.
 
 **Why it matters**  
-This class builds technical confidence, creative voice, and public purpose at the same time. Students learn how systems work, how to repair and revise, how to explain their thinking, and how invention can respond to the places they actually know.
+This course builds technical confidence, creative voice, and public purpose at the same time. Students learn how systems work, how to repair and revise, how to explain their thinking, and how invention can respond to the places they actually know.
 
 **What makes it distinct**  
-- not only robotics and not only crafts
-- steady four-day rhythm: launch, build, extend, share
-- strong low-floor / high-ceiling design
-- visible weekly outcomes
-- process-centered assessment
-- final projects rooted in neighborhood life
+- neighborhood-rooted, public-facing projects
+- low-floor / high-ceiling session design
+- every 2.5-hour session includes a full studio cycle
+- earlier capstone identity and earlier audience thinking
+- revision, durability, and clarity built in before the final week
 
 **What makes it workable for partner sites**  
-- weekly plans include prep needs, backup plans, and mixed-age adaptations
-- course can run in high-resource or lower-resource versions
+- one coding platform per site is enough
+- weekly plans include tight prep guidance and backup plans
 - minimum viable implementation path is included
-- one coding platform is enough
-- public showcase prep starts well before the final week
+- project parking, documentation, and reset systems are built into the model
+- public showcase prep starts before the final week
 
 **Recommended staffing**  
-1 lead facilitator is workable for smaller groups.  
+1 lead facilitator can run a smaller group with tight prep.  
 1 assistant is strongly recommended for 12–18 students.
 
-**Typical weekly structure**
-- Day 1: launch and explore
-- Day 2: build the core skill
-- Day 3: extend and personalize
-- Day 4: share, document, and connect
+**Typical session rhythm**
+- launch / prompt
+- short demo
+- build sprint 1
+- break / reset
+- build sprint 2
+- documentation / cleanup / park
 
 **Typical project types**
 - light-up signs and maps
-- moving objects and sculptures
-- sound interfaces and neighborhood sound pieces
+- moving neighborhood objects
+- sound interfaces and sound sculptures
 - reactive cardboard systems
 - simple coded interactions
-- neighborhood invention prototypes
+- neighborhood invention stations for public use

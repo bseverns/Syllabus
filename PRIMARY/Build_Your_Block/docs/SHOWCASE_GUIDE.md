@@ -3,6 +3,8 @@
 ## Goal
 End the session with a public-facing celebration where students demonstrate their projects and talk about process, purpose, and learning.
 
+In the intensive version of Build Your Block, the showcase should not appear suddenly in the final days. Soft-opening, station design, reset routines, and audience explanation should begin during Week 6.
+
 ## Showcase format options
 - gallery walk
 - live demo stations
@@ -26,6 +28,7 @@ End the session with a public-facing celebration where students demonstrate thei
 - reset instructions for each project
 - staff roles assigned
 - audience flow planned
+- soft-opening or mock walkthrough completed in advance
 
 ## Student speaking prompts
 - Welcome to our project.
@@ -42,3 +45,8 @@ Capture:
 - short quotes from students
 - audience response notes
 These become future program evidence and recruitment material.
+
+Also capture:
+- one full-station photo for each team
+- one note about what held up well in public use
+- one note about what needed reset or repair

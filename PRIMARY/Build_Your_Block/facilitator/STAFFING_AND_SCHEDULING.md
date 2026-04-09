@@ -2,128 +2,115 @@
 
 ## Recommended staffing ratio
 
-- up to 12 students: 1 lead facilitator can work if materials are prepped tightly
+- up to 12 students: 1 lead facilitator can work with tight prep and a narrower project menu
 - 12–18 students: 1 lead + 1 assistant strongly recommended
-- above 18 students: add another adult or split into stations with clear supervision
+- above 18 students: add another adult or split the room more deliberately
 
-## What an assistant changes
+## What an assistant changes most
 
 An extra adult matters most during:
 
-- electronics troubleshooting
-- sound and motion weeks
-- prototype storage and reset
-- user-testing rotations
-- showcase setup and event hosting
+- Weeks 1–2 tool launch and materials flow
+- prototype sprint troubleshooting
+- sound and motion sessions
+- user testing rotations
+- installation and showcase hosting
 
-If you only have one adult, narrow the build goal before class instead of trying to compensate during class.
+## Core session model
 
-## Time models
+Each class session is **2.5 hours**.
 
-### Model A — 4 x 60-minute classes per week
-- arrival / warm-up — 5–10 min
-- demo / discussion — 10–15 min
-- build — 30–35 min
-- share / cleanup / reflection — 10–15 min
+### Recommended breakdown
+- arrival / launch — 10–15 min
+- demo / framing — 10–15 min
+- build sprint 1 — 45–55 min
+- break / movement / reset — 10 min
+- build sprint 2 — 45–55 min
+- share / documentation / cleanup / parking — 20–25 min
 
-### Model B — 4 x 75-minute classes per week
-- arrival / warm-up — 10 min
-- demo / discussion — 10–15 min
-- build — 40–45 min
-- share / cleanup / reflection — 10–15 min
+Do not cut the last block. If cleanup and parking collapse, the next session slows down immediately.
 
-### Model C — 2 longer blocks per week
-Combine the same weekly rhythm:
+## Weekly schedule
 
-- Block 1: Day 1 + Day 2
-- Block 2: Day 3 + Day 4
+- 4 sessions per week
+- 7 weeks total
+- 28 sessions total
 
-Protect a mid-block reset when using longer classes so the room does not lose shape.
+Because the calendar is short, the course cannot afford many “lost” sessions. Prep, storage, and project continuity matter more than in a longer semester.
 
-## Weekly teaching bases
+## Prep rhythm for staff
 
-- Day 1 — launch and explore
-- Day 2 — build the core skill
-- Day 3 — extend and personalize
-- Day 4 — share, document, and connect
-
-## Suggested weekly prep rhythm for staff
-
-### One day before the week begins
-- review the weekly plan
+### Before each week
+- review the week plan
 - pull must-have materials first
 - test electronics and batteries
-- choose the backup path
-- prep storage and documentation tools for any ongoing projects
+- choose the tech-failure backup
+- identify which teams or students may need extra conferencing
 
-### One day before each class
-- reload fast-fix materials
-- pre-set table trays
-- print or post prompts and role cards
-- confirm the room can support that day's testing style
+### Before each session
+- lay out materials by tray or table
+- post the session prompt and sprint goals
+- prep the fast-fix bin
+- check project parking bins and status cards
 
-### End of each class day
-- store projects in named spots
-- replace dead batteries and return tested components
-- log missing supplies
-- capture one quick note on what tomorrow's bottleneck may be
-
-## Fast-fix and room-reset system
-
-Keep one visible kit with:
-
-- batteries
-- LEDs
-- tape
-- glue
-- labels
-- spare connectors
-- cardboard patches
-
-Teach students a predictable reset:
-
-1. Power off or disconnect.
-2. Return loose parts to the project bin.
-3. Leave one note about the next step.
-4. Clear the table.
+### After each session
+- make sure every project has a next-step note
+- replace dead batteries
+- log missing materials
+- note where the next session is most likely to stall
 
 ## When only one adult is available
 
-- keep demos under 10 minutes
-- reduce the number of material types in circulation
-- choose one platform for coding instead of multiple
-- use whole-table launches rather than many simultaneous stations
-- pause the room when a safety or chaos issue starts; do not coach over it
-- protect the final 10 minutes for storage and reset no matter what
+- keep demos under 15 minutes
+- reduce station count
+- narrow project menus
+- choose one coding platform only
+- pre-bag materials by table
+- use visible help queues instead of constant interruption
+- protect the mid-session reset and final cleanup block
 
-## Preventing chaos on sound and motion weeks
+## Strongest prep weeks
+
+- **Week 1:** launch systems, first builds, room norms
+- **Week 2:** interaction tools and platform choice
+- **Week 4:** prototype sprint materials and storage
+- **Week 6:** user testing logistics and station design
+- **Week 7:** installation and showcase logistics
+
+## Preventing fatigue in a long session
+
+- keep launches active, not lecture-heavy
+- use a clear mid-session reset
+- give students something to hold, test, or mark during explanation moments
+- change the mode between sprint 1 and sprint 2 when possible
+- keep cleanup structured and brief
+
+## Sound and motion management
 
 ### Sound
 - establish test volume expectations first
-- run sound checks by table or zone
-- keep one quiet area active
+- test by table or zone
+- keep one quiet area available
 
 ### Motion
 - mark test lanes
-- limit how many projects move at one time
+- limit how many projects move at the same time
 - require projects to return to a parked position after each test
 
-## Showcase preparation timeline
+## Intensive showcase timeline
 
-- Week 8: assign project storage homes
-- Week 9: begin revision records
-- Week 10: begin systems maps
-- Week 11: require reset thinking
-- Week 12: draft labels and diagrams
-- Week 13: collect user feedback stories
-- Week 14: rehearse speaking roles
-- Week 15: soft-open the room
+- Week 1: seed audience and neighborhood thinking
+- Week 2: narrow project directions
+- Week 3: choose project and first mockup
+- Week 4: protect prototype continuity
+- Week 5: begin public readability and reset thinking
+- Week 6: run testing and soft-open the room
+- Week 7: install, host, reflect, archive
 
-## Scheduling advice when time gets compressed
+## If time or staffing gets thin
 
-If time, staffing, or materials are thin:
-
-1. Protect Day 2 build time and Day 4 sharing/documentation.
-2. Shorten decoration before you shorten testing.
-3. Keep the capstone audience and neighborhood connection visible.
-4. Cut feature count before cutting reflection and public explanation.
+1. Cut platform variety first.
+2. Cut feature count before cutting build time.
+3. Keep project purpose and audience visible.
+4. Protect testing, documentation, and parking.
+5. Keep the final public share, even if it gets smaller.
