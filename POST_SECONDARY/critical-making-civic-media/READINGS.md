@@ -28,6 +28,7 @@ Week 2 needs permission to act small, fast, and pointed without mistaking specta
 
 - George Lakoff, short selections on framing
 - bell hooks, selections on representation or speaking back
+- Michael Warner, publics/counterpublics
 - A current institutional website, campaign mailer, or service form students can dissect
 
 Why this cluster belongs:
@@ -54,6 +55,7 @@ Students need to understand participation as situated coordination, not magic in
 ## Week 6 - Working with partners without overpromising
 
 - Design Justice Network principles
+- Jo Freeman, The Tyranny of Structurelessness
 - Short practitioner writing on community-engaged art or public humanities collaboration
 - Sample memorandum, onboarding doc, or public-facing project brief
 
@@ -80,6 +82,7 @@ Prototype testing needs straightforward language about whether strangers can rea
 
 ## Week 9 - Documentation as civic infrastructure
 
+- Mierle Laderman Ukeles, “Manifesto for Maintenance Art”
 - Excerpts from project documentation guides, repair manuals, or open-source onboarding docs
 - Anne Balsamo or similar short writing on design culture and prototyping
 - One strong community toolkit or implementation guide
