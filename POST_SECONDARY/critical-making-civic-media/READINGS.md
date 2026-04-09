@@ -19,6 +19,7 @@ Students need a shared definition that connects media forms to power, institutio
 
 - Rita Raley, selections from **Tactical Media**
 - Excerpts or clips from **The Yes Men**
+- Carl DiSalvo, short intro excerpt from Adversarial Design
 - Short set of activist posters, intervention zines, or civic graphics from local archives
 
 Why this cluster belongs:
