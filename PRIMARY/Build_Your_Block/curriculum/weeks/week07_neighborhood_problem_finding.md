@@ -17,6 +17,43 @@ Invention begins by noticing what a place needs, celebrates, remembers, or imagi
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus clipboards, sticky notes, large paper, markers, map printouts, and project planning sheets.
 
+## Must-have materials this week
+- large paper, sticky notes, markers, and clipboards
+- neighborhood maps, photos, or memory prompts
+- project planning sheets
+- a visible list of project starter categories such as safety, joy, memory, access, and gathering
+
+## Nice-to-have materials
+- sidewalk walk materials or observation frames
+- voice recorder or tablet for spoken ideas
+- examples of past proposal sketches or mockups
+- translation or family input prompts if available
+
+## Fastest successful build
+A clear project direction with audience, purpose, and one smallest version worth testing first.
+
+## Grades 3–4 adaptation
+Offer project starter cards and sentence stems such as "I want to make something for..." or "On my block, I notice..." Let students show ideas through drawing, collage, or model-making instead of relying on long writing.
+
+## Grades 5–7 extension
+Invite students to compare multiple concepts, weigh tradeoffs, and justify why one idea is more buildable or more meaningful right now. Older students can also identify what system or material best matches the project.
+
+## If tech fails, do this instead
+No technology is required. Lean harder into observation, map marking, cardboard mockups, storytelling, and paper planning.
+
+## Documentation target for the week
+Capture each student's or team's selected project idea with audience, purpose, and one first testable version.
+
+## This week, success looks like...
+- students move from broad topics to specific project directions
+- every student or team ends the week with a chosen next step
+- neighborhood talk includes joy, memory, and possibility, not only problems
+
+## This week, success sounds like...
+- "This is for..."
+- "Our first version only needs to prove..."
+- "This matters because..."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What does your block need, celebrate, remember, protect, or imagine?
@@ -70,11 +107,12 @@ Students present proposal posters, collect peer feedback, and choose a project t
 What feedback changed your plan?
 
 ## Differentiation
-- **Low-floor option:** offer project starters tied to common neighborhood themes such as parks, transit, safety, play, or memory.
-- **Stretch challenge:** compare two project concepts and justify the stronger choice.
-- **Team option:** let small groups form around a shared idea with clearly named roles and audience.
+- **Younger-leaning path:** use starter themes, drawing, and verbal explanation to arrive at one clear idea with a named audience.
+- **Older/faster path:** compare multiple concepts and justify a focused choice with mechanism and test plan.
+- **Dignified low-floor move:** a strong, specific project idea is real maker work, even before a build begins.
 
 ## Facilitator notes
 - help students move from complaint to possibility
 - protect the idea stage from becoming a race to the "best" concept
+- keep public value visible by asking who benefits, remembers, or participates
 - make sure every student leaves the week with a chosen direction and a next build step

@@ -1,7 +1,17 @@
-# Parent-Facing Description Options
+# Parent-Facing Description
 
-## Version A — plain and energetic
-In Build Your Block, students make real working projects that light up, move, make sound, and respond to the world around them. Using tools like circuits, robotics, craft materials, and simple coding, they learn by building, testing, and trying again. Every week follows a steady rhythm of launch, build, extend, and share, so students keep practicing the same important habits while the projects get more ambitious. Along the way, they grow confidence with technology, teamwork, and creative problem-solving. The course ends with a community showcase of neighborhood-inspired inventions.
+## Full version
 
-## Version B — shorter
-Build Your Block is a hands-on 16-week maker class where students become inventors, artists, and problem-solvers. They use circuits, robotics, cardboard building, and simple coding to make projects that light up, move, and react. Students learn how tools work, how to fix what breaks, and how to turn ideas into something real. The final projects are inspired by neighborhood life and shared in a public showcase.
+**Build Your Block** is a 16-week hands-on maker class for students in grades 3–7. Students build projects that light up, move, make sound, respond to touch or sensors, and sometimes use simple coding. Along the way, they learn how to test ideas, fix what breaks, explain how something works, and turn an idea into something real.
+
+What makes this class different is that it stays connected to neighborhood life. Students do not only build random gadgets. They build with local stories, public spaces, community needs, memories, and future dreams in mind. Early weeks focus on core maker skills. Later weeks turn those skills into neighborhood-inspired capstone projects that students share in a public showcase.
+
+This course is process-driven and welcoming to mixed experience levels. Students are expected to try, revise, document, and share. A smaller build that works and means something counts. A first attempt that needs revision counts too. The goal is confidence, care, creativity, and real public-facing work.
+
+## Short version
+
+**Build Your Block** is a 16-week neighborhood maker class where students build with circuits, cardboard, motion, sound, sensing, and simple coding. They learn by making, testing, and revising, then create a final project connected to their neighborhood and share it in a public showcase.
+
+## Even shorter version
+
+Build Your Block is a hands-on maker course where students turn light, motion, sound, sensing, and simple coding into neighborhood-inspired projects for a community showcase.

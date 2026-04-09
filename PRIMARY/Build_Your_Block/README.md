@@ -1,95 +1,61 @@
 # Build Your Block: A Neighborhood Makers Lab
 
-A 16-week neighborhood maker course for **Urban Ventures, Minneapolis** to be offered by **createMPLS**.
+Build Your Block is a 16-week neighborhood-rooted maker course for grades 3–7. Students build with light, motion, sound, sensing, simple code, cardboard construction, and everyday materials, then turn those building blocks into public-facing projects about their own block, block stories, and block futures.
 
-This repository packages a neighborhood-rooted maker course designed for youth in grades 3–7, with enough flexibility to be adapted upward or downward by age, staffing, and available equipment. The course treats invention as both technical and civic: students learn to build with circuits, motion, sound, sensors, coding, and fabrication while grounding their work in the lived realities, memories, and futures of their own neighborhood.
+This is not a generic robotics class and not only a craft class. The course treats invention as technical, expressive, collaborative, and civic. Students make visible things every week, revise them in public, and end with a neighborhood-inspired capstone showcase.
 
-## Core idea
+## What students do
 
-Students become inventors, artists, and problem-solvers. Over sixteen weeks, they build working projects that light up, move, react, make sound, and tell stories about place. The course moves from short skill builds into neighborhood-responsive capstones, culminating in a community showcase.
+Across sixteen weeks, students:
 
-## Learning goals
+- build quick wins with circuits, motion, sound, sensing, and code
+- learn how to test, repair, explain, and improve their work
+- notice neighborhood issues, joys, memories, and dreams
+- develop capstone projects for a real audience
+- rehearse, install, present, and reflect
 
-By the end of the session, students should be able to:
+## What makes this course work
 
-- use basic maker tools safely and confidently
-- understand simple input/output ideas: button, sensor, motor, light, sound
-- prototype with cardboard, craft materials, electronics, and simple code
-- explain how a project works in plain language
-- revise a design after testing
-- connect invention to community, story, and everyday life
+- the same four-day rhythm every week: launch, build, extend, share
+- low-floor, high-ceiling builds that still feel dignified in mixed-age rooms
+- process-centered assessment focused on testing, revision, and explanation
+- neighborhood grounding that keeps the capstone work public-facing and specific
+- practical backup paths for low-tech rooms, thin staffing, and uneven materials
 
-## Recommended implementation
+## Implementation snapshot
 
-- **Audience:** Rising grades 3–7
-- **Session length:** 4 x 60-75 minute classes per week for 16 weeks  
-  or 2 longer blocks per week by combining Days 1-2 and Days 3-4
-- **Ideal group size:** 12–18 students
-- **Staffing:** 1 lead facilitator; 1 assistant strongly recommended
-- **Course tone:** low-floor, high-ceiling, highly visible weekly outcomes
+- **Audience:** Grades 3–7
+- **Length:** 16 weeks
+- **Rhythm:** 4 class days per week, usually 60–75 minutes each
+- **Group size:** 12–18 is a strong target
+- **Staffing:** 1 lead facilitator; 1 assistant strongly recommended when possible
+- **Build style:** visible weekly success, steady documentation, real revision, public sharing
 
-## Repository structure
+## If your site has limited materials
 
-- `README.md` — overview and quick start
-- `SYLLABUS.md` — complete course syllabus
-- `curriculum/weeks/` — detailed week-by-week plans
-- `facilitator/` — implementation guidance, staffing, setup, behavior, differentiation
-- `docs/` — one-pager, materials, assessment, showcase guidance
-- `templates/` — reusable student-facing and staff-facing templates
-- `classhub_import/` — thin LMS-ingest layer for ClassHub
-- `assets/` — placeholder for future printable or visual assets
+This package includes a stripped-down delivery path in [MINIMUM_VIABLE_IMPLEMENTATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A site can still run the course well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and very limited coding access.
 
-## Suggested weekly rhythm
+## Package structure
 
-- **Day 1:** launch and explore
-- **Day 2:** build the core skill
-- **Day 3:** extend and personalize
-- **Day 4:** share, document, and connect
+- [SYLLABUS.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/SYLLABUS.md) — full course overview and weekly arc
+- [curriculum/weeks/](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/curriculum/weeks) — weekly plans with prep, adaptations, backup paths, and success indicators
+- [facilitator/IMPLEMENTATION_NOTES.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/facilitator/IMPLEMENTATION_NOTES.md) — room systems, prep rhythm, storage, repair, and showcase prep
+- [facilitator/DIFFERENTIATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/facilitator/DIFFERENTIATION.md) — mixed-age design guidance
+- [facilitator/STAFFING_AND_SCHEDULING.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/facilitator/STAFFING_AND_SCHEDULING.md) — staffing models and one-adult guidance
+- [docs/ASSESSMENT_AND_DOCUMENTATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/ASSESSMENT_AND_DOCUMENTATION.md) — process-centered assessment and documentation options
+- [docs/PARENT_FACING_DESCRIPTION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/PARENT_FACING_DESCRIPTION.md) — public-facing language
+- [docs/ONE_PAGER.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/ONE_PAGER.md) — partner-ready summary
+- [templates/](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/templates) — capstone, status, showcase, and weekly planning templates
+- [classhub_import/](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/classhub_import) — LMS-friendly import layer
 
-Within each day, keep the same bases:
-- short arrival challenge or question
-- concrete mini-demo
-- protected build time
-- share-out, documentation, and cleanup
+## Design commitments
 
-## Materials snapshot
-
-- paper circuit supplies: copper tape, LEDs, coin cells
-- cardboard construction materials
-- motors and simple battery packs
-- hot glue, masking tape, scissors, markers, rulers
-- littleBits kits
-- LEGO SPIKE Essential or Prime
-- Makey Makey
-- laptops or Chromebooks for Scratch / SPIKE app
-- recycled materials bin
-
-## Design principles
-
-1. Start with hands and materials, not abstraction.
-2. Keep every session low-floor and visibly successful.
-3. Build toward collaboration and public sharing.
-4. Treat failure as useful information.
-5. Root the capstone work in neighborhood life.
-
-## Notes for adaptation
-
-This repo is intentionally written in plain Markdown so it can be:
-- copied into createMPLS documentation systems
-- converted into PDF or web pages
-- adapted for other partner sites
-- remixed into age-band-specific variants
-
-## ClassHub import
-
-This course now includes a ClassHub ingest layer:
-
-- `classhub_import/public_overview_classhub.md`
-- `classhub_import/teacher_plan_classhub.md`
-- `classhub_import/README.md`
-
-That layer treats each weekly plan as one importable session so the LMS can ingest the full 16-week arc without flattening the underlying four-day teaching rhythm.
+1. Start with hands, materials, and visible action.
+2. Keep every week teachable even when staffing or tech is uneven.
+3. Give younger students real ownership and older students real challenge.
+4. Treat repair, explanation, and cleanup as part of making.
+5. Keep the neighborhood present from the first month through the final showcase.
 
 ## License
 
-MIT. See `LICENSE`.
+MIT. See [LICENSE](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/LICENSE).

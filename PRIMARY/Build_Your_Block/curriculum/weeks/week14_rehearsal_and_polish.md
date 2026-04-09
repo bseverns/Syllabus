@@ -17,6 +17,43 @@ A project becomes stronger when its making, meaning, and demonstration are all p
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus display supplies, fresh labels, cleanup materials, and printed presentation prompts.
 
+## Must-have materials this week
+- current project, signage, and speaking prompts
+- cleanup and finish materials
+- a rehearsal plan for who speaks, who resets, and who documents
+- cue cards or sentence starters
+
+## Nice-to-have materials
+- tablecloths, stands, or display backings
+- printed photo sequence from earlier prototypes
+- a quiet rehearsal corner for recording or practicing
+- mirrors, clipboards, or phones for self-review
+
+## Fastest successful build
+One clear project demo with one speaker or team rotation and one final polish move that improves audience experience.
+
+## Grades 3–4 adaptation
+Use short speaking frames, partner rehearsal, and visual cue cards. Younger students can present with the project in hand, point to labels, or record a backup explanation instead of memorizing a script.
+
+## Grades 5–7 extension
+Invite students to build a smoother handoff between speakers, add an audience participation moment, or revise the demo based on pacing and clarity notes. Older students can also tighten display design so it feels intentional.
+
+## If tech fails, do this instead
+Rehearse with props, diagrams, and the reset routine. Students can still strengthen speaking, setup, and visitor flow even if a powered feature is temporarily offline.
+
+## Documentation target for the week
+Capture a near-final photo and one short presentation outline or audio rehearsal for each project or team.
+
+## This week, success looks like...
+- students can explain both what the project does and why it matters
+- the project, signage, and speaking parts feel aligned
+- final polish improves clarity instead of hiding weak spots
+
+## This week, success sounds like...
+- "Welcome to our project."
+- "Here is what changed from our first version."
+- "If it stops working, here is how we reset it."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 How will you welcome a visitor to your table?
@@ -70,11 +107,12 @@ Students complete a full rehearsal with project, signage, and speaking parts in 
 What do you feel ready to share now?
 
 ## Differentiation
-- **Low-floor option:** one clear demonstration and a short spoken or recorded explanation.
-- **Stretch challenge:** add an audience participation moment or a second speaker role with smooth handoff.
-- **Team option:** divide speaking into title/purpose, how-it-works, and revision story sections.
+- **Younger-leaning path:** one short demo, one clear speaking frame, and visual or recorded support.
+- **Older/faster path:** stronger pacing, audience participation, or a smoother multi-speaker handoff.
+- **Dignified low-floor move:** a calm, clear explanation with a working reset plan is a strong presentation.
 
 ## Facilitator notes
 - keep rehearsal supportive and matter-of-fact
 - remind students that calm presentation often matters more than polished vocabulary
+- begin showcase hosting language early in the week instead of saving it for the last day
 - photograph near-final work this week in case showcase day is busy

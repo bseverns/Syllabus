@@ -17,6 +17,43 @@ I can make something real on day one, and this room has routines that help maker
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus paper circuit supplies, markers, cardstock, tape, cardboard scraps, and table labels for routines.
 
+## Must-have materials this week
+- pre-tested LEDs, coin cells, and copper tape
+- cardstock or index cards for signs and name tags
+- markers, scissors, tape, and cardboard scraps
+- table labels for routines, cleanup jobs, and tool zones
+
+## Nice-to-have materials
+- binder clips or foil tape for quick switch experiments
+- printed visual routine cards
+- phone or tablet for photos
+- extra pre-cut sign templates for late arrivals
+
+## Fastest successful build
+One folded cardstock name tag or table sign with a single working LED and one sentence explaining how it turns on.
+
+## Grades 3–4 adaptation
+Offer pre-cut templates, limit the technical target to one light, and keep the explanation verbal or drawn. Let students choose a symbol, color, or neighborhood word so the simpler build still feels like their own work.
+
+## Grades 5–7 extension
+Invite students to add a second LED, a handmade switch flap, or a more deliberate visual message about themselves or their block. Older students can compare two layouts and decide which one is easier to troubleshoot.
+
+## If tech fails, do this instead
+Run the same routine lesson with paper mock circuits, arrow cards, and color-coded "power path" strips. Students can still build a sign, mark where the battery and light would go, and practice the room routines.
+
+## Documentation target for the week
+Capture one photo of each student with a first build and one labeled drawing or verbal explanation of where the power travels.
+
+## This week, success looks like...
+- students enter the room and know where materials, build space, and cleanup tools live
+- every student leaves with a first-day artifact that works or is very close to working
+- troubleshooting happens out loud instead of in frustration
+
+## This week, success sounds like...
+- "Try flipping the battery."
+- "I can show you where the light turns on."
+- "We are not done yet, but we know what to test next."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What is something in your neighborhood that feels important, fun, or worth noticing?
@@ -70,11 +107,12 @@ Students photograph their signs, label a parts diagram, and present in pairs or 
 What is one routine from this week you want to keep using all semester?
 
 ## Differentiation
-- **Low-floor option:** provide pre-cut paper templates and a one-LED target.
-- **Stretch challenge:** add multiple LEDs, a handmade switch, or a fold-out message panel.
-- **Team option:** pair students so one handles structure while one handles the circuit, then switch roles.
+- **Younger-leaning path:** one LED, pre-cut template, visual routine card, and a spoken explanation with pointing.
+- **Older/faster path:** two lights, one switch, or a cleaner layered design with a clearer how-it-works explanation.
+- **Dignified low-floor move:** the target is a working first build and a calm explanation, not more parts.
 
 ## Facilitator notes
 - establish cleanup and documentation as part of the making, not something extra
-- make troubleshooting visible and calm so students see that errors are normal
+- teach a fast fix routine early: check battery direction, check LED direction, press tape down, test again
+- assign a storage spot for unfinished signs so students see that in-progress work has a home
 - end each day with a fast verbal recap of what makers learned, tested, or changed

@@ -17,6 +17,43 @@ Projects can notice the world and respond with light, sound, movement, or messag
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus buttons, simple sensors, littleBits inputs/outputs, Makey Makey, cardboard, and labeling cards.
 
+## Must-have materials this week
+- one dependable input method such as button, touch point, light sensor, or tilt sensor
+- at least one obvious output such as light, sound, or motion
+- cardboard and labels for interface building
+- visible input/output examples for demo
+
+## Nice-to-have materials
+- extra sensors for comparison
+- pre-made arrows or cards labeled input, output, trigger, and response
+- clipboards for user testing notes
+- spare housings or boxes for quick rebuilds
+
+## Fastest successful build
+A project with one clear input and one clear output that works in a predictable way.
+
+## Grades 3–4 adaptation
+Stay with one easy-to-read trigger such as a button or touch point and one satisfying response. Use arrows, icons, and spoken sentence stems so students can explain cause and effect without a lot of writing.
+
+## Grades 5–7 extension
+Invite students to layer responses, compare multiple inputs, or build a small game or useful alert system. Older students can also refine the enclosure so users understand the interaction without a long explanation.
+
+## If tech fails, do this instead
+Use paper flaps, pull tabs, sliders, and role-play cards to model input and output chains. Students can still design a reactive object and explain what would happen when someone presses, opens, covers, or moves something.
+
+## Documentation target for the week
+Capture one input/output diagram with arrows and one quick test note about whether another person understood the interaction right away.
+
+## This week, success looks like...
+- students can name the trigger and response in plain language
+- the interaction feels readable to a classmate without a long explanation
+- teams revise for clarity before piling on more features
+
+## This week, success sounds like...
+- "When this happens, then this happens."
+- "The button is the input."
+- "We changed the front so people know where to press."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What should a project notice: touch, light, movement, sound, or something else?
@@ -70,11 +107,15 @@ Students create a one-page input/output diagram and host a partner test focused 
 What did the tester understand right away, and what stayed confusing?
 
 ## Differentiation
-- **Low-floor option:** one clear input and one clear output.
-- **Stretch challenge:** create multiple response states or a small game with scoring, timing, or surprise.
-- **Team option:** assign interface, build, and testing roles so everyone contributes to cause-and-effect design.
+- **Younger-leaning path:** one obvious trigger, one visible response, and a verbal explanation supported by arrows or icons.
+- **Older/faster path:** multiple inputs or outputs, or a small system with clearer user-facing choices.
+- **Dignified low-floor move:** clarity of cause and effect is the real target, not feature count.
 
 ## Facilitator notes
 - keep the vocabulary visible: input, output, trigger, response, test
 - emphasize clarity before complexity so students do not pile on features too early
+- keep one adult or one station focused on fast sensor swaps and retesting
 - ask students to narrate the chain out loud: "when this happens, then this happens"
+
+## Bridge to capstone
+What kind of neighborhood project could use sensing to notice people, protect something, or respond to a shared space?

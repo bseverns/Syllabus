@@ -1,6 +1,6 @@
 # ClassHub Import Notes
 
-These files package `Build Your Block` for the ClassHub syllabus ingest flow.
+These files package `Build Your Block` for the ClassHub syllabus ingest flow while staying aligned with the stronger repo-native course package.
 
 ## Files
 
@@ -22,15 +22,31 @@ python3 scripts/ingest_syllabus_md.py \
 
 ## Why this layer exists
 
-The course already has strong repo-native materials. This folder adds the smaller, stricter source files that ClassHub ingest expects:
+The core course files are written for live facilitation. This folder keeps a smaller, stricter source format that ClassHub can ingest cleanly without flattening the course identity.
 
-- public overview metadata
-- `Session NN: Title` headings
-- `Mission`
-- `Teacher prep`
-- `Materials`
-- `Checkpoints`
-- `Common stuck points + fixes`
-- `Extensions`
+This import layer now mirrors the stronger package assumptions:
 
-In this import layer, each weekly plan is treated as one ClassHub session so the LMS can ingest the full arc quickly without flattening the original four-day weekly rhythm.
+- one ClassHub session per course week
+- consistent weekly structure
+- mixed-age adaptations
+- clear fastest-success targets
+- tech-failure backup thinking
+- process-centered documentation
+- explicit capstone continuity
+
+## Main package references
+
+If a staff team wants the fuller implementation layer, point them to:
+
+- `../README.md`
+- `../SYLLABUS.md`
+- `../docs/MINIMUM_VIABLE_IMPLEMENTATION.md`
+- `../docs/ASSESSMENT_AND_DOCUMENTATION.md`
+- `../facilitator/IMPLEMENTATION_NOTES.md`
+- `../templates/CAPSTONE_PROJECT_PLANNER.md`
+- `../templates/WEEKLY_PROJECT_STATUS_CARD.md`
+- `../templates/DURABILITY_AND_USER_TEST_CHECKLIST.md`
+
+## Import note
+
+In this import layer, each weekly plan is treated as one ClassHub session so the LMS can ingest the full 16-week arc quickly without flattening the original four-day teaching rhythm.

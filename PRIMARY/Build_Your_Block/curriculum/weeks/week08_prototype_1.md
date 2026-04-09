@@ -17,6 +17,43 @@ Build rough, build early, and learn from a first working version.
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus project-specific kits, planning sheets, tape flags for labeling parts, and storage bins for in-progress work.
 
+## Must-have materials this week
+- each team's project planner and rough sketch
+- project-specific build materials plus backup low-tech materials
+- labels or tape flags for marking parts and problems
+- storage bins, trays, or folders for in-progress work
+
+## Nice-to-have materials
+- color-coded tape for systems and ownership
+- extra connectors, adapters, and spare batteries
+- table signs showing "testing," "needs repair," or "ready to store"
+- printed reminder cards about prototype goals
+
+## Fastest successful build
+One core project function working in rough form, even if the structure is temporary and the finish is unfinished.
+
+## Grades 3–4 adaptation
+Help students choose a very small first proof, such as "the light turns on," "the button works," or "the door opens." Use fewer materials at a time and keep the whole group focused on core function before polish.
+
+## Grades 5–7 extension
+Invite students to get the core function working and add one supporting layer such as a clearer enclosure, second system, or better interface. Older students can also map dependencies so they know what must work first.
+
+## If tech fails, do this instead
+Prototype the structure and interaction in cardboard, paper, labels, and role-play. Students can simulate lights, sounds, or code with drawn icons and still answer whether the audience understands the idea.
+
+## Documentation target for the week
+Capture one photo or sketch of the rough prototype plus one note naming the core function, the current failure point, and the next test.
+
+## This week, success looks like...
+- students build early instead of over-planning
+- prototypes answer real questions about function or use
+- storage and labeling prevent projects from becoming impossible to resume
+
+## This week, success sounds like...
+- "This version is just to test..."
+- "The main thing we need working first is..."
+- "We know what to try next class."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What is the smallest version of your idea that can work this week?
@@ -70,11 +107,12 @@ Students do a mid-prototype share, collect notes on what works and what confuses
 What are you building next because of today's feedback?
 
 ## Differentiation
-- **Low-floor option:** focus on one mechanism working reliably before adding decoration or extra features.
-- **Stretch challenge:** get the core function working and connect it to a second system such as light plus sound or motion plus code.
-- **Team option:** assign one student to structure, one to interaction, and one to test/document, then rotate.
+- **Younger-leaning path:** get one core function working with visible labels and strong adult support for storage and reset.
+- **Older/faster path:** get the core function working and connect it to one additional system or structural improvement.
+- **Dignified low-floor move:** a rough prototype that proves one important thing is a successful prototype.
 
 ## Facilitator notes
 - insist on visible labels for parts and wires so troubleshooting stays manageable
 - help students shrink oversized ambitions into testable chunks
+- assign every team a project home for storage, plus a one-minute end-of-class reset routine
 - protect storage and reset time so projects survive across multiple days

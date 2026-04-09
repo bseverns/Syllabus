@@ -17,6 +17,43 @@ Code is another building material, and instructions can create visible behavior.
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus LEGO SPIKE kits, Scratch-capable devices, chargers, and printed coding vocabulary cards.
 
+## Must-have materials this week
+- one chosen coding platform that is already installed, charged, and tested
+- printed block vocabulary or screenshot cards
+- one unplugged backup activity for every day
+- enough devices or turn-taking structures for shared use
+
+## Nice-to-have materials
+- robotics kits or extension hardware linked to the chosen platform
+- projected demo station
+- printed mini-challenges or debugging cards
+- headphones if sound is part of the work
+
+## Fastest successful build
+A short block-based program that makes something visible happen on screen or in a robot: move, flash, respond, or repeat.
+
+## Grades 3–4 adaptation
+Use partially built code sequences, unplugged acting-out routines, and very short challenges with immediate visible feedback. Keep the focus on sequence and event rather than syntax or perfect independence.
+
+## Grades 5–7 extension
+Invite students to add a condition, second event, or a more intentional neighborhood-themed mission. Older students can compare two program versions and explain which one is easier to debug or use.
+
+## If tech fails, do this instead
+Run the full week as unplugged coding with arrow cards, human robots, paper grids, and storyboarded sequences. Students can still plan instructions, debug, and connect code ideas back to motion, light, sound, or interaction.
+
+## Documentation target for the week
+Capture one screenshot, sketch, or block map of the program plus one note about a bug, prediction, or change.
+
+## This week, success looks like...
+- students see code as understandable instructions, not a separate elite skill
+- device sharing stays structured enough that build time remains real
+- projects show one visible programmed behavior clearly
+
+## This week, success sounds like...
+- "First, next, last."
+- "I changed one block and tested again."
+- "The code tells it when to start."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 Where do instructions matter in real life?
@@ -70,11 +107,15 @@ Students pair up to test each other's code, annotate a screenshot or sketch of t
 What did you learn from a bug this week?
 
 ## Differentiation
-- **Low-floor option:** use a short, partially built code sequence that students finish and test.
-- **Stretch challenge:** add a condition, variable, or a second event-triggered behavior.
-- **Team option:** use driver/navigator roles so one student handles blocks while the other predicts and tests outcomes.
+- **Younger-leaning path:** unplugged sequence work plus a short partially built program with immediate visible results.
+- **Older/faster path:** add a condition, branching choice, second event, or richer mission while still documenting the logic.
+- **Dignified low-floor move:** understanding and explaining one short program is meaningful coding work.
 
 ## Facilitator notes
 - make prediction a habit before every run
-- keep debugging language calm and specific: what did we expect, what happened instead, what will we change
+- if devices are limited, post visible turn-taking roles such as driver, predictor, tester, and recorder
 - do not let code become only screen work; connect it back to movement, light, sound, or story whenever possible
+- test batteries, chargers, logins, and app updates before the week starts, not at the table
+
+## Bridge to capstone
+What kind of neighborhood project could use code to control timing, interaction, choice, or sequence?

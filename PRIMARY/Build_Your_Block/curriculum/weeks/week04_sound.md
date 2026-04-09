@@ -17,6 +17,43 @@ Technology can be expressive, noisy, rhythmic, playful, and musical.
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus littleBits, Makey Makey kits, conductive materials, speakers or buzzers, recycled sound-makers, and craft supplies for interfaces.
 
+## Must-have materials this week
+- one dependable sound path such as littleBits, Makey Makey, or simple buzzer setups
+- cardboard and craft materials for touch surfaces or housings
+- conductive materials or pre-made triggers
+- a volume plan for the room
+
+## Nice-to-have materials
+- headphones or a quiet test station
+- recycled sound objects such as cans, bottle caps, or rubber bands
+- extra buzzers, speakers, or extension cables
+- masking tape floor markers for wait zones and test zones
+
+## Fastest successful build
+A playable sound object with one trigger and one clear sound response.
+
+## Grades 3–4 adaptation
+Limit the task to one touch point or one simple trigger and one sound. Offer a small menu of themes such as celebration, warning, game, or neighborhood sound memory so the build stays expressive without becoming overwhelming.
+
+## Grades 5–7 extension
+Invite students to create multiple touch zones, a stronger interface, or a more intentional sound composition. Older students can compare how layout changes the way users approach and perform with the object.
+
+## If tech fails, do this instead
+Build acoustic sound objects from cardboard, rubber bands, cups, cans, and found materials. Students can still design a sound interaction, name the mood, and test how users understand where to touch or play.
+
+## Documentation target for the week
+Capture a short audio, video, or live verbal demo plus one interaction card that explains how a visitor activates the project.
+
+## This week, success looks like...
+- sound exploration stays playful without taking over the whole room
+- each project has a clear invitation to touch, press, or play
+- students can describe the mood or purpose of the sound choice
+
+## This week, success sounds like...
+- "Touch here."
+- "This sound is supposed to feel busy, calm, playful, or alert."
+- "We changed the trigger because people did not know what to do."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What sounds belong to your neighborhood: buses, birds, music, games, construction, voices, or something else?
@@ -70,11 +107,15 @@ Students host a small sound playground, observe how classmates use the project, 
 What did another person do that taught you something about your design?
 
 ## Differentiation
-- **Low-floor option:** one trigger and one sound outcome.
-- **Stretch challenge:** build an instrument or interface with multiple touch zones or performance modes.
-- **Team option:** pair interface designers with sound testers so both the object and the interaction get attention.
+- **Younger-leaning path:** one sound, one clear trigger, and a short invitation card that tells a user what to do.
+- **Older/faster path:** multiple touch zones, a deliberate sound sequence, or a more layered interface with testing notes.
+- **Dignified low-floor move:** a single responsive sound object can still be expressive, social, and complete.
 
 ## Facilitator notes
 - manage volume intentionally so exploration does not become chaos
-- encourage students to name sounds with descriptive language, not just "good" or "bad"
+- use table-by-table sound checks instead of whole-room free play
+- keep a quiet fallback station for students who need a calmer entry point
 - capture short audio or video clips when possible for later documentation
+
+## Bridge to capstone
+What kind of neighborhood project could use sound to welcome, alert, remember, or invite people in?

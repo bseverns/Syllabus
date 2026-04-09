@@ -17,6 +17,43 @@ Projects get better when real people try them and tell us what they experience.
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus feedback forms, clipboards, sticky notes, timers, and cameras or tablets for documentation.
 
+## Must-have materials this week
+- projects ready for testing
+- simple feedback forms or status cards
+- clipboards, pens, and sticky notes
+- a clear rotation plan for hosts, testers, observers, and reset roles
+
+## Nice-to-have materials
+- invited visitors from another class, staff, or family volunteers
+- timers for short testing rounds
+- tablets or phones for quick photos, quotes, or audio notes
+- signage reminding builders to observe before explaining
+
+## Fastest successful build
+One structured user test completed and one revision made directly from what the tester did or said.
+
+## Grades 3–4 adaptation
+Use very short testing rounds, simple checkboxes, and spoken debriefs. Younger students can point out confusion moments with adult support instead of writing full notes.
+
+## Grades 5–7 extension
+Invite students to compare multiple testers, sort feedback patterns, and decide what deserves a revision now versus later. Older students can also improve the testing protocol itself.
+
+## If tech fails, do this instead
+Test signage, setup, and interaction flow without powered features. Students can still learn a great deal by watching whether visitors understand where to stand, touch, read, or ask questions.
+
+## Documentation target for the week
+Capture one short testing record with the test question, what the visitor did, what the builder noticed, and what changed next.
+
+## This week, success looks like...
+- students observe real user behavior before stepping in
+- feedback turns into specific revisions
+- teams learn from patterns instead of chasing every comment
+
+## This week, success sounds like...
+- "I noticed the tester..."
+- "Two visitors got stuck at the same point."
+- "We changed this because people did not know what to do."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What do you most want to find out from a tester?
@@ -70,11 +107,12 @@ Students document their testing cycle and prepare one concise story about how us
 What did testing teach you about your audience?
 
 ## Differentiation
-- **Low-floor option:** conduct one structured test with one revision afterward.
-- **Stretch challenge:** compare multiple testers' responses and identify patterns instead of reacting to one opinion.
-- **Team option:** divide responsibilities into host, observer, and recorder during testing rounds.
+- **Younger-leaning path:** one structured test, one supported observation, and one clear change.
+- **Older/faster path:** compare multiple testers and make a revision based on patterns, not only one opinion.
+- **Dignified low-floor move:** careful observation and one meaningful change is strong testing work.
 
 ## Facilitator notes
 - coach students to observe before explaining
 - keep feedback specific and actionable rather than vague praise
+- use role cards so faster students are not automatically turned into helpers for everyone else
 - invite another class, staff members, or family volunteers if possible so testing feels real

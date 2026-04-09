@@ -17,6 +17,43 @@ Stronger projects bring multiple building blocks together in a clear way.
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus each team's chosen electronics, robotics, fabrication materials, and integration planning sheets.
 
+## Must-have materials this week
+- each team's current project plus a systems map
+- only the materials needed for the systems being combined this week
+- labels for triggers, outputs, and power paths
+- backup batteries and repair supplies
+
+## Nice-to-have materials
+- color-coded tape for different systems
+- printed systems diagram templates
+- extra adapters, hubs, or connectors
+- a staging table where teams can isolate one system before reintegrating it
+
+## Fastest successful build
+Two systems working together in one understandable interaction.
+
+## Grades 3–4 adaptation
+Keep the challenge to one main system plus one support system, such as light plus button or motion plus sign. Use diagrams and pointing to help younger students keep track of what each part does.
+
+## Grades 5–7 extension
+Invite students to sequence multiple outputs, add a simple coded decision, or compare alternative integrations. Older students can also decide what to cut so the project stays readable.
+
+## If tech fails, do this instead
+Map the combined system on paper and prototype the user interaction with labels, drawings, or role-play. Students can still decide what happens first, what triggers what, and what to simplify.
+
+## Documentation target for the week
+Capture one systems map that names the main interaction, the supporting system, and any part that still feels disconnected.
+
+## This week, success looks like...
+- combined projects stay understandable
+- students protect what already works while adding something new
+- teams remove or delay weak extras instead of crowding the build
+
+## This week, success sounds like...
+- "This is the main feature."
+- "This second system supports that one."
+- "We cut this because it made the project confusing."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 Which systems from earlier weeks belong in your project, and why?
@@ -70,11 +107,12 @@ Students create a project systems map and gather partner feedback on whether the
 What part of the system still feels disconnected?
 
 ## Differentiation
-- **Low-floor option:** combine two systems in one clear interaction rather than aiming for many features.
-- **Stretch challenge:** sequence multiple outputs or create a coded interaction with branching behavior.
-- **Team option:** assign a lead for each system and a shared job of making the overall experience coherent.
+- **Younger-leaning path:** combine one main system with one support system in one clear user action.
+- **Older/faster path:** integrate more complex sequencing or branching while keeping the interaction teachable.
+- **Dignified low-floor move:** a two-part system that makes sense is stronger than a crowded multi-part build.
 
 ## Facilitator notes
 - push students to name the purpose of each added feature
 - favor fewer, clearer interactions over crowded builds
 - use diagrams and labels to keep complex projects teachable
+- set a daily stop point so teams leave with working subsystems stored and labeled

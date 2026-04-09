@@ -17,6 +17,43 @@ How a project is installed, labeled, powered, and reset shapes the audience expe
 ## Materials
 Use core materials from `docs/MATERIALS_AND_EQUIPMENT.md` plus tablecloths, extension cords if needed, display stands, tape, printed labels, and showcase maps.
 
+## Must-have materials this week
+- all projects, labels, and display supports
+- extension cords, power strips, batteries, or backup battery packs as needed
+- tape, markers, and an emergency fix kit
+- a room map or table map
+
+## Nice-to-have materials
+- tablecloths, clipboards, stands, and risers
+- floor arrows or waiting spots
+- printed visitor prompts
+- spare bulbs, motors, connectors, or batteries stored centrally
+
+## Fastest successful build
+A project station that is powered or battery-ready, clearly labeled, and easy for a visitor to approach and reset.
+
+## Grades 3–4 adaptation
+Keep setup jobs concrete: place label, point to touch area, practice reset, practice welcome line. Younger students can use picture checklists and taped floor marks for where to stand.
+
+## Grades 5–7 extension
+Invite students to design visitor flow, improve signage layering, or manage a more complex station with multiple roles. Older students can also stress-test setup and teardown speed.
+
+## If tech fails, do this instead
+Prepare a low-tech display version with labels, diagrams, and a spoken or role-played demo. If power is unreliable, plan a battery rotation or timed demonstrations instead of continuous operation.
+
+## Documentation target for the week
+Capture one photo of the full station setup plus one written or verbal reset routine for between visitors.
+
+## This week, success looks like...
+- the room is legible before guests arrive
+- projects can be used, reset, and used again without adult rescue every time
+- teams know their hosting and setup roles
+
+## This week, success sounds like...
+- "Stand here."
+- "Press this, then wait."
+- "We can reset it in three steps."
+
 ## Day 1 — Launch and explore
 ### Warm-up prompt
 What does a visitor need from the room before they even reach your project?
@@ -70,11 +107,12 @@ Students host a practice walkthrough, troubleshoot setup issues, and finalize a 
 What still needs to happen before the final showcase?
 
 ## Differentiation
-- **Low-floor option:** create a clear project station with one sign, one reset routine, and one speaking role.
-- **Stretch challenge:** design a more immersive station with audience prompts, display layers, or docent roles.
-- **Team option:** assign setup, visitor greeting, reset, and documentation jobs for the final event.
+- **Younger-leaning path:** one clear station, one welcome line, one reset routine, and visual setup supports.
+- **Older/faster path:** richer station flow, stronger visitor prompts, or more complex role coverage.
+- **Dignified low-floor move:** a clear, usable station is a major showcase contribution.
 
 ## Facilitator notes
 - do not wait until the last day to solve power, labeling, or traffic issues
 - rehearse the physical setup, not just the presentation
 - keep an emergency fix kit ready with tape, batteries, glue, markers, and labels
+- post a room-reset map so teardown and reinstallation stay calm
