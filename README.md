@@ -34,6 +34,7 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 
 ## Course kits — imaging, media art & storytelling
 - [digital-imaging-lab](./SECONDARY/digital-imaging-lab) – Middle/early high school imaging lab treating pixels as craft and inquiry, with session plans, anchor projects, rubrics, and ethics resources.
+- [critical-making-civic-media](./POST_SECONDARY/critical-making-civic-media) – Undergraduate studio-seminar on tactical media, civic prototyping, partner-aware public interventions, and documentation that another teacher can actually reuse.
 - [ImagingOtherwise](./POST_SECONDARY/ImagingOtherwise) – Undergraduate studio-seminar challenging visual defaults through speculative imaging assignments, readings, and instructor pacing notes.
 - [MCADMedia1](./POST_SECONDARY/MCADMedia1) – Foundation media archive stuffed with assignment sheets, camera cheats, and pandemic-era pedagogy reflections for remixing first-year experiences.
 - [MCADMedia2](./POST_SECONDARY/MCADMedia2) – Sequel course docs spanning experimental media briefs, modular synth cheat sheets, and p5.js explainers to push students past polite work.
@@ -58,7 +59,6 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 
 ## In-progress briefs (prototype notes, not full syllabi yet)
 - [ai-story-society](./in-progress/ai-story-society.md) – Early brief on co-writing with AI and mapping narrative power.
-- [critical-making-civic-media](./in-progress/critical-making-civic-media.md) – Draft studio-seminar about making as civic intervention.
 - [digital-storytelling-data-viz](./in-progress/digital-storytelling-data-viz.md) – Sketch brief for data storytelling with access-minded publishing.
 
 > Want to braid sound and control? Start with **Digital-Music-Control** and riff into **CTMSoundDesign** or **ExplorationSoundDesign**—the sections above spell out how.

@@ -83,6 +83,7 @@ See [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A
 - [facilitator/IMPLEMENTATION_NOTES.md](facilitator/IMPLEMENTATION_NOTES.md) — long-session pacing, storage, reset, repair, and showcase prep
 - [facilitator/DIFFERENTIATION.md](facilitator/DIFFERENTIATION.md) — mixed-age and low-floor/high-ceiling guidance
 - [facilitator/STAFFING_AND_SCHEDULING.md](facilitator/STAFFING_AND_SCHEDULING.md) — scheduling models, staffing, and one-adult moves
+- [facilitator/field_guides/](facilitator/field_guides/) — compact weekly field guides for live teaching
 - [docs/ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) — process-centered assessment and fast documentation systems
 - [docs/PARENT_FACING_DESCRIPTION.md](docs/PARENT_FACING_DESCRIPTION.md) — public-facing language
 - [docs/ONE_PAGER.md](docs/ONE_PAGER.md) — partner-ready overview

@@ -24,6 +24,8 @@ Each 2.5-hour session should include:
 - 45–55 min build, install, or rehearsal sprint 2
 - 20–25 min share / document / cleanup / park
 
+Use the reset block to lower adrenaline, reset stations, and keep the room usable for the second half of class or event prep.
+
 ## Must-have materials this week
 - final projects, labels, and station pieces
 - batteries, extension plan, and emergency fix kit
@@ -129,10 +131,18 @@ Teams deinstall responsibly, sort what should be saved, and complete final archi
 Close with a final circle, one quote, and one take-forward idea from each team.
 
 ## Grades 3–4 adaptation
-Use short speaking turns, visual reflection choices, and concrete hosting roles. Let students point, demonstrate, or record audio instead of writing at length.
+Use a simpler hosting-and-reflection path:
+
+- keep speaking turns short
+- use visual or spoken reflection options
+- give concrete jobs such as greet, point, reset, or thank visitors
 
 ## Grades 5–7 extension
-Invite students to act as docents, interviewers, or archive leads while still presenting their own work.
+Use a more public-leadership extension path:
+
+- act as docents, interviewers, or archive leads while still presenting
+- tighten station flow or hosting handoffs
+- capture clearer archive notes about what changed across versions
 
 ## If tech fails, do this instead
 Present with labels, diagrams, and a spoken walkthrough. If something fails during showcase, treat that moment as part of the reflection and archive.
@@ -154,6 +164,7 @@ One station photo, one visitor response, one student reflection, and one archive
 - protect time after the showcase for reflection and archive
 - keep the emergency fix kit close but the adult presence calm
 - end by naming specific growth in making, revision, collaboration, and public communication
+- archive should include more than photos: keep labels, diagrams, status notes, or short videos when possible
 
 ## Capstone continuity notes
 Week 7 is not only a celebration. It is the final proof that the course has been building toward public work all along.

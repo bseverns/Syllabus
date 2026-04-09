@@ -24,6 +24,8 @@ Each 2.5-hour session should include:
 - 45–55 min build or testing sprint 2
 - 20–25 min share / document / park / cleanup
 
+Use the reset block to sort evidence, not just energy: what did we see, what are we fixing, what are we leaving alone?
+
 ## Must-have materials this week
 - feedback forms or testing notes
 - clipboards, sticky notes, markers
@@ -129,10 +131,18 @@ Teams fix the highest-priority issues and confirm hosting roles.
 Every team ends with a final-week checklist and a clear install plan.
 
 ## Grades 3–4 adaptation
-Use shorter test rounds, picture-based feedback, and concrete hosting roles like welcome, point, reset, or explain.
+Use a shorter, concrete testing path:
+
+- run shorter test rounds
+- use picture-based or spoken feedback
+- assign clear hosting roles such as welcome, point, reset, or explain
 
 ## Grades 5–7 extension
-Invite students to synthesize tester patterns, improve station flow, and strengthen multi-speaker hosting plans.
+Use a more analytical revision path:
+
+- compare multiple tester patterns instead of reacting to one opinion
+- improve station flow or waiting logic
+- strengthen multi-speaker hosting without turning it into a memorized script
 
 ## If tech fails, do this instead
 Test station flow, labels, touch points, and visitor understanding without powered features. Public clarity still matters.
@@ -154,6 +164,7 @@ At least one user-test record, one revision story, and one station-plan capture 
 - keep observers from stepping in too soon
 - do not let signage become a last-minute afterthought
 - soft opening should reveal problems while there is still time to fix them
+- if visitors are confused in the same place more than once, treat it as a build problem, not only a speaking problem
 
 ## Capstone continuity notes
 Week 6 should make the final showcase feel almost present. Visitors, signage, reset, and station flow now belong inside the project, not outside it.

@@ -24,6 +24,8 @@ Each 2.5-hour session should include:
 - 45–55 min build sprint 2
 - 20–25 min share / document / park / cleanup
 
+Use the reset block to move students from talking about ideas to shaping one clearer choice.
+
 ## Must-have materials this week
 - capstone planners
 - large paper, sticky notes, markers
@@ -129,10 +131,18 @@ Students make one small pre-prototype test or clearer structure mockup.
 Every project ends the week with a planner, a status card, and a ready storage home.
 
 ## Grades 3–4 adaptation
-Use sentence stems, drawing, pointing, and smaller project menus. Keep the mockup target concrete.
+Use a more concrete planning path:
+
+- choose from a smaller menu of project directions
+- use drawing, pointing, and mockup-building before long writing
+- define audience and first use in plain, concrete language
 
 ## Grades 5–7 extension
-Invite students to weigh tradeoffs, justify feature cuts, and create a stronger systems map.
+Use a more analytical planning path:
+
+- compare two project directions and justify one
+- cut features before prototype week starts
+- build a clearer mockup that tests visitor flow or first-use logic
 
 ## If tech fails, do this instead
 Run the full week with cardboard, paper, labels, role-play, and mockups. Technology is not required for project choice.
@@ -154,6 +164,7 @@ A completed capstone planner, one photo or sketch of the mockup, and a status ca
 - do not let students restart endlessly
 - push for smaller first versions
 - make project parking systems visible and non-negotiable before prototype week begins
+- conference with teams that still sound broad or overly ambitious before the week ends
 
 ## Capstone continuity notes
 Week 3 is the decision week. Students should finish with a real capstone direction and a manageable first prototype target.

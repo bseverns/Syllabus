@@ -31,6 +31,13 @@ Each 2.5-hour session should include:
 
 Do not use the whole block as one continuous build stretch. Younger students especially need an internal reset.
 
+The break / reset block should usually do four jobs:
+
+- release water or bathroom needs in a manageable way
+- drop the room volume before it drifts further
+- get loose materials and tools back to a stable table state
+- relaunch sprint 2 with one short, clear target
+
 ## Energy management
 
 - keep demos short and concrete
@@ -38,6 +45,44 @@ Do not use the whole block as one continuous build stretch. Younger students esp
 - shift students from floor to table or table to gallery moment when energy drifts
 - protect the final 20 minutes so cleanup and parking do not collapse
 - during late prototype weeks, schedule one short whole-room pause before sprint 2 to reset attention
+
+## When to stop the room
+
+Stop and regather the room when:
+
+- more than a few students are wandering instead of building
+- sound or motion testing spreads beyond the agreed zone
+- students cannot hear safety or reset directions
+- multiple tables are stalled by the same confusion
+- sprint 2 is starting but the room is still physically blown open
+
+Stopping the room is not a failure. Sometimes it is what saves the second half of class.
+
+## Fast regather move
+
+Use the same short sequence:
+
+1. Hands off tools and eyes up.
+2. One sentence about why you stopped the room.
+3. One or two next moves only.
+4. Release tables back to work quickly.
+
+Keep the reset matter-of-fact. Do not turn it into a lecture.
+
+## Productive noise vs. the room coming apart
+
+Productive noise usually sounds like:
+
+- students naming materials, tests, or problems
+- table talk staying near the build
+- short bursts of movement tied to testing or supply pulls
+
+The room is coming apart when:
+
+- sound gets louder but less specific
+- projects are moving without a clear test lane
+- students leave stations without purpose
+- many students stop knowing what the next task is
 
 ## Weekly prep rhythm
 
@@ -53,6 +98,7 @@ Do not use the whole block as one continuous build stretch. Younger students esp
 - post the launch prompt and sprint targets
 - lay materials out in trays, not one large pile
 - make sure the fast-fix bin is ready
+- decide in advance what the break / reset block should accomplish that day
 
 ### After each session
 - do a 5-minute project parking reset
@@ -99,6 +145,13 @@ Post a short repair routine:
 4. Test again.
 5. Record the next step.
 
+## Protecting sprint 2
+
+- end sprint 1 early enough to reset the room with some calm
+- do not start sprint 2 until tables are usable again
+- if attention is frayed, relaunch with one small target instead of a long speech
+- shrink the second sprint when needed; a smaller finish is better than a collapsed ending
+
 ## Early capstone operations
 
 Because capstones start early in this intensive:
@@ -115,12 +168,14 @@ Because capstones start early in this intensive:
 - test in short turns, not free-for-all roaming
 - require projects to return to a parked position after testing
 - keep loose wheels, weights, and motors in trays
+- stop the room if too many moving projects are out at once
 
 ### Sound
 - model quiet test, medium test, and performance volume
 - run table-by-table sound checks
 - keep one quieter corner active for students who need it
 - pause the room and reset norms when noise drifts
+- keep one clearly named “sound off” moment before instructions
 
 ## Showcase preparation in an intensive format
 

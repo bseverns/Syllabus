@@ -4,7 +4,8 @@
 - **This week is for:** room systems, first-build success, and early neighborhood project imagination.
 - **By the end of the week:** students should have one light build, one motion build, and 2–3 possible neighborhood project directions.
 - **Prep first:** tested LEDs, motors, batteries, parking bins, and a wall for neighborhood sparks.
-- **Watch for:** tool exploration drifting into disconnected novelty. Keep asking who a future project could be for.
+- **Watch for:** tool exploration drifting into disconnected novelty, motion testing spreading beyond the lane, or spark talk swallowing build time.
+- **Stop and reset the room when:** more than a few builds are moving at once, students cannot hear safety directions, or the room no longer knows the task.
 
 ## Big idea
 We are entering a neighborhood invention studio, not waiting to do the real work later.
@@ -23,6 +24,8 @@ Each 2.5-hour session should include:
 - 10 min break / movement / reset
 - 45–55 min build sprint 2
 - 20–25 min share / document / park / cleanup
+
+The break / reset block should usually mean water or bathroom release, materials back to table edges, projects parked or paused safely, and one sentence that relaunches sprint 2.
 
 ## Must-have materials this week
 - LEDs, coin cells, copper tape
@@ -76,7 +79,7 @@ Show wobble, spin, and roll. Explain strong vs. weak motor attachment.
 Students test motion stations, then choose one movement type to build.
 
 ### Break / reset
-Clear test lanes, reset sound level, and check loose parts.
+Clear test lanes, return all moving builds to parked positions, reset sound level, and check loose parts before sprint 2 starts.
 
 ### Build sprint 2
 Students build a simple moving object and give it a job, mood, or role on the block.
@@ -123,16 +126,24 @@ Students sketch or mock up 2–3 possible neighborhood project directions using 
 Do a quick peer swap and warm feedback round.
 
 ### Build sprint 2
-Students choose the strongest 2–3 ideas and label each with audience and possible tools.
+Students choose the strongest 1–2 ideas and label each with audience and possible tools. Do not keep brainstorming once the ideas are real enough to carry forward.
 
 ### Share / document / park
 Each student or team leaves one project-spark card in their bin and one on the wall.
 
 ## Grades 3–4 adaptation
-Use pre-cut templates, one clear technical target at a time, and spoken explanations supported by pointing or picture cards.
+Use a simpler build-and-talk pathway:
+
+- Session 1: one light-up sign with a spoken explanation
+- Session 2: one motion type only, tested in the lane
+- Sessions 3–4: two strong project sparks are enough if they are clearly for real people
 
 ## Grades 5–7 extension
-Invite students to compare multiple project sparks and justify which one has the clearest audience or use.
+Use a deeper decision-and-test pathway:
+
+- compare two light or motion design choices and choose one
+- explain which neighborhood audience each spark might serve
+- carry forward the strongest 1–2 sparks with clearer public-use language
 
 ## If tech fails, do this instead
 Use paper circuits without live power, hand-powered motion, labels, and role-played neighborhood uses. Students can still seed real project ideas.
@@ -144,6 +155,7 @@ One photo of each working build, one motion or light test note, and 2–3 saved 
 - students know how the room works
 - students experience visible technical success early
 - project ideas already sound public and neighborhood-rooted, not random
+- even if room systems are still new, students can park projects, reset tools, and re-enter build time after a stop
 
 ## What success sounds like
 - “This could help people…”
@@ -154,6 +166,9 @@ One photo of each working build, one motion or light test note, and 2–3 saved 
 - teach parking and cleanup as seriously as building
 - do not let Week 1 turn into isolated toy making
 - keep asking audience and place questions without forcing final project decisions too early
+- keep motion testing in a visibly bounded lane
+- if Session 4 idea talk starts to drift, stop after 1–2 usable sparks and save energy for Week 2
+- success this week includes room systems working better by Friday, not only polished artifacts
 
 ## Capstone continuity notes
 Week 1 should end with possibility, not commitment. Students should leave with multiple project sparks and a sense that the capstone has already begun.

@@ -42,6 +42,29 @@ Every week should offer:
 
 The extension should deepen their work, not turn them into assistant staff.
 
+## Week-by-week concrete extension moves
+
+### Weeks 1–2
+- compare two tool paths and choose the one that fits the audience better
+- improve interaction clarity instead of only adding more parts
+
+### Week 3
+- compare two project directions and justify one with audience and buildability in mind
+- make a clearer mockup that tests visitor flow or first use
+
+### Weeks 4–5
+- prove the first system before adding a second
+- write sharper test questions
+- improve reset logic, structure, or clarity instead of chasing extra features
+
+### Week 6
+- sort tester feedback into patterns, not only one-off comments
+- strengthen station flow, labels, and repeated-use reliability
+
+### Week 7
+- improve hosting handoffs, archive notes, or station clarity
+- document version change more precisely
+
 ## Dignified low-floor examples
 
 - one reliable LED and one clear switch
@@ -93,3 +116,5 @@ Do not require the same documentation mode from every student every week.
 - shorten demos and expand build time
 - use role cards and status cards to distribute attention
 - choose the simplest documentation mode that still preserves continuity
+
+In a one-adult room, an extension should usually be a deeper design or testing move that a student can own independently, not a task that creates more supervision load.

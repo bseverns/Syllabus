@@ -24,6 +24,8 @@ Each 2.5-hour session should include:
 - 45–55 min build sprint 2
 - 20–25 min share / document / park / cleanup
 
+Use the reset block to stop part sprawl, relabel loose pieces, and relaunch one clear build target for sprint 2.
+
 ## Must-have materials this week
 - team-specific project materials
 - labels, tape flags, and markers
@@ -129,10 +131,18 @@ Teams make one targeted change and prepare a Week 5 repair/clarity plan.
 Every project ends the week with a current-version photo and a named next step.
 
 ## Grades 3–4 adaptation
-Keep the target tight: one working action, one labeled part, one saved next step.
+Keep the target tight and concrete:
+
+- build one working action first
+- label one important part or pathway
+- leave one next-step note that makes re-entry easy next session
 
 ## Grades 5–7 extension
-Invite teams to connect a second system or compare two prototype versions and justify the stronger direction.
+Use a more precise extension path:
+
+- compare two prototype versions and choose the stronger one
+- add a second system only after the first works
+- document which change actually improved the build
 
 ## If tech fails, do this instead
 Prototype structure, signage, interaction flow, and audience use in cardboard and labels. The core question is still whether the idea becomes real enough to test.
@@ -154,6 +164,7 @@ At least one current-version photo or sketch per session, plus one status-card u
 - insist on labels, parking, and version capture
 - stop teams from disappearing into decorative detail before the main function works
 - praise rough progress that answers a real question
+- if sprint 2 starts collapsing, shrink the target and protect a useful parking state
 
 ## Capstone continuity notes
 Prototype week is not a side phase. This is the capstone becoming real. Keep all project talk tied to audience and use.

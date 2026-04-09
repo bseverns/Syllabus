@@ -136,25 +136,29 @@
     "keywords": [
       "Civic",
       "Making",
-      "Media"
+      "Media",
+      "Systems",
+      "Documentation"
     ],
     "outcomes": [
-      "Hack public narratives through fast prototyping.",
-      "Prototype civic media tools for local partners.",
-      "Analyze media power structures with collaborative critique.",
-      "Document builds for replication and accountability."
+      "Analyze a local civic issue as both a media problem and a systems problem.",
+      "Prototype modest civic media interventions for real publics or partners.",
+      "Test public legibility, ethical risk, and audience fit before scaling.",
+      "Document setup, revisions, and outcomes for replication and accountability."
     ],
-    "access_notes": "Designed for community partnerships; favors low-cost, easily sourced materials.",
+    "access_notes": "Built for low-cost, community-partner-capable delivery with print, no-code, and lightweight installation paths.",
     "artifacts": [
-      "Course syllabus",
-      "Process log",
-      "Final civic media action"
+      "Civic signal scan dossier",
+      "Systems and stakeholder maps",
+      "Final civic media action and documentation bundle"
     ],
     "lineage": [
-      "future-course-briefs"
+      "SoundSystemsSociety",
+      "ImagingOtherwise",
+      "public lab"
     ],
-    "version": "2024.06",
-    "updated": "2024-06-02"
+    "version": "2026.04",
+    "updated": "2026-04-09"
   },
   {
     "course_id": "ctm-sound-design",

@@ -20,6 +20,16 @@ In the intensive version of Build Your Block, the showcase should not appear sud
 - welcome sign
 - student greeters or docents
 
+## Before a project is showcase-ready
+
+Check that:
+
+- the main interaction works more than once
+- the visitor can tell where to start
+- the station has a reset routine
+- labels support the project instead of doing all the explanation
+- the team can explain the project without sounding over-scripted
+
 ## Logistics checklist
 - tables and power
 - extension cords if needed
@@ -38,6 +48,8 @@ In the intensive version of Build Your Block, the showcase should not appear sud
 - We changed...
 - Next we would...
 
+Students do not need to memorize these word for word. They are cue lines, not a script.
+
 ## Documentation
 Capture:
 - photos of students with projects
@@ -50,3 +62,4 @@ Also capture:
 - one full-station photo for each team
 - one note about what held up well in public use
 - one note about what needed reset or repair
+- one note about what should be kept in the archive: photo set, labels, diagram, quote, or video

@@ -129,6 +129,7 @@ This course is designed for real mixed-age rooms. Each week includes:
 - a tech-failure backup
 - a documentation target
 - clear signals of what success looks and sounds like
+- a compact weekly field guide for live facilitation
 
 The goal is not to make older students into unpaid assistants. The goal is to keep every student doing meaningful studio work.
 

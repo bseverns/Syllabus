@@ -12,6 +12,8 @@
 
 ## First thing to do next session:
 
+## What a visitor would still find confusing right now:
+
 ## Materials or tools to pull before next session:
 
 ## Where this project should be stored:

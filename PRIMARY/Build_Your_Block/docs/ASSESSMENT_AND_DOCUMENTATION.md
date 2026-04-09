@@ -107,6 +107,25 @@ Use these repeatedly:
 
 Students do not need to fill every tool every day. Staff should choose the lightest tool that preserves continuity.
 
+## Ready-for-testing signs
+
+A prototype is ready for user testing when:
+
+- the main interaction works at least once without adult rescue
+- a visitor can tell where to begin
+- the project can survive a short test round
+- the team knows what question it wants the test to answer
+
+## Ready-for-showcase signs
+
+A station is ready for public use when:
+
+- visitors can approach it without confusion
+- touch points, wait spots, or viewing spots are readable
+- labels help instead of replacing the build
+- the team can reset it calmly between visitors
+- the student explanation sounds natural, not memorized line by line
+
 ## When writing stamina is low
 
 Use:
@@ -153,3 +172,4 @@ Capture:
 - one student quote about purpose or revision
 - one visitor response
 - one note about what held up well and what needed help
+- one archived record of what should be saved, rebuilt, or documented for later

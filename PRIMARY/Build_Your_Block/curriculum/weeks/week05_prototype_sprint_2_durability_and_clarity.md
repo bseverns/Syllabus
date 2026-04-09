@@ -24,6 +24,8 @@ Each 2.5-hour session should include:
 - 45–55 min build sprint 2
 - 20–25 min share / document / park / cleanup
 
+Use the reset block to move teams from “more features” talk back to “what would still fail for a visitor?”
+
 ## Must-have materials this week
 - repair supplies and reinforcements
 - labels, markers, and tape
@@ -129,10 +131,18 @@ Teams prepare testing questions and polish only what supports use.
 Every team ends the week with a testing goal, not just a prettier object.
 
 ## Grades 3–4 adaptation
-Focus on one fragile area, one confusing area, and one reset routine. Keep the checklist concrete and visual.
+Use a simpler public-use path:
+
+- fix one fragile area
+- fix one confusing area
+- practice one reset routine with visual support
 
 ## Grades 5–7 extension
-Invite teams to compare multiple failure points, improve station flow, or draft stronger user instructions.
+Use a more public-ready extension path:
+
+- compare multiple failure points and choose which to solve first
+- improve station flow or touch-point clarity
+- write or refine stronger user instructions after testing
 
 ## If tech fails, do this instead
 Strengthen structure, labels, touch points, and user flow with cardboard and paper. A clearer physical station is still real progress.
@@ -154,6 +164,7 @@ One repair or clarity note per session, plus a current durability or reset check
 - do not let polish replace repair
 - frame durability and clarity as design work, not cleanup work
 - keep visitors and younger users in the conversation
+- if a team keeps adding features, redirect them to repeat-use testing immediately
 
 ## Capstone continuity notes
 Week 5 should make it obvious that the project is headed toward public use, not just a working table prototype.

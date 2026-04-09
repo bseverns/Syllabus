@@ -18,6 +18,8 @@
 
 ## Current risk or stuck point:
 
+## What still needs to get clearer for a visitor:
+
 ## Materials needed next class:
 
 ## Staff conference note:

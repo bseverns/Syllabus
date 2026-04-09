@@ -27,6 +27,8 @@
 
 ## What materials do you need next?
 
+## How will a visitor know where to start?
+
 ## What could make this project confusing, fragile, or hard to reset?
 
 ## Sketch or label the first version

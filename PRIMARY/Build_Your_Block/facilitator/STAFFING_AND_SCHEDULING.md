@@ -30,6 +30,13 @@ Each class session is **2.5 hours**.
 
 Do not cut the last block. If cleanup and parking collapse, the next session slows down immediately.
 
+The break / reset block should usually include:
+
+- water and bathroom release
+- a room-volume drop
+- a materials reset
+- one short relaunch sentence for sprint 2
+
 ## Weekly schedule
 
 - 4 sessions per week
@@ -59,6 +66,22 @@ Because the calendar is short, the course cannot afford many “lost” sessions
 - log missing materials
 - note where the next session is most likely to stall
 
+## If the room starts drifting
+
+- stop the room earlier, not later
+- restate one clear next move
+- reduce active tools if needed
+- shorten sprint 2 goals rather than pushing through chaos
+
+## How to tell when sprint 2 is in trouble
+
+- tables are still resetting 5 minutes into sprint 2
+- students are moving more than building
+- sound rises while task clarity drops
+- many teams ask what they are supposed to do next
+
+When this happens, shrink the task and relaunch. Do not keep explaining over the drift.
+
 ## When only one adult is available
 
 - keep demos under 15 minutes
@@ -84,6 +107,8 @@ Because the calendar is short, the course cannot afford many “lost” sessions
 - give students something to hold, test, or mark during explanation moments
 - change the mode between sprint 1 and sprint 2 when possible
 - keep cleanup structured and brief
+- distinguish productive noise from diffuse, directionless noise
+- treat bathroom, water, and movement as planning issues, not behavior surprises
 
 ## Sound and motion management
 
