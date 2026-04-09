@@ -33,20 +33,20 @@ Across sixteen weeks, students:
 
 ## If your site has limited materials
 
-This package includes a stripped-down delivery path in [MINIMUM_VIABLE_IMPLEMENTATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A site can still run the course well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and very limited coding access.
+This package includes a stripped-down delivery path in [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A site can still run the course well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and very limited coding access.
 
 ## Package structure
 
-- [SYLLABUS.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/SYLLABUS.md) — full course overview and weekly arc
-- [curriculum/weeks/](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/curriculum/weeks) — weekly plans with prep, adaptations, backup paths, and success indicators
-- [facilitator/IMPLEMENTATION_NOTES.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/facilitator/IMPLEMENTATION_NOTES.md) — room systems, prep rhythm, storage, repair, and showcase prep
-- [facilitator/DIFFERENTIATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/facilitator/DIFFERENTIATION.md) — mixed-age design guidance
-- [facilitator/STAFFING_AND_SCHEDULING.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/facilitator/STAFFING_AND_SCHEDULING.md) — staffing models and one-adult guidance
-- [docs/ASSESSMENT_AND_DOCUMENTATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/ASSESSMENT_AND_DOCUMENTATION.md) — process-centered assessment and documentation options
-- [docs/PARENT_FACING_DESCRIPTION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/PARENT_FACING_DESCRIPTION.md) — public-facing language
-- [docs/ONE_PAGER.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/ONE_PAGER.md) — partner-ready summary
-- [templates/](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/templates) — capstone, status, showcase, and weekly planning templates
-- [classhub_import/](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/classhub_import) — LMS-friendly import layer
+- [SYLLABUS.md](SYLLABUS.md) — full course overview and weekly arc
+- [curriculum/weeks/](curriculum/weeks/) — weekly plans with prep, adaptations, backup paths, and success indicators
+- [facilitator/IMPLEMENTATION_NOTES.md](facilitator/IMPLEMENTATION_NOTES.md) — room systems, prep rhythm, storage, repair, and showcase prep
+- [facilitator/DIFFERENTIATION.md](facilitator/DIFFERENTIATION.md) — mixed-age design guidance
+- [facilitator/STAFFING_AND_SCHEDULING.md](facilitator/STAFFING_AND_SCHEDULING.md) — staffing models and one-adult guidance
+- [docs/ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) — process-centered assessment and documentation options
+- [docs/PARENT_FACING_DESCRIPTION.md](docs/PARENT_FACING_DESCRIPTION.md) — public-facing language
+- [docs/ONE_PAGER.md](docs/ONE_PAGER.md) — partner-ready summary
+- [templates/](templates/) — capstone, status, showcase, and weekly planning templates
+- [classhub_import/](classhub_import/) — LMS-friendly import layer
 
 ## Design commitments
 
@@ -58,4 +58,4 @@ This package includes a stripped-down delivery path in [MINIMUM_VIABLE_IMPLEMENT
 
 ## License
 
-MIT. See [LICENSE](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/LICENSE).
+MIT. See [LICENSE](LICENSE).

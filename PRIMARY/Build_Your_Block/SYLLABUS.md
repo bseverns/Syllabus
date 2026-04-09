@@ -74,7 +74,7 @@ Assessment in this class is based on participation, experimentation, revision, c
 - verbal, visual, audio, or written reflection
 - final showcase presentation
 
-See [ASSESSMENT_AND_DOCUMENTATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/ASSESSMENT_AND_DOCUMENTATION.md) for weekly look-fors and documentation modes.
+See [ASSESSMENT_AND_DOCUMENTATION.md](docs/ASSESSMENT_AND_DOCUMENTATION.md) for weekly look-fors and documentation modes.
 
 ---
 
@@ -171,9 +171,9 @@ The goal is not to make older students into unpaid assistants. The goal is to ke
 
 ## Materials and adaptation
 
-See [MATERIALS_AND_EQUIPMENT.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/MATERIALS_AND_EQUIPMENT.md) for the full materials list.
+See [MATERIALS_AND_EQUIPMENT.md](docs/MATERIALS_AND_EQUIPMENT.md) for the full materials list.
 
-For lower-resource sites, see [MINIMUM_VIABLE_IMPLEMENTATION.md](/Users/bseverns/Documents/GitHub/Syllabus/PRIMARY/Build_Your_Block/docs/MINIMUM_VIABLE_IMPLEMENTATION.md). The course can still run well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and limited coding access.
+For lower-resource sites, see [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). The course can still run well with cardboard, paper, tape, markers, LEDs, copper tape, coin cells, simple motors, and limited coding access.
 
 ---
 
