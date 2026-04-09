@@ -44,4 +44,5 @@ Implementation notes:
 - Mixed-age adaptations are built into the weekly plans.
 - One coding platform is enough for the full course.
 - The course can run in a lower-resource version with cardboard, paper, tape, markers, LEDs, simple motors, and limited device access.
+- Project parking, documentation, and cleanup are treated as part of the making process, not extra tasks after the real work.
 - The public showcase is part of the curriculum, not an extra event.

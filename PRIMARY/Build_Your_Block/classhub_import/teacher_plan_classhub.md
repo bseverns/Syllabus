@@ -16,6 +16,22 @@ All sessions follow the same studio rhythm:
 - build sprint 2
 - share / document / park
 
+Use the break / reset block to drop the room volume, release water or bathroom needs, return loose materials, and relaunch sprint 2 clearly.
+
+Fast teacher handoff for this import file:
+- Week 1 priority: first-build success plus room systems
+- Week 2 priority: one interaction sample plus one likely project direction
+- Week 3 priority: one chosen project plus one smallest first test
+- Week 4 priority: one real prototype with a parked next step
+- Week 5 priority: repair, clarity, and repeat-use logic before extra features
+- Week 6 priority: user evidence, revision, and station clarity
+- Week 7 priority: installation, hosting, reflection, and archive
+
+Companion files in the main package:
+- `classhub_import/weekly_handoff_classhub.md` for weekly must-haves and can-cut notes
+- `facilitator/field_guides/` for one-screen live-teaching reminders
+- `templates/` for planner, status, durability, and session parking tools
+
 # Session 01: Studio Welcome and First Light Build
 
 Mission: Launch room routines and get every student to a first working light build.
@@ -36,6 +52,7 @@ Checkpoints
 Common stuck points + fixes
 - Day-one perfectionism -> praise visible function first.
 - Circuit frustration -> model battery and LED checks out loud.
+- Room heat rises too fast -> stop early, reset tools, and relaunch with one smaller target.
 
 Extensions
 - Add a title or place reference to the build.
@@ -60,6 +77,7 @@ Checkpoints
 Common stuck points + fixes
 - Motion chaos -> use short test turns.
 - Motor-only thinking -> focus on balance and structure.
+- Too many projects moving at once -> stop the room and return all builds to parked positions.
 
 Extensions
 - Give the moving object a neighborhood role.
@@ -108,6 +126,7 @@ Checkpoints
 Common stuck points + fixes
 - Ideas stay vague -> require “This could help…” language.
 - Students choose too early -> keep several options alive.
+- Spark talk takes over build time -> two strong sparks are enough for the day.
 
 Extensions
 - Compare which spark feels strongest and why.
@@ -133,6 +152,7 @@ Checkpoints
 Common stuck points + fixes
 - Volume takes over -> use zone-based sound checks.
 - Sound feels random -> ask what mood or purpose it creates.
+- Too many tool branches open at once -> keep one sound path live for the whole room.
 
 Extensions
 - Add a second trigger or clearer interface.
@@ -158,6 +178,7 @@ Checkpoints
 Common stuck points + fixes
 - Too many effects -> keep one clear chain first.
 - Trigger area unclear -> label touch points visibly.
+- Interaction week starts to fragment -> protect one weekly deliverable: one interaction sample plus one likely project direction.
 
 Extensions
 - Add layered outputs after the first works.
@@ -183,6 +204,7 @@ Checkpoints
 Common stuck points + fixes
 - Abstract coding -> tie it to movement, light, or sound.
 - Thin device access -> use unplugged work and turn-taking.
+- Coding starts acting like a separate camp -> keep it short, visible, and connected to project use.
 
 Extensions
 - Add a condition or second behavior.
@@ -208,6 +230,7 @@ Checkpoints
 Common stuck points + fixes
 - Too many ideas still open -> ask which one keeps returning.
 - Tool-first thinking -> restate audience and use.
+- Students feel they need a final answer already -> “most likely direction” is enough this week.
 
 Extensions
 - Compare two possible directions and justify the choice.
@@ -232,6 +255,7 @@ Checkpoints
 Common stuck points + fixes
 - Broad topic talk -> ask what the project will actually do.
 - Complaint-only framing -> include joy, memory, and welcome.
+- Teams keep changing directions -> ask which idea has the clearest audience and smallest first test.
 
 Extensions
 - Create a clearer audience map for the idea.
@@ -256,6 +280,7 @@ Checkpoints
 Common stuck points + fixes
 - Students want final build quality too soon -> keep mockups rough.
 - Audience confusion -> ask for first-touch or first-look cues.
+- Planning stays abstract -> require one physical cue, label, or visitor action in the mockup.
 
 Extensions
 - Add a station sketch or user path.
@@ -280,6 +305,7 @@ Checkpoints
 Common stuck points + fixes
 - Oversized plans -> shrink to smallest testable version.
 - Too many systems -> name the star feature first.
+- Teams want every tool in the plan -> choose the first proof before any secondary system.
 
 Extensions
 - Make a stronger systems map.
@@ -305,6 +331,7 @@ Checkpoints
 Common stuck points + fixes
 - Endless revision of the idea -> greenlight one realistic first version.
 - Weak storage -> assign project homes now.
+- Teams leave without continuity -> require a parking card with the next move before cleanup ends.
 
 Extensions
 - Build one tiny pre-prototype test before leaving.
@@ -329,6 +356,7 @@ Checkpoints
 Common stuck points + fixes
 - Full-project thinking -> ask what counts as the first proof.
 - Hard-to-read builds -> label parts early.
+- Teams stall after a messy first sprint -> shrink to one core action for sprint 2.
 
 Extensions
 - Add one audience cue without hiding the system.
@@ -353,6 +381,7 @@ Checkpoints
 Common stuck points + fixes
 - Decoration before structure -> return to usability first.
 - Loose parts everywhere -> pause for a parking reset.
+- Teams protect nothing -> tape, label, and brace the working part before changing the rest.
 
 Extensions
 - Compare two layout choices and pick one.
@@ -378,6 +407,7 @@ Checkpoints
 Common stuck points + fixes
 - Feature sprawl -> name star feature vs. support feature.
 - Confusion grows -> require a quick systems sketch.
+- Added complexity hides the point -> ask what a visitor should notice first.
 
 Extensions
 - Add a stronger timing or sequence choice.
@@ -403,6 +433,7 @@ Checkpoints
 Common stuck points + fixes
 - Vague status talk -> require one success and one risk.
 - No evidence -> capture a current-version photo.
+- Teams forget where to restart -> park the build with one next-step sentence.
 
 Extensions
 - Compare current version to mockup and note the change.
@@ -428,6 +459,7 @@ Checkpoints
 Common stuck points + fixes
 - Repair feels boring -> frame it as public-use design.
 - Teams chase extras -> hold the feature line until function stabilizes.
+- Students fix symptoms only -> ask what fails first under repeated use.
 
 Extensions
 - Fix more than one weak point if the first is stable.
@@ -452,6 +484,7 @@ Checkpoints
 Common stuck points + fixes
 - Jargon-heavy labels -> rewrite for younger visitors.
 - Hidden interaction points -> make the cue physical and visual.
+- The project still needs a speech to work -> improve the station, not only the explanation.
 
 Extensions
 - Add a stronger title or story card.
@@ -477,6 +510,7 @@ Checkpoints
 Common stuck points + fixes
 - Single-test mindset -> require multiple tries.
 - Reset too complicated -> cut steps and simplify.
+- Reset stays in one student's head -> post or picture the routine.
 
 Extensions
 - Design for younger visitors or busier use.
@@ -502,6 +536,7 @@ Checkpoints
 Common stuck points + fixes
 - Teams do not know what to ask -> limit to 2–3 test questions.
 - Testing prep drifts to cosmetics -> return to clarity and function.
+- Projects are not actually test-ready -> check trigger, response, labels, and reset before inviting users.
 
 Extensions
 - Draft a stronger host/observer plan.
@@ -527,6 +562,7 @@ Checkpoints
 Common stuck points + fixes
 - Builders over-explain -> assign observer roles.
 - Feedback stays vague -> ask for one observed behavior.
+- Testers do not know where to start -> fix station cues before starting the round.
 
 Extensions
 - Test with more than one age group if available.
@@ -552,6 +588,7 @@ Checkpoints
 Common stuck points + fixes
 - Opinions take over -> return to what users actually did.
 - Too many revisions at once -> choose 1–2 priorities.
+- Teams jump to polish -> revise the biggest confusion or failure point first.
 
 Extensions
 - Compare multiple tester patterns before revising.
@@ -577,6 +614,7 @@ Checkpoints
 Common stuck points + fixes
 - Project and station are disconnected -> ask what the visitor sees first.
 - Reset steps are missing -> add them to the station now.
+- Waiting flow is messy -> mark where to stand, watch, and enter.
 
 Extensions
 - Add a stronger mood or layered display element.
@@ -602,6 +640,7 @@ Checkpoints
 Common stuck points + fixes
 - Soft opening feels optional -> treat it like a real rehearsal.
 - Too many fixes appear -> choose the highest-priority ones only.
+- Students narrate every step for visitors -> tighten station cues so the work explains more on its own.
 
 Extensions
 - Add a clearer welcome line or docent role.
@@ -627,6 +666,7 @@ Checkpoints
 Common stuck points + fixes
 - Install drifts into decoration -> finish use and safety first.
 - Traffic problems appear -> mark waiting and touch zones.
+- Power plans are fragile -> set battery or outlet responsibility before visitors arrive.
 
 Extensions
 - Improve station flow or supporting visuals.
@@ -652,6 +692,7 @@ Checkpoints
 Common stuck points + fixes
 - Memorized stiff scripts -> switch to cue points.
 - Hosting roles uneven -> redistribute clearly.
+- One student carries the whole explanation -> give each team member one clear public job.
 
 Extensions
 - Add a smoother handoff between speakers.
@@ -677,6 +718,7 @@ Checkpoints
 Common stuck points + fixes
 - Event energy overwhelms teams -> build in short reset moments.
 - Minor failures happen -> use calm public troubleshooting.
+- Stations lose clarity under crowding -> keep labels, queues, and reset cues visible.
 
 Extensions
 - Use student docents or interviewers during the event.
@@ -703,6 +745,7 @@ Checkpoints
 Common stuck points + fixes
 - Reflection gets rushed -> protect time after the event.
 - Students understate growth -> ask for concrete examples.
+- Archive becomes random -> capture one full station photo, one close-up, one student quote, and one artifact beyond photos.
 
 Extensions
 - Capture short student interviews for future program use.
