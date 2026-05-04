@@ -1,0 +1,80 @@
+lab_id,item,category,quantity_note,required
+01_signal_postcards,micro:bit v2,core,scale to participants,yes
+01_signal_postcards,MakeCode,core,scale to participants,yes
+01_signal_postcards,Chromebooks,core,scale to participants,yes
+01_signal_postcards,printed floor maps,core,scale to participants,yes
+01_signal_postcards,stickers / markers,core,scale to participants,yes
+01_signal_postcards,Signal Mailbox,core,scale to participants,yes
+01_signal_postcards,rubber stamp,core,scale to participants,yes
+01_signal_postcards,participant cards,shared,1 set per table,yes
+01_signal_postcards,table sign,shared,1 set per table,yes
+01_signal_postcards,sharpies,shared,1 set per table,yes
+01_signal_postcards,QR follow-up sign,shared,1 set per table,yes
+02_fpv_flight_school,FPV simulator,core,scale to participants,yes
+02_fpv_flight_school,USB radio controllers,core,scale to participants,yes
+02_fpv_flight_school,laptops or gaming-capable machines,core,scale to participants,yes
+02_fpv_flight_school,large display,core,scale to participants,yes
+02_fpv_flight_school,pilot cards,core,scale to participants,yes
+02_fpv_flight_school,participant cards,shared,1 set per table,yes
+02_fpv_flight_school,table sign,shared,1 set per table,yes
+02_fpv_flight_school,sharpies,shared,1 set per table,yes
+02_fpv_flight_school,QR follow-up sign,shared,1 set per table,yes
+03_sound_logo_sprint,phones or Chromebooks,core,scale to participants,yes
+03_sound_logo_sprint,BandLab / Soundtrap / GarageBand / browser recorder,core,scale to participants,yes
+03_sound_logo_sprint,labeled Foley bins: Impact / Texture / Motion / Human / Tone,core,1 set per 12-16 participants,yes
+03_sound_logo_sprint,"Impact objects: cardboard box, binder clips, keys, mug, plastic lid",core,5-8 objects per bin,yes
+03_sound_logo_sprint,"Texture objects: tissue paper, paper bag, foil, felt, cloth, sealed rice",core,5-8 objects per bin,yes
+03_sound_logo_sprint,"Motion objects: zipper pouch, tape measure, toy car, ruler, bag",core,5-8 objects per bin,yes
+03_sound_logo_sprint,"Tone objects: desk bell, micro:bit tone, littleBits/Korg synth, kalimba",optional,1-3 items per table,no
+03_sound_logo_sprint,printed Foley table labels and prompt cards,shared,1 set per table,yes
+03_sound_logo_sprint,headphones,core,2-6 pairs,yes
+03_sound_logo_sprint,small speaker,core,1 for share-out,yes
+03_sound_logo_sprint,participant cards,shared,1 set per table,yes
+03_sound_logo_sprint,table sign,shared,1 set per table,yes
+03_sound_logo_sprint,sharpies,shared,1 set per table,yes
+03_sound_logo_sprint,QR follow-up sign,shared,1 set per table,yes
+04_robot_mood_machines,LEGO Spike Prime kits,core,scale to participants,yes
+04_robot_mood_machines,prebuilt driving bases,core,scale to participants,yes
+04_robot_mood_machines,Spike app,core,scale to participants,yes
+04_robot_mood_machines,mood cards,core,scale to participants,yes
+04_robot_mood_machines,test mat,core,scale to participants,yes
+04_robot_mood_machines,participant cards,shared,1 set per table,yes
+04_robot_mood_machines,table sign,shared,1 set per table,yes
+04_robot_mood_machines,sharpies,shared,1 set per table,yes
+04_robot_mood_machines,QR follow-up sign,shared,1 set per table,yes
+06_tiny_code_creatures,micro:bit,core,scale to participants,yes
+06_tiny_code_creatures,MakeCode,core,scale to participants,yes
+06_tiny_code_creatures,Chromebooks,core,scale to participants,yes
+06_tiny_code_creatures,cardstock,core,scale to participants,yes
+06_tiny_code_creatures,badge sleeves,core,scale to participants,yes
+06_tiny_code_creatures,tape,core,scale to participants,yes
+06_tiny_code_creatures,starter code cards,core,scale to participants,yes
+06_tiny_code_creatures,participant cards,shared,1 set per table,yes
+06_tiny_code_creatures,table sign,shared,1 set per table,yes
+06_tiny_code_creatures,sharpies,shared,1 set per table,yes
+06_tiny_code_creatures,QR follow-up sign,shared,1 set per table,yes
+07_ai_workflow_arcade,facilitator computer,core,1,yes
+07_ai_workflow_arcade,approved hosted AI interface or facilitator-only demo,core,1 access path,yes
+07_ai_workflow_arcade,optional local model demo machine,novel,1 pre-tested machine,preferred
+07_ai_workflow_arcade,source packet examples,core,1 set per table,yes
+07_ai_workflow_arcade,AI Workflow Cards,core,1 per participant/pair,yes
+07_ai_workflow_arcade,Verification Cards,core,1 per participant/pair,yes
+07_ai_workflow_arcade,Workflow Recipe Cards,core,1 cut set per table,yes
+07_ai_workflow_arcade,KEEP/CHECK/REJECT labels or stamps,shared,1 set per table,preferred
+07_ai_workflow_arcade,optional image/audio generation demo,novel,facilitator approved only,optional
+07_ai_workflow_arcade,participant cards,shared,1 set per table,yes
+07_ai_workflow_arcade,table sign,shared,1 per table,yes
+07_ai_workflow_arcade,sharpies,shared,1 set per table,yes
+07_ai_workflow_arcade,QR follow-up sign,shared,1 per table,yes
+05_dimension_token,Chromebooks/laptops,core,1 per participant pair,yes
+05_dimension_token,Tinkercad or OpenSCAD/BlocksCAD access,core,pre-stage accounts/templates,yes
+05_dimension_token,FDM printer,core,1-3 printers if available,yes
+05_dimension_token,PLA filament,core,1 spool plus backup,yes
+05_dimension_token,slicer software,core,1 facilitator station minimum,yes
+05_dimension_token,calipers,core,2-4 pairs,yes
+05_dimension_token,preprinted example tokens,core,1 sample set per table,yes
+05_dimension_token,failed token examples,core,1 sample set per table,yes
+05_dimension_token,Dimension Cards,shared,1 per participant/pair,yes
+05_dimension_token,Print Queue Cards,shared,1 per participant/pair,yes
+05_dimension_token,table sign,shared,1 per table,yes
+05_dimension_token,QR upload/follow-up sign,shared,1 per table,yes

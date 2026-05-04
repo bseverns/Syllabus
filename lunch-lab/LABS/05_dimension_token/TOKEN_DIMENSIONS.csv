@@ -1,0 +1,7 @@
+field,value,unit,notes
+width,30,mm,base footprint
+depth,18,mm,base footprint
+thickness,3,mm,flat base thickness
+raised_detail_height,0.9,mm,0.8-1.0 mm recommended
+hole_diameter,4,mm,optional tag/keychain hole
+hole_center_from_short_edge,5,mm,keeps enough plastic around hole

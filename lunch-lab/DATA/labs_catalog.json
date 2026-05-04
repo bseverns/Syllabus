@@ -1,0 +1,143 @@
+[
+  {
+    "num": "01",
+    "slug": "signal_postcards",
+    "title": "Signal Postcards",
+    "subtitle": "Dispatches from the Room",
+    "objective": "Participants collect one simple environmental or behavioral signal from the room, convert it into a postcard-sized data visualization, and send one evidence-based recommendation to a future user of the space.",
+    "takeaway": "A stamped 4\u00d76 Signal Postcard plus an optional Signal Dispatch Receipt.",
+    "tools": [
+      "micro:bit v2",
+      "MakeCode",
+      "Chromebooks",
+      "printed floor maps",
+      "stickers / markers",
+      "Signal Mailbox",
+      "rubber stamp"
+    ],
+    "workplace": "Connects to workplace design, store layout, guest experience, data storytelling, and observation as a design practice.",
+    "quick": "Measure sound or light at 3\u20135 points and turn the readings into a dot map.",
+    "sixty": "Add a message to a specific recipient, photograph the postcard, and place it in a shared gallery.",
+    "artifact": "4\u00d76 postcard with front-side data artwork and back-side addressed message."
+  },
+  {
+    "num": "02",
+    "slug": "fpv_flight_school",
+    "title": "FPV Flight School",
+    "subtitle": "Simulator Stick Skills for Calm Hands",
+    "objective": "Participants learn the basic control logic of FPV flight through simulator drills and record one skill goal for future practice.",
+    "takeaway": "A Pilot Card with hover, gate, reset, and personal-best notes.",
+    "tools": [
+      "FPV simulator",
+      "USB radio controllers",
+      "laptops or gaming-capable machines",
+      "large display",
+      "pilot cards"
+    ],
+    "workplace": "Connects to simulation, training systems, risk reduction, embodied practice, and calm recovery after failure.",
+    "quick": "Complete hover, reset, and one clean gate.",
+    "sixty": "Add a three-gate route and optional team relay.",
+    "artifact": "Pilot Card documenting the first controlled flight attempt."
+  },
+  {
+    "num": "03",
+    "slug": "sound_logo_sprint",
+    "title": "Sound Logo Sprint",
+    "subtitle": "Make a Tiny Brand Sound from Everyday Objects",
+    "objective": "Participants create a 5\u201310 second sound logo using Foley, rhythm, layering, and editing.",
+    "takeaway": "A short audio clip or cue sheet for a sound logo.",
+    "tools": [
+      "phones or Chromebooks",
+      "BandLab / Soundtrap / GarageBand / browser recorder",
+      "Foley object kit",
+      "optional littleBits/Korg synth kit"
+    ],
+    "workplace": "Connects to brand experience, emotional design, accessibility, media literacy, and listening as a design skill.",
+    "quick": "Record three sounds and arrange them into a 5-second cue.",
+    "sixty": "Add one synthetic sound, one silence, and a title card.",
+    "artifact": "5\u201310 second sound logo with title and design intent."
+  },
+  {
+    "num": "04",
+    "slug": "robot_mood_machines",
+    "title": "Robot Mood Machines",
+    "subtitle": "Design Behavior, Not Just Motion",
+    "objective": "Participants remix a prebuilt LEGO Spike robot behavior to express a chosen mood, service style, or personality.",
+    "takeaway": "A tiny robot performance and a Behavior Card.",
+    "tools": [
+      "LEGO Spike Prime kits",
+      "prebuilt driving bases",
+      "Spike app",
+      "mood cards",
+      "test mat"
+    ],
+    "workplace": "Connects to UX, service design, automation, interaction design, and the emotional layer of technology.",
+    "quick": "Choose a mood and adjust speed, pause, turn, light, or sound.",
+    "sixty": "Add one sensor-triggered behavior and a short demonstration.",
+    "artifact": "Robot behavior performance plus Behavior Card."
+  },
+  {
+    "num": "05",
+    "slug": "dimension_token",
+    "title": "Dimension Token",
+    "subtitle": "Rapid STL Sprint + Live Print Conversation",
+    "objective": "Participants create a tiny dimension-controlled 3D model, export an STL, and watch one or more pieces print live while discussing constraints, iteration, and file-to-object workflows.",
+    "takeaway": "Exported STL, Dimension Card, and live/queued printed token.",
+    "tools": [
+      "Tinkercad or OpenSCAD/BlocksCAD",
+      "Chromebooks or laptops",
+      "slicer",
+      "FDM printer",
+      "PLA",
+      "calipers",
+      "dimension cards",
+      "print queue cards",
+      "sample tokens"
+    ],
+    "workplace": "Connects to rapid prototyping, dimensional communication, packaging/fixture/product thinking, QA, manufacturing constraints, and file-to-object workflows.",
+    "quick": "Create a 30 \u00d7 18 \u00d7 3 mm token from a prepared template, export the STL, and watch one clean file print live.",
+    "sixty": "Create/export tokens, slice a live batch, compare CAD view to slicer preview and first printed layers, then complete a Dimension Card.",
+    "artifact": "Dimension-controlled STL file plus Dimension Card; live print sample or queued print card."
+  },
+  {
+    "num": "06",
+    "slug": "tiny_code_creatures",
+    "title": "Tiny Code Creatures",
+    "subtitle": "Prototype a Pocket Interaction",
+    "objective": "Participants create a simple micro:bit creature that responds to buttons, shake, or tilt.",
+    "takeaway": "An interactive micro:bit creature plus a Creature Card.",
+    "tools": [
+      "micro:bit",
+      "MakeCode",
+      "Chromebooks",
+      "cardstock",
+      "badge sleeves",
+      "tape",
+      "starter code cards"
+    ],
+    "workplace": "Connects to prototyping, interaction design, accessibility, input/output logic, and playful product thinking.",
+    "quick": "Button A and Button B show two different moods.",
+    "sixty": "Add shake or tilt behavior and a simple physical shell.",
+    "artifact": "Interactive micro:bit creature with named input/output mapping."
+  },
+  {
+    "num": "07",
+    "slug": "ai_workflow_arcade",
+    "title": "AI Workflow Arcade",
+    "subtitle": "Novel AI Toolchains for Practical Human Judgment",
+    "objective": "Participants build and critique a tiny AI-assisted workflow from brief to sources to model output to verification and human decision.",
+    "takeaway": "An AI Workflow Card with toolchain, source, output, verification, and human decision notes.",
+    "tools": [
+      "approved hosted AI interface",
+      "optional local model demo",
+      "source packet",
+      "structured output template",
+      "optional image/audio generation demo",
+      "verification cards"
+    ],
+    "workplace": "Connects to practical AI workflows, source discipline, structured outputs, generated assets, privacy boundaries, verification gates, and human-in-the-loop judgment.",
+    "quick": "Run a three-station workflow arcade: source-aware answer, generated/structured output, verification desk.",
+    "sixty": "Add local-vs-hosted model comparison, transcript-to-action, or agent/automation sketching.",
+    "artifact": "AI Workflow Card with keep/check/reject marks and one human approval decision."
+  }
+]

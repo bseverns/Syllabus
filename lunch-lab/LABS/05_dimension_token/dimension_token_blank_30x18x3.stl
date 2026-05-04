@@ -1,0 +1,86 @@
+solid dimension_token_blank_30x18x3
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 30.000000 0.000000 0.000000
+      vertex 30.000000 18.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 30.000000 18.000000 0.000000
+      vertex 0.000000 18.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex 0.000000 0.000000 3.000000
+      vertex 30.000000 18.000000 3.000000
+      vertex 30.000000 0.000000 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 -1.000000
+    outer loop
+      vertex 0.000000 0.000000 3.000000
+      vertex 0.000000 18.000000 3.000000
+      vertex 30.000000 18.000000 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 0.000000 0.000000 3.000000
+      vertex 30.000000 0.000000 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 0.000000 0.000000 0.000000
+      vertex 30.000000 0.000000 3.000000
+      vertex 30.000000 0.000000 0.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 30.000000 0.000000 0.000000
+      vertex 30.000000 0.000000 3.000000
+      vertex 30.000000 18.000000 3.000000
+    endloop
+  endfacet
+  facet normal -1.000000 0.000000 0.000000
+    outer loop
+      vertex 30.000000 0.000000 0.000000
+      vertex 30.000000 18.000000 3.000000
+      vertex 30.000000 18.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 30.000000 18.000000 0.000000
+      vertex 30.000000 18.000000 3.000000
+      vertex 0.000000 18.000000 3.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 0.000000
+    outer loop
+      vertex 30.000000 18.000000 0.000000
+      vertex 0.000000 18.000000 3.000000
+      vertex 0.000000 18.000000 0.000000
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 -0.000000
+    outer loop
+      vertex 0.000000 18.000000 0.000000
+      vertex 0.000000 18.000000 3.000000
+      vertex 0.000000 0.000000 3.000000
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 0.000000
+    outer loop
+      vertex 0.000000 18.000000 0.000000
+      vertex 0.000000 0.000000 3.000000
+      vertex 0.000000 0.000000 0.000000
+    endloop
+  endfacet
+endsolid dimension_token_blank_30x18x3
