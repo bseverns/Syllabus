@@ -1,6 +1,6 @@
 # Target Lunch Labs with createMPLS
 
-Version: `v0.2 AI workflow upgrade`  
+Version: `v0.4`  
 Date: 2026-05-04  
 Format: 45–60 minute creative technology experiences for Target team members on lunch breaks
 
