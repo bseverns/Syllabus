@@ -64,10 +64,3 @@ This workshop can support mixed whoop hardware, but it now includes examples and
 That gives students one concrete reference point while still leaving room for other whoops in the room.
 
 Everything here is meant as a starting point: fork, revise, and remix for your space, your students, and your fleet of whoops.
-
-## Attribution
-
-Created with help from ChatGPT (GPT‑5 Thinking) as a teaching scaffold. You are encouraged to:
-
-- Add your own photos, diagrams, and local notes
-- Contribute improvements via pull requests if this ends up on GitHub
