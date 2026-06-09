@@ -6,7 +6,6 @@ Build Your Block is a **7-week neighborhood invention intensive** for grades 3�
 - **4 class days per week**
 - **1.75 hours per class session**
 - **28 total sessions**
-- **70 total contact hours**
 
 Students build with light, motion, sound, sensing, simple coding, cardboard construction, and everyday materials, but they do not spend half the program waiting to start the “real” work. From the first week, they are already building toward public-facing neighborhood projects for real people.
 
