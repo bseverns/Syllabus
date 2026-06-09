@@ -28,7 +28,7 @@ The guiding idea is:
 
 ## Studio session rhythm
 
-Each **2.5-hour session** should feel like a full studio cycle, not one long block:
+Each **1.75-hour session** should feel like a full studio cycle, not one long block:
 
 - launch / prompt
 - short mini-demo
