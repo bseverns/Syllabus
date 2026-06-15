@@ -1,18 +1,21 @@
-# Session 10 – Race Day & Reflection
+# Week 10 - Race Day & Reflection
 
-**Theme:** Fly the machine you prepared.  
-**Duration:** 90–120 minutes
+**Theme:** Fly the machine you prepared.
+**Tuesday focus:** Final safety check, race event, and scorekeeping
+**Thursday focus:** Finals or showcase, teardown, maintenance review, and reflection
+**Class length:** Two 90-minute meetings
 
 ---
 
 ## Goals
 
-By the end of this session, students will:
+By the end of the week, students will:
 
 - Follow race-day safety procedures.
-- Compete in a final race, time trial, or heat format.
-- Show sportsmanship as pilots and marshals.
-- Reflect on setup, maintenance, tuning, and control.
+- Compete in or support a final race, time trial, or showcase format.
+- Show sportsmanship as pilots, marshals, spotters, and race staff.
+- Use checklists without prompting.
+- Reflect on setup, maintenance, tuning, control, and safe operation.
 
 ---
 
@@ -20,11 +23,14 @@ By the end of this session, students will:
 
 - Finalize the track.
 - Finalize pilot order and heat sheet.
-- Decide how you will score the event:
+- Decide how the event will be scored:
   - fastest clean lap
   - best multi-lap total
-  - bracket advancement
-  - or a mixed score that includes sportsmanship and consistency
+  - consistency
+  - sportsmanship
+  - mixed score
+- Prepare reflection prompts.
+- Decide how quads will be powered down, inspected, and stored after the event.
 
 ---
 
@@ -34,52 +40,134 @@ By the end of this session, students will:
 - Race track
 - Heat sheet
 - Printed checklists
-- Optional: medals, certificates, or simple awards
+- Timer or scoring method
+- Reflection form or notebook prompt
+- Optional certificates or simple awards
 
 ---
 
-## Schedule (example for 2 hours)
+## Tuesday Class - Race Event
 
-### 0:00–0:15 – Race-Day Briefing
+### 0:00-0:15 - Race-Day Briefing
 
-- Review:
-  - pilot line
-  - marshal line
-  - stop commands
-  - crash / restart policy
-  - sportsmanship expectations
+Review:
 
-### 0:15–0:30 – Final Tech and Safety Check
+- pilot line
+- marshal line
+- spectator area
+- stop commands
+- crash/restart policy
+- grounding policy
+- sportsmanship expectations
 
-- Students complete a pre-flight check.
-- Any grounded quad stays grounded unless the instructor clears it.
+Confirm that the race director's stop command overrides everything else.
 
-### 0:30–1:30 – Race Event
+### 0:15-0:30 - Final Tech and Safety Check
 
-Run your chosen format:
+Students complete:
+
+- pre-flight checklist
+- profile confirmation
+- battery check
+- prop/frame/canopy/antenna check
+- radio and mode check
+- channel check if using FPV
+
+Any unsafe quad stays grounded unless the instructor clears it.
+
+### 0:30-1:15 - Main Race Event
+
+Run the chosen format:
 
 - time trials
 - heats
-- or a small bracket
+- clean-lap challenge
+- small bracket
+- showcase runs
 
-Keep the event moving and predictable.
+Keep rotations predictable:
 
-### 1:30–1:45 – Finals, Awards, or Showcase Runs
+- pilots fly
+- marshals reset only when safe
+- spotters watch the room
+- grounded students can support timing, scoring, or track operations
 
-- Run finals if appropriate.
-- Or let students do one final clean showcase lap.
+### 1:15-1:25 - Results and Quick Debrief
 
-### 1:45–2:00 – Reflection
+- Record results.
+- Name safety wins and clean operation moments.
+- Avoid making speed the only valued outcome.
 
-Ask students to reflect:
+### 1:25-1:30 - Exit Ticket
 
-- What part of the workshop mattered most: rules, maintenance, setup, or flying?
-- What setting or habit changed their flying most?
-- What would they keep practicing next?
+Students answer:
+
+- One thing I did safely today was...
+- One thing I want to improve Thursday is...
+
+---
+
+## Thursday Class - Showcase, Teardown & Reflection
+
+### 0:00-0:10 - Reset and Plan
+
+- Review Tuesday results.
+- Decide whether today begins with finals, showcase laps, or a maintenance-focused closeout.
+- Reconfirm safety rules before any flight.
+
+### 0:10-0:40 - Finals or Showcase Runs
+
+Choose one:
+
+- finals for top time-trial pilots
+- one clean showcase lap per student/team
+- team relay with strict safety limits
+- controlled demo flights for visitors
+
+Keep the format short enough to leave time for teardown and reflection.
+
+### 0:40-1:00 - Post-Event Maintenance and Teardown
+
+Students:
+
+- unplug and cool batteries according to program rules
+- inspect props, ducts, frame, canopy, antenna, and battery lead
+- complete crash-recovery check if needed
+- note parts that need replacement
+- store whoops and radios properly
+
+### 1:00-1:25 - Final Reflection
+
+Students respond to prompts such as:
+
+- What part of the course mattered most: rules, maintenance, setup, simulator, or flying?
+- What setting or habit changed your flying most?
+- What problem did you learn to diagnose?
+- What would you practice next?
+- What should next year's class know earlier?
+
+### 1:25-1:30 - Closing Evidence Check
+
+Students confirm they have:
+
+- a final backup
+- a tune note or profile record
+- a maintenance note
+- a final reflection
+
+---
+
+## Evidence of Learning
+
+- Student participates safely in the final event or event operations.
+- Student uses race commands and role expectations.
+- Student completes post-event inspection or teardown.
+- Student submits a final reflection tied to setup, maintenance, safety, and flight behavior.
 
 ---
 
 ## Notes & Variations
 
-- For school settings, a time-trial format is usually the least chaotic.
-- If the room gets too busy, cut the format shorter rather than letting safety degrade.
+- For school settings, a time-trial or clean-lap format is usually the least chaotic.
+- If safety gets unclear, shorten or stop the event and move to reflection.
+- Students who cannot fly because of hardware issues can still demonstrate learning through inspection, race operations, scoring, or troubleshooting documentation.

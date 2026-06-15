@@ -1,6 +1,6 @@
 # Race Day Heat Sheet
 
-Use this for Session 9 practice heats and Session 10 race day.
+Use this for Week 9 practice heats and Week 10 race day.
 
 ## Event details
 

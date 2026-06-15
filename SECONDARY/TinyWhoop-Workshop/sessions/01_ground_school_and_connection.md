@@ -1,15 +1,18 @@
-# Session 1 – Ground School & First Connection
+# Week 1 - Ground School & First Connection
 
-**Theme:** Meet the brain of your whoop.  
-**Duration:** 90–120 minutes
+**Theme:** Fly first in the simulator, then learn what makes flight possible.
+**Tuesday focus:** First VelociDrone hook, safety, parts, signal flow, and rules
+**Thursday focus:** Betaflight connection, baseline backup, FC orientation, and simulator reps
+**Class length:** Two 90-minute meetings
 
 ---
 
 ## Goals
 
-By the end of this session, students will:
+By the end of the week, students will:
 
 - Understand basic safety expectations for the workshop.
+- Complete a first VelociDrone control attempt and name one flight habit to practice.
 - Identify major components of a tiny whoop quadcopter.
 - Explain the difference between the control link, the video link, and the power system.
 - Connect their quad to Betaflight Configurator.
@@ -20,10 +23,13 @@ By the end of this session, students will:
 
 ## Instructor Prep
 
-- Confirm all machines can open the Betaflight Configurator app / web tool.
+- Confirm all machines can open the Betaflight Configurator app or web tool.
 - Test one demo quad from USB connection through backup export.
-- Print copies of `materials/Preflight_Checklist_student.md` (optional) so students can start marking their own habits.
-- Read `resources/tinywhoop_basics_air65.md` so you can narrate one concrete signal path for the room.
+- Print or share `materials/Safety_Agreement_student.md`.
+- Print or share `materials/Preflight_Checklist_student.md`.
+- Read `resources/tinywhoop_basics_air65.md` so you can narrate one concrete signal path.
+- Read `resources/us_indoor_outdoor_flight_rules.md` and decide whether this course is indoor-only or may include outdoor flight.
+- Set up VelociDrone before students arrive, with a simple map and at least one radio/controller tested.
 
 ---
 
@@ -31,109 +37,160 @@ By the end of this session, students will:
 
 - Student tiny whoops and radios
 - Laptops/desktops with Betaflight access
-- USB data cables (plus a few spares)
+- USB data cables, including spares known to carry data
+- VelociDrone station or projected demo station
 - Projector or large display
-- Whiteboard or large paper for safety rules
+- Whiteboard or large paper for shared safety rules
 
 ---
 
-## Schedule (example for 2 hours)
+## Tuesday Class - First Flight Hook, Parts & Rules
 
-### 0:00–0:15 – Welcome & Safety Brief
+### 0:00-0:10 - Welcome & First Hook
 
-- Introduce the workshop and overall arc of the four sessions.
-- Establish safety as the first priority:
-  - “Props off on the bench.”
-  - No arming in your hands or near faces.
+- Introduce the 10-week Tuesday/Thursday structure.
+- Explain that the course builds control first, then uses safety and technical work to make more flying possible.
+- Show one short VelociDrone demo lap or crash-and-retry sequence.
+
+### 0:10-0:30 - VelociDrone First Control Attempt
+
+Students rotate through a quick first attempt, or watch a projected demo if stations are limited:
+
+- arm or start the sim
+- lift off
+- try one straight move
+- try one turn
+- land or reset
+
+Frame crashes as useful information. Ask students what felt hard: throttle, turning, orientation, or landing.
+
+### 0:30-0:45 - Safety Agreement
+
+- Establish the first safety rules:
+  - Props off on the bench.
+  - No arming in hands or near faces.
   - Goggles stay in the pilot area.
-- Invite students to help refine the safety list; write it visibly in the room.
+  - Crash means disarm first, then inspect.
+- Have students read, discuss, and sign the safety agreement if your program uses one.
+- Invite students to add one room-specific rule; write final rules visibly.
+- Connect the rules to the simulator hook: the real room needs habits the simulator can practice without breaking props.
 
-### 0:15–0:30 – Anatomy of a Tiny Whoop
+### 0:45-1:05 - Anatomy of a Tiny Whoop
 
-- Have students hold their quads (with batteries unplugged).
+- Have students hold quads with batteries unplugged.
 - Point out:
-  - Frame
-  - AIO FC/ESC
-  - Motors & ducts
-  - Receiver and antenna
-  - VTX/camera (if present)
-  - Battery leads and connector
-- Show on your demo rig where the USB connector and any boot button/pads live.
-- If you have an Air65-style whoop, explain the basic chain:
-  - Radio -> ELRS receiver -> flight controller -> ESCs -> motors
-  - Camera -> analog VTX -> goggles / receiver
-  - Battery -> everything
+  - frame and ducts
+  - props and motors
+  - AIO FC/ESC board
+  - receiver and antenna
+  - camera and VTX if present
+  - battery lead and connector
+- On an Air65-style example, show where the USB connector and any boot button/pads live.
 
-### 0:30–0:45 – What Each System Actually Does
+### 1:05-1:20 - Three Systems, Not One Mystery
 
-On the projector or board:
+Use the board or projector to separate:
 
-- Define in plain language:
-  - **FC** = the board that reads sensors and pilot input
-  - **ESC** = the motor-speed controller
-  - **ELRS** = the radio-control link
-  - **Analog VTX** = the video transmitter for goggles
-  - **OSD** = flight info drawn on top of the camera feed
-- Emphasize that the radio link and video link are separate.
-- Ask students:
-  - "What still works if the video feed drops?"
-  - "What still works if the radio link drops?"
+- **Power system:** battery -> FC/ESC board -> motors
+- **Control system:** radio -> ELRS receiver link -> FC -> ESCs -> motors
+- **Video system:** camera -> analog VTX -> goggles/receiver
 
-### 0:45–1:00 – Meet Betaflight Configurator
+Ask:
+
+- What still works if video drops?
+- What still works if the radio link drops?
+- Which failures are safe to investigate on the bench?
+
+### 1:20-1:30 - Indoor vs Outdoor Rules
+
+- Explain that indoor flight is governed mostly by school, site, and safety rules.
+- Explain that outdoor flight adds FAA, airspace, weather, site, and radio-equipment concerns.
+- State the course default clearly: indoor-first unless the instructor has approved outdoor operations.
+
+---
+
+## Thursday Class - Betaflight Connection, Backup & Simulator Reps
+
+### 0:00-0:10 - Safety Re-Entry
+
+- Revisit the signed safety rules.
+- Confirm today's bench rule: no battery and no props-on motor tests unless explicitly directed.
+- Ask students to identify the USB connector and battery lead before opening laptops.
+
+### 0:10-0:25 - Betaflight Tour
 
 On the projector:
 
 - Launch Betaflight Configurator.
-- Show the Connect / Disconnect button.
+- Show Connect/Disconnect.
 - Briefly tour:
-  - Setup tab
-  - Configuration tab
-  - Receiver tab
-  - Modes tab
-  - Motors tab
-- Emphasize: we’ll move slowly and always aim for understanding, not random slider–dragging.
+  - Setup
+  - Configuration
+  - Receiver
+  - Modes
+  - Motors
+  - OSD
+- Emphasize that the goal is controlled observation, not random slider changes.
 
-### 1:00–1:35 – First Connections (Hands–On)
+### 0:25-1:05 - First Connections
 
 Students:
 
-1. Plug in their whoop via USB (no battery yet).
+1. Plug in the whoop by USB with no battery connected unless your hardware requires otherwise.
 2. Confirm the correct port and click **Connect**.
-3. On the Setup tab, gently tilt the quad and verify that the on–screen model moves in the same directions.
-4. Export a configuration backup and save it to a known location:
-   - Suggest a simple naming scheme like: `studentname-whoop1-baseline.json`.
+3. On the Setup tab, gently tilt the quad and verify that the on-screen model moves the same way.
+4. Note firmware target and version if visible.
 
-Circulate to help with:
+Circulate for:
 
 - USB cable issues
-- Driver / permission hiccups
-- Identifying the correct firmware target & version
+- driver or permission issues
+- confusing port names
+- mismatched FC orientation
 
-### 1:35–1:50 – Guided Reflection & Quick Share
+### 1:05-1:20 - Baseline Backup
 
-- Ask a few students:
-  - “What did you notice inside Betaflight that you weren’t expecting?”
-  - “What part of the quad’s anatomy is still confusing?”
-- If time permits, let one or two students share their backup file names and where they stored them; reinforce backup habits.
+Students:
 
-### 1:50–2:00 – Wrap & Exit Ticket
+1. Export a configuration backup.
+2. Save it to a known location.
+3. Use a clear filename such as `studentname-whoop1-baseline.json`.
+4. Write down where the backup lives.
 
-- Ask students to write a one–sentence reflection:
-  - “One part of the whoop I understand better now is…”
-- Make sure every student:
-  - Has at least one saved backup.
-  - Knows where they saved it.
-  - Can reconnect to Betaflight without assistance.
+If students cannot connect, pair them with a working rig so they still see the backup workflow.
+
+### 1:20-1:27 - Short Simulator Reps
+
+Students complete one quick VelociDrone rep or observe a projected rep:
+
+- one takeoff
+- one controlled turn
+- one landing or reset
+
+Ask them to connect the sim behavior to the real control, power, and video systems they just named.
+
+### 1:27-1:30 - Exit Ticket
+
+Students answer:
+
+- One part of the whoop I understand better now is...
+- My baseline backup is saved at...
+- One simulator control habit I need to practice is...
+
+---
+
+## Evidence of Learning
+
+- Student signed or acknowledged the safety agreement.
+- Student completed or observed a first VelociDrone control attempt.
+- Student can name the power, control, and video systems.
+- Student saved a baseline backup or observed and documented the backup process with a partner.
 
 ---
 
 ## Notes & Variations
 
-- If time is short, prioritise:
-  - Safety culture
-  - First connection
-  - Backup export
-
-- If time runs long, you can:
-  - Demonstrate the Motors tab with props off.
-  - Show how arming flags appear in the Setup tab when things aren’t ready.
+- If connection troubleshooting consumes the day, protect the safety and backup goals first.
+- If simulator stations are limited, use projected demo reps and quick rotations rather than skipping the hook.
+- If time remains, preview arming flags in the Setup tab without changing settings.
+- For a no-real-flight first week, still use VelociDrone so students start building control vocabulary.

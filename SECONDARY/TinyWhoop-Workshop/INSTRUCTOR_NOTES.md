@@ -1,6 +1,6 @@
 # Instructor Notes
 
-These notes are meant for teachers / mentors running the workshop.  
+These notes are meant for teachers / mentors running the workshop.
 Adapt freely to your local policies, gear, and students.
 
 ---
@@ -50,19 +50,19 @@ If you run analog FPV outside or at higher power, verify your equipment and lice
 
 Feel free to paste or print these:
 
-1. **Props off on the bench.**  
+1. **Props off on the bench.**
    No arming or motor tests with props mounted unless you are on the flight line.
 
-2. **Goggles stay put.**  
+2. **Goggles stay put.**
    If a student is wearing FPV goggles, they are either seated in the pilot chair or standing in a clearly marked pilot area. No walking around with goggles on.
 
-3. **Line of sight first.**  
+3. **Line of sight first.**
    Early flights can be line–of–sight only. FPV is introduced once basic throttle control is comfortable.
 
-4. **One whoop at a time** (for small rooms).  
+4. **One whoop at a time** (for small rooms).
    In a tight space, only one or two whoops should be flying at once to reduce chaos.
 
-5. **Respect no–fly zones.**  
+5. **Respect no–fly zones.**
    Parts of the room (teacher desk, equipment shelves, doorways) are off–limits.
 
 6. **Crash means disarm first, then inspect.**
@@ -74,18 +74,19 @@ Encourage students to help enforce safety as a shared responsibility, not just �
 
 ## Technical Prep
 
-Before Session 1:
+Before Week 1:
 
 - Install or verify access to the Betaflight Configurator app / web version on your machines.
 - Test at least one known–good whoop with the exact hardware your students will use (same OS, same kind of USB cable).
 - Prepare a “demo rig” that you don’t mind crashing or deliberately misconfiguring during troubleshooting activities.
+- Set up at least one **VelociDrone** station and test radio USB/controller input.
+- Prepare a very simple simulator environment for first-day success: open space, obvious gates, low pressure, and beginner-friendly rates.
 
 Optional but recommended:
 
 - Prepare a few **loaner whoops** in case a student’s hardware fails.
 - Bring a **smoke stopper** if you anticipate any soldering or major repairs.
 - Bring spare props, spare batteries, a prop tool or small driver, tweezers, tape, and at least one magnifier or bright inspection light.
-- Set up at least one **VelociDrone** station and test radio USB/controller input before Session 3.
 
 ---
 
@@ -93,11 +94,11 @@ Optional but recommended:
 
 Students may show up with different:
 
-- FC firmware targets  
-- Receiver types (e.g., built–in SPI receivers, external modules)  
-- Radio brands and protocols  
+- FC firmware targets
+- Receiver types (e.g., built–in SPI receivers, external modules)
+- Radio brands and protocols
 
-Plan time in Session 2 for “case–by–case work.” The goal is to teach **how to reason through** the Receiver and Modes tabs, not to memorize a single recipe.
+Plan time in Week 2 for “case–by–case work.” The goal is to teach **how to reason through** the Receiver and Modes tabs, not to memorize a single recipe.
 
 If you want one concrete reference platform for teaching, the workshop is now written to support a **BETAFPV Air65** style whoop:
 
@@ -117,21 +118,26 @@ Students often confuse the radio link and FPV video link. Separate those concept
 
 Whenever possible, use the projector to model:
 
-- How you recognize the receiver protocol in Betaflight  
-- How you verify that sticks and switches are doing what you expect  
+- How you recognize the receiver protocol in Betaflight
+- How you verify that sticks and switches are doing what you expect
 - How you respond when something *doesn’t* work (reading status messages, checking arming flags, etc.)
 
 ---
 
 ## Timing & Pacing
 
-The session plans in `sessions/` now assume a 10-session sequence at roughly 90-120 minutes each.  
+The plans in `sessions/` assume a 10-week course with two 90-minute meetings each week. Each file is one week:
+
+- **Tuesday:** start with a flight-control hook when possible, then introduce the concept, routine, or setup skill.
+- **Thursday:** practice, troubleshoot, document evidence, and apply the skill.
+
 For other formats:
 
-- **90 minutes:** Trim discussion and keep one main hands–on focus per session.
-- **60 minutes:** Consider splitting each session file into an “A” and “B” day.
+- **Longer blocks:** combine the Tuesday and Thursday plans from the same week.
+- **Shorter blocks:** keep the weekly order but reduce flight volume and protect safety/documentation time.
+- **Irregular schedules:** treat the day labels as “first meeting of the week” and “second meeting of the week.”
 
-If students are already experienced pilots, compress Sessions 1–2 and spend more time in Sessions 3–4 on:
+If students are already experienced pilots, compress Weeks 1–2 and spend more time in Weeks 3–4 on:
 
 - Multiple tune profiles
 - More advanced presets
@@ -140,9 +146,23 @@ If students are already experienced pilots, compress Sessions 1–2 and spend mo
 
 For true beginners, do the opposite:
 
-- keep Sessions 1–4 slow
-- let line-of-sight control develop before full-FPV race expectations
+- keep Weeks 1–4 slow
+- let simulator control develop before full-FPV real-flight expectations
 - spend more time on recovery, relaunch decisions, and track discipline than on speed
+
+## Motivation & Pacing Stance
+
+Students should feel the point of the workshop early. Use VelociDrone in Week 1 as the "sweet" part of the course: students get to feel throttle, turning, gates, crashes, restarts, and improvement before the technical details become abstract.
+
+Treat safety, backups, channel plans, pre-flight checks, and maintenance as the "vegetables" that make more flying possible. The tone should not be "stop having fun so we can do paperwork." The tone should be:
+
+- This checklist gets you back in the air faster.
+- This backup protects the tune you liked.
+- This radio check explains why the simulator controls and real sticks should match.
+- This maintenance habit keeps your race day from ending early.
+- This rule keeps the room calm enough for everyone to fly.
+
+Keep early simulator competition friendly and control-based. Reward clean launches, clean laps, few crashes, and calm resets before rewarding speed.
 
 ## Simulator Use: VelociDrone
 
@@ -156,8 +176,11 @@ VelociDrone is worth using here because it lets students practice:
 
 Recommended pattern:
 
-- Use a **dedicated simulator block** in Session 3.
-- Add a **10-15 minute simulator warm-up** before later real-flight sessions when possible.
+- Use a **short simulator hook in Week 1** before or alongside ground school.
+- Use **simulator control drills in Week 2** to make radio mapping and stick axes meaningful.
+- Use **simulator race-line drills in Week 3** before first real-flight work.
+- Use **simulator time trials or clean-lap challenges in Week 4 or Week 5** before competitive real-flight expectations.
+- Add a **10-15 minute simulator warm-up** before later real-flight meetings when possible.
 - If hardware is limited, run stations:
   - sim station
   - bench setup station
@@ -170,12 +193,15 @@ Good beginner drills:
 3. smooth left and right turns
 4. figure-eight
 5. one clean lap over the practice course
+6. clean-lap time trial
+7. low-crash heat race
 
 Treat simulator habits as transferable:
 
 - same arming ritual
 - same stick discipline
 - same focus on clean exits from turns
+- same sportsmanship and reset behavior expected on the real track
 
 ---
 
@@ -183,9 +209,9 @@ Treat simulator habits as transferable:
 
 Some students will be:
 
-- Already flying FPV at home  
-- Brand new to RC gear  
-- Interested mainly in coding / configuration rather than flying  
+- Already flying FPV at home
+- Brand new to RC gear
+- Interested mainly in coding / configuration rather than flying
 
 Give advanced students leadership roles:
 
