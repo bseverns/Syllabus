@@ -31,6 +31,7 @@ By the end of the week, students will:
   - mixed score
 - Prepare reflection prompts.
 - Decide how quads will be powered down, inspected, and stored after the event.
+- Print or share `materials/Competency_Grid.md` for final self-checks.
 
 ---
 
@@ -42,6 +43,7 @@ By the end of the week, students will:
 - Printed checklists
 - Timer or scoring method
 - Reflection form or notebook prompt
+- Competency grid
 - Optional certificates or simple awards
 
 ---
@@ -146,6 +148,8 @@ Students respond to prompts such as:
 - What would you practice next?
 - What should next year's class know earlier?
 
+Students also update the competency grid to mark where they are novice, developing, ready, or mentor after the final event.
+
 ### 1:25-1:30 - Closing Evidence Check
 
 Students confirm they have:
@@ -162,6 +166,7 @@ Students confirm they have:
 - Student participates safely in the final event or event operations.
 - Student uses race commands and role expectations.
 - Student completes post-event inspection or teardown.
+- Student completes a final competency-grid self-check.
 - Student submits a final reflection tied to setup, maintenance, safety, and flight behavior.
 
 ---

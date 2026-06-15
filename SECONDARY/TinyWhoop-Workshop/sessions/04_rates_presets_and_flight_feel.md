@@ -27,6 +27,8 @@ By the end of the week, students will:
 - Prepare a simple comparison track or flight pattern.
 - Prepare a short VelociDrone clean-lap or time-trial course.
 - Confirm whether students should change actual settings, simulator settings, or both.
+- Print or share `materials/Betaflight_Config_Worksheet_student.md`.
+- Print or share `materials/Student_Tune_Log_Template.md`.
 
 ---
 
@@ -37,6 +39,8 @@ By the end of the week, students will:
 - VelociDrone stations if available
 - Indoor flight area or short comparison course
 - Tune notebooks or shared documentation space
+- Betaflight configuration worksheet
+- Student tune log template
 
 ---
 
@@ -79,6 +83,7 @@ Students:
 2. Create **Profile 1** as the gentle/practice profile.
 3. Create **Profile 2** as the more responsive comparison profile.
 4. Save settings and note which profile is active.
+5. Record rates/profile values in the Betaflight configuration worksheet or tune log.
 
 ### 1:05-1:20 - Simulator Feel Test
 
@@ -165,6 +170,7 @@ Students answer:
 - Student records starting rate values or screenshots.
 - Student creates or compares two rate profiles.
 - Student completes a simulator clean-lap or time-trial challenge.
+- Student logs simulator result and profile choice in the tune log.
 - Student explains a profile choice using observed flight behavior.
 
 ---

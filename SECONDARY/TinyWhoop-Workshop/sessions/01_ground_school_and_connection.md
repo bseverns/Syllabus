@@ -27,6 +27,8 @@ By the end of the week, students will:
 - Test one demo quad from USB connection through backup export.
 - Print or share `materials/Safety_Agreement_student.md`.
 - Print or share `materials/Preflight_Checklist_student.md`.
+- Print or share `materials/Betaflight_Config_Worksheet_student.md`.
+- Print or post `materials/Whoop_Down_Learning_Board.md`.
 - Read `resources/tinywhoop_basics_air65.md` so you can narrate one concrete signal path.
 - Read `resources/us_indoor_outdoor_flight_rules.md` and decide whether this course is indoor-only or may include outdoor flight.
 - Set up VelociDrone before students arrive, with a simple map and at least one radio/controller tested.
@@ -39,6 +41,8 @@ By the end of the week, students will:
 - Laptops/desktops with Betaflight access
 - USB data cables, including spares known to carry data
 - VelociDrone station or projected demo station
+- Betaflight configuration worksheet
+- Whoop down learning board
 - Projector or large display
 - Whiteboard or large paper for shared safety rules
 
@@ -140,6 +144,7 @@ Students:
 2. Confirm the correct port and click **Connect**.
 3. On the Setup tab, gently tilt the quad and verify that the on-screen model moves the same way.
 4. Note firmware target and version if visible.
+5. Record the connection and board-orientation checks in the Betaflight configuration worksheet.
 
 Circulate for:
 
@@ -156,8 +161,10 @@ Students:
 2. Save it to a known location.
 3. Use a clear filename such as `studentname-whoop1-baseline.json`.
 4. Write down where the backup lives.
+5. Add the file name and location to the Betaflight configuration worksheet.
 
 If students cannot connect, pair them with a working rig so they still see the backup workflow.
+If a student is blocked by cable, computer, or hardware issues, move them to the whoop-down learning board tasks instead of leaving them idle.
 
 ### 1:20-1:27 - Short Simulator Reps
 
@@ -184,6 +191,7 @@ Students answer:
 - Student signed or acknowledged the safety agreement.
 - Student completed or observed a first VelociDrone control attempt.
 - Student can name the power, control, and video systems.
+- Student started the Betaflight configuration worksheet.
 - Student saved a baseline backup or observed and documented the backup process with a partner.
 
 ---

@@ -27,6 +27,8 @@ By the end of the week, students will:
 - Test VelociDrone and radio USB/controller input before class.
 - Prepare one simple simulator course that can later become a Week 4 clean-lap challenge.
 - Decide whether first flights will be line-of-sight, FPV, or a mix.
+- Print or share `materials/Betaflight_Config_Worksheet_student.md`.
+- Print or share `materials/Flight_Readiness_Card.md`.
 
 ---
 
@@ -38,6 +40,8 @@ By the end of the week, students will:
 - Indoor flight area, cones, gates, tape, or chairs
 - Optional FPV goggles or video receiver
 - Pre-flight checklist
+- Betaflight configuration worksheet
+- Flight readiness card
 
 ---
 
@@ -92,6 +96,7 @@ Students:
 1. Enable the same basic OSD elements.
 2. Save their layout.
 3. Write down which OSD element will help them decide when to land.
+4. Record OSD battery, timer, and warning visibility in the Betaflight configuration worksheet.
 
 ### 1:20-1:30 - Exit Ticket
 
@@ -126,6 +131,14 @@ Students use the checklist to confirm:
 - expected flight mode
 - video channel if using FPV
 - pilot area is clear
+
+Instructor uses the flight readiness card to confirm:
+
+- backup saved
+- orientation verified
+- receiver/modes verified
+- failsafe verified or instructor-approved exception documented
+- OSD battery/timer visible
 
 ### 0:30-1:15 - First Flights
 
@@ -164,6 +177,7 @@ Students answer:
 - Student completes a simulator drill or observes and explains the drill sequence.
 - Student describes one race-line habit that should transfer to real flight.
 - Student configures basic OSD information.
+- Student has a flight readiness card started before real flight.
 - Student completes or supports a controlled first flight routine.
 
 ---

@@ -21,7 +21,7 @@ The emphasis is on:
 - `SYLLABUS.md` - high-level overview, 10-week schedule, learning goals
 - `INSTRUCTOR_NOTES.md` - safety, logistics, pacing, and implementation notes
 - `sessions/` - weekly plans; each file contains a Tuesday class and a Thursday class
-- `materials/` - printable checklists and student-facing handouts
+- `materials/` - printable checklists, worksheets, signoff cards, rubrics, and student-facing handouts
 - `resources/` - reference docs on basics, rules, simulator drills, and maintenance
 - `LICENSE` - MIT license for adapting this material
 
@@ -34,6 +34,15 @@ The emphasis is on:
    - Tuesday: introduce, model, and set up the skill.
    - Thursday: practice, troubleshoot, document, and apply the skill.
 5. Print or duplicate the files in `materials/` for student use.
+
+## Core student artifacts
+
+- `materials/Betaflight_Config_Worksheet_student.md` - required record for backup, orientation, receiver, modes, failsafe, motors, OSD, and rates
+- `materials/Flight_Readiness_Card.md` - teacher signoff before real flight or race readiness
+- `materials/Troubleshooting_Decision_Tree.md` - printable decision path for connection, binding, arming, failsafe, rough flight, and video issues
+- `materials/Student_Tune_Log_Template.md` - reusable record for settings, simulator results, real-flight notes, and next changes
+- `materials/Competency_Grid.md` - novice/developing/ready/mentor assessment grid
+- `materials/Whoop_Down_Learning_Board.md` - contingency board for students whose hardware or simulator station is unavailable
 
 ## Beginner pathway
 

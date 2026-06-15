@@ -71,6 +71,8 @@ By the end of the workshop, students will be able to:
 
 **Evidence:** Students complete a first simulator control attempt, save a baseline backup, and explain one difference between the control link, video link, and power system.
 
+**Materials:** `Betaflight_Config_Worksheet_student.md`, `Safety_Agreement_student.md`
+
 ### Week 2 - Radio, Modes & Arming
 
 **Tuesday:** Simulator control drills, radio link basics, ELRS vocabulary, Receiver tab, stick axes, channel map, and AUX switches.
@@ -78,6 +80,8 @@ By the end of the workshop, students will be able to:
 **Thursday:** Modes tab, arming switch, Angle mode, props-off motor testing, and simulator gate practice.
 
 **Evidence:** Students demonstrate correct stick response, a safe arm/disarm sequence with props off, and one repeatable simulator drill.
+
+**Materials:** `Betaflight_Config_Worksheet_student.md`, `Flight_Readiness_Card.md`
 
 ### Week 3 - VelociDrone, Analog FPV, OSD & First Flights
 
@@ -87,6 +91,8 @@ By the end of the workshop, students will be able to:
 
 **Evidence:** Students complete a short controlled pattern and identify useful OSD information.
 
+**Materials:** `Betaflight_Config_Worksheet_student.md`, `Flight_Readiness_Card.md`
+
 ### Week 4 - Rates, Presets & Flight Feel
 
 **Tuesday:** Baseline presets or stock tune review, rates, expo, gentle vs responsive profiles, and simulator feel tests.
@@ -94,6 +100,8 @@ By the end of the workshop, students will be able to:
 **Thursday:** Simulator time trials plus cautious real-space comparison, with reflection on which profile feels more controllable.
 
 **Evidence:** Students compare two rate profiles, complete a simulator time trial or clean-lap challenge, and explain which profile they would trust for practice.
+
+**Materials:** `Betaflight_Config_Worksheet_student.md`, `Student_Tune_Log_Template.md`
 
 ### Week 5 - Profiles, Backups & Tune Notes
 
@@ -103,6 +111,8 @@ By the end of the workshop, students will be able to:
 
 **Evidence:** Students produce a labeled backup, a tune note that matches the profile they flew, and a simulator race reflection tied to control choices.
 
+**Materials:** `Student_Tune_Log_Template.md`, `Competency_Grid.md`
+
 ### Week 6 - Crash Recovery, Batteries & Maintenance
 
 **Tuesday:** Crash inspection sequence, common wear points, and relaunch/bench-check/ground decisions.
@@ -110,6 +120,8 @@ By the end of the workshop, students will be able to:
 **Thursday:** Battery care, cooldown habits, maintenance stations, and checklist practice.
 
 **Evidence:** Students complete a crash-recovery checklist and identify at least one condition that grounds a quad.
+
+**Materials:** `Crash_Recovery_Checklist_student.md`, `Whoop_Down_Learning_Board.md`
 
 ### Week 7 - Track Design, Race Line & Marshal Roles
 
@@ -119,6 +131,8 @@ By the end of the workshop, students will be able to:
 
 **Evidence:** Students explain the course, serve in a track role, and fly or support a safe practice run.
 
+**Materials:** `Track_Roles_and_Marshal_Guide.md`, `Student_Tune_Log_Template.md`
+
 ### Week 8 - Troubleshooting Clinic & Consistency Flights
 
 **Tuesday:** Structured diagnosis using Setup, Receiver, Modes, Motors, OSD warnings, and arming flags.
@@ -126,6 +140,8 @@ By the end of the workshop, students will be able to:
 **Thursday:** Pair diagnostics, pre-flight checklist independence, and consistency flights.
 
 **Evidence:** Students narrate a diagnosis and complete repeatable laps or repeated controlled patterns.
+
+**Materials:** `Troubleshooting_Decision_Tree.md`, `Whoop_Down_Learning_Board.md`
 
 ### Week 9 - Practice Heats & Race Prep
 
@@ -135,6 +151,8 @@ By the end of the workshop, students will be able to:
 
 **Evidence:** Students finish with a working race setup, a final backup, and a clear race-day routine.
 
+**Materials:** `Flight_Readiness_Card.md`, `Race_Day_Heat_Sheet.md`, `Student_Tune_Log_Template.md`
+
 ### Week 10 - Race Day & Reflection
 
 **Tuesday:** Final safety check, pilot order, heat structure, race event, and scorekeeping.
@@ -142,6 +160,8 @@ By the end of the workshop, students will be able to:
 **Thursday:** Finals or showcase runs, teardown, maintenance review, and reflection on setup, flying, safety, and sportsmanship.
 
 **Evidence:** Students participate safely as pilots, spotters, marshals, or race staff and complete a final reflection.
+
+**Materials:** `Competency_Grid.md`, `Race_Day_Heat_Sheet.md`
 
 ## Assessment & Evidence of Learning
 
@@ -151,10 +171,13 @@ Suggested assessment tools:
 
 - **Checklists:** students complete pre-flight and crash-recovery checks.
 - **Config evidence:** students maintain named backups, screenshots, or tune notes.
+- **Betaflight worksheet:** students record backup, orientation, receiver, modes, failsafe, motors, OSD, and rates.
+- **Flight readiness card:** students are cleared for real flight or race roles through teacher signoff.
 - **Exit tickets:** students write short reflections such as "one setting I changed and what it did."
 - **Demonstrations:** students show safe arm/disarm, receiver mapping, and basic flight readiness.
 - **Simulator drills and races:** students demonstrate controlled launch, turns, landing, clean laps, and race etiquette in VelociDrone.
 - **Race roles:** students are assessed on pilot discipline, marshal behavior, and sportsmanship, not only lap time.
+- **Competency grid:** students and instructors mark novice, developing, ready, or mentor status for safety, config, control, maintenance, troubleshooting, and race roles.
 
 ## Adaptation Notes
 

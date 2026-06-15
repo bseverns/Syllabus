@@ -87,6 +87,8 @@ Optional but recommended:
 - Prepare a few **loaner whoops** in case a student’s hardware fails.
 - Bring a **smoke stopper** if you anticipate any soldering or major repairs.
 - Bring spare props, spare batteries, a prop tool or small driver, tweezers, tape, and at least one magnifier or bright inspection light.
+- Print or post `materials/Whoop_Down_Learning_Board.md` so hardware problems do not become dead time.
+- Print a small stack of `materials/Flight_Readiness_Card.md` for instructor signoff.
 
 ---
 
@@ -121,6 +123,53 @@ Whenever possible, use the projector to model:
 - How you recognize the receiver protocol in Betaflight
 - How you verify that sticks and switches are doing what you expect
 - How you respond when something *doesn’t* work (reading status messages, checking arming flags, etc.)
+
+## Required Configuration Checkpoints
+
+Use `materials/Betaflight_Config_Worksheet_student.md` as the durable student record for Weeks 1-5. The minimum configuration record should include:
+
+- backup saved and findable
+- board orientation verified
+- receiver type and channel map recorded
+- ARM switch and flight mode switch verified
+- failsafe verified with props off
+- motor order and direction checked under teacher supervision
+- OSD battery voltage and timer visible
+- rates/profile choice recorded
+
+Do not rely only on "we checked it together." Students need a written record they can return to when something stops working.
+
+### Failsafe Checkpoint
+
+Treat failsafe as a required safety checkpoint, not an optional concept.
+
+Student-friendly language:
+
+> Failsafe is what the whoop does when the radio conversation goes silent.
+
+For beginner indoor whoops, the expected behavior is usually signal loss leading quickly to stop/drop/disarm behavior. Verify your exact hardware and local policy, then test only under controlled conditions:
+
+- props off
+- instructor directs the test
+- student records what signal loss looks like
+- motors stop/drop behavior is confirmed
+- quad does not restart unexpectedly
+
+Do not clear a student for real flight or race readiness until failsafe is checked or an instructor-approved exception is documented.
+
+## Hardware Contingency Pathways
+
+Real classrooms lose time to small hardware failures. Post `materials/Whoop_Down_Learning_Board.md` and treat downtime as a station rotation, not a failure.
+
+Common pathways:
+
+- **No data cable:** move to simulator, inspection, or tune-log work while a known data cable is found.
+- **Will not bind:** join a working partner for Receiver/Modes observation and practice stick axes in VelociDrone.
+- **Wrong firmware target or unknown board:** stop before flashing; record what Betaflight reports and ask for instructor inspection.
+- **Broken frame, bad motor, or damaged prop:** complete crash recovery and move to repair/inspection station.
+- **Missing video:** check channel, antenna, goggles/receiver, and VTX plan without raising power casually.
+- **Dead or unsafe battery:** follow battery policy and rotate into timing, scoring, marshal training, or documentation.
+- **No simulator station:** use the decision tree, observe a pilot, record control habits, or help with heat sheets.
 
 ---
 
@@ -236,6 +285,32 @@ Encourage students to treat each change they make as a tiny experiment:
 3. Write down or screenshot any tune they like so they can return to it later.
 
 The goal is not just “a tuned whoop,” but a student who understands how their flying machine and their settings relate.
+
+Use `materials/Student_Tune_Log_Template.md` whenever students compare profiles, run simulator heats, change rates, or prepare for race day.
+
+## Assessment Culture
+
+Use `materials/Competency_Grid.md` as a lightweight readiness map. Keep the language practical:
+
+- **Novice:** needs direct help and reminders.
+- **Developing:** can do parts with prompts.
+- **Ready:** can do it safely and explain the reasoning.
+- **Mentor:** can do it safely and help someone else reason through it.
+
+Assess what matters for the workshop:
+
+- safety habits
+- simulator control
+- Betaflight connection and backup
+- receiver and modes setup
+- failsafe understanding
+- OSD and battery awareness
+- rates and flight feel
+- maintenance and crash recovery
+- troubleshooting process
+- race role and sportsmanship
+
+The grid should support decisions about who is ready for real flight, who needs more simulator/bench work, and who can mentor peers.
 
 ## Maintenance Culture
 

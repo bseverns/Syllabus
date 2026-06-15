@@ -23,6 +23,8 @@ By the end of the week, students will:
 
 - Prepare a demo rig with one or two intentional problems.
 - Print or share `materials/Preflight_Checklist_student.md`.
+- Print or share `materials/Troubleshooting_Decision_Tree.md`.
+- Print or post `materials/Whoop_Down_Learning_Board.md`.
 - Have a short list of common symptoms:
   - will not arm
   - wrong stick response
@@ -38,6 +40,8 @@ By the end of the week, students will:
 - Student quads and radios
 - Laptops with Betaflight Configurator
 - Printed checklists or notebooks
+- Troubleshooting decision tree
+- Whoop down learning board
 - Indoor track
 - Tools for inspection if needed
 
@@ -86,6 +90,8 @@ As a class, build a quick map:
 - **Flies rough:** props, motors, frame, tune, battery
 - **Video issue:** camera, VTX, channel, goggles/receiver
 
+Compare the class map to `materials/Troubleshooting_Decision_Tree.md`. Students should mark the branch most relevant to their own whoop.
+
 ### 1:05-1:20 - Student Setup Snapshot
 
 Students connect and record:
@@ -93,6 +99,7 @@ Students connect and record:
 - active profile
 - receiver response okay/not okay
 - modes okay/not okay
+- failsafe verified / pending / needs instructor check
 - any warnings or arming flags
 - one issue to check Thursday
 
@@ -130,6 +137,8 @@ Each pair should:
 4. record the conclusion
 5. ask for instructor sign-off before any risky change
 
+If a whoop cannot fly, the pair uses the whoop-down learning board to choose a useful role or station.
+
 ### 0:45-1:20 - Consistency Flights
 
 Students fly repeatable laps or controlled patterns.
@@ -157,6 +166,7 @@ Students answer:
 
 - Student uses a structured diagnosis rather than guessing.
 - Student records setup status and at least one conclusion.
+- Student uses the troubleshooting decision tree or whoop-down learning board when blocked.
 - Student completes repeatable laps, controlled patterns, or a bench-clinic fix with documentation.
 
 ---

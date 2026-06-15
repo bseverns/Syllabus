@@ -30,6 +30,8 @@ By the end of the week, students will:
 - Decide which flight mode students should use first, usually Angle for beginners.
 - Have a plan for students whose radios do not bind during class.
 - Prepare a VelociDrone drill that isolates one axis at a time: straight line, turn, or figure-eight.
+- Print or share `materials/Betaflight_Config_Worksheet_student.md`.
+- Print or share `materials/Flight_Readiness_Card.md`.
 
 ---
 
@@ -39,6 +41,8 @@ By the end of the week, students will:
 - Laptops with Betaflight Configurator
 - USB data cables
 - VelociDrone station or projected demo station
+- Betaflight configuration worksheet
+- Flight readiness card
 - Projector or whiteboard
 - Small prop tools if props need to be removed
 
@@ -96,6 +100,7 @@ Students:
 3. Flip switches and identify at least one AUX channel.
 4. Note anything confusing in their tune log or notebook.
 5. Compare the Receiver tab bars to what they felt in the simulator warm-up.
+6. Record channel map, stick behavior, ARM channel, and mode channel in the Betaflight configuration worksheet.
 
 ### 1:10-1:22 - Fixing Channel Confusion
 
@@ -137,6 +142,7 @@ Students:
 2. Assign Angle to a separate AUX range or default state.
 3. Save and test switch behavior.
 4. Say out loud which switch arms the quad.
+5. Record switch/channel assignments in the Betaflight configuration worksheet.
 
 ### 0:40-1:05 - Arming Logic
 
@@ -148,7 +154,28 @@ Students:
   - arm switch off
   - explaining what they expect before trying it
 
-### 1:05-1:20 - Motors Tab Safety Demo
+Add a required failsafe conversation:
+
+- Failsafe is what the whoop does when the radio conversation goes silent.
+- For beginner indoor whoops, the expected behavior is usually stop/drop/disarm quickly.
+- Failsafe testing is teacher-led, props-off, and recorded before real flight readiness.
+
+Students record the planned failsafe behavior in the Betaflight configuration worksheet.
+
+### 1:05-1:17 - Failsafe Checkoff
+
+Teacher-led only, props off:
+
+1. Confirm props are removed.
+2. Confirm ARM switch is off unless the instructor directs otherwise.
+3. Create or simulate signal loss according to your hardware and class policy.
+4. Observe whether signal loss is detected.
+5. Confirm motors stop/drop behavior.
+6. Record the result in the Betaflight configuration worksheet.
+
+Do not clear a quad for real flight until failsafe is verified or an instructor-approved exception is documented.
+
+### 1:17-1:25 - Motors Tab Safety Demo
 
 On the projector:
 
@@ -159,7 +186,7 @@ On the projector:
 
 Students may test only under instructor supervision. Keep the focus on safe procedure, not throttle excitement.
 
-### 1:20-1:27 - Simulator Gate Practice
+### 1:25-1:28 - Simulator Gate Practice
 
 Students try a simple gate or straight-line drill using the same calm arming/reset routine:
 
@@ -170,13 +197,14 @@ Students try a simple gate or straight-line drill using the same calm arming/res
 
 Keep the goal clean control, not lap time.
 
-### 1:27-1:30 - Exit Ticket
+### 1:28-1:30 - Exit Ticket
 
 Students answer:
 
 - What three conditions should be true before you arm?
 - What should you do immediately after a crash?
 - What simulator drill should I repeat before real flight?
+- What should happen if the radio link goes silent?
 
 ---
 
@@ -185,6 +213,7 @@ Students answer:
 - Student verifies correct stick motion in the Receiver tab.
 - Student identifies an AUX switch.
 - Student demonstrates or describes a safe props-off arm/disarm sequence.
+- Student records failsafe behavior or a pending failsafe check.
 - Student completes or explains one repeatable VelociDrone control drill.
 
 ---

@@ -31,6 +31,8 @@ By the end of the week, students will:
 - Finalize or nearly finalize the track.
 - Decide the channel plan if multiple FPV systems will be powered.
 - Prepare a clear grounding policy for damaged or unsafe quads.
+- Print or share `materials/Flight_Readiness_Card.md`.
+- Print or share `materials/Student_Tune_Log_Template.md`.
 
 ---
 
@@ -40,6 +42,8 @@ By the end of the week, students will:
 - Indoor track
 - Heat sheet
 - Pre-flight and crash-recovery checklists
+- Flight readiness card
+- Student tune log template
 - Timer or scoring method
 - Shared board for pilot order and roles
 
@@ -83,6 +87,8 @@ Students:
 4. inspect props, frame, canopy, antenna, and battery lead
 5. confirm channel plan if using FPV
 6. save a final race-prep backup
+7. confirm failsafe has been verified
+8. update the flight readiness card and tune log
 
 Instructor signs off or grounds the quad until fixed.
 
@@ -158,6 +164,7 @@ Students answer:
 
 - Student completes final tech check.
 - Student saves a final race-prep backup.
+- Student has a race-readiness card signed or a clear reason for not being cleared.
 - Student participates safely in practice heats or timed runs.
 - Student can explain race commands and roles.
 

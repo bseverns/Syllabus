@@ -27,6 +27,8 @@ By the end of the week, students will:
 - Prepare a tune-log template if your LMS or notebook system needs one.
 - Confirm that students still have their Week 1 baseline backup.
 - Prepare a simple VelociDrone heat format for Week 5: short races, clean-lap scoring, or best-improvement scoring.
+- Print or share `materials/Student_Tune_Log_Template.md`.
+- Print or share `materials/Competency_Grid.md` for a mid-course readiness check.
 
 ---
 
@@ -38,6 +40,8 @@ By the end of the week, students will:
 - VelociDrone stations if available
 - Indoor flight area
 - Pre-flight checklist
+- Student tune log template
+- Competency grid
 
 ---
 
@@ -101,7 +105,7 @@ If time and stations allow, students run one seed lap for Thursday's simulator h
 
 ## Thursday Class - Simulator Race Heats & Documented Practice
 
-### 0:00-0:15 - Race Brief and Documentation Check
+### 0:00-0:12 - Race Brief and Documentation Check
 
 Students:
 
@@ -111,7 +115,7 @@ Students:
 - State one thing they are not changing today.
 - Review simulator heat rules: clean laps, calm resets, and sportsmanship matter.
 
-### 0:15-0:55 - VelociDrone Race Heats
+### 0:12-0:52 - VelociDrone Race Heats
 
 Run short simulator heats or time trials.
 
@@ -129,7 +133,7 @@ Students record:
 - crash/reset count
 - one control habit that helped
 
-### 0:55-1:15 - Controlled Real Laps on a Known Setup
+### 0:52-1:12 - Controlled Real Laps on a Known Setup
 
 Students fly short laps or repeated patterns on the setup they documented.
 
@@ -145,7 +149,19 @@ If a student changes anything, they must record the change before flying again.
 
 If real-flight readiness is limited, use this time for additional sim heats or bench troubleshooting.
 
-### 1:15-1:23 - Debrief: Stable or Not?
+### 1:12-1:22 - Mid-Course Competency Check
+
+Students mark novice, developing, ready, or mentor for:
+
+- safety habits
+- simulator control
+- Betaflight connection and backup
+- receiver/modes/failsafe
+- tune logging
+
+This is a readiness map, not a grade.
+
+### 1:22-1:26 - Debrief: Stable or Not?
 
 Ask students:
 
@@ -155,7 +171,7 @@ Ask students:
 - What should stay locked for now?
 - What might need work before race day?
 
-### 1:23-1:30 - Exit Ticket
+### 1:26-1:30 - Exit Ticket
 
 Students answer:
 
@@ -170,6 +186,7 @@ Students answer:
 - Student creates a labeled backup.
 - Student completes a tune log entry.
 - Student participates in a simulator heat or time trial.
+- Student completes a mid-course competency-grid self-check.
 - Student flies or supports a practice run using a documented setup.
 
 ---

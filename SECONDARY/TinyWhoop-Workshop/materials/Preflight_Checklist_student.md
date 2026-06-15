@@ -31,6 +31,7 @@ Use this as a starting point. Customize it for your own habits and hardware.
 - [ ] I know which switch arms and disarms my quad.
 - [ ] The quad is on a flat surface, facing a safe direction.
 - [ ] My flight mode is what I expect (for example, ANGLE mode for easier flying).
+- [ ] My quad has passed the class flight-readiness checks, including failsafe, or the instructor has cleared this flight.
 - [ ] I quickly check that no one has walked into the flying zone.
 - [ ] If this is outdoors, I have checked the site-specific rules the instructor gave us.
 
