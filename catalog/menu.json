@@ -282,9 +282,9 @@
       "formats": ["spark", "workshop", "course"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "A tote of cardboard, brads, tape, string, LEGO, and optional small motors."},
-      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now includes timing, tote materials, facilitator flow, prompts, safety, assessment, and delivery review; it has not yet been delivery-tested."},
-      "repo_paths": ["in-progress/k2/tiny-machines.md", "in-progress/machines-that-move.md"],
-      "preflight_required": ["materials", "facilitator-adaptation"],
+      "readiness": {"status": "PILOT", "note": "Two-file PRIMARY package now contains the four-session syllabus, tote, facilitation flow, prompts, safety, assessment, and delivery review; it needs one real delivery before promotion."},
+      "repo_paths": ["PRIMARY/Tiny-Machines", "in-progress/machines-that-move.md"],
+      "preflight_required": ["materials", "room", "safety"],
       "public": false
     },
     {
@@ -295,9 +295,9 @@
       "formats": ["spark", "workshop", "course"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "Cardboard, blocks/LEGO, paper, markers, tape, loose parts, and optional shared documentation camera."},
-      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now packages the age adaptation, timing, tote, prompts, safety, assessment, and delivery review; it has not yet been delivery-tested."},
-      "repo_paths": ["in-progress/k2/build-a-neighborhood.md", "PRIMARY/Build_Your_Block"],
-      "preflight_required": ["materials", "room", "facilitator-adaptation"],
+      "readiness": {"status": "PILOT", "note": "Two-file PRIMARY package now contains the four-session syllabus, tote, prompts, safety, assessment, and delivery review; it needs one real delivery before promotion."},
+      "repo_paths": ["PRIMARY/Build-a-Neighborhood", "PRIMARY/Build_Your_Block"],
+      "preflight_required": ["materials", "room", "storage"],
       "public": false
     },
     {
@@ -308,9 +308,9 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "Safe Foley tote, picture rhythm cards, and optional facilitator recording/playback."},
-      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now packages a screen-light sound adaptation with materials, cue flow, sensory/safety notes, assessment, and delivery review; it has not yet been delivery-tested."},
-      "repo_paths": ["in-progress/k2/sound-hunters.md", "SECONDARY/ExplorationSoundDesign"],
-      "preflight_required": ["materials", "room", "facilitator-adaptation"],
+      "readiness": {"status": "PILOT", "note": "Two-file PRIMARY package now contains the four-session syllabus, tote, cue flow, sensory/safety notes, assessment, and delivery review; it needs one real delivery before promotion."},
+      "repo_paths": ["PRIMARY/Sound-Hunters", "SECONDARY/ExplorationSoundDesign"],
+      "preflight_required": ["materials", "room", "sensory"],
       "public": false
     },
     {
@@ -321,9 +321,9 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E0", "summary": "Picture-command cards, painter's tape, soft markers, and open floor space."},
-      "readiness": {"status": "PILOT", "note": "Four-session unplugged pilot syllabus now includes command materials, accessible participation routes, facilitator flow, assessment, and delivery review; it has not yet been delivery-tested."},
-      "repo_paths": ["in-progress/k2/code-with-your-body.md", "PRIMARY/Scratch-Game-Design-Animation_Grades3-5"],
-      "preflight_required": ["materials", "room", "facilitator-adaptation"],
+      "readiness": {"status": "PILOT", "note": "Two-file PRIMARY package now contains the four-session syllabus, command materials, accessible participation routes, assessment, and delivery review; it needs one real delivery before promotion."},
+      "repo_paths": ["PRIMARY/Code-With-Your-Body", "PRIMARY/Scratch-Game-Design-Animation_Grades3-5"],
+      "preflight_required": ["materials", "room", "accessibility"],
       "public": false
     },
     {
@@ -334,9 +334,9 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "Low-heat LED flashlights, transparent color film, paper, cardboard, tape, and a dimmable corner."},
-      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now includes room-light options, tote safety, participant flow, assessment, and delivery review; it has not yet been delivery-tested."},
-      "repo_paths": ["in-progress/k2/light-color-shadow-lab.md", "SECONDARY/digital-imaging-lab"],
-      "preflight_required": ["materials", "room", "facilitator-adaptation"],
+      "readiness": {"status": "PILOT", "note": "Two-file PRIMARY package now contains the four-session syllabus, room-light options, tote safety, assessment, and delivery review; it needs one real delivery before promotion."},
+      "repo_paths": ["PRIMARY/Light-Color-and-Shadow-Lab", "SECONDARY/digital-imaging-lab"],
+      "preflight_required": ["materials", "room", "lighting"],
       "public": false
     },
     {
@@ -347,9 +347,9 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E0", "summary": "Foam balls, cardboard ramps, blocks, cups, tape, paper tubes, and low table or floor trays."},
-      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now translates the legacy source with age-safe tote guidance, starter actions, reset flow, assessment, and delivery review; it has not yet been delivery-tested."},
-      "repo_paths": ["in-progress/k2/chain-reaction-playground.md", "PRIMARY/SMM/archive/Chain Reaction Mini.doc.docx"],
-      "preflight_required": ["materials", "room", "facilitator-adaptation"],
+      "readiness": {"status": "PILOT", "note": "Two-file PRIMARY package now contains the four-session syllabus, age-safe tote, starter actions, reset flow, assessment, and delivery review; it needs one real delivery before promotion."},
+      "repo_paths": ["PRIMARY/Chain-Reaction-Playground", "PRIMARY/SMM/archive/Chain Reaction Mini.doc.docx"],
+      "preflight_required": ["materials", "room", "safety"],
       "public": false
     },
     {

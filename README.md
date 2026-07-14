@@ -10,6 +10,12 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 
 ## Course kits — digital fabrication & making
 - [3D-Printing-Course-3-5](./PRIMARY/3D-Printing-Course-3-5) – 11-week elementary pipeline from imagination to MakerBot SKETCH queue, complete with print ops, slicer profiles, and empathy-driven capstones.
+- [Tiny-Machines](./PRIMARY/Tiny-Machines) – Four-session Pre-K–Grade 2 motion-and-story pilot; delivery review pending before public-ready status.
+- [Build-a-Neighborhood](./PRIMARY/Build-a-Neighborhood) – Four-session Pre-K–Grade 2 civic-imagination pilot; delivery review pending.
+- [Sound-Hunters](./PRIMARY/Sound-Hunters) – Four-session Pre-K–Grade 2 Foley and listening pilot; delivery review pending.
+- [Code-With-Your-Body](./PRIMARY/Code-With-Your-Body) – Four-session fully unplugged Pre-K–Grade 2 sequencing and debugging pilot; delivery review pending.
+- [Light-Color-and-Shadow-Lab](./PRIMARY/Light-Color-and-Shadow-Lab) – Four-session Pre-K–Grade 2 optics and shadow-story pilot; delivery review pending.
+- [Chain-Reaction-Playground](./PRIMARY/Chain-Reaction-Playground) – Four-session fully unplugged Pre-K–Grade 2 cause-and-effect pilot; delivery review pending.
 - [Design-for-Printability-and-Function](./SECONDARY/Design-for-Printability-and-Function) – Intermediate CAD + printability bootcamp for grades 7–9 with OpenSCAD test artifacts, tolerance labs, and data templates for strength tests.
 - [Engineering-Challenges](./SECONDARY/Engineering-Challenges) – Mechanism gauntlet (gears, cams, compliant hinges) with print-ready rigs, rubrics, and A/B block lessons targeting measurable performance wins.
 - [Advanced-DigiFab-Lab-Multimaterial-Scanning-Gcode](./POST_SECONDARY/Advanced-DigiFab-Lab-Multimaterial-Scanning-Gcode) – Capstone lab where students run a multi-printer fleet, swap filaments mid-job, parse G-code, and process 3D scans like junior techs.
@@ -58,7 +64,6 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 - [switch-orchard](./AE/switch-orchard) – CD4051 routing lab for manual or scanned patch selection.
 
 ## In-progress briefs (prototype notes, not full syllabi yet)
-- [K–2 Course Skeletons](./in-progress/k2/) – Six screen-light early-elementary offerings with source lineage and exact packaging gaps; internal development queue only.
 - [ai-story-society](./in-progress/ai-story-society.md) – Early brief on co-writing with AI and mapping narrative power.
 - [digital-storytelling-data-viz](./in-progress/digital-storytelling-data-viz.md) – Sketch brief for data storytelling with access-minded publishing.
 
