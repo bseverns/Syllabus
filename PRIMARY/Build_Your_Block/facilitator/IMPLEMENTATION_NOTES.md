@@ -20,14 +20,14 @@ Use the same zones every week if possible.
 
 ## Long-session pacing
 
-Each 2.5-hour session should include:
+Each 1.75-hour session should include:
 
-- 10–15 min launch / prompt
-- 10–15 min mini-demo
-- 45–55 min build sprint 1
+- 10 min launch / prompt
+- 10 min mini-demo
+- 30 min build sprint 1
 - 10 min movement / snack / water / reset
-- 45–55 min build sprint 2
-- 20–25 min share / document / cleanup / park
+- 30 min build sprint 2
+- 15 min share / document / cleanup / park
 
 Do not use the whole block as one continuous build stretch. Younger students especially need an internal reset.
 

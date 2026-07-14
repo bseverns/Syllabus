@@ -5,8 +5,8 @@
 **Provider:** createMPLS  
 **Format:** 7-week neighborhood invention intensive  
 **Audience:** Grades 3–7  
-**Schedule:** 4 class days per week, 2.5 hours per session  
-**Total:** 28 sessions, 70 contact hours
+**Schedule:** 4 class days per week, 1.75 hours per session
+**Total:** 28 sessions, 49 contact hours
 
 ---
 
@@ -106,14 +106,14 @@ Students install, present, document, reflect, and leave behind a visible record 
 
 ## Session structure
 
-Each **2.5-hour class session** should contain a full studio cycle:
+Each **1.75-hour class session** should contain a full studio cycle:
 
-- launch / prompt
-- short demo
-- build sprint 1
-- break, movement, and room reset
-- build sprint 2
-- share, documentation, cleanup, and project parking
+- 10 min launch / prompt
+- 10 min short demo
+- 30 min build sprint 1
+- 10 min break, movement, and room reset
+- 30 min build sprint 2
+- 15 min share, documentation, cleanup, and project parking
 
 This course no longer depends on very short daily periods. Every session should feel substantial, paced, and physically manageable for grades 3–7.
 

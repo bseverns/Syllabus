@@ -16,13 +16,13 @@ Making becomes public when the work is installed, shared, understood, and rememb
 - reflect on growth and archive the process
 
 ## Long-session rhythm
-Each 2.5-hour session should include:
-- 10–15 min launch / prompt
-- 10–15 min demo or hosting check
-- 45–55 min build, install, or rehearsal sprint 1
+Each 1.75-hour session should include:
+- 10 min launch / prompt
+- 10 min demo or hosting check
+- 30 min build, install, or rehearsal sprint 1
 - 10 min break / movement / reset
-- 45–55 min build, install, or rehearsal sprint 2
-- 20–25 min share / document / cleanup / park
+- 30 min build, install, or rehearsal sprint 2
+- 15 min share / document / park / cleanup
 
 Use the reset block to lower adrenaline, reset stations, and keep the room usable for the second half of class or event prep.
 

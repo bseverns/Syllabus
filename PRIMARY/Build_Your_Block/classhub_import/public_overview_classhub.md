@@ -7,7 +7,7 @@ UI Level: elementary
 Grade band: 3-7
 Duration: 7 weeks
 Session count: 28
-Typical session length: 2.5 hours, 4 meetings per week
+Typical session length: 1.75 hours, 4 meetings per week
 Subject tags: maker, engineering, art, neighborhood, circuits, coding, design, public showcase
 
 Summary:

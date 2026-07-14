@@ -18,15 +18,15 @@ An extra adult matters most during:
 
 ## Core session model
 
-Each class session is **2.5 hours**.
+Each class session is **1.75 hours**.
 
 ### Recommended breakdown
-- arrival / launch — 10–15 min
-- demo / framing — 10–15 min
-- build sprint 1 — 45–55 min
+- arrival / launch — 10 min
+- demo / framing — 10 min
+- build sprint 1 — 30 min
 - break / movement / reset — 10 min
-- build sprint 2 — 45–55 min
-- share / documentation / cleanup / parking — 20–25 min
+- build sprint 2 — 30 min
+- share / documentation / cleanup / parking — 15 min
 
 Do not cut the last block. If cleanup and parking collapse, the next session slows down immediately.
 

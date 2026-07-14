@@ -16,13 +16,13 @@ If a project is for real people, it has to make sense and hold together.
 - keep revision evidence visible
 
 ## Long-session rhythm
-Each 2.5-hour session should include:
-- 10–15 min launch / prompt
-- 10–15 min demo
-- 45–55 min build sprint 1
+Each 1.75-hour session should include:
+- 10 min launch / prompt
+- 10 min demo
+- 30 min build sprint 1
 - 10 min break / movement / reset
-- 45–55 min build sprint 2
-- 20–25 min share / document / park / cleanup
+- 30 min build sprint 2
+- 15 min share / document / park / cleanup
 
 Use the reset block to move teams from “more features” talk back to “what would still fail for a visitor?”
 

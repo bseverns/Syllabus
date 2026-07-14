@@ -282,7 +282,7 @@
       "formats": ["spark", "workshop", "course"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "A tote of cardboard, brads, tape, string, LEGO, and optional small motors."},
-      "readiness": {"status": "PILOT", "note": "Strong conceptual brief, but it explicitly lacks session plans, demo cards, materials budget, quick-start, assessment, and student sheets."},
+      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now includes timing, tote materials, facilitator flow, prompts, safety, assessment, and delivery review; it has not yet been delivery-tested."},
       "repo_paths": ["in-progress/k2/tiny-machines.md", "in-progress/machines-that-move.md"],
       "preflight_required": ["materials", "facilitator-adaptation"],
       "public": false
@@ -295,7 +295,7 @@
       "formats": ["spark", "workshop", "course"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "Cardboard, blocks/LEGO, paper, markers, tape, loose parts, and optional shared documentation camera."},
-      "readiness": {"status": "ADAPT", "note": "A K–2 skeleton now points to the strong grades 3–7 source; picture cards, run sheets, and an observation rubric are still missing."},
+      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now packages the age adaptation, timing, tote, prompts, safety, assessment, and delivery review; it has not yet been delivery-tested."},
       "repo_paths": ["in-progress/k2/build-a-neighborhood.md", "PRIMARY/Build_Your_Block"],
       "preflight_required": ["materials", "room", "facilitator-adaptation"],
       "public": false
@@ -308,7 +308,7 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "Safe Foley tote, picture rhythm cards, and optional facilitator recording/playback."},
-      "readiness": {"status": "ADAPT", "note": "A K–2 skeleton now extracts listening and Foley moves from a complete high-school sound course; safety, sensory, and participant materials remain to be packaged."},
+      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now packages a screen-light sound adaptation with materials, cue flow, sensory/safety notes, assessment, and delivery review; it has not yet been delivery-tested."},
       "repo_paths": ["in-progress/k2/sound-hunters.md", "SECONDARY/ExplorationSoundDesign"],
       "preflight_required": ["materials", "room", "facilitator-adaptation"],
       "public": false
@@ -321,7 +321,7 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E0", "summary": "Picture-command cards, painter's tape, soft markers, and open floor space."},
-      "readiness": {"status": "PILOT", "note": "A minimal unplugged skeleton and Scratch lineage exist, but printable command cards, accessibility variants, and facilitator run sheets do not."},
+      "readiness": {"status": "PILOT", "note": "Four-session unplugged pilot syllabus now includes command materials, accessible participation routes, facilitator flow, assessment, and delivery review; it has not yet been delivery-tested."},
       "repo_paths": ["in-progress/k2/code-with-your-body.md", "PRIMARY/Scratch-Game-Design-Animation_Grades3-5"],
       "preflight_required": ["materials", "room", "facilitator-adaptation"],
       "public": false
@@ -334,7 +334,7 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0", "S1"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E1", "summary": "Low-heat LED flashlights, transparent color film, paper, cardboard, tape, and a dimmable corner."},
-      "readiness": {"status": "PILOT", "note": "A K–2 skeleton now reuses observation and consent practices from imaging; room-light alternatives, tote safety check, and participant prompts remain."},
+      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now includes room-light options, tote safety, participant flow, assessment, and delivery review; it has not yet been delivery-tested."},
       "repo_paths": ["in-progress/k2/light-color-shadow-lab.md", "SECONDARY/digital-imaging-lab"],
       "preflight_required": ["materials", "room", "facilitator-adaptation"],
       "public": false
@@ -347,7 +347,7 @@
       "formats": ["spark", "workshop"],
       "screen_load": ["S0"],
       "equipment": {"minimum_tier": "E0", "full_tier": "E0", "summary": "Foam balls, cardboard ramps, blocks, cups, tape, paper tubes, and low table or floor trays."},
-      "readiness": {"status": "PILOT", "note": "A K–2 skeleton now translates a legacy teen chain-reaction plan; starter build cards, age-safe tote guidance, and run sheets remain."},
+      "readiness": {"status": "PILOT", "note": "Four-session K–2 pilot syllabus now translates the legacy source with age-safe tote guidance, starter actions, reset flow, assessment, and delivery review; it has not yet been delivery-tested."},
       "repo_paths": ["in-progress/k2/chain-reaction-playground.md", "PRIMARY/SMM/archive/Chain Reaction Mini.doc.docx"],
       "preflight_required": ["materials", "room", "facilitator-adaptation"],
       "public": false

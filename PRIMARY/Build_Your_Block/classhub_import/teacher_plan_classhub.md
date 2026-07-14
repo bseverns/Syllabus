@@ -2,7 +2,7 @@
 
 Course slug: build_your_block
 Grade level: 3rd-7th
-Session length: 2.5 hours per class, 4 meetings per week
+Session length: 1.75 hours per class, 4 meetings per week
 Total sessions: 28
 UI Level: elementary
 

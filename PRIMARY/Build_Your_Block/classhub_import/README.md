@@ -34,7 +34,7 @@ This import layer now mirrors the intensive package:
 
 - 7 weeks
 - 28 sessions
-- 2.5-hour studio blocks
+- 1.75-hour studio blocks
 - early capstone identity
 - narrower tool pathways
 - earlier testing, clarity, durability, and showcase logic

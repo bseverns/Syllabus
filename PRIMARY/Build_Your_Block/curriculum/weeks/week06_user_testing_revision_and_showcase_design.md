@@ -16,13 +16,13 @@ Projects get stronger when real people try them and the team actually listens.
 - prepare the room for a soft opening before the final week
 
 ## Long-session rhythm
-Each 2.5-hour session should include:
-- 10–15 min launch / prompt
-- 10–15 min demo
-- 45–55 min build or testing sprint 1
+Each 1.75-hour session should include:
+- 10 min launch / prompt
+- 10 min demo
+- 30 min build or testing sprint 1
 - 10 min break / movement / reset
-- 45–55 min build or testing sprint 2
-- 20–25 min share / document / park / cleanup
+- 30 min build or testing sprint 2
+- 15 min share / document / park / cleanup
 
 Use the reset block to sort evidence, not just energy: what did we see, what are we fixing, what are we leaving alone?
 

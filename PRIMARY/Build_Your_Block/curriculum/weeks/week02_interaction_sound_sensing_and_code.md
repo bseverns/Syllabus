@@ -17,13 +17,13 @@ Projects become public when other people can trigger, hear, understand, or respo
 - leave the week with one coherent deliverable, not a pile of unrelated experiments
 
 ## Long-session rhythm
-Each 2.5-hour session should include:
-- 10–15 min launch / prompt
-- 10–15 min demo
-- 45–55 min build sprint 1
+Each 1.75-hour session should include:
+- 10 min launch / prompt
+- 10 min demo
+- 30 min build sprint 1
 - 10 min break / movement / reset
-- 45–55 min build sprint 2
-- 20–25 min share / document / park / cleanup
+- 30 min build sprint 2
+- 15 min share / document / park / cleanup
 
 Use the reset block to narrow the room again: drop volume, close extra tool branches, and restate the one deliverable that matters by the end of the session.
 

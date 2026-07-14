@@ -17,13 +17,13 @@ We are entering a neighborhood invention studio, not waiting to do the real work
 - begin imagining what kind of project might belong on or about a block
 
 ## Long-session rhythm
-Each 2.5-hour session should include:
-- 10–15 min launch / prompt
-- 10–15 min demo
-- 45–55 min build sprint 1
+Each 1.75-hour session should include:
+- 10 min launch / prompt
+- 10 min demo
+- 30 min build sprint 1
 - 10 min break / movement / reset
-- 45–55 min build sprint 2
-- 20–25 min share / document / park / cleanup
+- 30 min build sprint 2
+- 15 min share / document / park / cleanup
 
 The break / reset block should usually mean water or bathroom release, materials back to table edges, projects parked or paused safely, and one sentence that relaunches sprint 2.
 
