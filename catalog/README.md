@@ -45,4 +45,4 @@ python3 -m unittest discover -s tests -v
 python3 catalog/build_menu.py --output catalog/MENU.md
 ```
 
-The build validates every `repo_paths` value before writing the generated menu. Do not hand-edit `MENU.md`; edit `menu.json` and regenerate.
+The build validates source paths, unique offering IDs, public readiness, and deployment labels before writing the generated menu. Do not hand-edit `MENU.md`; edit `menu.json` and regenerate.

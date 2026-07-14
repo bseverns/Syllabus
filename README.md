@@ -2,10 +2,18 @@
 
 A messy, honest archive of courses I've slung across classrooms, studios, and workshops. Every folder is a snapshot—some are fully-scaffolded semester arcs, others are raw `.docx` survivors begging for a remix. Treat this place like a half-studio notebook, half-teaching zine. Grab what you need, annotate the margins, and throw it back when you make it better.
 
+## Start here
+
+- **Ready to deliver:** use the generated [Workshop Menu](./catalog/MENU.md).
+- **Browse the archive:** search the structured [course index](./catalog/index.json).
+- **Developing work:** start in [`in-progress/`](./in-progress/).
+
+The lists below are an informal archive map. Delivery claims live in `catalog/menu.json`; course details live in each package.
+
 ## How to navigate the chaos
 - **Clone it, then zoom in.** Most course folders ship with their own README or syllabus map. Follow those breadcrumbs before spelunking blindly.
 - **Work from the inside out.** Lesson plans live alongside assessments, checklists, slicer profiles, BandLab station cards—you name it. When in doubt, open `syllabus/` first, then chase `lessons/`, `activities/`, or `sessions/`.
-- **Mind the licenses.** Content is largely CC BY 4.0, code leans MIT. Check each folder before you publish or commercialize.
+- **Mind the licenses.** The repository default is CC BY 4.0 for curriculum and MIT for code; package-local and third-party licenses override it. See [LICENSE.md](./LICENSE.md).
 - **Keep notes scrappy.** I leave space for “local hacks” in most docs. Track your tweaks; future-you (or future-me) will thank you.
 
 ## Course kits — digital fabrication & making
@@ -26,7 +34,7 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 ## Course kits — robotics, flight & control
 - [Robotics-to-FPV-Course](./SECONDARY/Robotics-to-FPV-Course) – 15-week bridge from Arduino ground robots to sub-250 g FPV whoops, with BOMs, flight checklists, and simulator drills to keep teams flying smart.
 - [HS_Drone_Racing_League](./SECONDARY/HS_Drone_Racing_League) – League starter kit covering safety law, bootcamp schedules, forms, and sim training for school-based FPV crews.
-- [TinyWhoop-Workshop](./SECONDARY/TinyWhoop-Workshop) – Four-session Betaflight configurator workshop emphasizing safe habits, backups, and tuning tiny whoops until they feel personal.
+- [TinyWhoop-Workshop](./SECONDARY/TinyWhoop-Workshop) – Ten-week, 20-session Betaflight and VelociDrone course emphasizing safe habits, backups, maintenance, and controlled flight.
 - [Robotics_HS_SpikePrime](./SECONDARY/Robotics_HS_SpikePrime) – Compact 12-hour Spike Prime primer with `.md` and `.pdf` guides for quick-start robotics programs.
 - [robotic-vibes](./SECONDARY/robotic-vibes) – Expanding course family built on a robotics + vibe coding level 1 spine, offering LEGO Spike, Arduino, and CircuitPython dialects with reproducible build docs and assessment kits.
 

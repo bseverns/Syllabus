@@ -33,7 +33,7 @@ By the final blackout, students will be able to:
 - **Stagecraft build days:** swap assets—sound designers trade recordings for prop textures; stagecraft offers set sketches you can score.
 - **Stage Manager buddy:** assign one student SM per pod to log cues using the [Cue Sheet Template](./cue_sheet_template.md).
 - **Drama teacher:** offers blocking notes; we mirror them with cue timing annotations.
-- **Media crew:** borrow gear tips from the [Exploration Sound Design course](../ExplorationSoundDesign/syllabus.md) if you want deeper synthesis labs.
+- **Media crew:** borrow gear tips from the [Exploration Sound Design course](../../SECONDARY/ExplorationSoundDesign/syllabus.md) if you want deeper synthesis labs.
 
 ## Tech & Space Setup
 - **Capture rigs:** smartphones with foam windscreens, one Zoom H4n if available, plus gaffer tape + clips.
@@ -60,7 +60,7 @@ Each meeting follows **Hook (10) → Mini-lesson (15) → Lab (40) → Collab Re
 - Exit ticket: upload files using `Show_Scene#_Descriptor.wav` naming.
 
 ### Session 2 — Editing & Sculpting
-- Mini-lesson: fade, EQ, compression quick hits (borrow slides from [Exploration Sound Design](../ExplorationSoundDesign/syllabus.md#week-3--rhythm-space-and-effects)).
+- Mini-lesson: fade, EQ, compression quick hits (borrow slides from [Exploration Sound Design](../../SECONDARY/ExplorationSoundDesign/syllabus.md#week-3--rhythm-space-and-effects)).
 - Lab: build a 30-second atmosphere bed plus a hard effect.
 - Collab: stagecraft shares set sketches; students pitch sonic motifs for each location.
 

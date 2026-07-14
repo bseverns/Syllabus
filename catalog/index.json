@@ -795,7 +795,7 @@
     "course_id": "tinywhoop-workshop",
     "title": "Tuning Tiny Whoops: A Betaflight Configurator Workshop",
     "level": "HS",
-    "hours": "4×90 min",
+    "hours": "20×90 min over 10 weeks",
     "delivery": "Workshop",
     "keywords": [
       "Tiny whoop",
@@ -805,10 +805,10 @@
       "Checklists"
     ],
     "outcomes": [
-      "Configure and tune Betaflight-based tiny whoops safely.",
-      "Build backup habits through diff exports and SD card routines.",
-      "Dial rates and modes to achieve personal flight feel.",
-      "Document tuning changes for future flights and troubleshooting."
+      "Configure, back up, and troubleshoot Betaflight-based tiny whoops safely.",
+      "Build simulator control through repeated VelociDrone practice.",
+      "Inspect, maintain, and recover aircraft after small crashes.",
+      "Document settings and demonstrate safe flight and race routines."
     ],
     "access_notes": "Includes printable checklists and handouts so teams can work offline at the field.",
     "artifacts": [
@@ -820,8 +820,8 @@
       "Robotics-to-FPV-Course",
       "HS_Drone_Racing_League"
     ],
-    "version": "2024.06",
-    "updated": "2024-06-02"
+    "version": "2026.07",
+    "updated": "2026-07-14"
   },
   {
     "course_id": "primary_scratch_game_design_animation_grades3_5",

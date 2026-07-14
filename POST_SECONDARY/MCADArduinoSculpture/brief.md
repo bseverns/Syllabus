@@ -33,7 +33,7 @@ Week 1 basics, Week 2 motion, Week 3 sensors, Week 4 refinement, Week 5 show.
 
 ## Major assignments
 - [Kinetic object](assignments/kinetic-object.md)
-- [Process log](../shared/templates/process-log.md)
+- [Process log](../../shared/templates/process-log.md)
 
 ## Assessment
 [RUBRIC](assessment/rubric.md)
@@ -42,7 +42,7 @@ Week 1 basics, Week 2 motion, Week 3 sensors, Week 4 refinement, Week 5 show.
 Bench heights varied; captioned demos; flexible deadlines.
 
 ## Policies
-[AI use](../shared/policies/ai-use.md), [Safety: soldering](../shared/policies/safety-soldering.md)
+[AI use](../../shared/policies/ai-use.md), [Safety: soldering](../../shared/policies/safety-soldering.md)
 
 ## Documentation expectations
-Maintain a [process log](../shared/templates/process-log.md) and [assumption ledger](../shared/templates/assumption-ledger.md)
+Maintain a [process log](../../shared/templates/process-log.md) and [assumption ledger](../../shared/templates/assumption-ledger.md)

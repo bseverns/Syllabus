@@ -54,4 +54,4 @@ lessons/
 |22 | [S22 — Showcase & Reflection](./s22-showcase-reflection.md) | Export, share, celebrate. | [File Management](../station-cards/file-management.md) |
 
 Take what you need, make noise, repeat.
-And remember: our Corita-fueled [shared policies](../../shared/policies) keep the lab humane.
+And remember: our Corita-fueled [shared policies](../../../shared/policies) keep the lab humane.

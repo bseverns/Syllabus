@@ -1,9 +1,29 @@
 import json
+import re
 import tempfile
 import unittest
 from pathlib import Path
+from urllib.parse import unquote
 
 from catalog.build_menu import render_menu, validate_menu
+
+
+REPO_ROOT = Path(__file__).parents[1]
+
+
+def broken_local_markdown_links(root: Path) -> list[str]:
+    # ponytail: inline links only; use a Markdown parser if reference links need enforcement.
+    broken = []
+    for markdown_path in root.rglob("*.md"):
+        for line_number, line in enumerate(markdown_path.read_text(errors="replace").splitlines(), 1):
+            for target in re.findall(r"(?<!!)\[[^\]]*\]\(([^)]+)\)", line):
+                target = target.strip("<>")
+                if target.startswith(("http://", "https://", "mailto:", "tel:", "#", "data:")):
+                    continue
+                target = unquote(target.split("#", 1)[0])
+                if target and not (markdown_path.parent / target).exists():
+                    broken.append(f"{markdown_path.relative_to(root)}:{line_number} -> {target}")
+    return broken
 
 
 class ValidateMenuTest(unittest.TestCase):
@@ -56,6 +76,60 @@ class ValidateMenuTest(unittest.TestCase):
 
         self.assertIn("bad-status: unsupported readiness: MAYBE", errors)
 
+    def test_rejects_duplicate_offering_ids(self):
+        offering = {
+            "offering_id": "duplicate",
+            "readiness": {"status": "GO"},
+            "repo_paths": [],
+            "public": False,
+        }
+        menu = {"offerings": [offering, offering]}
+        with tempfile.TemporaryDirectory() as directory:
+            menu_path = Path(directory) / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, Path(directory))
+
+        self.assertIn("duplicate: duplicate offering_id", errors)
+
+    def test_rejects_public_offerings_that_are_not_ready(self):
+        menu = {
+            "offerings": [
+                {
+                    "offering_id": "pilot",
+                    "readiness": {"status": "PILOT"},
+                    "repo_paths": [],
+                    "public": True,
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            menu_path = Path(directory) / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, Path(directory))
+
+        self.assertIn("pilot: public offerings must be GO or GO-P", errors)
+
+    def test_rejects_unknown_screen_and_equipment_labels(self):
+        menu = {
+            "offerings": [
+                {
+                    "offering_id": "bad-labels",
+                    "screen_load": ["S5"],
+                    "equipment": {"minimum_tier": "E0", "full_tier": "E5"},
+                    "readiness": {"status": "GO"},
+                    "repo_paths": [],
+                    "public": False,
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            menu_path = Path(directory) / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, Path(directory))
+
+        self.assertIn("bad-labels: unsupported screen load: S5", errors)
+        self.assertIn("bad-labels: unsupported equipment tier: E5", errors)
+
     def test_renders_only_public_offerings_with_equipment_and_readiness(self):
         menu = {
             "offerings": [
@@ -93,6 +167,13 @@ class ValidateMenuTest(unittest.TestCase):
         self.assertIn("E1→E2", rendered)
         self.assertIn("GO-P", rendered)
         self.assertNotIn("Future Workshop", rendered)
+
+    def test_checked_in_menu_matches_generated_menu(self):
+        menu = json.loads((REPO_ROOT / "catalog/menu.json").read_text())
+        self.assertEqual((REPO_ROOT / "catalog/MENU.md").read_text(), render_menu(menu))
+
+    def test_repository_has_no_broken_local_markdown_links(self):
+        self.assertEqual([], broken_local_markdown_links(REPO_ROOT))
 
 
 if __name__ == "__main__":

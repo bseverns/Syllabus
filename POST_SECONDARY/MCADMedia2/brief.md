@@ -41,7 +41,7 @@ Week1 recap, Week2 data & APIs, Week3 systems storytelling, Week4 prototype, Wee
 Alt paths for offline work; pair programming; transcripts for talks.
 
 ## Policies
-[AI use](../shared/policies/ai-use.md) + [Drones](../shared/policies/safety-drones.md)
+[AI use](../../shared/policies/ai-use.md) + [Drones](../../shared/policies/safety-drones.md)
 
 ## Documentation expectations
-[Process log](../shared/templates/process-log.md) and [Assumption ledger](../shared/templates/assumption-ledger.md)
+[Process log](../../shared/templates/process-log.md) and [Assumption ledger](../../shared/templates/assumption-ledger.md)

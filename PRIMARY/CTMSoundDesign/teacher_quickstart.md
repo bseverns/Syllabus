@@ -12,7 +12,7 @@ Welcome to the booth crew. This quickstart is your checklist for keeping eight s
 ## Weekly Rhythm
 Each session runs on the pattern outlined in the [syllabus](./syllabus.md#session-roadmap-8x90). Keep these anchor moves handy:
 - **Hook:** start with a cinematic moment—muted clip vs. scored clip, or a live cue misfire story.
-- **Mini-lesson:** limit slides to 5–7 minutes; then demo live in the DAW. Reference the [Exploration Sound Design](../ExplorationSoundDesign/syllabus.md) materials when you need deeper dives on EQ/effects.
+- **Mini-lesson:** limit slides to 5–7 minutes; then demo live in the DAW. Reference the [Exploration Sound Design](../../SECONDARY/ExplorationSoundDesign/syllabus.md) materials when you need deeper dives on EQ/effects.
 - **Lab:** circulate with a stage manager lens—ask "What is this cue serving?" not "Is this a cool sound?"
 - **Collab rehearsal:** tag in the stagecraft instructor. Standby/go language every time.
 - **Debrief:** rapid-fire “Keep / Tweak / Kill” or shout-outs from the booth.

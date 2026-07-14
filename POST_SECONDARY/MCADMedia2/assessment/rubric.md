@@ -1,5 +1,5 @@
 # Rubric
-Base: [code art small](../../shared/assessment/rubrics/code-art-small.md)
+Base: [code art small](../../../shared/assessment/rubrics/code-art-small.md)
 
 | Criterion | 4 | 3 | 2 | 1 |
 |---|---|---|---|---|

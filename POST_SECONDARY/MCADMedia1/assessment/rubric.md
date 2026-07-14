@@ -1,5 +1,5 @@
 # Rubric
-Base: [media foundations](../../shared/assessment/rubrics/media-foundations.md)
+Base: [media foundations](../../../shared/assessment/rubrics/media-foundations.md)
 
 | Criterion | 4 | 3 | 2 | 1 |
 |---|---|---|---|---|

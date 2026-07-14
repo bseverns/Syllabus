@@ -61,4 +61,8 @@ Keep package-specific details beside the package. Add a field to catalog data on
 
 ## Validation boundary
 
-The current generator validates source paths and readiness vocabulary. Add artifact-level readiness validation only after two or more ready packages use the same stable file contract; do not force a single folder layout onto the historical archive first.
+The current generator validates source paths, unique offering IDs, public readiness, and deployment labels. Add artifact-level readiness validation only after two or more ready packages use the same stable file contract; do not force a single folder layout onto the historical archive first.
+
+## Licensing
+
+Packages inherit the repository license unless they include a package-local license. Third-party material keeps its original license.

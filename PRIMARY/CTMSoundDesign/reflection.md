@@ -6,7 +6,7 @@ Use these after Session 8 (or any major rehearsal) to capture honest insights be
 1. **Cue Confidence:** Which cue made you sweat the most, and how did you prep for it? Include timestamps or cue numbers.
 2. **Collaboration Check:** How did communication with the stage manager or stagecraft team change over the project?
 3. **Design Impact:** Describe a moment when the sound changed the audience’s reaction. Would you tweak levels, timing, or texture next time?
-4. **Growth Edge:** What skill do you want to steal from the [Exploration Sound Design](../ExplorationSoundDesign/syllabus.md) playbook to level up?
+4. **Growth Edge:** What skill do you want to steal from the [Exploration Sound Design](../../SECONDARY/ExplorationSoundDesign/syllabus.md) playbook to level up?
 
 ## Team Retro
 1. **Workflow Wins:** What kept your cue sheets, file naming, and backups under control?

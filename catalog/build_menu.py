@@ -10,16 +10,31 @@ from pathlib import Path
 
 
 def validate_menu(menu_path: Path, repo_root: Path) -> list[str]:
-    """Return human-readable errors for source paths that do not resolve."""
+    """Return human-readable errors for invalid deployment claims."""
     menu = json.loads(menu_path.read_text())
     errors: list[str] = []
+    offering_ids: set[str] = set()
     for offering in menu["offerings"]:
+        offering_id = offering["offering_id"]
+        if offering_id in offering_ids:
+            errors.append(f"{offering_id}: duplicate offering_id")
+        offering_ids.add(offering_id)
+
         readiness = offering["readiness"]["status"]
         if readiness not in {"GO", "GO-P", "ADAPT", "PILOT", "NO"}:
-            errors.append(f"{offering['offering_id']}: unsupported readiness: {readiness}")
+            errors.append(f"{offering_id}: unsupported readiness: {readiness}")
+        if offering.get("public") and readiness not in {"GO", "GO-P"}:
+            errors.append(f"{offering_id}: public offerings must be GO or GO-P")
+        for screen_load in offering.get("screen_load", []):
+            if screen_load not in {"S0", "S1", "S2", "S3", "S4"}:
+                errors.append(f"{offering_id}: unsupported screen load: {screen_load}")
+        equipment = offering.get("equipment", {})
+        for equipment_tier in (equipment.get("minimum_tier"), equipment.get("full_tier")):
+            if equipment_tier is not None and equipment_tier not in {"E0", "E1", "E2", "E3", "E4"}:
+                errors.append(f"{offering_id}: unsupported equipment tier: {equipment_tier}")
         for source_path in offering["repo_paths"]:
             if not (repo_root / source_path).exists():
-                errors.append(f"{offering['offering_id']}: missing source path: {source_path}")
+                errors.append(f"{offering_id}: missing source path: {source_path}")
     return errors
 
 

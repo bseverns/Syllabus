@@ -78,7 +78,8 @@ Each day has an objective and recommended support cards. The [lessons README](./
 - [S22 — Showcase & Reflection](./lessons/s22-showcase-reflection.md)
 
 ## Policies
-Our classroom vibe riffs on Corita Kent's Ten Rules—skim [shared/policies](../shared/policies) before you spark up the laptops.
+Our classroom vibe riffs on Corita Kent's Ten Rules—skim [shared/policies](../../shared/policies) before you spark up the laptops.
 
 ## License
-© /home/sandbox — Educational use permitted; please attribute. Adjust license as needed for your institution.
+
+This package uses the repository default: CC BY 4.0 for curriculum and MIT for code. See [`LICENSE.md`](../../LICENSE.md).

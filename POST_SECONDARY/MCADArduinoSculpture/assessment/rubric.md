@@ -1,5 +1,5 @@
 # Rubric
-Base: [installation/performance](../../shared/assessment/rubrics/installation-performance.md)
+Base: [installation/performance](../../../shared/assessment/rubrics/installation-performance.md)
 
 | Criterion | 4 | 3 | 2 | 1 |
 |---|---|---|---|---|

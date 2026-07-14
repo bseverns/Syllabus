@@ -41,7 +41,7 @@ Week1 orientation, Week2 image, Week3 sound, Week4 code, Week5 final sprint.
 Menu of tools, open lab hours, re-record policies.
 
 ## Policies
-[Accessibility](../shared/policies/accessibility-udl.md), [Consent](../shared/policies/consent-and-imaging.md)
+[Accessibility](../../shared/policies/accessibility-udl.md), [Consent](../../shared/policies/consent-and-imaging.md)
 
 ## Documentation expectations
-[Process log](../shared/templates/process-log.md) + [Assumption ledger](../shared/templates/assumption-ledger.md)
+[Process log](../../shared/templates/process-log.md) + [Assumption ledger](../../shared/templates/assumption-ledger.md)

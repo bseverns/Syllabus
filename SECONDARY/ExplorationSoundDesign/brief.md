@@ -33,7 +33,7 @@ Week 1 foundations; Week 2 sampling; Week 3 synthesis; Week 4 mixing; Week 5 fin
 
 ## Major assignments
 - [Performance brief](assignments/performance-brief.md)
-- [Process log template](../shared/templates/process-log.md)
+- [Process log template](../../shared/templates/process-log.md)
 
 ## Assessment
 [Course rubric](assessment/rubric.md)
@@ -42,7 +42,7 @@ Week 1 foundations; Week 2 sampling; Week 3 synthesis; Week 4 mixing; Week 5 fin
 Low-bandwidth modes, loaner gear, flexible timing.
 
 ## Policies
-See [AI use](../shared/policies/ai-use.md) and [Consent & Imaging](../shared/policies/consent-and-imaging.md)
+See [AI use](../../shared/policies/ai-use.md) and [Consent & Imaging](../../shared/policies/consent-and-imaging.md)
 
 ## Documentation expectations
-Use a [process log](../shared/templates/process-log.md) and an [assumption ledger](../shared/templates/assumption-ledger.md)
+Use a [process log](../../shared/templates/process-log.md) and an [assumption ledger](../../shared/templates/assumption-ledger.md)
