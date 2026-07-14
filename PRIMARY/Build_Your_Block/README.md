@@ -66,7 +66,7 @@ Demos stay short. Build time stays protected. Cleanup and explanation stay part 
 - **Audience:** Grades 3–7
 - **Length:** 7 weeks
 - **Schedule:** 4 sessions per week
-- **Session length:** 2.5 hours
+- **Session length:** 1.75 hours
 - **Group size:** 12–18 is a strong target
 - **Staffing:** 1 lead facilitator can work with a tight plan; 1 assistant is strongly recommended
 - **Platform rule:** if coding is used, choose one platform per site

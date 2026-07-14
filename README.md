@@ -58,6 +58,7 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 - [switch-orchard](./AE/switch-orchard) – CD4051 routing lab for manual or scanned patch selection.
 
 ## In-progress briefs (prototype notes, not full syllabi yet)
+- [K–2 Course Skeletons](./in-progress/k2/) – Six screen-light early-elementary offerings with source lineage and exact packaging gaps; internal development queue only.
 - [ai-story-society](./in-progress/ai-story-society.md) – Early brief on co-writing with AI and mapping narrative power.
 - [digital-storytelling-data-viz](./in-progress/digital-storytelling-data-viz.md) – Sketch brief for data storytelling with access-minded publishing.
 
@@ -68,7 +69,8 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 - [SMM](./PRIMARY/SMM) – Miscellaneous workshop docs like chain-reaction mini builds and digital photo briefs from past programs.
 
 ## Meta: indexing, validation & data
-- [catalog](./catalog) – JSON index + schema pairing for folks who want to surface these courses in another system; validate before you broadcast.
+- [catalog](./catalog) – Archive index, partner-menu data, schemas, and a small generator/validator.
+- [Workshop Menu](./catalog/MENU.md) – Partner-facing offerings grounded in the repo, with internal screen, equipment, readiness, and preflight labels.
 
 ## Contribute like a punk archivist
 - Fork, remix, and PR your local variants. Include what changed, why, and how it landed in class.

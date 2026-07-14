@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Syllabus partner menu",
+  "type": "object",
+  "required": ["version", "offerings"],
+  "properties": {
+    "version": {"type": "string"},
+    "offerings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["offering_id", "public_title", "summary", "age_bands", "formats", "screen_load", "equipment", "readiness", "repo_paths", "preflight_required", "public"],
+        "properties": {
+          "offering_id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+          "public_title": {"type": "string"},
+          "summary": {"type": "string"},
+          "age_bands": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+          "formats": {"type": "array", "minItems": 1, "items": {"enum": ["spark", "workshop", "course", "lunch lab", "event"]}},
+          "screen_load": {"type": "array", "minItems": 1, "items": {"enum": ["S0", "S1", "S2", "S3", "S4"]}},
+          "equipment": {
+            "type": "object",
+            "required": ["minimum_tier", "full_tier", "summary"],
+            "properties": {
+              "minimum_tier": {"enum": ["E0", "E1", "E2", "E3", "E4"]},
+              "full_tier": {"enum": ["E0", "E1", "E2", "E3", "E4"]},
+              "summary": {"type": "string"}
+            }
+          },
+          "readiness": {
+            "type": "object",
+            "required": ["status", "note"],
+            "properties": {
+              "status": {"enum": ["GO", "GO-P", "ADAPT", "PILOT", "NO"]},
+              "note": {"type": "string"}
+            }
+          },
+          "repo_paths": {"type": "array", "items": {"type": "string"}},
+          "preflight_required": {"type": "array", "items": {"type": "string"}},
+          "public": {"type": "boolean"}
+        }
+      }
+    }
+  }
+}
