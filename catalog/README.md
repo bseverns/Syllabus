@@ -1,6 +1,6 @@
 # Catalog and Menu
 
-`index.json` is the archive index. `menu.json` is the smaller deployment-aware layer used to create a partner-facing workshop menu without flattening the archive into marketing claims.
+`index.json` is the archive index. `menu.json` is the canonical deployment-aware layer for offering claims; generated menus are disposable views. Historical folders remain the practical source locations, not canonical audience metadata. See [`standards/COURSE_PACKAGE_STANDARD.md`](../standards/COURSE_PACKAGE_STANDARD.md) for the readiness contract.
 
 ## Menu fields
 
