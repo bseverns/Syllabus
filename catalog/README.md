@@ -8,6 +8,7 @@
 | --- | --- |
 | `public_title` | Partner-facing experience name. |
 | `repo_paths` | Exact source material to audit before delivery. |
+| `classhub_import_path` | Optional repository-relative adapter directory containing `teacher_plan_classhub.md` and `public_overview_classhub.md`. |
 | `screen_load` | S0–S4 participation screen-use label. |
 | `equipment` | E0–E4 minimum/full deployment burden. |
 | `readiness` | Documentation status, separate from equipment burden. |
@@ -42,7 +43,10 @@
 
 ```bash
 python3 -m unittest discover -s tests -v
+python3 catalog/validate_classhub_adapters.py
 python3 catalog/build_menu.py --output catalog/MENU.md
 ```
 
-The build validates source paths, unique offering IDs, public readiness, and deployment labels before writing the generated menu. Do not hand-edit `MENU.md`; edit `menu.json` and regenerate.
+The build validates source and ClassHub adapter paths, unique offering IDs, public readiness, and deployment labels before writing the generated menu. Do not hand-edit `MENU.md`; edit `menu.json` and regenerate.
+
+For adapter source conventions, see [`standards/CLASSHUB_ADAPTER_AUTHORING.md`](../standards/CLASSHUB_ADAPTER_AUTHORING.md).

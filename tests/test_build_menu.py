@@ -118,6 +118,57 @@ class ValidateMenuTest(unittest.TestCase):
 
         self.assertIn("symlink-source: source path escapes repository: linked-source.md", errors)
 
+    def test_rejects_an_invalid_classhub_import_path(self):
+        menu = {
+            "offerings": [
+                {
+                    "offering_id": "bad-classhub-path",
+                    "readiness": {"status": "GO"},
+                    "repo_paths": [],
+                    "classhub_import_path": "../classhub_import",
+                    "public": False,
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            repo_root = Path(directory) / "repo"
+            repo_root.mkdir()
+            menu_path = repo_root / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, repo_root)
+
+        self.assertIn(
+            "bad-classhub-path: classhub_import_path escapes repository: ../classhub_import",
+            errors,
+        )
+
+    def test_rejects_a_classhub_import_directory_missing_required_files(self):
+        menu = {
+            "offerings": [
+                {
+                    "offering_id": "incomplete-classhub-adapter",
+                    "readiness": {"status": "GO"},
+                    "repo_paths": [],
+                    "classhub_import_path": "course/classhub_import",
+                    "public": False,
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            repo_root = Path(directory)
+            adapter_path = repo_root / "course/classhub_import"
+            adapter_path.mkdir(parents=True)
+            (adapter_path / "teacher_plan_classhub.md").touch()
+            menu_path = repo_root / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, repo_root)
+
+        self.assertIn(
+            "incomplete-classhub-adapter: classhub_import_path missing "
+            "public_overview_classhub.md: course/classhub_import",
+            errors,
+        )
+
     def test_rejects_an_unknown_readiness_status(self):
         menu = {
             "offerings": [
@@ -238,6 +289,9 @@ class ValidateMenuTest(unittest.TestCase):
     def test_checked_in_menu_matches_generated_menu(self):
         menu = json.loads((REPO_ROOT / "catalog/menu.json").read_text())
         self.assertEqual((REPO_ROOT / "catalog/MENU.md").read_text(), render_menu(menu))
+
+    def test_checked_in_menu_validates(self):
+        self.assertEqual([], validate_menu(REPO_ROOT / "catalog/menu.json", REPO_ROOT))
 
     def test_repository_has_no_broken_local_markdown_links(self):
         self.assertEqual([], broken_local_markdown_links(REPO_ROOT))

@@ -44,6 +44,52 @@ def validate_menu(menu_path: Path, repo_root: Path) -> list[str]:
                 continue
             if not resolved_path.exists():
                 errors.append(f"{offering_id}: missing source path: {source_path}")
+
+        classhub_import_path = offering.get("classhub_import_path")
+        if classhub_import_path is not None:
+            if not isinstance(classhub_import_path, str) or not classhub_import_path.strip():
+                errors.append(f"{offering_id}: classhub_import_path must be a non-empty string")
+                continue
+            path = Path(classhub_import_path)
+            if path.is_absolute():
+                errors.append(
+                    f"{offering_id}: classhub_import_path must be relative: {classhub_import_path}"
+                )
+                continue
+            resolved_path = (resolved_repo_root / path).resolve()
+            if not resolved_path.is_relative_to(resolved_repo_root):
+                errors.append(
+                    f"{offering_id}: classhub_import_path escapes repository: {classhub_import_path}"
+                )
+                continue
+            if not resolved_path.exists():
+                errors.append(
+                    f"{offering_id}: missing classhub_import_path: {classhub_import_path}"
+                )
+                continue
+            if not resolved_path.is_dir():
+                errors.append(
+                    f"{offering_id}: classhub_import_path must be a directory: {classhub_import_path}"
+                )
+                continue
+            for required_name in (
+                "teacher_plan_classhub.md",
+                "public_overview_classhub.md",
+            ):
+                required_path = resolved_path / required_name
+                if (
+                    required_path.exists()
+                    and not required_path.resolve().is_relative_to(resolved_repo_root)
+                ):
+                    errors.append(
+                        f"{offering_id}: classhub_import_path file escapes repository: "
+                        f"{classhub_import_path}/{required_name}"
+                    )
+                elif not required_path.is_file():
+                    errors.append(
+                        f"{offering_id}: classhub_import_path missing {required_name}: "
+                        f"{classhub_import_path}"
+                    )
     return errors
 
 

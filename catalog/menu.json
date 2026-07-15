@@ -11,6 +11,7 @@
       "equipment": {"minimum_tier": "E0", "full_tier": "E2", "summary": "Cardboard and simple circuits at minimum; limited shared devices for one coding platform."},
       "readiness": {"status": "GO-P", "note": "Complete delivery package; choose the site platform and complete room/material preflight."},
       "repo_paths": ["PRIMARY/Build_Your_Block"],
+      "classhub_import_path": "PRIMARY/Build_Your_Block/classhub_import",
       "preflight_required": ["materials", "room", "platform"],
       "public": true
     },
@@ -24,6 +25,7 @@
       "equipment": {"minimum_tier": "E3", "full_tier": "E3", "summary": "Device pairs, Tinkercad, an operational FDM printer queue, and facilitator-managed print operations."},
       "readiness": {"status": "GO-P", "note": "Full plans, print operations, handouts, rubrics, and safety materials; validate accounts and printer workflow locally."},
       "repo_paths": ["PRIMARY/3D-Printing-Course-3-5"],
+      "classhub_import_path": "PRIMARY/3D-Printing-Course-3-5/classhub_import",
       "preflight_required": ["accounts", "software", "hardware", "room"],
       "public": true
     },
@@ -76,6 +78,7 @@
       "equipment": {"minimum_tier": "E2", "full_tier": "E2", "summary": "Devices, cameras or phones, headphones as needed, and a layer-based image editor."},
       "readiness": {"status": "GO", "note": "Complete 12-session sequence, project briefs, rubrics, software notes, and local setup fields."},
       "repo_paths": ["SECONDARY/digital-imaging-lab"],
+      "classhub_import_path": "SECONDARY/digital-imaging-lab/classhub_import",
       "preflight_required": ["software", "devices", "file-storage"],
       "public": true
     },
@@ -89,6 +92,7 @@
       "equipment": {"minimum_tier": "E2", "full_tier": "E3", "summary": "Chromebooks or phones, headphones, recording/playback access, and a staged sound workspace."},
       "readiness": {"status": "GO-P", "note": "Complete 22-session package with daily plans, station cards, assessments, and troubleshooting; verify chosen audio platform."},
       "repo_paths": ["SECONDARY/ExplorationSoundDesign"],
+      "classhub_import_path": "SECONDARY/ExplorationSoundDesign/classhub_import",
       "preflight_required": ["accounts", "devices", "headphones", "room"],
       "public": true
     },
@@ -167,8 +171,23 @@
       "equipment": {"minimum_tier": "E2", "full_tier": "E2", "summary": "Devices, a host-approved AI tool stack or non-AI fallback, and privacy-conscious account planning."},
       "readiness": {"status": "GO-P", "note": "Four detailed sessions, facilitation guide, handouts, assessment, and ClassHub package are present; approve tools and privacy rules before delivery."},
       "repo_paths": ["SECONDARY/AI_in_Your_Feed"],
+      "classhub_import_path": "SECONDARY/AI_in_Your_Feed/classhub_import",
       "preflight_required": ["accounts", "privacy", "tools", "family-communication"],
       "public": true
+    },
+    {
+      "offering_id": "ai-at-work",
+      "public_title": "AI at Work with Microsoft Learn",
+      "summary": "Build practical AI-supported workplace workflows while practicing verification, privacy, professional communication, and Microsoft Learn study routines.",
+      "age_bands": ["High school"],
+      "formats": ["course"],
+      "screen_load": ["S4"],
+      "equipment": {"minimum_tier": "E2", "full_tier": "E2", "summary": "Devices, shared documents or an LMS, staff-approved AI tools, and access to current Microsoft Learn modules."},
+      "readiness": {"status": "GO-P", "note": "Complete 24-session hybrid package with instructor, learner, assessment, capstone, and ClassHub materials; verify current Microsoft Learn links and approved tools."},
+      "repo_paths": ["SECONDARY/ai-at-work"],
+      "classhub_import_path": "SECONDARY/ai-at-work/classhub_import",
+      "preflight_required": ["accounts", "privacy", "tools", "network", "microsoft-learn"],
+      "public": false
     },
     {
       "offering_id": "signal-postcards",

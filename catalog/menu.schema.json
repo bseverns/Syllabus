@@ -35,6 +35,10 @@
             }
           },
           "repo_paths": {"type": "array", "items": {"type": "string"}},
+          "classhub_import_path": {
+            "type": "string",
+            "description": "Repository-relative directory containing the ClassHub teacher plan and public overview adapter files."
+          },
           "preflight_required": {"type": "array", "items": {"type": "string"}},
           "public": {"type": "boolean"}
         }
