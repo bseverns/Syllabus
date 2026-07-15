@@ -57,3 +57,14 @@ Students should complete the course able to:
 - show evidence of testing and revision
 - compare more than one possible debugging move
 - explain how class culture affects whether debugging feels possible
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–2 — define/stuckness | Debugging log entry and stuckness map | Private document/image upload; process reflection |
+| Sessions 3–4 — goals/emotion | Competing-goals reflection and emotion timeline | Private reflection; discussion checklist |
+| Sessions 5–6 — revision/coaching | Before/after comparison, peer coaching script, and reproducible bug report | Private file/document upload; coaching rubric |
+| Sessions 7–8 — case/portfolio | Test sequence, evidence, alternatives considered, outcome, and final portfolio | Case-study rubric; private portfolio upload; optional redacted gallery artifact |
+
+Keep code, logs, screenshots, identities, and emotional reflections private by default. Scope helper support to clarifying the bug report and suggesting the next diagnostic test—not supplying the fix.

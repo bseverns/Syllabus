@@ -173,3 +173,14 @@ By the end of the unit, students should be able to:
 - Sensor
 - Algorithm
 - Bug, Debugging
+
+## ClassHub Delivery Map
+
+| Checkpoint | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions B1–B2 — input/output | MakeCode file/share artifact and input → output explanation | Device checklist; private code/image upload; reflection |
+| Session B3 — algorithm | Written algorithm, working reaction program, and comparison note | Private document/code upload; algorithm checklist |
+| Sessions B4–B5 — enclosure/debug | Housing sketch, fit/access test, bug report, and revised code/design | Tool-safety checklist; private images/files; debugging reflection |
+| Session B6 — showcase | Final program/housing, one-line instructions, and concept reflection | Final rubric; portfolio upload; optional consent-cleared gallery artifact |
+
+Do not use reaction time as a learner ranking. ClassHub evidence does not replace physical tool safety or device inspection.

@@ -110,3 +110,14 @@ Creativity, persistence, and clarity matter more than perfection.
 ## Final showcase
 
 During the final session, students present their published games in a mini arcade showcase and give a short creator talk about one mechanic they are proud of and one challenge they solved.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–3 — player loop/HUD | Versioned `.sb3` project and next-step note | Private `.sb3` upload; milestone checklist; reflection |
+| Weeks 4–8 — hazards/stages | Working enemy, power-up, stage flow, and final challenge | Private `.sb3` uploads; systems checklist; midpoint rubric |
+| Weeks 9–10 — playtest/debug | One recorded confusion or bug and the resulting revision | Playtest reflection; revised `.sb3` upload |
+| Weeks 11–12 — publish/showcase | Final game and creator reflection | Final rubric; portfolio upload; optional moderated gallery game |
+
+Keep student projects private until the student chooses to share and the teacher approves the content.

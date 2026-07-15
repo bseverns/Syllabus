@@ -179,6 +179,31 @@ Suggested assessment tools:
 - **Race roles:** students are assessed on pilot discipline, marshal behavior, and sportsmanship, not only lap time.
 - **Competency grid:** students and instructors mark novice, developing, ready, or mentor status for safety, config, control, maintenance, troubleshooting, and race roles.
 
+## ClassHub Delivery Map
+
+Use one ClassHub module per week. Keep configuration files, safety records, and readiness checks private. The final gallery is optional and must not expose lap rankings or technical configuration.
+
+| Week | Required private evidence | Active ClassHub materials |
+| --- | --- | --- |
+| 1 | Baseline Betaflight backup plus first-control reflection | Safety checklist; `.json` upload; reflection |
+| 2 | Receiver, modes, arming, and failsafe worksheet update | Props-off checklist; `.pdf`/image upload |
+| 3 | Flight-readiness evidence and first-flight note | Readiness checklist; reflection |
+| 4 | Tune-log entry comparing two profiles | `.pdf`/image upload; flight-feel reflection |
+| 5 | Labeled backup, tune log, and mid-course readiness check | `.json` upload; tune-log upload; four-level rubric |
+| 6 | Completed crash-recovery check and maintenance note | Crash-recovery checklist; reflection |
+| 7 | Track plan and completed pilot/marshal/spotter role | Role checklist; `.pdf`/image upload |
+| 8 | Symptom → check → retest diagnosis record | Troubleshooting reflection; `.pdf`/image upload |
+| 9 | Final backup and race-readiness routine | `.json` upload; race-readiness checklist |
+| 10 | Event-role evidence, final reflection, and competency check | Event checklist; reflection; four-level rubric; optional moderated gallery |
+
+### Delivery conventions
+
+- Use a team or classroom handle in filenames, not a legal name: `team-handle-whoop1-week05.json`.
+- A submitted file proves that evidence was captured; it does not prove flight readiness. Instructor signoff still controls real flight.
+- Scope the helper to the current week's Betaflight, simulator, safety, or troubleshooting topics. Use symptom → check → retest guidance rather than configuration dumps.
+- Open real-flight modules manually after the room, aircraft, and student pathway are ready. ClassHub does not provide per-student competency unlocks.
+- Use the final gallery only for a student-selected photo, track plan, or reflection excerpt cleared for class sharing.
+
 ## Adaptation Notes
 
 - For shorter blocks, keep the same Tuesday/Thursday pairing but reduce flight volume.

@@ -79,6 +79,19 @@ Use the shared four look-fors, plus: **the learner tests a light/color change an
 
 **Partner description:** A screen-light art and science workshop where young learners explore color, shadows, and storytelling through safe, tactile optical experiments.
 
+## ClassHub Delivery Map
+
+ClassHub records facilitator evidence for this screen-light pilot; learners do not need accounts or devices.
+
+| Session | Evidence worth keeping | ClassHub materials |
+| --- | --- | --- |
+| 1 | Near/far shadow comparison | Safety checklist; private note/photo upload |
+| 2 | Two-layer color test | Private image upload; short reflection |
+| 3 | Readable shadow scene and partner test | Build checklist; private image upload |
+| 4 | Tested effect and learner explanation | Facilitator reflection; optional consent-cleared gallery image |
+
+Keep identifiable learner images private; the artifact or wall effect is sufficient evidence.
+
 ## Pilot review after delivery
 
 Record: whether the room could dim safely, how many flashlights were actually needed, which films were durable enough for repeated handling, and whether learners could complete a readable scene in Session 3.

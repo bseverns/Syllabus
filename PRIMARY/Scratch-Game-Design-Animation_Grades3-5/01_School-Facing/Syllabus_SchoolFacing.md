@@ -107,3 +107,14 @@ In Week 12, students participate in a mini “game festival” and share:
 - their favorite level or cutscene
 - one challenge they overcame
 
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–4 — basics/animation | Versioned `.sb3` and one next-step note | Private `.sb3` upload; milestone checklist; reflection |
+| Weeks 5–7 — Level 1/cutscene | Working level transition and controls freeze/unfreeze | Private `.sb3` upload; transition checklist; midpoint rubric |
+| Weeks 8–10 — Level 2/polish | New mechanic, instructions, and win/lose flow | Private project upload; playtest reflection |
+| Weeks 11–12 — debug/showcase | Final game and creator reflection | Final rubric; portfolio upload; optional moderated gallery game |
+
+Keep games private until the student chooses to share and the teacher approves the content.
+

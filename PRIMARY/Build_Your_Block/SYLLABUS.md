@@ -159,3 +159,15 @@ By the end of the intensive, students or teams present a neighborhood-inspired i
 - communicates who it is for and why it matters
 
 The public showcase is not an extra event after the curriculum. It is part of the curriculum from the beginning.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–2 — skill studios | Safety checks and one light/motion/sound/sensing/code build per learner or team | Tool checklist; private image/file upload; short design-log reflection |
+| Week 3 — project choice | Audience, purpose, mockup, and first test question | Planning checklist; private mockup upload |
+| Weeks 4–5 — prototypes | Versioned prototype evidence and one-variable test notes | Private image/file uploads; design-log reflections; midpoint rubric |
+| Week 6 — user testing | Test observations, selected revision, and showcase/reset plan | Testing checklist; private evidence upload; reflection |
+| Week 7 — showcase/archive | Final artifact, explanation, and process reflection | Final rubric; portfolio upload; optional consent-cleared gallery artifact |
+
+Use ClassHub as the continuity spine, not another daily task list. Keep learner identity, neighborhood partner details, and failed safety checks private.

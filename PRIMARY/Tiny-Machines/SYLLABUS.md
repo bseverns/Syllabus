@@ -112,6 +112,19 @@ Observe four habits across the pilot:
 
 **Partner description:** A screen-light making workshop where young learners use cardboard and loose parts to discover that motion can be designed, tested, and turned into a playful story.
 
+## ClassHub Delivery Map
+
+ClassHub records facilitator evidence for this screen-light pilot; learners do not need accounts or devices.
+
+| Session | Evidence worth keeping | ClassHub materials |
+| --- | --- | --- |
+| 1 | Working hinge/flap and movement note | Tool-prep checklist; private image/note upload |
+| 2 | Roll/slide comparison and one attachment change | Private image upload; short reflection |
+| 3 | Turns/moves/returns mechanism check | Mechanism checklist; private image upload |
+| 4 | Final movement, purpose, and revision explanation | Facilitator reflection; optional consent-cleared gallery image |
+
+Use pseudonymous tray labels; document the machine rather than the learner when possible.
+
 ## Pilot review after delivery
 
 Record which pre-punched parts saved time, which attachments failed most often, whether 60 minutes supported a completed Session 3 mechanism, what access supports were used, and what to remove from the tote next time. Keep the package `PILOT` until that review is complete.

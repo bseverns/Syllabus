@@ -79,6 +79,19 @@ Use the shared four look-fors, plus: **the learner listens for timing or volume 
 
 **Partner description:** A screen-light sound workshop where young learners turn careful listening and everyday objects into a short group performance.
 
+## ClassHub Delivery Map
+
+ClassHub records facilitator evidence for this screen-light pilot; learners do not need accounts or devices.
+
+| Session | Evidence worth keeping | ClassHub materials |
+| --- | --- | --- |
+| 1 | Group sound-word/gesture chart | Sensory setup checklist; private image/note upload |
+| 2 | Chosen sound, story image, and volume choice | Private image upload; short reflection |
+| 3 | Three-to-five-cue strip and unclear transition | Cue checklist; private image upload |
+| 4 | Revised cue strip, learner quote, optional recording | Facilitator reflection; optional consent-cleared gallery audio/image |
+
+Record or publish voices only with local consent; a cue strip and facilitator note are complete evidence.
+
 ## Pilot review after delivery
 
 Record: which objects were too loud or confusing, whether the cue strips held attention, whether the quiet zone was used, and if the final performance length fit the group.

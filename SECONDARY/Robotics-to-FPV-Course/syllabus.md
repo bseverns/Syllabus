@@ -31,3 +31,14 @@ See `/build/FPV-whoop-BOM.csv` and `/build/Classroom-kit-BOM.csv`.
 
 ## Policies
 - TRUST, spotter/VLOS, school/district rules, LiPo charging safety; defer to current local regulations.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–6 — controls/bench skills | Sensor/control notes, simulator log, solder samples, and continuity results | Safety checklist; private log/image upload; reflection |
+| Weeks 7–9 — build/configuration | Build photos, continuity result, receiver/OSD/failsafe configuration, and configuration backup | Bench-readiness checklist; private files/images; milestone rubric |
+| Weeks 10–12 — flight/recovery | Pilot log, inspection/repair notes, and selected DVR coaching clip | Flight checklist; private video/log upload; reflection |
+| Weeks 13–15 — mission/showcase | Tuning change, field-ops evidence, final maintenance record, and team reflection | Check-ride rubric; portfolio upload; optional consent-cleared gallery artifact |
+
+A ClassHub submission never substitutes for an instructor bench check, spotter decision, current regulation, or flight-site approval. Keep bind phrases, configuration backups, exact sites, and unreviewed DVR private.

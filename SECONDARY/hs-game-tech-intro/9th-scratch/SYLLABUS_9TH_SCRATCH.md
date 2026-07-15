@@ -188,3 +188,14 @@ By the end of the unit, students should be able to:
 - Condition
 - Variable
 - Feedback
+
+## ClassHub Delivery Map
+
+| Checkpoint | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions A1–A2 — remix/controls | Versioned `.sb3`, visible change, control map, and plain-language explanation | Private `.sb3` upload; save checklist; reflection |
+| Sessions A3–A4 — rules/memory | Changed condition, fairness note, and working score/lives/timer | Private project upload; logic checklist; midpoint reflection |
+| Session A5 — feedback | Positive/negative feedback and explanation of player clarity | Private `.sb3` upload; playtest checklist |
+| Session A6 — arcade | Final project, vocabulary reflection, and next idea | Final rubric; portfolio upload; optional moderated gallery game |
+
+Keep projects private until the student chooses to share and the teacher approves the content. Scope helper support to block-finding, save recovery, and debugging questions—not game authorship.

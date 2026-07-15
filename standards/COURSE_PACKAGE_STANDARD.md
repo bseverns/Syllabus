@@ -59,6 +59,17 @@ Only `GO` and `GO-P` may appear in a public-ready shelf by default.
 
 Keep package-specific details beside the package. Add a field to catalog data only when it is needed to select, deploy, or verify an offering across sites.
 
+## ClassHub delivery maps
+
+Every canonical syllabus includes a short `ClassHub Delivery Map` that names the evidence worth preserving and the smallest matching ClassHub materials.
+
+- File uploads, checklists, reflections, and rubrics are private by default.
+- Gallery use is optional, student-initiated, and teacher-moderated.
+- A submitted artifact proves evidence capture, not mastery or safety readiness.
+- Teachers control lesson release; do not claim per-student competency unlocks.
+- Scope the helper to the current lesson and use coaching/troubleshooting prompts, not assignment completion.
+- For early-childhood and screen-light courses, ClassHub is primarily a facilitator documentation surface; participant screen use is not required.
+
 ## Validation boundary
 
 The current generator validates source paths, unique offering IDs, public readiness, and deployment labels. Add artifact-level readiness validation only after two or more ready packages use the same stable file contract; do not force a single folder layout onto the historical archive first.

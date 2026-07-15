@@ -40,3 +40,14 @@ By the end, students can:
 - Use `assignments/SUBMISSION.md` for required artifacts
 
 See `syllabus/SCHEDULE.md` for week-by-week.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–4 — time/systems | Versioned notebooks, plots, listening notes, convolution/difference-equation checks, and reflection | Reproducibility checklist; private notebook/code uploads; reflection |
+| Weeks 5–7 — spectra/sampling | Reconstruction, FFT/window comparison, aliasing/quantization evidence, and interpretation | Measurement checklist; private notebook/audio/image uploads; midpoint rubric |
+| Weeks 8–11 — filters/features/noise | FIR/IIR response, stability check, spectrogram/features, SNR/denoise evidence, and assumptions | Stability checklist; private code/data uploads; design-log reflection |
+| Week 12 — project/showcase | Reproducible repo, final result, validation evidence, and critique response | Final rubric; private portfolio upload; optional gallery visualization/audio |
+
+Use ClassHub for milestone snapshots while Git remains the reproducible source. Keep source data, raw recordings, and repository credentials private.

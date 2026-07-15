@@ -19,3 +19,13 @@
 - **Mapping & Motion (20%)**: repeatable paths; bounded error.
 - **Cues & Expression (20%)**: readable light/sound storytelling.
 - **Documentation (10%)**: video; README; scene graph/BT diagram.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–3 — contracts/maps/scenes | Protocol contract, architecture/map, error bounds, scene graph/behavior tree, and versioned code | Architecture checklist; private diagrams/code/data; reflection |
+| Sessions 4–6 — reliability/integration | Retry/fallback evidence, channel policy, cue map, preset list, operator UI, and logs | Reliability checklist; private files/video; midpoint rubric |
+| Sessions 7–8 — tech/premiere | Fault drill, load-in/out record, final configuration/code, performance capture, and postmortem | Tech-readiness checklist; final rubric; optional consent-cleared gallery excerpt |
+
+Keep network addresses, credentials, exact channel plans, raw telemetry, and unreviewed rehearsal footage private. A ClassHub checkpoint never replaces live technical or safety approval.

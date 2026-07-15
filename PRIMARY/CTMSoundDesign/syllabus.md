@@ -94,6 +94,17 @@ Each meeting follows **Hook (10) → Mini-lesson (15) → Lab (40) → Collab Re
 - Live mix: rotate cue operators mid-scene to test redundancy.
 - Post-show: journaling using [Reflection Prompts](./reflection.md) + quick share-out with stagecraft partners.
 
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–2 — capture/edit | Named source recordings, atmosphere bed, and hard effect | `.wav`/`.mp3` upload; file-hygiene checklist; process reflection |
+| Sessions 3–5 — cue building | Cue sheet, cue stack, timing notes, and rehearsal response | Private document upload; standby/go checklist; design-impact reflection |
+| Sessions 6–7 — tech rehearsals | Finalized cues, backup set, failure drill, and updated cue sheet | Readiness checklist; private audio/document uploads; cue-readiness rubric |
+| Session 8 — showcase | Performance evidence and post-show reflection | Final reflection; portfolio upload; optional consent-cleared gallery excerpt |
+
+Keep rehearsal notes and performer recordings private unless the production and participants clear publication. Scope helper support to editing, file recovery, cue language, and troubleshooting—not cue authorship.
+
 ## Extensions & Next Steps
 - Want more studio polish? Bridge into the **Intro to Sound Design & Engineering** curriculum for deeper mixing chops.
 - Document the project as a mini case study in the school newsletter—students create a behind-the-scenes audio blog.

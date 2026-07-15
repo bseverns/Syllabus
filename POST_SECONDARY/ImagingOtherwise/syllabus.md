@@ -138,3 +138,14 @@ From the brief: darkroom alternatives, screen readers supported, quiet viewing r
 - Allowing students to choose lower-brightness, lower-saturation, or text/audio-based alternatives for some assignments when visual overload is a concern.
 
 Access is not separate from imaging; it is part of how we image otherwise.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–4 — unlearning | Process-log entries, camera/scanner/glitch studies, source/context notes, and consent choices | Private image/file uploads; process reflection; critique checklist |
+| Weeks 5–9 — systems/justice | Annotated archive or vision-system map, positionality note, study cluster, and project seed | Private evidence upload; ethics reflection; midpoint rubric |
+| Weeks 10–12 — apparatus/test | Proposal, prototype versions, access/consent plan, test observations, and revision | Testing checklist; private files/images; design-log reflection |
+| Weeks 13–14 — share/futures | Final apparatus/practice, accessible documentation, and written reflection | Final rubric; private portfolio upload; optional consent-cleared gallery artifact |
+
+Keep faces, bodies, archive records, dataset samples, location data, and critique notes private unless participants and rights permit a specific share copy. Require alt text or an equivalent nonvisual description for gallery artifacts.

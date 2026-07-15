@@ -24,3 +24,14 @@ Students can:
 - Participation/critique: 10%
 
 See `syllabus/SCHEDULE.md`.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–3 — board/inputs | Firmware version, wiring image/diagram, serial evidence, debounce/mapping measurements, and reflection | Bench checklist; private code/data/image uploads; reflection |
+| Weeks 4–7 — timing/protocol/mux | Jitter/threshold measurements, protocol contract, scanner result, and failure note | Timing/protocol checklist; private code/notebook uploads; midpoint rubric |
+| Weeks 8–10 — feedback/state/calibration | LED language, state diagram, calibration data, persisted schema, and recovery test | Integration checklist; private files/video; design-log reflection |
+| Weeks 11–12 — controller/demo | Final source, wiring, controls, optional MIDI evidence, build/run notes, and critique response | Final rubric; private portfolio upload; optional consent-cleared gallery demo |
+
+ClassHub evidence does not authorize powered testing; instructor bench inspection remains controlling. Keep device identifiers, credentials, and unsafe test records private.

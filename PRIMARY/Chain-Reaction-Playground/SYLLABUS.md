@@ -79,6 +79,19 @@ Use the shared four look-fors, plus: **the learner predicts, tests, or changes o
 
 **Partner description:** A fully unplugged engineering-play workshop where young learners turn ramps, blocks, and loose parts into shared cause-and-effect machines.
 
+## ClassHub Delivery Map
+
+ClassHub records facilitator evidence for this unplugged pilot; learners do not need accounts or devices.
+
+| Session | Evidence worth keeping | ClassHub materials |
+| --- | --- | --- |
+| 1 | Reliable cause/effect note | Facilitator checklist; private note/photo upload |
+| 2 | Two-action connection and first failure point | Private image upload; short reflection |
+| 3 | Working group link and reset job | Link/reset checklist; private image upload |
+| 4 | Before/after change and final run note | Facilitator reflection; optional consent-cleared gallery image |
+
+Do not score speed or perfect-chain completion; preserve the observed test and revision.
+
 ## Pilot review after delivery
 
 Record: which starter actions worked most reliably, how much floor/tray space each link needed, whether reset jobs helped the group recover, and what material created the most avoidable failures.

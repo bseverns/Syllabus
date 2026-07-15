@@ -19,3 +19,13 @@
 - **Expression (20%)**: coherent choreography / vibe narrative.
 - **Collaboration (10%)**: ensemble readiness.
 - **Documentation (5%)**: short video + README of choices.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–3 — calibration/control | Baseline data, test plan, code version, loop/filter settings, and result plot/log | Calibration checklist; private code/data upload; reflection |
+| Sessions 4–6 — paths/comms/choreography | Recovery-state diagram, addressing/role plan, synchronized test, and operator UI | Reliability checklist; private files/video; midpoint rubric |
+| Sessions 7–8 — fault/premiere | Fault-injection result, final code/config, README, demo clip, and retrospective | Readiness checklist; final rubric; optional consent-cleared gallery clip |
+
+Keep addresses, radio/network details, raw logs, and failed safety tests private. Instructor inspection still controls physical operation.

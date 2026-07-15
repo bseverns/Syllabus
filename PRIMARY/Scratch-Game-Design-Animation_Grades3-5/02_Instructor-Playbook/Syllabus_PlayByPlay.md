@@ -115,3 +115,14 @@ See: `Assessment_Rubrics.md`
 - Troubleshooting: `Troubleshooting_Guide.md`
 - Assessment + rubrics: `Assessment_Rubrics.md`
 
+## ClassHub Delivery Map
+
+| Checkpoint | Evidence worth reviewing | ClassHub materials |
+| --- | --- | --- |
+| Weekly save | Current `.sb3`, one working milestone, and `Next time I will…` | Private `.sb3` upload; checklist; reflection |
+| Level/cutscene checkpoint | Level 1, broadcast transition, controls gate, and Cutscene 1 | Midpoint rubric; private project upload |
+| Playtest checkpoint | One bug/confusion and one applied revision | Playtest reflection; revised upload |
+| Showcase checkpoint | Menu, two levels, cutscene, ending, and reset flow | Final rubric; optional moderated gallery game |
+
+Scope helper support to Scratch blocks, broadcasts, state/reset logic, save recovery, and symptom → check → retest debugging. Do not let helper output replace the student's story or game design.
+

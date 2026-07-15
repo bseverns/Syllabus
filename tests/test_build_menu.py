@@ -51,6 +51,73 @@ class ValidateMenuTest(unittest.TestCase):
 
         self.assertIn("missing-source: missing source path: does-not-exist", errors)
 
+    def test_rejects_a_repo_path_outside_the_repository(self):
+        menu = {
+            "offerings": [
+                {
+                    "offering_id": "outside-source",
+                    "readiness": {"status": "GO"},
+                    "repo_paths": ["../outside-source.md"],
+                    "public": False,
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            repo_root = parent / "repo"
+            repo_root.mkdir()
+            (parent / "outside-source.md").touch()
+            menu_path = repo_root / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, repo_root)
+
+        self.assertIn("outside-source: source path escapes repository: ../outside-source.md", errors)
+
+    def test_rejects_an_absolute_repo_path(self):
+        with tempfile.TemporaryDirectory() as directory:
+            repo_root = Path(directory)
+            source_path = repo_root / "source.md"
+            source_path.touch()
+            menu = {
+                "offerings": [
+                    {
+                        "offering_id": "absolute-source",
+                        "readiness": {"status": "GO"},
+                        "repo_paths": [str(source_path)],
+                        "public": False,
+                    }
+                ]
+            }
+            menu_path = repo_root / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, repo_root)
+
+        self.assertIn(f"absolute-source: source path must be relative: {source_path}", errors)
+
+    def test_rejects_a_repo_symlink_that_escapes_the_repository(self):
+        menu = {
+            "offerings": [
+                {
+                    "offering_id": "symlink-source",
+                    "readiness": {"status": "GO"},
+                    "repo_paths": ["linked-source.md"],
+                    "public": False,
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            repo_root = parent / "repo"
+            repo_root.mkdir()
+            outside_source = parent / "outside-source.md"
+            outside_source.touch()
+            (repo_root / "linked-source.md").symlink_to(outside_source)
+            menu_path = repo_root / "menu.json"
+            menu_path.write_text(json.dumps(menu))
+            errors = validate_menu(menu_path, repo_root)
+
+        self.assertIn("symlink-source: source path escapes repository: linked-source.md", errors)
+
     def test_rejects_an_unknown_readiness_status(self):
         menu = {
             "offerings": [

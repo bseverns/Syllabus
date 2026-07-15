@@ -118,3 +118,14 @@ Subsequent weeks pull outward into platform infrastructures, labor and venue pol
   - volume and fatigue,
   - consent for recording,
   - and respectful engagement with different sonic backgrounds and sensitivities.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–4 — listening/systems | Listening-log entries, signal/social system diagram, recording-consent note, and roots case study | Hearing/consent checklist; private audio/document uploads; positionality reflection |
+| Weeks 5–9 — power/infrastructure | Ordinance/platform/labor research, tiny-system design, safe-level plan, demo evidence, and teach-in materials | System checklist; private files/audio; midpoint rubric |
+| Weeks 10–12 — intervention/test | Proposal, stakeholder/consent plan, rig or event prototype, context test, and revision | Event-safety checklist; private evidence upload; process reflection |
+| Weeks 13–14 — gathering/portfolio | Community mix documentation, accessible share copy, portfolio, and synthesis | Final rubric; private portfolio upload; optional consent-cleared gallery excerpt |
+
+Keep field recordings, identifiable voices, locations, community notes, and technical/event details private unless contributors approve the exact use. ClassHub completion never authorizes amplification or overrides venue, hearing, or community constraints.

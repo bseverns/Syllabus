@@ -14,6 +14,7 @@ def validate_menu(menu_path: Path, repo_root: Path) -> list[str]:
     menu = json.loads(menu_path.read_text())
     errors: list[str] = []
     offering_ids: set[str] = set()
+    resolved_repo_root = repo_root.resolve()
     for offering in menu["offerings"]:
         offering_id = offering["offering_id"]
         if offering_id in offering_ids:
@@ -33,7 +34,15 @@ def validate_menu(menu_path: Path, repo_root: Path) -> list[str]:
             if equipment_tier is not None and equipment_tier not in {"E0", "E1", "E2", "E3", "E4"}:
                 errors.append(f"{offering_id}: unsupported equipment tier: {equipment_tier}")
         for source_path in offering["repo_paths"]:
-            if not (repo_root / source_path).exists():
+            path = Path(source_path)
+            if path.is_absolute():
+                errors.append(f"{offering_id}: source path must be relative: {source_path}")
+                continue
+            resolved_path = (resolved_repo_root / path).resolve()
+            if not resolved_path.is_relative_to(resolved_repo_root):
+                errors.append(f"{offering_id}: source path escapes repository: {source_path}")
+                continue
+            if not resolved_path.exists():
                 errors.append(f"{offering_id}: missing source path: {source_path}")
     return errors
 

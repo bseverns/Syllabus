@@ -79,6 +79,19 @@ Use the shared four look-fors, plus: **the learner connects a built place to a p
 
 **Partner description:** A hands-on civic-imagination workshop where young learners build a shared neighborhood and practice noticing who public places are for.
 
+## ClassHub Delivery Map
+
+ClassHub is a facilitator documentation surface for this screen-light pilot; learners do not need accounts or devices.
+
+| Session | Evidence worth keeping | ClassHub materials |
+| --- | --- | --- |
+| 1 | Place + user note, sketch, or photo | Facilitator checklist; private image/note upload |
+| 2 | One readable place and partner test | Private image upload; short reflection |
+| 3 | Tested route between two places | Connection checklist; private image/note upload |
+| 4 | Full-map image and one learner quote | Facilitator reflection; optional consent-cleared gallery image |
+
+Use pseudonymous labels and publish only a whole-build image cleared under local consent rules.
+
 ## Pilot review after delivery
 
 Record: whether the shared footprint was large enough, which picture cards prompted the richest talk, whether 12 learners could connect models without bottlenecking, and what storage worked between sessions.

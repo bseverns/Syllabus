@@ -23,3 +23,14 @@ We treat ethics like a design spec:
 
 ## Grading (evidence-based)
 See `rubrics/GRADING.md`.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–4 — promises/audit | Explicit assumptions, harm/barrier, consent/data flow, user journey, failure modes, and audit evidence | Consent/audit checklist; private document uploads; reflection |
+| Weeks 5–8 — lifecycle/care | Repair/lifecycle/license analysis, attribution, quick start, troubleshooting, diagrams, and unknowns | Documentation checklist; private files; midpoint rubric |
+| Weeks 9–10 — redesign/test | Accessibility and maintainability prototypes, test protocol, participant consent, observations, and revision | Test checklist; private evidence upload; design-log reflection |
+| Weeks 11–12 — contribution/release | Upstream/internal contribution evidence, Responsibility Pack, showcase artifact, and postmortem | Final rubric; private portfolio upload; optional redacted gallery artifact |
+
+Keep participant identities, access needs, consent records, vulnerability details, and rejected designs private. A checklist records evidence; it does not certify that a system is universally accessible, ethical, or trusted.

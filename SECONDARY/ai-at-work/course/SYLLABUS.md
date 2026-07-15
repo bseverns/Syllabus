@@ -134,3 +134,14 @@ Each student creates and presents a personal AI-at-work toolkit containing:
 - **Week 4:** Writing, communication, and administrative tasks
 - **Week 5:** Job-lane simulations and Microsoft review spirals
 - **Week 6:** Personal system build, mock review, capstone, and transition forward
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–2 — systems/prompting | Concept notes, prompt revision, source-grounded comparison, and privacy decision | Privacy checklist; private document upload; verification reflection |
+| Week 3 — responsible AI | Bias/privacy case analysis and checked multimodal or language-tool output | Source-check checklist; private evidence upload; judgment rubric |
+| Weeks 4–5 — workplace simulations | Original task input, AI-assisted draft, verification trace, human revision, and final professional artifact | Private versioned uploads; workflow reflection; milestone rubric |
+| Week 6 — personal toolkit | Prompt notebook, templates, verification process, personal use policy, Learn evidence, and workflow demo | Final rubric; private portfolio upload; optional redacted gallery artifact |
+
+Release hybrid tasks one week at a time. Never upload employer, client, student, credential, or other sensitive data; use synthetic/redacted cases and keep Microsoft Learn evidence separate from any claim of certification.

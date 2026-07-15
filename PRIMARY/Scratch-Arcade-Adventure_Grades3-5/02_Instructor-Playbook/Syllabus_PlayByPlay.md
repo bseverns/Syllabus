@@ -124,3 +124,14 @@ Save detailed comments for playtests and showcase prep.
 - `Classroom_Routines.md`
 - `Troubleshooting_Guide.md`
 - `Assessment_Rubrics.md`
+
+## ClassHub Delivery Map
+
+| Checkpoint | Evidence worth reviewing | ClassHub materials |
+| --- | --- | --- |
+| Weekly save | Current `.sb3`, one working milestone, and `Next time I will…` | Private `.sb3` upload; checklist; reflection |
+| Systems checkpoint | HUD, damage cooldown, power-up timer, and stage/wave transition | Midpoint rubric; private project upload |
+| Playtest checkpoint | Specific player confusion/bug and one applied change | Playtest reflection; revised upload |
+| Showcase checkpoint | Title/instructions, three stages, final challenge, win/restart flow | Final rubric; optional moderated gallery game |
+
+Scope helper support to Scratch blocks, state flow, save recovery, and symptom → check → retest debugging. Do not let helper output replace the student's game design.

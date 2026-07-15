@@ -122,3 +122,14 @@ Possible substitutes:
 - contact-mic experiments on a stringed object
 
 If setup is limited, reduce the number of simultaneous stations and lean harder on rotation, drawing, and listening while students wait their turn.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–2 — gestures/library | Safety check, named gesture samples, labels, and file index | Setup checklist; private audio/image uploads; listening reflection |
+| Sessions 3–4 — score/sketch | Gesture map, performed recording, title, and mapping note | Private image/audio uploads; translation reflection |
+| Sessions 5–7 — layers/composition | Layered draft, contrast/pacing decision, peer note, and revision | Private audio upload; process reflection; midpoint rubric |
+| Session 8 — showing | Final 60–120 second piece and artist statement | Final rubric; portfolio upload; optional consent-cleared gallery excerpt |
+
+Keep raw recordings and drawings private unless the student chooses a share copy. Scope helper support to file organization, recording, mapping vocabulary, and troubleshooting—not composition.

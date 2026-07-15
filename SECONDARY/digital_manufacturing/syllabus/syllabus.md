@@ -36,3 +36,14 @@
 - Ask “What can go wrong?” before pressing Start.
 
 > *The rhythm of machines is a form of thought.*
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–3 — geometry/parameters | Source CAD/vector file, dimensions, parameter notes, and exported artifact | File-preflight checklist; private source/export uploads; design reflection |
+| Sessions 4–7 — toolpaths/fabrication | Material test, annotated toolpath/G-code, setup sheet, slicer/CAM settings, and result photo | Machine-safety checklist; private files/images; process reflection |
+| Sessions 8–10 — assembly/ecology | Hybrid assembly test, fit/failure evidence, repair/reuse decision, and redesign | Testing checklist; private evidence upload; midpoint rubric |
+| Sessions 11–12 — final/exhibition | Final source files, production settings, artifact photos, and impact reflection | Final rubric; portfolio upload; optional consent-cleared gallery artifact |
+
+ClassHub readiness never authorizes machine operation: the instructor retains control of setup, workholding, zeroing, first run, e-stop access, and local equipment approval. Keep unsafe attempts and machine-specific production files private.

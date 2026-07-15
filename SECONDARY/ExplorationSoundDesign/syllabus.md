@@ -277,3 +277,14 @@ Activity: in‑class screening/listening; artists’ notes; collect deliverables
 ---
 
 **Teaching note:** Keep the pulse hands‑on. Every technique ties to a sound the student chooses, so skill grows alongside voice. Keep levels kind, curiosity high, and celebrate micro‑wins daily.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–2 — capture/sampling | Named source recordings, log, cleaned clips, and found-sound beat | Hearing/file checklist; private audio/image uploads; process reflection |
+| Weeks 3–4 — mix/story | Before/after processing, settings notes, and Foley/ADR micro-scene | Private audio/image uploads; technique reflection; midpoint rubric |
+| Week 5 — delivery/capstone | Session organization, cue sheet, rough mix, peer notes, and revision | QC checklist; private stems/mix/document uploads; design-log reflection |
+| Final showcase | Final mix, stems, artist statement, settings sheet, and addressed feedback | Final rubric; portfolio upload; optional consent-cleared gallery excerpt |
+
+Keep raw voices, location data, working sessions, and peer notes private. Scope helper support to file recovery, signal flow, editing, and symptom → check → retest troubleshooting—not composing the student's work.

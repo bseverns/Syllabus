@@ -79,6 +79,19 @@ Use the shared four look-fors, plus: **the learner changes an instruction after 
 
 **Partner description:** A fully unplugged introduction to coding logic where young learners use cards, movement, and debugging games to make instructions clearer.
 
+## ClassHub Delivery Map
+
+ClassHub records facilitator evidence for this unplugged pilot; learners do not need accounts or devices.
+
+| Session | Evidence worth keeping | ClassHub materials |
+| --- | --- | --- |
+| 1 | Ordered command cards and demonstrated result | Facilitator checklist; private note/photo upload |
+| 2 | Route that worked and one changed card | Private image upload; short reflection |
+| 3 | Before/after bug fix | Debugging checklist; private note/photo upload |
+| 4 | Final routine and one revision explanation | Facilitator reflection; optional consent-cleared gallery image |
+
+Document the instruction change, not a learner's mobility, speech, or speed.
+
 ## Pilot review after delivery
 
 Record: which command icons were understood without explanation, whether the route width worked for all learners, which role rotations held attention, and whether four-card routines were the right ceiling.
