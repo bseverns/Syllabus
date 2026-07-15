@@ -126,3 +126,14 @@ Rubrics live in `rubrics/` and are meant to be adapted by the instructor.
   - Generated images (with an ethics conversation).
 
 Students with strong drawing skills can integrate hand-drawn art via scanning or photographing; students without those skills can focus on composition, color, and collage.
+
+## ClassHub Delivery Map
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–4 — image basics/pixel portrait | File-format comparison, source image or drawing, edit versions, pixel portrait, and process note | Consent/source checklist; private image/source uploads; reflection |
+| Sessions 5–7 — poster campaign | Message/audience brief, credited sources, layered working file, critique note, and revised poster | Attribution checklist; private source/image uploads; midpoint rubric |
+| Sessions 8–10 — experimental series | Technique tests, code/glitch/retouch evidence, ethics decision, series draft, and artist-statement notes | Private files/images; design-log reflection; critique checklist |
+| Sessions 11–12 — exhibition | Final 3–5 image series, accessible artist statement, export set, and final reflection | Final rubric; private portfolio upload; optional consent-cleared moderated gallery |
+
+Keep portraits, source files, metadata, critique notes, and unapproved generated/found imagery private. Gallery publication requires student choice, source rights, consent, and alt text or an equivalent description.
