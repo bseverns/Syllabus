@@ -8,6 +8,11 @@ import json
 import re
 from pathlib import Path
 
+if __package__:
+    from .build_menu import resolve_classhub_adapter_paths
+else:
+    from build_menu import resolve_classhub_adapter_paths
+
 
 SESSION_RE = re.compile(r"^#{1,6}\s+Session\s+(\d+):\s+(.+?)\s*$", re.MULTILINE)
 SLUG_RE = re.compile(r"^Lesson slug \(for course\.yaml\):\s*(.*?)\s*$", re.MULTILINE)
@@ -155,16 +160,11 @@ def _validate_optional_sections(text: str, prefix: str) -> list[str]:
 def validate_adapter(offering: dict, repo_root: Path) -> list[str]:
     """Return compatibility errors for one catalog offering's ClassHub adapter."""
     offering_id = offering["offering_id"]
-    adapter_path = repo_root / offering["classhub_import_path"]
-    teacher_path = adapter_path / "teacher_plan_classhub.md"
-    public_path = adapter_path / "public_overview_classhub.md"
-    errors: list[str] = []
-    if not teacher_path.is_file():
-        errors.append(f"{offering_id}: missing teacher_plan_classhub.md")
-    if not public_path.is_file():
-        errors.append(f"{offering_id}: missing public_overview_classhub.md")
-    if errors:
+    required_paths, errors = resolve_classhub_adapter_paths(offering, repo_root)
+    if required_paths is None:
         return errors
+    teacher_path = required_paths["teacher_plan_classhub.md"]
+    public_path = required_paths["public_overview_classhub.md"]
 
     teacher = teacher_path.read_text(encoding="utf-8")
     public = public_path.read_text(encoding="utf-8")
@@ -206,7 +206,23 @@ def validate_adapter(offering: dict, repo_root: Path) -> list[str]:
     for index, session in enumerate(sessions):
         session_number = int(session.group(1))
         body_end = sessions[index + 1].start() if index + 1 < len(sessions) else len(teacher)
-        slugs = SLUG_RE.findall(teacher[session.end() : body_end])
+        body = teacher[session.end() : body_end]
+        if body.startswith("\r\n"):
+            body = body[2:]
+        elif body.startswith("\n"):
+            body = body[1:]
+        body_lines = body.splitlines()
+        slugs = [
+            match.group(1)
+            for line in body_lines[:40]
+            if (match := SLUG_RE.fullmatch(line))
+        ]
+        for line_number, line in enumerate(body_lines[40:], 41):
+            if SLUG_RE.fullmatch(line):
+                errors.append(
+                    f"{offering_id}: Session {session_number:02d} has explicit Lesson slug "
+                    f"after ClassHub's 40-line metadata window (body line {line_number})"
+                )
         if len(slugs) > 1:
             errors.append(f"{offering_id}: Session {session_number:02d} has multiple explicit Lesson slug lines")
         for slug in slugs:
@@ -238,11 +254,18 @@ def validate_adapter(offering: dict, repo_root: Path) -> list[str]:
 
 
 def validate_cataloged_adapters(menu_path: Path, repo_root: Path) -> list[str]:
-    menu = json.loads(menu_path.read_text(encoding="utf-8"))
+    resolved_repo_root = repo_root.resolve()
+    candidate_menu_path = menu_path if menu_path.is_absolute() else resolved_repo_root / menu_path
+    resolved_menu_path = candidate_menu_path.resolve()
+    if not resolved_menu_path.is_relative_to(resolved_repo_root):
+        return [f"menu path escapes repository: {menu_path}"]
+    if not resolved_menu_path.is_file():
+        return [f"missing menu path: {menu_path}"]
+    menu = json.loads(resolved_menu_path.read_text(encoding="utf-8"))
     errors: list[str] = []
     for offering in menu["offerings"]:
         if offering.get("classhub_import_path"):
-            errors.extend(validate_adapter(offering, repo_root))
+            errors.extend(validate_adapter(offering, resolved_repo_root))
     return errors
 
 
@@ -251,7 +274,7 @@ def main() -> int:
     parser.add_argument("--menu", type=Path, default=Path("catalog/menu.json"))
     parser.add_argument("--repo-root", type=Path, default=Path("."))
     args = parser.parse_args()
-    errors = validate_cataloged_adapters(args.menu, args.repo_root.resolve())
+    errors = validate_cataloged_adapters(args.menu, args.repo_root)
     if errors:
         print("\n".join(errors))
         return 1

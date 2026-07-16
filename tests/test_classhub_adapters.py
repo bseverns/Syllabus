@@ -109,6 +109,130 @@ Lesson slug (for course.yaml): s01-duplicate
         )
         self.assertIn("fixture: duplicate explicit Lesson slug: s01-duplicate", errors)
 
+    def test_accepts_a_slug_on_body_line_40_and_rejects_one_on_line_41(self):
+        body_prefix = "\n".join(f"Line {line_number}" for line_number in range(1, 40))
+        teacher = f"""# Fixture Teacher Plan
+
+Course slug: fixture_course
+Grade level: 9th-12th
+Total sessions: 2
+
+# Session 01: In Window
+{body_prefix}
+Lesson slug (for course.yaml): s01-in-window
+
+# Session 02: Too Late
+{body_prefix}
+Line 40
+Lesson slug (for course.yaml): s02-too-late
+"""
+        public = PUBLIC_FIXTURE.replace("Total sessions: 1", "Total sessions: 2")
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            offering = write_adapter(root, teacher, public)
+            errors = validate_adapter(offering, root)
+
+        self.assertEqual(
+            [
+                "fixture: Session 02 has explicit Lesson slug after ClassHub's "
+                "40-line metadata window (body line 41)"
+            ],
+            errors,
+        )
+
+    def test_rejects_classhub_path_traversal_and_absolute_paths(self):
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            repo_root = parent / "repo"
+            outside_root = parent / "outside"
+            repo_root.mkdir()
+            offering = write_adapter(outside_root, "", "")
+
+            offering["classhub_import_path"] = "../outside/course/classhub_import"
+            self.assertEqual(
+                [
+                    "fixture: classhub_import_path escapes repository: "
+                    "../outside/course/classhub_import"
+                ],
+                validate_adapter(offering, repo_root),
+            )
+
+            offering["classhub_import_path"] = str(outside_root / "course/classhub_import")
+            self.assertEqual(
+                [
+                    "fixture: classhub_import_path must be relative: "
+                    f"{outside_root / 'course/classhub_import'}"
+                ],
+                validate_adapter(offering, repo_root),
+            )
+
+    def test_rejects_an_adapter_directory_symlink_that_escapes_the_repo(self):
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            repo_root = parent / "repo"
+            outside_root = parent / "outside"
+            repo_root.mkdir()
+            write_adapter(outside_root, "", "")
+            (repo_root / "linked-adapter").symlink_to(outside_root / "course/classhub_import")
+            offering = {
+                "offering_id": "fixture",
+                "age_bands": ["High school"],
+                "classhub_import_path": "linked-adapter",
+            }
+
+            self.assertEqual(
+                ["fixture: classhub_import_path escapes repository: linked-adapter"],
+                validate_adapter(offering, repo_root),
+            )
+
+    def test_rejects_a_required_file_symlink_that_escapes_the_repo(self):
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            repo_root = parent / "repo"
+            adapter = repo_root / "course/classhub_import"
+            adapter.mkdir(parents=True)
+            outside_teacher = parent / "teacher_plan_classhub.md"
+            outside_teacher.write_text("outside")
+            (adapter / "teacher_plan_classhub.md").symlink_to(outside_teacher)
+            (adapter / "public_overview_classhub.md").write_text(PUBLIC_FIXTURE)
+            offering = {
+                "offering_id": "fixture",
+                "age_bands": ["High school"],
+                "classhub_import_path": "course/classhub_import",
+            }
+
+            self.assertEqual(
+                [
+                    "fixture: classhub_import_path file escapes repository: "
+                    "course/classhub_import/teacher_plan_classhub.md"
+                ],
+                validate_adapter(offering, repo_root),
+            )
+
+    def test_resolves_a_caller_supplied_relative_menu_from_repo_root(self):
+        with tempfile.TemporaryDirectory() as directory:
+            repo_root = Path(directory)
+            menu_path = repo_root / "config/menu.json"
+            menu_path.parent.mkdir()
+            menu_path.write_text(json.dumps({"offerings": []}))
+
+            self.assertEqual(
+                [],
+                validate_cataloged_adapters(Path("config/menu.json"), repo_root),
+            )
+
+    def test_rejects_a_caller_supplied_menu_that_escapes_the_repo(self):
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            repo_root = parent / "repo"
+            repo_root.mkdir()
+            (parent / "menu.json").write_text(json.dumps({"offerings": []}))
+
+            self.assertEqual(
+                ["menu path escapes repository: ../menu.json"],
+                validate_cataloged_adapters(Path("../menu.json"), repo_root),
+            )
+
     def test_rejects_an_adapter_age_band_outside_the_catalog_audience(self):
         teacher = """# Fixture Teacher Plan
 

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Three kinds of digital images</title>
+  <desc id="desc">A pixel image, a bold poster, and a colorful glitch image shown side by side.</desc>
+  <rect width="1200" height="700" fill="#f4f1ea"/>
+  <text x="60" y="72" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#161616">Digital images are made differently</text>
+  <text x="60" y="112" font-family="system-ui, sans-serif" font-size="22" fill="#444">Compare edge, scale, color, and what your eye notices first.</text>
+
+  <g transform="translate(60 160)">
+    <rect width="330" height="430" rx="18" fill="#172554"/>
+    <g shape-rendering="crispEdges" transform="translate(25 25) scale(20)">
+      <rect width="14" height="14" fill="#93c5fd"/>
+      <rect y="8" width="14" height="6" fill="#1d4ed8"/>
+      <rect x="1" y="9" width="5" height="5" fill="#14532d"/>
+      <rect x="6" y="7" width="5" height="7" fill="#166534"/>
+      <rect x="10" y="10" width="4" height="4" fill="#052e16"/>
+      <rect x="9" y="2" width="3" height="3" fill="#fde047"/>
+      <rect x="10" y="1" width="1" height="5" fill="#facc15"/>
+      <rect x="8" y="3" width="5" height="1" fill="#facc15"/>
+    </g>
+    <text x="24" y="352" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="white">PIXEL IMAGE</text>
+    <text x="24" y="388" font-family="system-ui, sans-serif" font-size="18" fill="#bfdbfe">The grid becomes visible.</text>
+  </g>
+
+  <g transform="translate(435 160)">
+    <rect width="330" height="430" rx="18" fill="#ff5a36"/>
+    <circle cx="255" cy="88" r="58" fill="#ffe45e"/>
+    <rect x="28" y="42" width="38" height="180" fill="#13213c"/>
+    <text x="84" y="110" font-family="system-ui, sans-serif" font-size="70" font-weight="900" fill="#13213c">LOOK</text>
+    <text x="84" y="180" font-family="system-ui, sans-serif" font-size="58" font-weight="900" fill="white">CLOSER</text>
+    <path d="M86 220 H292" stroke="#13213c" stroke-width="12"/>
+    <text x="28" y="352" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#13213c">POSTER</text>
+    <text x="28" y="388" font-family="system-ui, sans-serif" font-size="18" fill="#13213c">Type and shape build hierarchy.</text>
+  </g>
+
+  <g transform="translate(810 160)">
+    <rect width="330" height="430" rx="18" fill="#111827"/>
+    <rect x="38" y="54" width="238" height="210" fill="#22d3ee" opacity=".8"/>
+    <rect x="58" y="42" width="238" height="210" fill="#f43f5e" opacity=".65"/>
+    <rect x="48" y="48" width="238" height="210" fill="#f8fafc" opacity=".75"/>
+    <g fill="#111827">
+      <rect x="48" y="86" width="238" height="14"/><rect x="30" y="126" width="276" height="10"/>
+      <rect x="66" y="168" width="220" height="18"/><rect x="48" y="218" width="258" height="12"/>
+    </g>
+    <g fill="#a3e635"><rect x="28" y="112" width="270" height="8"/><rect x="58" y="198" width="250" height="7"/></g>
+    <text x="28" y="352" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="white">GLITCH</text>
+    <text x="28" y="388" font-family="system-ui, sans-serif" font-size="18" fill="#cbd5e1">Error becomes a visual choice.</text>
+  </g>
+</svg>

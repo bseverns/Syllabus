@@ -37,6 +37,7 @@ This repo holds a 12-session, 90-minutes-per-session course for middle and early
 - `projects/` — detailed prompts for major projects.
 - `resources/` — software options, setup checklists, and image ethics notes.
 - `rubrics/` — common rubrics for projects and participation.
+- `assets/` — ready-to-project visuals with alt text and attribution.
 
 ## Local notes convention
 

@@ -15,7 +15,7 @@ Lesson slug (for course.yaml): s01-welcome-image-scavenger-hunt
 Slug rule: start with s01- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Gather contrasting example images.
+- Open the [Session 1–2 visual pack](../assets/session01-02/README.md).
 - Confirm camera and saving workflow.
 - Set boundaries for the scavenger hunt.
 
@@ -50,7 +50,7 @@ Lesson slug (for course.yaml): s02-cameras-light-composition
 Slug rule: start with s02- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare examples of lighting and viewpoint changes.
+- Open the [Session 1–2 visual pack](../assets/session01-02/README.md).
 - Check camera access and room movement plan.
 
 Materials

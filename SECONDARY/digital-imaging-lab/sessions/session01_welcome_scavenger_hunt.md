@@ -23,6 +23,7 @@
   - A high-res photograph.
   - A poster/graphic.
   - A glitch/abstract image.
+- Use the ready-to-project [Session 1–2 visual pack](../assets/session01-02/README.md).
 - Ask: “What makes these feel different? What do you notice first?”
 
 ### 2. Norms & consent (10 min)

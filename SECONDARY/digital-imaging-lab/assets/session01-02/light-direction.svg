@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Front, side, and back lighting</title>
+  <desc id="desc">Three diagrams show how moving a light changes highlights, shadows, and silhouette.</desc>
+  <rect width="1200" height="700" fill="#111827"/>
+  <text x="60" y="72" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="white">Move the light, change the image</text>
+  <text x="60" y="112" font-family="system-ui, sans-serif" font-size="22" fill="#cbd5e1">Keep the subject still. Move one light. Compare the shadow.</text>
+
+  <g transform="translate(60 160)">
+    <rect width="330" height="410" rx="18" fill="#1e293b"/>
+    <circle cx="165" cy="175" r="82" fill="#f8d9bd"/>
+    <path d="M115 158 Q165 210 215 158" fill="none" stroke="#7c2d12" stroke-width="5"/>
+    <circle cx="137" cy="145" r="7" fill="#1f2937"/><circle cx="193" cy="145" r="7" fill="#1f2937"/>
+    <circle cx="165" cy="42" r="24" fill="#fde047"/>
+    <path d="M140 65 L120 102 M165 70 V95 M190 65 L210 102" stroke="#fde047" stroke-width="5"/>
+    <text x="24" y="310" font-family="system-ui, sans-serif" font-size="28" font-weight="800" fill="white">FRONT LIGHT</text>
+    <text x="24" y="348" font-family="system-ui, sans-serif" font-size="18" fill="#cbd5e1">Even detail, flatter shape.</text>
+  </g>
+
+  <g transform="translate(435 160)">
+    <rect width="330" height="410" rx="18" fill="#1e293b"/>
+    <defs><clipPath id="face"><circle cx="165" cy="175" r="82"/></clipPath></defs>
+    <circle cx="165" cy="175" r="82" fill="#f8d9bd"/>
+    <rect x="165" y="90" width="90" height="170" fill="#713f12" opacity=".8" clip-path="url(#face)"/>
+    <circle cx="137" cy="145" r="7" fill="#1f2937"/><circle cx="193" cy="145" r="7" fill="#111827"/>
+    <circle cx="42" cy="175" r="24" fill="#fde047"/>
+    <path d="M68 150 L112 130 M72 175 H112 M68 200 L112 220" stroke="#fde047" stroke-width="5"/>
+    <text x="24" y="310" font-family="system-ui, sans-serif" font-size="28" font-weight="800" fill="white">SIDE LIGHT</text>
+    <text x="24" y="348" font-family="system-ui, sans-serif" font-size="18" fill="#cbd5e1">Texture, contrast, dimension.</text>
+  </g>
+
+  <g transform="translate(810 160)">
+    <rect width="330" height="410" rx="18" fill="#f8fafc"/>
+    <circle cx="165" cy="175" r="82" fill="#0f172a"/>
+    <path d="M112 175 Q165 230 218 175" fill="none" stroke="#0f172a" stroke-width="5"/>
+    <circle cx="165" cy="42" r="24" fill="#fde047"/>
+    <path d="M140 68 L115 108 M165 70 V105 M190 68 L215 108" stroke="#fde047" stroke-width="5"/>
+    <text x="24" y="310" font-family="system-ui, sans-serif" font-size="28" font-weight="800" fill="#0f172a">BACK LIGHT</text>
+    <text x="24" y="348" font-family="system-ui, sans-serif" font-size="18" fill="#475569">Silhouette, outline, mystery.</text>
+  </g>
+</svg>

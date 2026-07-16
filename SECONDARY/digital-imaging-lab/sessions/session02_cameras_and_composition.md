@@ -20,6 +20,7 @@ Connect scavenger images to more intentional shooting and introduce Project 1.
 ### 1. Warm-up: image pair critique (10 min)
 
 - Show two student images (with permission) or sample photos.
+- Use the [Session 1–2 visual pack](../assets/session01-02/README.md) when consent-cleared student examples are unavailable.
 - Ask:
   - What feels stronger and why?
   - Where does your eye go first?
