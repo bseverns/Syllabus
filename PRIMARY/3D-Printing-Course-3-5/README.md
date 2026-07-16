@@ -29,6 +29,7 @@
 - Rubrics: `./assessments/`
 - Safety + Equity: `./policies/`
 - ClassHub import layer: `./classhub_import/`
+- Course visual pack: `./assets/course-visuals/`
 
 ## Class Constraints (for equitable throughput)
 - **Material:** PLA only. **Colors:** limited palette per week.

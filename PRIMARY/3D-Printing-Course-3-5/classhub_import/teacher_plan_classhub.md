@@ -8,6 +8,8 @@ UI Level: elementary
 
 Use `Session NN: Title` headings exactly so ClassHub syllabus ingest can parse this file.
 
+Use the four ready-to-project sheets in the [course visual pack](../assets/course-visuals/README.md) alongside physical print samples and live software demos.
+
 # Session 01: Hello, Tinkercad! + First Print
 
 Mission: Launch class norms, safety, and the basic design-to-print pipeline through a fast first-win nameplate.
@@ -18,6 +20,8 @@ Teacher prep
 - Create or verify the Tinkercad class and student login flow.
 - Test the printer workflow and Fast-Draft profile in Digital Factory.
 - Prepare one finished nameplate example and one export demo.
+- Open the pipeline sheet in the [course visual pack](../assets/course-visuals/README.md).
+- Open the [FDM diagram](../assets/course-visuals/cc-images/fdm-layer-deposition.png) and [printer-in-progress photograph](../assets/course-visuals/cc-images/fdm-print-in-progress.jpg).
 
 Materials
 - Student devices with Tinkercad access
@@ -54,6 +58,8 @@ Slug rule: start with s02- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Set out shared calipers and rulers.
 - Prepare one oversize and one correctly sized sample object.
+- Open the printability checks in the [course visual pack](../assets/course-visuals/README.md).
+- Open the [digital-caliper photograph](../assets/course-visuals/cc-images/digital-caliper-outside-measurement.jpg).
 - Review the naming convention for submissions.
 
 Materials
@@ -90,6 +96,7 @@ Slug rule: start with s03- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Bring print samples that are too tight, too loose, and just right.
 - Prepare a quick tolerance explanation with kid-friendly language.
+- Open the clearance check in the [course visual pack](../assets/course-visuals/README.md).
 - Confirm example files or starter shapes for the class.
 
 Materials
@@ -126,6 +133,8 @@ Slug rule: start with s04- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare a quick Digital Factory walkthrough.
 - Bring strong and weak print examples such as bookmarks or bridge beams.
+- Open the pipeline sheet in the [course visual pack](../assets/course-visuals/README.md).
+- Open the [infill comparison](../assets/course-visuals/cc-images/infill-density-slicer.jpg) and [support-material example](../assets/course-visuals/cc-images/support-material-overhang.jpg).
 - Confirm the class slicing profile and throughput rules.
 
 Materials
@@ -162,6 +171,7 @@ Slug rule: start with s05- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare kid-friendly examples of remixing with and without credit.
 - Review attribution guidelines and classroom norms.
+- Open the remix sheet in the [course visual pack](../assets/course-visuals/README.md).
 - Gather a few remixable reference objects or image prompts.
 
 Materials
@@ -198,6 +208,7 @@ Slug rule: start with s06- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare examples such as a cable clip, bag tag, or cord wrap.
 - Make the time-budget levers visible: scale, walls, layers, and hollowing.
+- Open the print-budget sheet in the [course visual pack](../assets/course-visuals/README.md).
 - Confirm the class print queue can support the challenge.
 
 Materials
@@ -234,6 +245,7 @@ Slug rule: start with s07- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Bring one articulated sample and one failed moving sample.
 - Review the clearance rules students already learned in week 3.
+- Open the moving-parts sheet in the [course visual pack](../assets/course-visuals/README.md).
 - Prepare orientation reminders tied to successful motion.
 
 Materials
@@ -270,6 +282,7 @@ Slug rule: start with s08- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare one simple SVG-to-badge demo.
 - Check import workflow and cleanup steps in Tinkercad.
+- Open the relief sheet in the [course visual pack](../assets/course-visuals/README.md).
 - Gather example badge or magnet shapes.
 
 Materials
@@ -306,6 +319,8 @@ Slug rule: start with s09- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Gather rough, failed, or imperfect prints as teaching examples.
 - Prepare a short compare-and-revise reflection routine.
+- Open the iteration sheet in the [course visual pack](../assets/course-visuals/README.md).
+- Open the [first-layer detachment photograph](../assets/course-visuals/cc-images/first-layer-detached-failure.jpg).
 - Make reprint rules and queue limits visible.
 
 Materials
@@ -342,6 +357,7 @@ Slug rule: start with s10- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare a simple interview or partner-needs template.
 - Bring capstone examples sized for elementary print limits.
+- Open the capstone path in the [course visual pack](../assets/course-visuals/README.md).
 - Set clear rules about time, size, and safety for the final project.
 
 Materials
@@ -378,6 +394,7 @@ Slug rule: start with s11- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Confirm final queue priorities and showcase plan.
 - Prepare a short presentation prompt: need, idea, revision, result.
+- Open the presentation frame in the [course visual pack](../assets/course-visuals/README.md).
 - Gather reflection or celebration materials.
 
 Materials

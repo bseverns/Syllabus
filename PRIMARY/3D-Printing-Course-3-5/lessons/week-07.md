@@ -6,7 +6,7 @@
 
 ### Agenda
 - **Warm-up (10):** Examine an articulated sample; where are the gaps?
-- **Mini-lesson (10):** Designing joints with ≥0.5–0.6 mm clearance on SKETCH.
+- **Mini-lesson (10):** Designing joints with ≥0.5–0.6 mm clearance on SKETCH. Contrast intentional joint gaps with [temporary material under an overhang](../assets/course-visuals/cc-images/support-material-overhang.jpg), then use the [course visual pack](../assets/course-visuals/README.md) beside the articulated sample.
 - **Make (60):** Create a **chain critter** (repeat units with hinges/loops). Keep Z ≤ 8–10 mm to print faster.
 - **Queue (10).**
 

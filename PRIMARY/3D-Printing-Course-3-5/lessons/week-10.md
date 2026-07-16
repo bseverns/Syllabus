@@ -6,7 +6,7 @@
 
 ### Agenda
 - **Warm-up (10):** What makes a good interview question?
-- **Mini-lesson (10):** Define a need; write a brief.
+- **Mini-lesson (10):** Define a need; write a brief. Use the capstone path in the [course visual pack](../assets/course-visuals/README.md).
 - **Make (60):** Partner interviews; brainstorm 3 ideas; choose 1; build **prototype v0**.
 - **Queue (10).**
 

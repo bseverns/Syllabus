@@ -6,7 +6,7 @@
 
 ### Agenda
 - **Warm-up (10):** Sketch a simple icon on paper.
-- **Mini-lesson (10):** SVG import into Tinkercad; cleaning paths; extrude to 2–3 mm.
+- **Mini-lesson (10):** SVG import into Tinkercad; cleaning paths; extrude to 2–3 mm. Use the [course visual pack](../assets/course-visuals/README.md).
 - **Make (60):** **Badge magnet** with name/initials. Add a flat recess for magnet.
 - **Queue (10).**
 

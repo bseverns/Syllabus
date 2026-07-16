@@ -7,7 +7,7 @@
 ### Agenda
 - **Warm-up (5):** Last checks: time/size/safety.
 - **Make (60):** Final revisions; slice with class profile; submit.
-- **Share (25):** Mini-show. Each student: 60-second talk (need → idea → what changed).
+- **Share (25):** Mini-show. Each student uses the 60-second frame in the [course visual pack](../assets/course-visuals/README.md): need → idea → revision → result.
 
 ### Deliverables
 - `Firstname_Capstone_v1.stl` + short talk.

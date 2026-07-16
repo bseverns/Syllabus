@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Design-to-print pipeline and printable choices</title>
+  <desc id="desc">Five steps move from imagine to model to slice to print to evaluate. Measurement, clearance, orientation, and slicer estimates are shown as checks before printing.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">A screen model becomes a real object through steps</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Weeks 1–4: model, measure, slice, print, evaluate</text>
+  <g transform="translate(55 155)">
+    <rect width="700" height="455" rx="20" fill="#eff6ff"/>
+    <text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#1e3a8a">DESIGN-TO-PRINT PIPELINE</text>
+    <g transform="translate(25 95)" font-family="system-ui, sans-serif" text-anchor="middle">
+      <g><circle cx="55" cy="55" r="48" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/><text x="55" y="50" font-size="17" font-weight="800" fill="#1e3a8a">1</text><text x="55" y="73" font-size="15" fill="#1e3a8a">IMAGINE</text></g>
+      <path d="M108 55 H132" stroke="#64748b" stroke-width="7"/><path d="M132 55 l-14 -10 v20z" fill="#64748b"/>
+      <g transform="translate(136)"><circle cx="55" cy="55" r="48" fill="#f3e8ff" stroke="#9333ea" stroke-width="4"/><text x="55" y="50" font-size="17" font-weight="800" fill="#6b21a8">2</text><text x="55" y="73" font-size="15" fill="#6b21a8">MODEL</text></g>
+      <path d="M244 55 H268" stroke="#64748b" stroke-width="7"/><path d="M268 55 l-14 -10 v20z" fill="#64748b"/>
+      <g transform="translate(272)"><circle cx="55" cy="55" r="48" fill="#fef3c7" stroke="#d97706" stroke-width="4"/><text x="55" y="50" font-size="17" font-weight="800" fill="#92400e">3</text><text x="55" y="73" font-size="15" fill="#92400e">SLICE</text></g>
+      <path d="M380 55 H404" stroke="#64748b" stroke-width="7"/><path d="M404 55 l-14 -10 v20z" fill="#64748b"/>
+      <g transform="translate(408)"><circle cx="55" cy="55" r="48" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/><text x="55" y="50" font-size="17" font-weight="800" fill="#166534">4</text><text x="55" y="73" font-size="15" fill="#166534">PRINT</text></g>
+      <path d="M516 55 H540" stroke="#64748b" stroke-width="7"/><path d="M540 55 l-14 -10 v20z" fill="#64748b"/>
+      <g transform="translate(544)"><circle cx="55" cy="55" r="48" fill="#ffedd5" stroke="#ea580c" stroke-width="4"/><text x="55" y="50" font-size="17" font-weight="800" fill="#9a3412">5</text><text x="55" y="73" font-size="15" fill="#9a3412">CHECK</text></g>
+    </g>
+    <g transform="translate(45 250)" font-family="system-ui, sans-serif">
+      <rect width="610" height="120" rx="16" fill="white" stroke="#64748b" stroke-width="3"/>
+      <text x="22" y="38" font-size="20" font-weight="800" fill="#0f172a">A SLICER TURNS THE MODEL INTO LAYERS + INSTRUCTIONS</text>
+      <path d="M30 72 H155 M30 88 H155 M30 104 H155" stroke="#2563eb" stroke-width="5"/>
+      <text x="185" y="83" font-size="18" fill="#334155">time estimate</text><text x="350" y="83" font-size="18" fill="#334155">walls + infill</text><text x="495" y="83" font-size="18" fill="#334155">supports</text>
+    </g>
+    <text x="28" y="420" font-family="system-ui, sans-serif" font-size="18" fill="#334155">Printing is one step—not magic between Tinkercad and the object.</text>
+  </g>
+  <g transform="translate(805 155)">
+    <rect width="340" height="455" rx="20" fill="#fff7ed"/>
+    <text x="26" y="48" font-family="system-ui, sans-serif" font-size="25" font-weight="750" fill="#9a3412">BEFORE SUBMIT</text>
+    <g transform="translate(26 90)" font-family="system-ui, sans-serif">
+      <text font-size="20" font-weight="800" fill="#7c2d12">✓ MEASURE</text><text y="28" font-size="16" fill="#9a3412">millimeters, not guesses</text>
+      <text y="82" font-size="20" font-weight="800" fill="#7c2d12">✓ LEAVE SPACE</text><text y="110" font-size="16" fill="#9a3412">moving parts need a gap</text>
+      <text y="164" font-size="20" font-weight="800" fill="#7c2d12">✓ ORIENT</text><text y="192" font-size="16" fill="#9a3412">layers affect strength</text>
+      <text y="246" font-size="20" font-weight="800" fill="#7c2d12">✓ READ ESTIMATE</text><text y="274" font-size="16" fill="#9a3412">fit the class time budget</text>
+    </g>
+    <text x="26" y="415" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#7c2d12">Small checks prevent long reprints.</text>
+  </g>
+</svg>

@@ -7,7 +7,7 @@
 
 ### Agenda
 - **Warm-up (10):** What is credit? Why it matters.
-- **Mini-lesson (10):** Finding CC models; record title, creator, source link.
+- **Mini-lesson (10):** Finding CC models; record title, creator, source link, and license. Use the remix sheet in the [course visual pack](../assets/course-visuals/README.md).
 - **Make (60):** Import a small CC model, put on a **pedestal** you design; add a nameplate with credit text.
 - **Share/Cleanup (10):** Gallery walk; identify thoughtful remixes.
 

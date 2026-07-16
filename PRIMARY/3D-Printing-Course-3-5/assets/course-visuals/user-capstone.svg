@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Designing a capstone for another person</title>
+  <desc id="desc">A five-step path moves from user to need to three ideas to a small prototype to checks for time, size, and safety. A presentation frame names need, idea, revision, and result.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">Design for a person, not only for the printer</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Weeks 10–11: interview, choose, prototype, check, explain</text>
+  <g transform="translate(55 155)">
+    <rect width="700" height="455" rx="20" fill="#ecfdf5"/>
+    <text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#065f46">CAPSTONE PATH</text>
+    <g transform="translate(22 95)" font-family="system-ui, sans-serif" text-anchor="middle">
+      <g><circle cx="55" cy="55" r="46" fill="#d1fae5" stroke="#059669" stroke-width="4"/><text x="55" y="49" font-size="17" font-weight="800" fill="#065f46">1 • USER</text><text x="55" y="73" font-size="14" fill="#065f46">ask + listen</text></g>
+      <path d="M106 55 H126" stroke="#64748b" stroke-width="7"/><path d="M126 55 l-13 -9 v18z" fill="#64748b"/>
+      <g transform="translate(130)"><circle cx="55" cy="55" r="46" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/><text x="55" y="49" font-size="17" font-weight="800" fill="#1e3a8a">2 • NEED</text><text x="55" y="73" font-size="14" fill="#1e3a8a">name one</text></g>
+      <path d="M236 55 H256" stroke="#64748b" stroke-width="7"/><path d="M256 55 l-13 -9 v18z" fill="#64748b"/>
+      <g transform="translate(260)"><circle cx="55" cy="55" r="46" fill="#f3e8ff" stroke="#9333ea" stroke-width="4"/><text x="55" y="49" font-size="17" font-weight="800" fill="#6b21a8">3 • IDEAS</text><text x="55" y="73" font-size="14" fill="#6b21a8">make three</text></g>
+      <path d="M366 55 H386" stroke="#64748b" stroke-width="7"/><path d="M386 55 l-13 -9 v18z" fill="#64748b"/>
+      <g transform="translate(390)"><circle cx="55" cy="55" r="46" fill="#fef3c7" stroke="#d97706" stroke-width="4"/><text x="55" y="49" font-size="16" font-weight="800" fill="#92400e">4 • V0</text><text x="55" y="73" font-size="14" fill="#92400e">small proof</text></g>
+      <path d="M496 55 H516" stroke="#64748b" stroke-width="7"/><path d="M516 55 l-13 -9 v18z" fill="#64748b"/>
+      <g transform="translate(520)"><circle cx="55" cy="55" r="46" fill="#ffedd5" stroke="#ea580c" stroke-width="4"/><text x="55" y="49" font-size="16" font-weight="800" fill="#9a3412">5 • CHECK</text><text x="55" y="73" font-size="14" fill="#9a3412">fit limits</text></g>
+    </g>
+    <g transform="translate(35 250)" font-family="system-ui, sans-serif">
+      <rect width="630" height="110" rx="16" fill="white" stroke="#059669" stroke-width="3"/>
+      <text x="22" y="38" font-size="20" font-weight="800" fill="#065f46">BEFORE FINAL SUBMISSION</text>
+      <text x="22" y="76" font-size="18" fill="#065f46">✓ helps the user  ✓ fits size  ✓ fits time  ✓ safe to print</text>
+    </g>
+    <text x="28" y="420" font-family="system-ui, sans-serif" font-size="18" fill="#065f46">Decoration supports the need; it does not replace the need.</text>
+  </g>
+  <g transform="translate(805 155)">
+    <rect width="340" height="455" rx="20" fill="#fff7ed"/>
+    <text x="26" y="48" font-family="system-ui, sans-serif" font-size="25" font-weight="750" fill="#9a3412">60-SECOND TALK</text>
+    <g transform="translate(26 95)" font-family="system-ui, sans-serif" fill="#7c2d12">
+      <text font-size="20" font-weight="800">1 • NEED</text><text y="30" font-size="16">“My user needed…”</text>
+      <text y="92" font-size="20" font-weight="800">2 • IDEA</text><text y="122" font-size="16">“I designed…”</text>
+      <text y="184" font-size="20" font-weight="800">3 • REVISION</text><text y="214" font-size="16">“I changed…”</text>
+      <text y="276" font-size="20" font-weight="800">4 • RESULT</text><text y="306" font-size="16">“Now it…”</text>
+    </g>
+  </g>
+</svg>
