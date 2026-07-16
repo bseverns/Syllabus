@@ -4,6 +4,7 @@
 - **This week is for:** room systems, first-build success, and early neighborhood project imagination.
 - **By the end of the week:** students should have one light build, one motion build, and 2–3 possible neighborhood project directions.
 - **Prep first:** tested LEDs, motors, batteries, parking bins, and a wall for neighborhood sparks.
+- **Project:** the systems sheet in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** tool exploration drifting into disconnected novelty, motion testing spreading beyond the lane, or spark talk swallowing build time.
 - **Stop and reset the room when:** more than a few builds are moving at once, students cannot hear safety directions, or the room no longer knows the task.
 

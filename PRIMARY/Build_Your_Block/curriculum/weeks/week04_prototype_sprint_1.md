@@ -4,6 +4,7 @@
 - **This week is for:** building the first working version fast.
 - **By the end of the week:** every team should have a rough prototype that does something real.
 - **Prep first:** project bins, pulled materials, labels, and visible repair/testing tools.
+- **Project:** the prototype loop in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** teams trying to build the full final version instead of one testable version.
 
 ## Big idea

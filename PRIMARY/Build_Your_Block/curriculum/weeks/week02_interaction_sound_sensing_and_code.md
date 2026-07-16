@@ -4,6 +4,7 @@
 - **This week is for:** interaction design, audience thinking, and narrowing project directions.
 - **By the end of the week:** every student or team should have one likely capstone direction and one interaction sample or reference they can carry into planning week.
 - **Prep first:** choose one coding platform, choose one sound path, choose one sensing path, and keep demos short.
+- **Project:** the interaction-chain sheet in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** modality overload, platform shopping, and too many parallel tool pathways.
 
 ## Big idea

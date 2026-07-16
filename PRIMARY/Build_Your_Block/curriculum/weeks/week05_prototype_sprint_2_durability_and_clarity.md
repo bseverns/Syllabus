@@ -4,6 +4,7 @@
 - **This week is for:** strengthening prototypes so they survive contact with real users.
 - **By the end of the week:** each team should have a sturdier, clearer project with an early reset routine.
 - **Prep first:** repair supplies, reinforcement materials, labels, and repeat-use test routines.
+- **Project:** the fix-before-features checklist in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** teams adding extra features instead of fixing fragility or confusion.
 
 ## Big idea

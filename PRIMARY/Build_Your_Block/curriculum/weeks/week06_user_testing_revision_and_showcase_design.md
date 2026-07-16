@@ -4,6 +4,7 @@
 - **This week is for:** observing real users, revising from evidence, and designing the final station.
 - **By the end of the week:** every team should have a tested project, a clearer public station, and a hosting/reset plan.
 - **Prep first:** feedback forms, timers, labels, station materials, and invited testers if possible.
+- **Project:** the visitor-path sheet in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** builders talking too much during tests instead of watching.
 
 ## Big idea

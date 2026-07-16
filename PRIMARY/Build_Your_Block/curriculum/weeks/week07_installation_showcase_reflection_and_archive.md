@@ -4,6 +4,7 @@
 - **This week is for:** installing work, hosting visitors, reflecting, and preserving the record of the intensive.
 - **By the end of the week:** every team should have installed, presented, documented, and reflected on its project.
 - **Prep first:** showcase map, batteries, labels, emergency fix kit, reflection prompts, and archive capture plan.
+- **Project:** the showcase-readiness sheet in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** showcase energy crowding out reflection and archive work.
 
 ## Big idea

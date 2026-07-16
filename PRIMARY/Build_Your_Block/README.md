@@ -88,6 +88,7 @@ See [MINIMUM_VIABLE_IMPLEMENTATION.md](docs/MINIMUM_VIABLE_IMPLEMENTATION.md). A
 - [docs/ONE_PAGER.md](docs/ONE_PAGER.md) — partner-ready overview
 - [templates/](templates/) — capstone, status, parking, testing, and showcase tools
 - [classhub_import/](classhub_import/) — LMS-friendly import layer
+- [assets/course-visuals/](assets/course-visuals/README.md) — ready-to-project phase sheets with alt text and licensing notes
 
 ## Design commitments
 

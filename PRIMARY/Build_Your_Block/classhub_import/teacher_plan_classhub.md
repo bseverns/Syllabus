@@ -31,6 +31,7 @@ Companion files in the main package:
 - `classhub_import/weekly_handoff_classhub.md` for weekly must-haves and can-cut notes
 - `facilitator/field_guides/` for one-screen live-teaching reminders
 - `templates/` for planner, status, durability, and session parking tools
+- [`assets/course-visuals/`](../assets/course-visuals/README.md) for four ready-to-project phase sheets
 
 # Session 01: Studio Welcome and First Light Build
 
@@ -88,7 +89,7 @@ Mission: Help students see light and motion as project tools for real people.
 Lesson slug (for course.yaml): s03-light-and-motion-for-public-use
 
 Teacher prep
-- Pull examples that use one system clearly.
+- Open the systems sheet in the [course visual pack](../assets/course-visuals/README.md).
 - Repost audience prompts.
 
 Materials
@@ -164,7 +165,7 @@ Lesson slug (for course.yaml): s06-sensing-and-reacting
 
 Teacher prep
 - Prep one clear sensor or button pathway.
-- Print input/output arrows.
+- Open the interaction-chain sheet in the [course visual pack](../assets/course-visuals/README.md).
 
 Materials
 - Buttons or simple sensors
@@ -267,7 +268,7 @@ Lesson slug (for course.yaml): s10-audience-mockup
 
 Teacher prep
 - Prep cardboard mockup materials.
-- Model a rough mockup that tests use, not polish.
+- Open the audience-and-first-test sheet in the [course visual pack](../assets/course-visuals/README.md).
 
 Materials
 - Cardboard, tape, index cards
@@ -344,6 +345,7 @@ Lesson slug (for course.yaml): s13-core-prototype-build
 Teacher prep
 - Pull project materials by team.
 - Refill the fast-fix bin.
+- Open the prototype loop in the [course visual pack](../assets/course-visuals/README.md).
 
 Materials
 - Project-specific materials
@@ -445,7 +447,7 @@ Lesson slug (for course.yaml): s17-repair-weak-points
 
 Teacher prep
 - Pull repair and reinforcement materials.
-- Prep a weak-point checklist.
+- Open the fix-before-features checklist in the [course visual pack](../assets/course-visuals/README.md).
 
 Materials
 - Reinforcement supplies
@@ -548,7 +550,7 @@ Lesson slug (for course.yaml): s21-user-test-round-one
 
 Teacher prep
 - Invite testers if possible.
-- Model watch-first testing behavior.
+- Open the visitor-path sheet in the [course visual pack](../assets/course-visuals/README.md).
 
 Materials
 - Feedback forms
@@ -653,6 +655,7 @@ Lesson slug (for course.yaml): s25-installation
 Teacher prep
 - Prep room map and install zones.
 - Check power and battery plans.
+- Open the showcase-readiness sheet in the [course visual pack](../assets/course-visuals/README.md).
 
 Materials
 - Project stations

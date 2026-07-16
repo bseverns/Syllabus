@@ -4,6 +4,7 @@
 - **This week is for:** moving from many ideas to one project direction with a real audience and first mockup.
 - **By the end of the week:** every student or team should have a chosen project, audience, purpose, and smallest testable version.
 - **Prep first:** planning sheets, maps, mockup materials, conference routine, and storage systems.
+- **Project:** the audience-and-first-test sheet in the [course visual pack](../../assets/course-visuals/README.md).
 - **Watch for:** vague ideas that sound good but are not buildable yet.
 
 ## Big idea
