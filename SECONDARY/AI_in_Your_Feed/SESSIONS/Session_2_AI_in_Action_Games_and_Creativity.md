@@ -31,6 +31,8 @@ Prepare one demo project that can be built quickly:
 - soundtrack plus title screen
 - poster + short written lore
 
+Use the prompt-revision sheet in the [Session 1–4 visual pack](../assets/session01-04/README.md) before the live demo.
+
 ## Agenda
 
 ### 1. Check-in and share — 15 min

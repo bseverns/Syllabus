@@ -30,6 +30,7 @@ Before class:
 - test all tools
 - make sure no tool requires unnecessary personal data
 - prepare 3 demo prompts: one image, one text, one sound/music
+- open the [Session 1–4 visual pack](../assets/session01-04/README.md) for the discussion frame and low-tech fallback
 - print handouts
 - have a low-tech backup in case accounts fail
 

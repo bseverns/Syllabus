@@ -54,6 +54,7 @@ The course is strongest when it helps students ask:
 - `ASSESSMENT/` — feedback rubric and portfolio prompts
 - `TOOLS/` — adaptable tool-stack suggestions
 - `COMMUNITY/` — family-facing description and implementation notes
+- `assets/` — ready-to-project visuals with alt text and licensing notes
 
 ## Recommended facilitation stance
 

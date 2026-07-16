@@ -31,6 +31,8 @@ Prepare 3–5 examples of problematic outputs:
 - a suspicious citation list
 - a flattened neighborhood or community description
 
+Use the analysis frame in the [Session 1–4 visual pack](../assets/session01-04/README.md) with each prepared output.
+
 ## Agenda
 
 ### 1. Discussion — 15 min

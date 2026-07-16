@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">AI around us and the prompt revision cycle</title>
+  <desc id="desc">The left maps everyday AI systems such as feeds, search, cameras, music, and games. The right shows a weak prompt becoming specific, followed by human selection and editing.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">Notice the system. Direct the tool.</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Session 1: where AI appears • Session 2: authorship through revision</text>
+
+  <g transform="translate(55 155)">
+    <rect width="500" height="455" rx="20" fill="#eff6ff"/>
+    <text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#1e3a8a">WHERE IS AI ALREADY?</text>
+    <circle cx="250" cy="220" r="72" fill="#172554"/>
+    <text x="250" y="212" text-anchor="middle" font-family="system-ui, sans-serif" font-size="25" font-weight="800" fill="white">SHAPING</text>
+    <text x="250" y="244" text-anchor="middle" font-family="system-ui, sans-serif" font-size="25" font-weight="800" fill="white">CHOICES</text>
+    <g font-family="system-ui, sans-serif" font-size="19" font-weight="700" text-anchor="middle">
+      <rect x="35" y="92" width="130" height="62" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/><text x="100" y="130" fill="#1e3a8a">FEEDS</text>
+      <rect x="335" y="92" width="130" height="62" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/><text x="400" y="130" fill="#1e3a8a">SEARCH</text>
+      <rect x="35" y="285" width="130" height="62" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/><text x="100" y="323" fill="#1e3a8a">CAMERAS</text>
+      <rect x="335" y="285" width="130" height="62" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/><text x="400" y="323" fill="#1e3a8a">MUSIC</text>
+      <rect x="185" y="360" width="130" height="62" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/><text x="250" y="398" fill="#1e3a8a">GAMES</text>
+    </g>
+    <g stroke="#64748b" stroke-width="4" fill="none"><path d="M165 123 L205 180"/><path d="M335 123 L295 180"/><path d="M165 316 L205 260"/><path d="M335 316 L295 260"/><path d="M250 360 V292"/></g>
+  </g>
+
+  <g transform="translate(605 155)">
+    <rect width="540" height="455" rx="20" fill="#fff7ed"/>
+    <text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#9a3412">REVISION BUILDS AUTHORSHIP</text>
+    <g font-family="system-ui, sans-serif">
+      <rect x="28" y="82" width="484" height="72" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+      <text x="48" y="112" font-size="18" font-weight="800" fill="#991b1b">1 • VAGUE</text><text x="48" y="140" font-size="18" fill="#7f1d1d">“Make a cool game poster.”</text>
+      <path d="M270 160 V184" stroke="#64748b" stroke-width="5"/>
+      <rect x="28" y="190" width="484" height="100" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="3"/>
+      <text x="48" y="220" font-size="18" font-weight="800" fill="#92400e">2 • ADD DECISIONS</text>
+      <text x="48" y="248" font-size="17" fill="#78350f">Audience • mood • setting • limits • format</text>
+      <text x="48" y="274" font-size="17" fill="#78350f">“Night transit mystery; two colors; no weapons.”</text>
+      <path d="M270 296 V320" stroke="#64748b" stroke-width="5"/>
+      <rect x="28" y="326" width="484" height="82" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+      <text x="48" y="356" font-size="18" font-weight="800" fill="#166534">3 • SELECT, REJECT, EDIT</text>
+      <text x="48" y="384" font-size="17" fill="#14532d">Keep what serves the idea. Change what does not.</text>
+    </g>
+    <text x="28" y="438" font-family="system-ui, sans-serif" font-size="17" fill="#7c2d12">The tool generates material. The student designs the experience.</text>
+  </g>
+</svg>

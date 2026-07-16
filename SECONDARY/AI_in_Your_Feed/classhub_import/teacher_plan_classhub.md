@@ -17,6 +17,7 @@ Slug rule: start with s01- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Test all selected AI tools.
 - Prepare one image, one text, and one sound demo.
+- Open the [Session 1–4 visual pack](../assets/session01-04/README.md) for the discussion frame and low-tech fallback.
 - Print privacy and community handouts.
 - Prepare a low-tech backup plan.
 
@@ -55,6 +56,7 @@ Slug rule: start with s02- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
 - Prepare one small demo project that can be built quickly.
+- Open the prompt-revision sheet in the [Session 1–4 visual pack](../assets/session01-04/README.md).
 - Decide on project tracks that fit available tools.
 
 Materials
@@ -92,6 +94,7 @@ Slug rule: start with s03- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare several problematic AI outputs in advance.
 - Choose examples that show inaccuracy, stereotype, flattening, or fake confidence.
+- Open the analysis frame in the [Session 1–4 visual pack](../assets/session01-04/README.md).
 
 Materials
 - Projector
@@ -126,6 +129,7 @@ Slug rule: start with s04- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
 - Confirm export or screenshot options for final work.
+- Open the privacy checklist in the [Session 1–4 visual pack](../assets/session01-04/README.md).
 - Decide showcase order.
 - Print the student survival guide.
 

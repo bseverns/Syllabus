@@ -27,6 +27,7 @@ How can I keep making with AI without giving away too much or trusting too much?
 - decide on showcase order
 - confirm export options from tools
 - prepare 5–7 minute privacy mini-lesson
+- open the privacy checklist in the [Session 1–4 visual pack](../assets/session01-04/README.md)
 - print handouts for all students
 
 ## Agenda
