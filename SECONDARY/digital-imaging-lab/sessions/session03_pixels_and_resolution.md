@@ -36,6 +36,7 @@ Demonstrate:
 
 - Show same image at 4000×3000 vs 64×48.
 - Show difference between save as JPG vs PNG (if possible).
+- Project the [Session 3–10 visual pack](../assets/session03-10/README.md) before the live resizing demo.
 
 ### 3. Demo: resizing for pixel art (10–15 min)
 

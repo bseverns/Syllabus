@@ -17,6 +17,8 @@
 
 ### 1. Final setup (10–20 min)
 
+Project the readiness checklist in the [Session 11–12 visual pack](../assets/session11-12/README.md).
+
 Students:
 
 - Export final series images in display format (JPG/PNG or printed).

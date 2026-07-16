@@ -83,7 +83,7 @@ Lesson slug (for course.yaml): s03-pixels-and-resolution
 Slug rule: start with s03- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare examples of high and low resolution.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md) for high/low-resolution examples.
 - Set up the pixel self-portrait prompt.
 
 Materials
@@ -116,7 +116,7 @@ Lesson slug (for course.yaml): s04-editing-basics-tone-color
 Slug rule: start with s04- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare one before/after editing demo.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md) and prepare one live before/after editing demo.
 - Check editor access and sample files.
 
 Materials
@@ -149,7 +149,7 @@ Lesson slug (for course.yaml): s05-layers-masks-collage
 Slug rule: start with s05- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare a simple mask demo.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md) and prepare a simple mask demo.
 - Gather image sources with clear usage expectations.
 
 Materials
@@ -182,7 +182,7 @@ Lesson slug (for course.yaml): s06-text-graphics-posters
 Slug rule: start with s06- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare poster examples.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md), then add locally relevant poster examples.
 - Review Project 2 prompt and layout sketch workflow.
 
 Materials
@@ -216,7 +216,7 @@ Lesson slug (for course.yaml): s07-color-stories-and-grading
 Slug rule: start with s07- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare examples with distinct palettes or moods.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md) for distinct palettes and moods.
 
 Materials
 - Computers
@@ -248,7 +248,7 @@ Lesson slug (for course.yaml): s08-retouching-restoration-ethics
 Slug rule: start with s08- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare one restoration demo and one ethics discussion image.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md), then prepare one live restoration demo.
 
 Materials
 - Computers
@@ -280,7 +280,7 @@ Lesson slug (for course.yaml): s09-glitch-and-experimental-imaging
 Slug rule: start with s09- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare examples of glitch methods appropriate to available tools.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md) and prepare tool-specific glitch methods.
 
 Materials
 - Computers
@@ -312,7 +312,7 @@ Lesson slug (for course.yaml): s10-generative-images-with-code
 Slug rule: start with s10- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
-- Prepare a very small p5.js or similar demo.
+- Open the [Session 3–10 visual pack](../assets/session03-10/README.md) and prepare a very small p5.js or similar demo.
 - Confirm browser access and fallback plan.
 
 Materials
@@ -346,6 +346,7 @@ Slug rule: start with s11- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
 - Review project status.
+- Open the [Session 11–12 visual pack](../assets/session11-12/README.md) for the series check-in.
 - Prepare short intervention demos for likely technical needs.
 
 Materials
@@ -379,6 +380,7 @@ Slug rule: start with s12- and use lowercase letters, numbers, and dashes only.
 
 Teacher prep
 - Confirm display or slideshow setup.
+- Open the [Session 11–12 visual pack](../assets/session11-12/README.md) for the readiness checklist.
 - Prepare reflection prompts.
 
 Materials

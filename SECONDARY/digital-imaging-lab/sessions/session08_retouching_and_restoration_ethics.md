@@ -22,6 +22,7 @@
   - Remove a small object,
   - Smooth skin slightly,
   - Restore a torn photo.
+- Frame the comparison with the restore-or-mislead sheet in the [Session 3–10 visual pack](../assets/session03-10/README.md).
 - Have students find changes.
 
 ### 2. Mini-lesson: retouch tools (15–20 min)

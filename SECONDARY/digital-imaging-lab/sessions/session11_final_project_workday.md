@@ -12,6 +12,7 @@
 - Give sustained studio time to build Experimental Series.
 - Provide structured check-ins and feedback.
 - Help students plan what will be ready to show.
+- Use the [Session 11–12 visual pack](../assets/session11-12/README.md) to check repetition, change, and sequence.
 
 ## A-Block (≈45 min)
 

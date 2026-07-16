@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Build a series and prepare an exhibition</title>
+  <desc id="desc">Three related image cards show repetition and change. A four-step checklist covers export, title, order, and reflection.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">Finish the series, then shape the viewing</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Session 11: sequence • Session 12: exhibition and reflection</text>
+  <g transform="translate(55 155)">
+    <rect width="620" height="455" rx="20" fill="#eef2ff"/>
+    <text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#3730a3">A SERIES REPEATS + CHANGES</text>
+    <g transform="translate(28 90)">
+      <g><rect width="170" height="245" rx="12" fill="#172554"/><circle cx="85" cy="102" r="55" fill="#22d3ee"/><path d="M25 202 L85 145 L145 202" fill="none" stroke="#facc15" stroke-width="10"/></g>
+      <g transform="translate(195)"><rect width="170" height="245" rx="12" fill="#172554"/><circle cx="70" cy="118" r="55" fill="#f472b6"/><path d="M25 202 L85 132 L145 202" fill="none" stroke="#facc15" stroke-width="10"/></g>
+      <g transform="translate(390)"><rect width="170" height="245" rx="12" fill="#172554"/><circle cx="105" cy="92" r="55" fill="#a3e635"/><path d="M25 202 L85 152 L145 202" fill="none" stroke="#facc15" stroke-width="10"/></g>
+    </g>
+    <text x="28" y="385" font-family="system-ui, sans-serif" font-size="18" fill="#312e81">Repeat: format, background, line • Change: color, position, rhythm</text>
+  </g>
+  <g transform="translate(725 155)">
+    <rect width="420" height="455" rx="20" fill="#f0fdf4"/>
+    <text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#166534">READY TO SHOW?</text>
+    <g transform="translate(28 88)" font-family="system-ui, sans-serif">
+      <circle cx="18" cy="18" r="18" fill="#16a34a"/><text x="12" y="25" font-size="20" font-weight="800" fill="white">1</text><text x="55" y="25" font-size="20" font-weight="700" fill="#14532d">EXPORT</text><text x="55" y="50" font-size="16" fill="#166534">correct size, format, filename</text>
+      <circle cx="18" cy="98" r="18" fill="#16a34a"/><text x="12" y="105" font-size="20" font-weight="800" fill="white">2</text><text x="55" y="105" font-size="20" font-weight="700" fill="#14532d">TITLE</text><text x="55" y="130" font-size="16" fill="#166534">name the work and series</text>
+      <circle cx="18" cy="178" r="18" fill="#16a34a"/><text x="12" y="185" font-size="20" font-weight="800" fill="white">3</text><text x="55" y="185" font-size="20" font-weight="700" fill="#14532d">ORDER</text><text x="55" y="210" font-size="16" fill="#166534">choose the viewing sequence</text>
+      <circle cx="18" cy="258" r="18" fill="#16a34a"/><text x="12" y="265" font-size="20" font-weight="800" fill="white">4</text><text x="55" y="265" font-size="20" font-weight="700" fill="#14532d">REFLECT</text><text x="55" y="290" font-size="16" fill="#166534">name one choice and one change</text>
+    </g>
+    <text x="28" y="410" font-family="system-ui, sans-serif" font-size="18" fill="#14532d">The display is part of the work.</text>
+  </g>
+</svg>

@@ -18,6 +18,7 @@
 ### 1. Warm-up: code vs hand (10 min)
 
 - Show an abstract image.
+- Use the generative-rules sheet in the [Session 3–10 visual pack](../assets/session03-10/README.md).
 - Ask: “Do you think this was drawn by hand or by code?”
 - Reveal that it was generated.
 

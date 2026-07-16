@@ -18,6 +18,7 @@
 ### 1. Warm-up: poster walk (10–15 min)
 
 - Show 3–4 posters (school event, movie, activism, etc.).
+- Start with the hierarchy comparison in the [Session 3–10 visual pack](../assets/session03-10/README.md), then add locally relevant posters.
 - Ask:
   - What’s the first thing you read?
   - What’s the loudest element?

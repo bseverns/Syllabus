@@ -21,6 +21,7 @@
   - Background color
   - Photo
   - Text
+- Use the layer-stack sheet in the [Session 3–10 visual pack](../assets/session03-10/README.md).
 - Use transparent paper or simple slides to demonstrate “stacking.”
 
 ### 2. Mini-lesson: layers (15–20 min)

@@ -18,6 +18,7 @@
 ### 1. Warm-up: mood matching (10–15 min)
 
 - Show 3 small color palettes (e.g., cool blues, muted browns, neon brights).
+- Project the color-mood sheet in the [Session 3–10 visual pack](../assets/session03-10/README.md).
 - Ask: “Which mood do you associate with each?”
 
 ### 2. Mini-lesson: color grading (20–25 min)

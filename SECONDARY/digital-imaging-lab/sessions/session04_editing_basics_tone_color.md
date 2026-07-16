@@ -18,6 +18,7 @@
 ### 1. Warm-up comparison (10 min)
 
 - Show before/after of an image where only tone/color changed.
+- Use the [Session 3–10 visual pack](../assets/session03-10/README.md) to compare neutral, warm, and cool treatment.
 - Ask students to describe the mood difference.
 
 ### 2. Mini-lesson: tone controls (15–20 min)

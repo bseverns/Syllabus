@@ -20,6 +20,7 @@
 - Show:
   - A technically perfect “stock” photo.
   - A messy, glitched image with strong feeling.
+- Use the controlled-glitch sheet in the [Session 3–10 visual pack](../assets/session03-10/README.md).
 - Ask:
   - Which is more interesting to you? Why?
 

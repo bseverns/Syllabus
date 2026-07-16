@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Glitch methods and generative rules</title>
+  <desc id="desc">The left shows channel offset, slicing, and block glitches. The right shows one repeated circle rule with different parameter values.</desc>
+  <rect width="1200" height="700" fill="#0f172a"/><text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="white">Error and rules can both be tools</text><text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#cbd5e1">Session 9: controlled glitch • Session 10: generative variation</text>
+  <g transform="translate(55 155)">
+    <rect width="520" height="455" rx="20" fill="#111827" stroke="#334155" stroke-width="2"/><text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#67e8f9">CONTROLLED GLITCH</text>
+    <g transform="translate(35 90)"><rect x="14" y="12" width="420" height="230" rx="10" fill="#22d3ee" opacity=".7"/><rect x="28" width="420" height="230" rx="10" fill="#f43f5e" opacity=".55"/><rect x="20" y="7" width="420" height="230" rx="10" fill="#f8fafc" opacity=".7"/><g fill="#0f172a"><rect x="0" y="48" width="470" height="12"/><rect x="36" y="94" width="395" height="17"/><rect x="8" y="148" width="452" height="10"/><rect x="52" y="195" width="380" height="14"/></g><g fill="#a3e635"><rect x="26" y="72" width="420" height="6"/><rect x="10" y="174" width="450" height="7"/></g></g>
+    <text x="28" y="375" font-family="system-ui, sans-serif" font-size="18" fill="#cbd5e1">Duplicate first. Change one method. Save each version.</text>
+  </g>
+  <g transform="translate(625 155)">
+    <rect width="520" height="455" rx="20" fill="#172554" stroke="#334155" stroke-width="2"/><text x="28" y="48" font-family="system-ui, sans-serif" font-size="26" font-weight="750" fill="#fde047">ONE RULE, THREE RESULTS</text><text x="28" y="88" font-family="ui-monospace, monospace" font-size="18" fill="#bfdbfe">repeat circle • change spacing + size</text>
+    <g transform="translate(28 125)" fill="none" stroke="#67e8f9" stroke-width="5"><circle cx="35" cy="55" r="18"/><circle cx="80" cy="55" r="18"/><circle cx="125" cy="55" r="18"/><circle cx="170" cy="55" r="18"/><circle cx="215" cy="55" r="18"/></g>
+    <g transform="translate(28 220)" fill="#f472b6" opacity=".8"><circle cx="45" cy="55" r="12"/><circle cx="105" cy="55" r="22"/><circle cx="180" cy="55" r="32"/><circle cx="270" cy="55" r="42"/><circle cx="375" cy="55" r="52"/></g>
+    <path d="M40 365 Q130 300 215 345 T450 315" fill="none" stroke="#a3e635" stroke-width="8"/><g fill="#fde047"><circle cx="40" cy="365" r="9"/><circle cx="125" cy="320" r="9"/><circle cx="215" cy="345" r="9"/><circle cx="330" cy="328" r="9"/><circle cx="450" cy="315" r="9"/></g><text x="28" y="420" font-family="system-ui, sans-serif" font-size="18" fill="#dbeafe">Ask: which value changed which visual result?</text>
+  </g>
+</svg>
