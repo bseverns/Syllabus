@@ -40,7 +40,7 @@ ASSETS/     Printable starter prompts, lightweight event artifacts, and ready-to
 
 Start with `SPINE/SERIES_OVERVIEW.md`, then choose one lab folder and read its `README.md` and `FACILITATOR_GUIDE.md`.
 
-Project the matching original SVG from [`ASSETS/course-visuals/`](ASSETS/course-visuals/README.md) during the opening demo; each sheet has facilitator use guidance and accessible alt text.
+Project the matching original SVG from [`ASSETS/course-visuals/`](ASSETS/course-visuals/README.md) during the opening demo; the same pack includes selected CC technical references with facilitator use guidance, alt text, and attribution.
 
 For a first Target pilot, this package still recommends:
 
