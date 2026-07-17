@@ -1,10 +1,10 @@
-# Participant Card: Dimension Token
+# Start Here: Dimension Token
 
-## Your challenge
+## Make this
 
-Make a tiny 3D file with exact dimensions, export it as an STL, and predict how it will behave when printed.
+Make a small 3D tag that is exactly the size listed below. Export the file, then write down what might go wrong when it prints.
 
-## What you will make
+## Use these sizes
 
 A **Dimension Token**:
 
@@ -16,7 +16,7 @@ A **Dimension Token**:
 
 ## Steps
 
-1. Open the starter template.
+1. Open the starter template. If you need the screen-by-screen CAD path, use [`TINKERCAD_RAPID_STEPS.md`](TINKERCAD_RAPID_STEPS.md).
 2. Confirm the base is **30 × 18 × 3 mm**.
 3. Add one raised mark or short word.
 4. Keep raised details about **0.8–1.0 mm** high.
@@ -24,6 +24,11 @@ A **Dimension Token**:
 6. Group / combine the shape.
 7. Export as `.STL`.
 8. Complete your Dimension Card.
+
+## Printer boundary + recovery
+
+- The facilitator queues, starts, and removes prints. Do not touch the nozzle, bed, or moving machine parts.
+- If your export or model fails, keep the Dimension Card and record the intended dimensions and risk; a clean documented design is still a finished lab artifact.
 
 ## Your artifact title
 

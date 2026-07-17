@@ -1,12 +1,12 @@
-# Participant Card: Sound Logo Sprint
+# Start Here: Sound Logo Sprint
 
-## Your challenge
+## Make this
 
-Make a 5–10 second sound logo using ordinary objects.
+Make a 5–10 second sound using three ordinary objects.
 
 **Foley** means sound design made with everyday objects.
 
-## What you will make
+## You need
 
 A short sound logo with:
 
@@ -14,6 +14,8 @@ A short sound logo with:
 - 3–5 recorded object sounds;
 - one clear feeling or message;
 - one sentence explaining your design choice.
+
+Keep the [`SOUND_LOGO_CUE_SHEET.md`](SOUND_LOGO_CUE_SHEET.md) beside this card. It is where you record the object recipe and sound order.
 
 ## Step 1: Pick a prompt
 
@@ -62,9 +64,15 @@ Title:
 
 `________________________________________`
 
-## Step 6: Write the design intent
+## Step 6: Say what you want it to feel like
 
 > This sound logo should feel like __________________________________ because __________________________________.
+
+## If you are stuck
+
+- Start with exactly one impact, one texture, and one motion sound.
+- Record close to the object; a quiet, short take is better than a loud room recording.
+- Listen once, change one thing, then stop. Silence can be your final sound.
 
 ## Share-out sentence
 

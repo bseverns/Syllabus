@@ -1,38 +1,24 @@
-# Participant Card: Signal Postcards
+# Start Here: Signal Postcards
 
-## Your challenge
+## Make this
 
-Participants collect one simple environmental or behavioral signal from the room, convert it into a postcard-sized data visualization, and send one evidence-based recommendation to a future user of the space.
+Make a postcard that shows what you noticed in this room and one change you recommend. Use the [`SIGNAL_POSTCARD_TEMPLATE.md`](SIGNAL_POSTCARD_TEMPLATE.md).
 
-## What you will make
+## Do this in order
 
-4×6 postcard with front-side data artwork and back-side addressed message.
+1. **Choose one signal:** sound, light, movement, temperature, people flow, or another room condition. Do not record names, faces, or private information.
+2. **Choose 3–5 points** in the room. Give each point a short label such as `door`, `window`, `table 3`, or `quiet corner`.
+3. **Take one reading or observation** at every point. If the measuring tool is busy, use a clear shared scale such as `quiet / medium / loud` or `dim / medium / bright`.
+4. **Write the readings** on the front of the postcard, then draw a simple picture of the pattern: dots, colors, bars, or a path.
+5. **Write the back-side message:** choose who it is for, then write “We noticed…” and “We recommend…”.
+6. **Title and sign** the postcard. Check that someone who did not measure with you can still understand the pattern.
 
-## Steps
+## If you are stuck
 
-1. Look at the example.
-2. Choose your starting prompt.
-3. Try the tool once.
-4. Make one change.
-5. Name your artifact.
-6. Write one sentence about what changed or what you noticed.
+- No pattern yet? Compare the two most different points.
+- Too many details? Keep only the 3–5 readings that support your recommendation.
+- Tool problem? Use the shared observation scale and keep going.
 
-## Your artifact title
+## Share-out sentence
 
-`________________________________________`
-
-## What did you try?
-
-`________________________________________`
-
-## What changed after your first attempt?
-
-`________________________________________`
-
-## What would you do with one more hour?
-
-`________________________________________`
-
-## Optional share-out sentence
-
-> We made `__________`. We changed `__________`. We noticed `__________`.
+> We noticed `__________` near `__________`. We recommend `__________`.

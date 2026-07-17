@@ -1,38 +1,24 @@
-# Participant Card: Tiny Code Creatures
+# Start Here: Tiny Code Creatures
 
-## Your challenge
+## Make this
 
-Participants create a simple micro:bit creature that responds to buttons, shake, or tilt.
+Make your micro:bit creature do one thing when someone presses a button or moves it. Then add one more action. Record both on your [`CREATURE_CARD.md`](CREATURE_CARD.md).
 
-## What you will make
+## Do this in order
 
-Interactive micro:bit creature with named input/output mapping.
+1. **Name your creature** and choose one personality: happy, grumpy, nervous, helpful, glitchy, sleepy, or your own.
+2. **Choose one input:** Button A, Button B, shake, or tilt.
+3. **Choose one output:** an LED face/icon, a message/number, or an approved sound/gesture.
+4. **Build and test one response** in the provided starter project before adding a second one.
+5. **Add a second action:** for example, Button A = happy, Button B = grumpy, shake = surprise, or tilt = look left/right.
+6. **Complete the Creature Card** with the input/output map and one bug or surprise you noticed.
 
-## Steps
+## If you are stuck
 
-1. Look at the example.
-2. Choose your starting prompt.
-3. Try the tool once.
-4. Make one change.
-5. Name your artifact.
-6. Write one sentence about what changed or what you noticed.
+- Start with Button A and one LED icon. Test it before changing anything else.
+- Response not showing? Reconnect or re-download using the local station workflow, then test the same single input again.
+- Out of ideas? Make two opposite moods with two opposite icons.
 
-## Your artifact title
+## Share-out sentence
 
-`________________________________________`
-
-## What did you try?
-
-`________________________________________`
-
-## What changed after your first attempt?
-
-`________________________________________`
-
-## What would you do with one more hour?
-
-`________________________________________`
-
-## Optional share-out sentence
-
-> We made `__________`. We changed `__________`. We noticed `__________`.
+> When I `__________`, my creature `__________`.

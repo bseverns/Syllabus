@@ -1,38 +1,24 @@
-# Participant Card: FPV Flight School
+# Start Here: FPV Flight School
 
-## Your challenge
+## Make this
 
-Participants learn the basic control logic of FPV flight through simulator drills and record one skill goal for future practice.
+Use the simulator to lift off, hover, recover from a crash, and pass one gate. Record what happened on your [`PILOT_CARD.md`](PILOT_CARD.md).
 
-## What you will make
+## Do this in order
 
-Pilot Card documenting the first controlled flight attempt.
+1. **Use the station exactly as it is set.** This lab is simulator practice; do not change local controller or simulator settings.
+2. **Find throttle** with a tiny input. Lift off only enough to see that the simulator responds.
+3. **Hover for five seconds.** Keep your movements small. A steady hover counts more than speed.
+4. **Fly through one gate.** Go slowly; a clean pass matters more than speed.
+5. **After any crash, reset calmly.** Return to hover before trying another gate.
+6. **Complete the Pilot Card:** mark the drills you completed, name the hardest control, and choose one next practice goal.
 
-## Steps
+## If you are stuck
 
-1. Look at the example.
-2. Choose your starting prompt.
-3. Try the tool once.
-4. Make one change.
-5. Name your artifact.
-6. Write one sentence about what changed or what you noticed.
+- Drifting? Use smaller movements and return to hover.
+- Crashed? Reset, breathe, and repeat the last successful drill.
+- Waiting for a station? Watch a partner and name one control choice you notice.
 
-## Your artifact title
+## Share-out sentence
 
-`________________________________________`
-
-## What did you try?
-
-`________________________________________`
-
-## What changed after your first attempt?
-
-`________________________________________`
-
-## What would you do with one more hour?
-
-`________________________________________`
-
-## Optional share-out sentence
-
-> We made `__________`. We changed `__________`. We noticed `__________`.
+> My best controlled moment was `__________`. Next I want to practice `__________`.
