@@ -33,12 +33,14 @@ SPINE/      Shared framing, facilitator rhythm, partner pitch, safety, materials
 LABS/       One folder per Lunch Lab, each with its own doc pile.
 TEMPLATES/  Reusable cards, signage, forms, and run sheets.
 DATA/       CSV planning tables for quick import into Airtable, Sheets, or a project tracker.
-ASSETS/     Printable starter prompts and lightweight event artifacts.
+ASSETS/     Printable starter prompts, lightweight event artifacts, and ready-to-project visuals.
 ```
 
 ## How to use this v0.2
 
 Start with `SPINE/SERIES_OVERVIEW.md`, then choose one lab folder and read its `README.md` and `FACILITATOR_GUIDE.md`.
+
+Project the matching original SVG from [`ASSETS/course-visuals/`](ASSETS/course-visuals/README.md) during the opening demo; each sheet has facilitator use guidance and accessible alt text.
 
 For a first Target pilot, this package still recommends:
 

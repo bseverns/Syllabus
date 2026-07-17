@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">FPV Flight School calm recovery loop</title>
+  <desc id="desc">A pilot follows the simulator practice loop: hover, pass a gate, reset calmly, and repeat with one recorded goal.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">Control first. Speed later.</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">FPV Flight School • simulator stick skills for calm hands</text>
+  <g transform="translate(55 155)" font-family="system-ui, sans-serif">
+    <rect width="1090" height="455" rx="20" fill="#eff6ff"/>
+    <text x="35" y="52" font-size="26" font-weight="800" fill="#1e3a8a">THE PRACTICE LOOP</text>
+    <g text-anchor="middle" font-weight="800">
+      <circle cx="165" cy="220" r="94" fill="#dbeafe" stroke="#2563eb" stroke-width="5"/><text x="165" y="210" font-size="25" fill="#1e3a8a">1 • HOVER</text><text x="165" y="245" font-size="18" fill="#1e3a8a">hold steady</text>
+      <circle cx="445" cy="220" r="94" fill="#fef3c7" stroke="#d97706" stroke-width="5"/><text x="445" y="210" font-size="25" fill="#92400e">2 • GATE</text><text x="445" y="245" font-size="18" fill="#92400e">one clean pass</text>
+      <circle cx="725" cy="220" r="94" fill="#fee2e2" stroke="#dc2626" stroke-width="5"/><text x="725" y="210" font-size="25" fill="#991b1b">3 • RESET</text><text x="725" y="245" font-size="18" fill="#991b1b">calmly recover</text>
+      <circle cx="965" cy="220" r="94" fill="#dcfce7" stroke="#16a34a" stroke-width="5"/><text x="965" y="210" font-size="25" fill="#166534">4 • NOTE</text><text x="965" y="245" font-size="18" fill="#166534">one next goal</text>
+    </g>
+    <g stroke="#64748b" stroke-width="8" fill="none"><path d="M262 220 H330"/><path d="M542 220 H610"/><path d="M822 220 H850"/><path d="M965 315 Q965 390 165 390 Q80 390 80 310"/></g>
+    <g fill="#64748b"><path d="M330 220 l-18 -13 v26z"/><path d="M610 220 l-18 -13 v26z"/><path d="M850 220 l-18 -13 v26z"/><path d="M80 310 l-12 18 h24z"/></g>
+    <text x="545" y="425" text-anchor="middle" font-size="22" font-weight="700" fill="#334155">A reset is part of skilled practice, not a failed turn.</text>
+  </g>
+</svg>

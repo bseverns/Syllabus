@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Sound Logo Sprint object sounds to logo</title>
+  <desc id="desc">Impact, texture, and motion object sounds form a short sound logo, with a small silence before the final mark.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">Give every sound a job.</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Sound Logo Sprint • Foley + tiny audio identity</text>
+  <g transform="translate(55 155)" font-family="system-ui, sans-serif">
+    <rect width="500" height="455" rx="20" fill="#f3e8ff"/><text x="28" y="48" font-size="26" font-weight="800" fill="#6b21a8">1 • PICK ORDINARY OBJECTS</text>
+    <g text-anchor="middle" font-weight="800"><circle cx="120" cy="180" r="62" fill="#fff" stroke="#a855f7" stroke-width="4"/><text x="120" y="174" font-size="21" fill="#6b21a8">IMPACT</text><text x="120" y="205" font-size="17" fill="#6b21a8">keys</text><circle cx="250" cy="180" r="62" fill="#fff" stroke="#a855f7" stroke-width="4"/><text x="250" y="174" font-size="21" fill="#6b21a8">TEXTURE</text><text x="250" y="205" font-size="17" fill="#6b21a8">paper</text><circle cx="380" cy="180" r="62" fill="#fff" stroke="#a855f7" stroke-width="4"/><text x="380" y="174" font-size="21" fill="#6b21a8">MOTION</text><text x="380" y="205" font-size="17" fill="#6b21a8">zipper</text></g>
+    <text x="55" y="315" font-size="22" font-weight="700" fill="#6b21a8">Record 3–5 sounds. Name the feeling.</text><text x="55" y="355" font-size="18" fill="#475569">Ordinary objects become intentional material.</text>
+  </g>
+  <g transform="translate(605 155)" font-family="system-ui, sans-serif"><rect width="540" height="455" rx="20" fill="#fff7ed"/><text x="28" y="48" font-size="26" font-weight="800" fill="#9a3412">2 • ARRANGE A SHORT CUE</text>
+    <path d="M45 250 V160 l30 -40 30 80 30 -120 30 160 30 -70 30 30 30 -110 30 100 30 -30 30 50 30 -120 30 110" fill="none" stroke="#9333ea" stroke-width="10"/><path d="M45 285 H385" stroke="#64748b" stroke-width="4"/><path d="M405 285 H495" stroke="#64748b" stroke-width="4" stroke-dasharray="8 8"/><path d="M45 320 H495" stroke="#64748b" stroke-width="4"/>
+    <g font-size="18" font-weight="800"><text x="45" y="360" fill="#6b21a8">IMPACT</text><text x="165" y="360" fill="#6b21a8">TEXTURE</text><text x="290" y="360" fill="#6b21a8">MOTION</text><text x="405" y="360" fill="#64748b">SILENCE</text><text x="45" y="410" fill="#9a3412">5–10 SECONDS • ONE CLEAR DESIGN INTENTION</text></g>
+  </g>
+</svg>

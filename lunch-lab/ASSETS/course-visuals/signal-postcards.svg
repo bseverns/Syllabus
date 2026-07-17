@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Signal Postcards observation to recommendation</title>
+  <desc id="desc">A room observation becomes a three-point dot map, then a postcard message with an evidence-based recommendation.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">Notice a signal. Send a useful dispatch.</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Signal Postcards • data storytelling from the room</text>
+  <g transform="translate(55 155)" font-family="system-ui, sans-serif">
+    <rect width="500" height="455" rx="20" fill="#eff6ff"/><text x="28" y="48" font-size="26" font-weight="800" fill="#1e3a8a">1 • OBSERVE THREE POINTS</text>
+    <rect x="30" y="80" width="440" height="255" rx="14" fill="#fff" stroke="#93c5fd" stroke-width="3"/>
+    <path d="M80 145 H415 M80 210 H415 M80 275 H415 M150 110 V305 M250 110 V305 M350 110 V305" stroke="#cbd5e1" stroke-width="3"/>
+    <g fill="#ef4444"><circle cx="150" cy="145" r="16"/><circle cx="250" cy="210" r="16"/><circle cx="350" cy="275" r="16"/></g>
+    <text x="80" y="375" font-size="20" font-weight="700" fill="#1e3a8a">light, sound, movement, or waiting</text><text x="80" y="410" font-size="18" fill="#475569">Use a small real observation, not a guess.</text>
+  </g>
+  <g transform="translate(605 155)" font-family="system-ui, sans-serif">
+    <rect width="540" height="455" rx="20" fill="#fff7ed"/><text x="28" y="48" font-size="26" font-weight="800" fill="#9a3412">2 • MAKE THE POSTCARD</text>
+    <rect x="45" y="85" width="450" height="250" rx="12" fill="#fff" stroke="#fb923c" stroke-width="4"/>
+    <path d="M270 85 V335" stroke="#fed7aa" stroke-width="4"/><text x="70" y="125" font-size="18" font-weight="800" fill="#9a3412">FRONT: MAP</text>
+    <path d="M85 250 V165 M135 250 V135 M185 250 V195 M235 250 V115" stroke="#2563eb" stroke-width="22"/><text x="295" y="125" font-size="18" font-weight="800" fill="#9a3412">BACK: MESSAGE</text>
+    <text x="295" y="172" font-size="19" fill="#334155">I noticed…</text><text x="295" y="215" font-size="19" fill="#334155">The evidence suggests…</text><text x="295" y="258" font-size="19" fill="#334155">A future user could…</text>
+    <text x="45" y="400" font-size="23" font-weight="800" fill="#9a3412">Observation → visual → recommendation</text>
+  </g>
+</svg>

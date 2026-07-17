@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Dimension Token print constraints</title>
+  <desc id="desc">A 30 by 18 by 3 millimeter token shows a raised mark, optional hole, flat back, and no-support print constraints.</desc>
+  <rect width="1200" height="700" fill="#f8fafc"/>
+  <text x="55" y="68" font-family="system-ui, sans-serif" font-size="38" font-weight="800" fill="#0f172a">A tiny object still has real constraints.</text>
+  <text x="55" y="108" font-family="system-ui, sans-serif" font-size="21" fill="#475569">Dimension Token • rapid STL sprint + live print conversation</text>
+  <g transform="translate(55 155)" font-family="system-ui, sans-serif"><rect width="690" height="455" rx="20" fill="#eff6ff"/><text x="28" y="48" font-size="26" font-weight="800" fill="#1e3a8a">DEFAULT TOKEN</text>
+    <rect x="145" y="145" width="360" height="216" rx="22" fill="#dbeafe" stroke="#2563eb" stroke-width="7"/><text x="325" y="275" text-anchor="middle" font-size="76" font-weight="800" fill="#1e3a8a">LL</text><circle cx="220" cy="205" r="24" fill="#f8fafc" stroke="#2563eb" stroke-width="6"/>
+    <path d="M145 115 H505 M145 105 V125 M505 105 V125" stroke="#64748b" stroke-width="4"/><text x="325" y="92" text-anchor="middle" font-size="24" font-weight="800" fill="#334155">30 mm</text><path d="M110 145 V361 M100 145 H120 M100 361 H120" stroke="#64748b" stroke-width="4"/><text x="88" y="265" text-anchor="middle" font-size="24" font-weight="800" fill="#334155" transform="rotate(-90 88 265)">18 mm</text><text x="145" y="410" font-size="21" font-weight="700" fill="#1e3a8a">3 mm base • 0.8–1.0 mm raised mark</text>
+  </g><g transform="translate(795 155)" font-family="system-ui, sans-serif"><rect width="350" height="455" rx="20" fill="#fff7ed"/><text x="28" y="48" font-size="26" font-weight="800" fill="#9a3412">PRINT CHECK</text><g font-size="21" fill="#334155"><text x="35" y="120">✓ flat back</text><text x="35" y="180">✓ one color</text><text x="35" y="240">✓ no supports</text><text x="35" y="300">✓ readable mark</text></g><text x="35" y="380" font-size="21" font-weight="800" fill="#9a3412">Model → slicer → first layer</text></g>
+</svg>
