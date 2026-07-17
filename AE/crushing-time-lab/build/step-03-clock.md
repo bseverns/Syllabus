@@ -3,6 +3,11 @@
 ## Goal
 Make a controllable clock from very slow to very fast.
 
+## Breadboard placement map
+![Top-down 555 clock breadboard layout](../../choir-divider/assets/555-clock-breadboard-layout.svg)
+
+The optional internal 555 clock uses the same core net as Choir Divider. Confirm the local AE BRAEDBOARD power points, board orientation, and measurements before adding the later CV-conditioning stage.
+
 ## Wire (NE555 astable)
 - RESET to +5V
 - Tie TRIG to THR

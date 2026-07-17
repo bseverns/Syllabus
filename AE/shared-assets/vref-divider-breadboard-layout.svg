@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title>AE workshop Vref divider breadboard layout</title>
+  <desc>Top-down layout for a 2.5 volt reference divider on a standard 17-column mini breadboard. Two 100 kilohm resistors divide plus 5 volts to ground, and a 100 nanofarad capacitor stabilizes the midpoint Vref node. The diagram gives exact hole coordinates and a measurement check.</desc>
+  <defs>
+    <pattern id="holes" width="34" height="42" patternUnits="userSpaceOnUse">
+      <rect width="34" height="42" fill="#eef2f5"/>
+      <circle cx="17" cy="21" r="4.8" fill="#475569"/>
+      <circle cx="17" cy="21" r="2.2" fill="#0f172a"/>
+    </pattern>
+    <style>
+      .heading { font-family: Arial, sans-serif; fill: #f8fafc; font-weight: 700; }
+      .label { font-family: Arial, sans-serif; fill: #172033; font-weight: 700; }
+      .body { font-family: Arial, sans-serif; fill: #334155; font-size: 21px; }
+      .small { font-family: Arial, sans-serif; fill: #475569; font-size: 17px; }
+      .axis { font-family: Arial, sans-serif; fill: #475569; font-size: 19px; font-weight: 700; }
+      .wire { fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10; }
+      .component { fill: #f8fafc; stroke: #475569; stroke-width: 3; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="820" fill="#0f172a"/>
+  <rect x="32" y="28" width="1336" height="92" rx="20" fill="#172554"/>
+  <text x="66" y="76" class="heading" font-size="38">AE workshops · 2.5V Vref divider</text>
+  <text x="66" y="105" class="heading" font-size="19" font-weight="400">Original standard-mini-breadboard layout · use for Fold &amp; Fire and Crushing Time Step 01</text>
+
+  <rect x="40" y="148" width="720" height="620" rx="22" fill="#dbe4ea"/>
+  <text x="72" y="188" class="label" font-size="27">ONE MINI BREADBOARD · no rails assumed</text>
+  <text x="72" y="216" class="small">Each numbered column connects A–E and F–J separately. Vref is the purple midpoint node.</text>
+
+  <rect x="110" y="242" width="578" height="210" rx="14" fill="url(#holes)" stroke="#64748b" stroke-width="4"/>
+  <rect x="110" y="522" width="578" height="210" rx="14" fill="url(#holes)" stroke="#64748b" stroke-width="4"/>
+  <rect x="110" y="452" width="578" height="70" fill="#cbd5e1" stroke="#64748b" stroke-width="3"/>
+
+  <g class="axis" text-anchor="middle">
+    <text x="127" y="233">1</text><text x="161" y="233">2</text><text x="195" y="233">3</text><text x="229" y="233">4</text><text x="263" y="233">5</text><text x="297" y="233">6</text><text x="331" y="233">7</text><text x="365" y="233">8</text><text x="399" y="233">9</text><text x="433" y="233">10</text><text x="467" y="233">11</text><text x="501" y="233">12</text><text x="535" y="233">13</text><text x="569" y="233">14</text><text x="603" y="233">15</text><text x="637" y="233">16</text><text x="671" y="233">17</text>
+  </g>
+  <g class="axis" text-anchor="end">
+    <text x="96" y="269">A</text><text x="96" y="311">B</text><text x="96" y="353">C</text><text x="96" y="395">D</text><text x="96" y="437">E</text>
+    <text x="96" y="549">F</text><text x="96" y="591">G</text><text x="96" y="633">H</text><text x="96" y="675">I</text><text x="96" y="717">J</text>
+  </g>
+
+  <!-- supply terminals and R1 -->
+  <rect x="50" y="651" width="76" height="36" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+  <text x="88" y="677" text-anchor="middle" class="label" font-size="18">+5V</text>
+  <path d="M126 669 H229" class="wire" stroke="#ef4444"/>
+  <path d="M229 669 H262" class="wire" stroke="#ef4444"/>
+  <rect x="262" y="656" width="104" height="26" rx="7" class="component"/>
+  <path d="M366 669 H399" class="wire" stroke="#a855f7"/>
+  <text x="314" y="714" text-anchor="middle" class="small">R1 100k · J4 → J9</text>
+
+  <!-- Vref bridge across breadboard channel -->
+  <circle cx="399" cy="669" r="11" fill="#c084fc" stroke="#0f172a" stroke-width="2"/>
+  <path d="M399 669 V263" class="wire" stroke="#a855f7"/>
+  <circle cx="399" cy="263" r="11" fill="#c084fc" stroke="#0f172a" stroke-width="2"/>
+  <rect x="366" y="456" width="66" height="36" rx="8" fill="#f3e8ff" stroke="#7e22ce" stroke-width="3"/>
+  <text x="399" y="482" text-anchor="middle" class="label" font-size="18">Vref</text>
+
+  <!-- R2 to GND -->
+  <path d="M399 263 H433" class="wire" stroke="#a855f7"/>
+  <rect x="433" y="250" width="102" height="26" rx="7" class="component"/>
+  <path d="M535 263 H569" class="wire" stroke="#2563eb"/>
+  <text x="484" y="309" text-anchor="middle" class="small">R2 100k · A9 → A14</text>
+  <rect x="584" y="245" width="76" height="36" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <text x="622" y="271" text-anchor="middle" class="label" font-size="18">GND</text>
+  <path d="M569 263 H584" class="wire" stroke="#2563eb"/>
+
+  <!-- capacitor from Vref to GND -->
+  <path d="M399 263 V353 H449" class="wire" stroke="#a855f7"/>
+  <rect x="449" y="340" width="62" height="26" rx="7" class="component"/>
+  <path d="M511 353 H501 V263 H569" class="wire" stroke="#2563eb"/>
+  <text x="480" y="400" text-anchor="middle" class="small">C1 100nF · A9 → A12</text>
+
+  <!-- measurement points -->
+  <circle cx="399" cy="263" r="18" fill="none" stroke="#7e22ce" stroke-width="4"/>
+  <circle cx="569" cy="263" r="18" fill="none" stroke="#2563eb" stroke-width="4"/>
+  <text x="339" y="245" class="label" font-size="18">measure +</text>
+  <text x="578" y="245" class="label" font-size="18">measure −</text>
+
+  <!-- right build panel -->
+  <rect x="790" y="148" width="578" height="620" rx="22" fill="#f8fafc"/>
+  <text x="830" y="198" class="label" font-size="30">Wire, then measure</text>
+  <g class="body">
+    <text x="830" y="252" font-weight="700">1. Place the divider</text>
+    <text x="860" y="282">R1 100k: J4 (+5V) → J9 (Vref).</text>
+    <text x="860" y="312">Purple jumper J9 ↔ A9 makes one Vref node.</text>
+    <text x="830" y="362" font-weight="700">2. Complete the path to ground</text>
+    <text x="860" y="392">R2 100k: A9 (Vref) → A14 (GND).</text>
+    <text x="860" y="422">C1 100nF: A9 (Vref) → A12; blue jumper A12 → A14.</text>
+    <text x="830" y="472" font-weight="700">3. Check before connecting the rest</text>
+    <text x="860" y="502">Meter + at Vref (A9/J9); meter − at GND (A14).</text>
+    <text x="860" y="532">Expected Vref: ~2.5V at a 5V supply (±0.2V).</text>
+  </g>
+  <rect x="820" y="584" width="516" height="122" rx="16" fill="#fff7ed" stroke="#f97316" stroke-width="3"/>
+  <text x="846" y="622" class="label" font-size="22">Safety / local-hardware check</text>
+  <text x="846" y="653" class="small" font-size="16">Power off before moving wires. Confirm local AE +5V/GND points.</text>
+  <text x="846" y="678" class="small" font-size="16">Confirm mini-board orientation with the approved rig.</text>
+  <text x="846" y="703" class="small" font-size="16">Measure Vref first; do not connect the rest until it is stable.</text>
+
+  <text x="40" y="800" class="heading" font-size="18" font-weight="400">Original repository visual · color key: red +5V · blue GND · purple Vref</text>
+</svg>

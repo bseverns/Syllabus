@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title>Choir Divider optional NE555 clock breadboard layout</title>
+  <desc>Top-down placement map for the optional NE555 clock on a standard 17-column mini breadboard. The 555 straddles the center channel; red wires carry plus 5 volts, blue wires carry ground, purple wires make the timing node, and orange wires carry the clock output. A connection checklist gives the exact hole coordinates.</desc>
+  <defs>
+    <pattern id="holes" width="38" height="48" patternUnits="userSpaceOnUse">
+      <rect width="38" height="48" fill="#eef2f5"/>
+      <circle cx="19" cy="24" r="5" fill="#4b5563"/>
+      <circle cx="19" cy="24" r="2.5" fill="#101827"/>
+    </pattern>
+    <style>
+      .heading { font-family: Arial, sans-serif; fill: #f8fafc; font-weight: 700; }
+      .label { font-family: Arial, sans-serif; fill: #172033; font-weight: 700; }
+      .small { font-family: Arial, sans-serif; fill: #334155; font-size: 21px; }
+      .tiny { font-family: Arial, sans-serif; fill: #334155; font-size: 17px; }
+      .rowlabel { font-family: Arial, sans-serif; fill: #475569; font-size: 20px; font-weight: 700; }
+      .wire { fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10; }
+      .dot { stroke: #0f172a; stroke-width: 2; }
+      .component { fill: #f8fafc; stroke: #475569; stroke-width: 3; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#0f172a"/>
+  <rect x="36" y="28" width="1528" height="96" rx="20" fill="#172554"/>
+  <text x="70" y="76" class="heading" font-size="39">Choir Divider · optional NE555 clock</text>
+  <text x="70" y="106" class="heading" font-size="20" font-weight="400">Standard 17-column mini breadboard placement map · match the local AE BRAEDBOARD before power-up</text>
+
+  <rect x="42" y="150" width="800" height="790" rx="22" fill="#dbe4ea"/>
+  <text x="78" y="190" class="label" font-size="28">ONE MINI BREADBOARD · no built-in rails assumed</text>
+  <text x="78" y="220" class="small" font-size="16">Each numbered column connects A–E and F–J separately. The center channel isolates the two sides.</text>
+
+  <!-- board and central channel -->
+  <rect x="140" y="258" width="646" height="240" rx="14" fill="url(#holes)" stroke="#64748b" stroke-width="4"/>
+  <rect x="140" y="578" width="646" height="240" rx="14" fill="url(#holes)" stroke="#64748b" stroke-width="4"/>
+  <rect x="140" y="498" width="646" height="80" fill="#cbd5e1" stroke="#64748b" stroke-width="3"/>
+
+
+  <!-- column labels -->
+  <g class="rowlabel" text-anchor="middle">
+    <text x="159" y="248">1</text><text x="197" y="248">2</text><text x="235" y="248">3</text><text x="273" y="248">4</text><text x="311" y="248">5</text><text x="349" y="248">6</text><text x="387" y="248">7</text><text x="425" y="248">8</text><text x="463" y="248">9</text><text x="501" y="248">10</text><text x="539" y="248">11</text><text x="577" y="248">12</text><text x="615" y="248">13</text><text x="653" y="248">14</text><text x="691" y="248">15</text><text x="729" y="248">16</text><text x="767" y="248">17</text>
+  </g>
+  <g class="rowlabel" text-anchor="end">
+    <text x="124" y="287">A</text><text x="124" y="335">B</text><text x="124" y="383">C</text><text x="124" y="431">D</text><text x="124" y="479">E</text>
+    <text x="124" y="607">F</text><text x="124" y="655">G</text><text x="124" y="703">H</text><text x="124" y="751">I</text><text x="124" y="799">J</text>
+  </g>
+
+  <!-- power leads -->
+  <rect x="56" y="596" width="72" height="36" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+  <text x="92" y="622" text-anchor="middle" class="label" font-size="19">+5V</text>
+  <rect x="56" y="452" width="72" height="36" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <text x="92" y="478" text-anchor="middle" class="label" font-size="19">GND</text>
+
+  <!-- U1 body, straddling channel -->
+  <rect x="327" y="510" width="152" height="56" rx="10" fill="#1f2937" stroke="#020617" stroke-width="4"/>
+  <path d="M327 530 q18 8 0 16" fill="none" stroke="#f8fafc" stroke-width="4"/>
+  <text x="403" y="545" text-anchor="middle" class="heading" font-size="20">U1 · NE555</text>
+  <!-- pin markers: E6-E9 / F6-F9 -->
+  <g class="dot">
+    <circle cx="349" cy="474" r="10" fill="#60a5fa"/><circle cx="387" cy="474" r="10" fill="#c084fc"/><circle cx="425" cy="474" r="10" fill="#fb923c"/><circle cx="463" cy="474" r="10" fill="#ef4444"/>
+    <circle cx="349" cy="602" r="10" fill="#ef4444"/><circle cx="387" cy="602" r="10" fill="#eab308"/><circle cx="425" cy="602" r="10" fill="#c084fc"/><circle cx="463" cy="602" r="10" fill="#94a3b8"/>
+  </g>
+  <g class="tiny" text-anchor="middle" font-weight="700">
+    <text x="349" y="462">1</text><text x="387" y="462">2</text><text x="425" y="462">3</text><text x="463" y="462">4</text>
+    <text x="349" y="630">8</text><text x="387" y="630">7</text><text x="425" y="630">6</text><text x="463" y="630">5</text>
+  </g>
+
+  <!-- core jumpers -->
+  <path d="M128 614 H349" class="wire" stroke="#ef4444"/>
+  <path d="M349 602 L463 474" class="wire" stroke="#ef4444"/>
+  <path d="M128 470 H349" class="wire" stroke="#2563eb"/>
+  <path d="M387 474 L425 602" class="wire" stroke="#a855f7"/>
+  <path d="M425 474 L615 282" class="wire" stroke="#f97316"/>
+  <path d="M425 474 L691 794" class="wire" stroke="#f97316"/>
+
+  <!-- R1 47k V+ to pin 7 -->
+  <path d="M349 794 H365" class="wire" stroke="#ef4444"/>
+  <rect x="365" y="781" width="44" height="26" rx="7" class="component"/>
+  <path d="M409 794 H387" class="wire" stroke="#eab308"/>
+  <text x="387" y="840" text-anchor="middle" class="tiny">R1 47k</text>
+  <text x="387" y="860" text-anchor="middle" class="tiny">J6 → J7</text>
+
+  <!-- timing pot -->
+  <circle cx="684" cy="656" r="48" fill="#fbbf24" stroke="#92400e" stroke-width="4"/>
+  <path d="M684 656 L714 628" stroke="#78350f" stroke-width="7"/>
+  <text x="684" y="724" text-anchor="middle" class="label" font-size="19">R2 50k pot</text>
+  <text x="684" y="748" text-anchor="middle" class="tiny">wiper + outer lug</text>
+  <path d="M636 646 L387 602" class="wire" stroke="#eab308"/>
+  <path d="M636 674 L425 602" class="wire" stroke="#a855f7"/>
+
+  <!-- timing capacitor -->
+  <path d="M387 282 H427" class="wire" stroke="#a855f7"/>
+  <rect x="427" y="269" width="50" height="26" rx="7" fill="#fef3c7" stroke="#92400e" stroke-width="3"/>
+  <path d="M477 282 H501" class="wire" stroke="#2563eb"/>
+  <text x="444" y="326" text-anchor="middle" class="tiny">C1 10µF</text>
+  <text x="444" y="346" text-anchor="middle" class="tiny">+ A7 · − A10</text>
+  <path d="M501 282 L501 378 L349 474" class="wire" stroke="#2563eb"/>
+
+  <!-- pin 5 10nF -->
+  <path d="M463 602 V794 H519" class="wire" stroke="#94a3b8"/>
+  <rect x="519" y="781" width="50" height="26" rx="7" class="component"/>
+  <path d="M569 794 H577" class="wire" stroke="#2563eb"/>
+  <text x="540" y="840" text-anchor="middle" class="tiny">C2 10nF</text>
+  <text x="540" y="860" text-anchor="middle" class="tiny">J9 → J12</text>
+  <path d="M577 794 L577 878 H172 L172 470 H349" class="wire" stroke="#2563eb"/>
+
+  <!-- decoupling cap -->
+  <path d="M349 602 V730 H323" class="wire" stroke="#ef4444"/>
+  <rect x="273" y="717" width="50" height="26" rx="7" class="component"/>
+  <path d="M273 730 H235 V470 H349" class="wire" stroke="#2563eb"/>
+  <text x="298" y="772" text-anchor="middle" class="tiny">C3 100nF</text>
+  <text x="298" y="792" text-anchor="middle" class="tiny">J6 → J3</text>
+
+  <!-- output LED and resistor -->
+  <path d="M615 282 H653" class="wire" stroke="#f97316"/>
+  <polygon points="653,267 653,297 681,282" fill="#fef08a" stroke="#92400e" stroke-width="3"/>
+  <path d="M681 282 H691" class="wire" stroke="#f97316"/>
+  <rect x="691" y="269" width="76" height="26" rx="7" class="component"/>
+  <path d="M767 282 V378 L349 474" class="wire" stroke="#2563eb"/>
+  <text x="691" y="326" text-anchor="middle" class="tiny">LED + R3 1k</text>
+  <text x="691" y="346" text-anchor="middle" class="tiny">A13 → A17 → GND</text>
+  <rect x="674" y="772" width="92" height="36" rx="8" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
+  <text x="720" y="798" text-anchor="middle" class="label" font-size="18">CLK_RAW</text>
+
+  <!-- checklist panel -->
+  <rect x="876" y="150" width="688" height="790" rx="22" fill="#f8fafc"/>
+  <text x="916" y="198" class="label" font-size="31">Build order · verify each node</text>
+  <text x="916" y="232" class="small" font-size="18">Layout = optional internal clock only; counter = the other mini board.</text>
+
+  <g class="small">
+    <text x="916" y="286" font-weight="700">1. Orient U1</text>
+    <text x="946" y="316">Notch faces left. Pins 1–4 land at E6–E9; pins 8–5 land at F6–F9.</text>
+    <text x="916" y="364" font-weight="700">2. Power</text>
+    <text x="946" y="394">+5V → F6 (pin 8). GND → E6 (pin 1). Red jumper F6 → E9 (pin 4).</text>
+    <text x="916" y="442" font-weight="700">3. Timing node</text>
+    <text x="946" y="472">Purple jumper E7 (pin 2) ↔ F8 (pin 6).</text>
+    <text x="946" y="502">R1 47k: J6 → J7. R2 pot: one outer lug → F7; wiper → F8.</text>
+    <text x="946" y="532">C1 10µF: positive → A7; negative → A10; blue jumper A10 → GND.</text>
+    <text x="916" y="580" font-weight="700">4. Decouple</text>
+    <text x="946" y="610">C2 10nF: J9 (pin 5) → J12; J12 → GND.</text>
+    <text x="946" y="640">C3 100nF: J6 (+5V) → J3; J3 → GND.</text>
+    <text x="916" y="688" font-weight="700">5. Output indicator</text>
+    <text x="946" y="718">Pin 3 at E8 → CLK_RAW.</text>
+    <text x="946" y="744">LED branch: A13 → LED → A14 → R3 1k → A17 → GND.</text>
+    <text x="946" y="768">Confirm LED polarity before power.</text>
+  </g>
+
+  <rect x="904" y="806" width="620" height="106" rx="16" fill="#fff7ed" stroke="#f97316" stroke-width="3"/>
+  <text x="930" y="844" class="label" font-size="22">Safety / local-hardware check</text>
+  <text x="930" y="874" class="small" font-size="17">Power off before moving wires. Confirm local AE +5V/GND points and mini-board</text>
+  <text x="930" y="898" class="small" font-size="17">orientation with the approved rig; local build and measurements override this map.</text>
+
+  <text x="42" y="978" class="heading" font-size="18" font-weight="400">Original repository visual · color key: red +5V · blue GND · purple timing node · orange clock output</text>
+</svg>

@@ -1,5 +1,10 @@
 # Step 02 — Clock: internal 555 (or external AE)
 
+## Breadboard placement map
+![Top-down 555 clock breadboard layout](../assets/555-clock-breadboard-layout.svg)
+
+This original map covers the optional internal 555 clock on a standard 17-column mini breadboard. The instructor-approved AE BRAEDBOARD power points, board orientation, and measurements override the map; power off before moving wires.
+
 ## Internal NE555 astable (standalone)
 - pin 8 → +5V
 - pin 1 → GND
