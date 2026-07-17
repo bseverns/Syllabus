@@ -5,6 +5,8 @@ Pick one (or both):
 - **FPV Freerider** (PC/Mac/Android): lightweight and inexpensive.
 
 ## Radio → USB
+Reference the [controller, aircraft, and goggles](../../../lunch-lab/ASSETS/course-visuals/cc-images/fpv-controller-and-goggles.jpg) before handling the flight hardware; its CC BY-SA attribution is maintained in the [Lunch Labs visual pack](../../../lunch-lab/ASSETS/course-visuals/README.md).
+
 1. Power radio, set USB/joystick mode (or use trainer cable).
 2. Calibrate sticks inside the simulator.
 3. Set **rates/expo** (start gentle); map **arm** to a safe switch.

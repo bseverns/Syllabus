@@ -1,6 +1,7 @@
 # Teacher Guide — L06 Geneva Mechanism
 
 ## Block A — Concept & Demo
+- Project the [four-position Geneva animation](../../assets/geneva-drive.gif) beside the live demo; its [CC BY-SA 4.0 attribution](../../assets/README.md) is maintained with the shared asset.
 - Introduce the mechanism concept with 2–3 references and a live demo.
 - Emphasize **clearances**, **orientation**, and **failure modes** for printability.
 

@@ -41,6 +41,7 @@ Lesson slug (for course.yaml): s01-studio-welcome-and-first-light-build
 Teacher prep
 - Stage the room and project parking system.
 - Pre-test LEDs and coin cells.
+- Project the [paper circuit reference](../assets/course-visuals/cc-images/simple-paper-circuit.jpg) before the live demo; its [CC BY-SA 3.0 attribution](../assets/course-visuals/README.md) is maintained with the visual pack.
 
 Materials
 - Paper circuit supplies
