@@ -17,6 +17,7 @@
 - Verify at least one board works on the classroom machines.
 - Have spare USB data cables.
 - Decide how students will find serial ports on their OS.
+- Project the [Arduino Uno orientation reference](../../../../SECONDARY/robotic-vibes/assets/hardware-references/arduino-uno.jpg) while naming the local board's USB connector, reset button, and headers; its [CC BY 2.0 attribution](../../../../SECONDARY/robotic-vibes/assets/hardware-references/README.md) is maintained with the asset.
 
 ## Links
 - `firmware/week01_blink_hello/`
