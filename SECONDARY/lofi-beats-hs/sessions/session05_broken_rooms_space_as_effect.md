@@ -22,6 +22,7 @@
 - Explain today’s plan and boundaries:
   - Which areas are okay to record in.
   - How long groups have outside the classroom.
+  - Never record in restrooms, locker rooms, private offices, or spaces with people who have not agreed.
 - Assign groups (2–4 students each).
 
 ### 15–40 min — Room re-recording field trip
@@ -58,5 +59,6 @@
 ## Local notes (edit before teaching)
 
 - **Approved recording zones:**  
+- **Spaces that are off limits for recording:** restrooms, locker rooms, private offices, and unconsented people
 - **Supervision plan:**  
 - **Noise considerations (other classes, offices):**

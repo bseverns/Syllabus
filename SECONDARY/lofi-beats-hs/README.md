@@ -10,7 +10,7 @@
   - Headphones for each student
   - Simple DAW / sampler (BandLab, Soundtrap, GarageBand, etc.)
   - Built-in webcam + mic or simple USB mic
-  - Optional: access to hallway / stairwell / bathroom / gym for “room re-recording”
+  - Optional: instructor-approved hallway, stairwell, or gym for “room re-recording”; never restrooms, private offices, or unconsented people
 
 ## Big idea
 
@@ -51,3 +51,9 @@ By the end of the workshop, students should be able to:
 - **DAW / platform chosen:**  
 - **Headphone / playback plan:**  
 - **Assessment / grading expectations (if any):**
+
+## Delivery support
+
+1. Read [`FACILITATOR_QUICKSTART.md`](FACILITATOR_QUICKSTART.md) before Session 1; it names one-tool staging, safe recording boundaries, per-session evidence, and recovery paths.
+2. Print or post [`STUDENT_PROJECT_CARD.md`](STUDENT_PROJECT_CARD.md) at Session 1 so every student can see the next concrete project action.
+3. Keep the course at `PILOT` until a delivery confirms the actual DAW, device, headset, recording-zone, and turnaround constraints.
