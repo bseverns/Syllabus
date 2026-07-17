@@ -5,7 +5,7 @@
 - Chromebooks or laptops, 1 per participant pair
 - Tinkercad accounts or preloaded classroom/shared access path
 - Optional OpenSCAD or BlocksCAD for exact-dimension demo
-- Cura, PrusaSlicer, MakerBot CloudPrint, Bambu Studio, or equivalent slicer
+- Cura, PrusaSlicer, MakerBot Digital Factory, Bambu Studio, or equivalent slicer
 - 1–3 FDM printers, pretested
 - PLA filament, ideally a visible color
 - scraper/removal tool handled by facilitator only

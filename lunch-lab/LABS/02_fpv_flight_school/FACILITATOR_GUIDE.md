@@ -4,6 +4,16 @@
 
 Participants learn the basic control logic of FPV flight through simulator drills and record one skill goal for future practice.
 
+## Facilitator links
+
+Pick one simulator, install it before the event, and calibrate every USB radio in that same simulator. Do not make participants choose software or remap controls during the lunch block.
+
+- [VelociDrone](https://www.velocidrone.com/) — default classroom simulator already used elsewhere in this repository.
+- [FPV Freerider](https://fpv-freerider.itch.io/fpv-freerider) — lightweight alternate path.
+- [Existing radio-to-USB setup and drill notes](../../../SECONDARY/Robotics-to-FPV-Course/sim/Setup.md) — use for calibration and the hover/gate practice sequence.
+
+Keep the simulator-only boundary: no live aircraft, radio configuration changes, or flight-hardware setup during this lab.
+
 ## 45-minute run
 
 | Time | Segment | Action |

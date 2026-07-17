@@ -8,7 +8,7 @@ Make your micro:bit creature do one thing when someone presses a button or moves
 
 1. **Name your creature** and choose one personality: happy, grumpy, nervous, helpful, glitchy, sleepy, or your own.
 2. **Choose one input:** Button A, Button B, shake, or tilt.
-3. **Choose one output:** an LED face/icon, a message/number, or an approved sound/gesture.
+3. **Choose one output:** an LED face/icon, a message/number, or an approved sound.
 4. **Build and test one response** in the provided starter project before adding a second one.
 5. **Add a second action:** for example, Button A = happy, Button B = grumpy, shake = surprise, or tilt = look left/right.
 6. **Complete the Creature Card** with the input/output map and one bug or surprise you noticed.

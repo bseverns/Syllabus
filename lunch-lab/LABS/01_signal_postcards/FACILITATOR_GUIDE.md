@@ -4,6 +4,16 @@
 
 Participants collect one simple environmental or behavioral signal from the room, convert it into a postcard-sized data visualization, and send one evidence-based recommendation to a future user of the space.
 
+## Facilitator links
+
+Choose one measurement path before the event and stage a tested MakeCode project on every station.
+
+- [MakeCode editor](https://makecode.microbit.org/) — browser workspace for the micro:bit path.
+- [Light level](https://makecode.microbit.org/reference/input/light-level), [sound level](https://makecode.microbit.org/reference/input/sound-level), [temperature](https://makecode.microbit.org/reference/input/temperature), and [acceleration](https://makecode.microbit.org/reference/input/acceleration) — official blocks for the card's sensor choices.
+- **People flow:** use the printed floor map and a manual tally; it needs no software or personal data.
+
+Use the same 3–5 locations and shared scale on every table. Keep a printed [`SIGNAL_POSTCARD_TEMPLATE.md`](SIGNAL_POSTCARD_TEMPLATE.md) ready for the no-device fallback.
+
 ## 45-minute run
 
 | Time | Segment | Action |

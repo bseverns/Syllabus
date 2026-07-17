@@ -4,6 +4,16 @@
 
 Participants create a simple micro:bit creature that responds to buttons, shake, or tilt.
 
+## Facilitator links
+
+Build and download one starter project before the event. It should expose every option on the participant card without adding hardware beyond the micro:bit.
+
+- [MakeCode editor](https://makecode.microbit.org/).
+- Inputs: [button press](https://makecode.microbit.org/reference/input/on-button-pressed) and [gesture](https://makecode.microbit.org/reference/input/on-gesture) for Button A/B, shake, and tilt.
+- Outputs: [show LEDs](https://makecode.microbit.org/reference/basic/show-leds), [show text or number](https://makecode.microbit.org/reference/basic/show-string), and [play tone](https://makecode.microbit.org/reference/music/play-tone).
+
+Test each input on the actual board, then print the companion [`CREATURE_CARD.md`](CREATURE_CARD.md). If a download fails during the lab, use the same starter project on the facilitator board for a quick live test rather than changing the activity.
+
 ## 45-minute run
 
 | Time | Segment | Action |

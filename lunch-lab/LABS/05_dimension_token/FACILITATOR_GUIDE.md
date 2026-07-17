@@ -10,6 +10,17 @@ This lab keeps the magic visible: digital dimensions become machine instructions
 
 Make a **30 mm × 18 mm × 3 mm** token with one raised mark, initials, icon, or short word. Optional: add a **4 mm** hole so the object can become a tag.
 
+## Facilitator links
+
+Choose one CAD path and the slicer already matched to the local printer fleet. Create accounts, test export, and run a first-layer check before participants arrive.
+
+- [Tinkercad](https://www.tinkercad.com/) — default participant path; pair it with the local [`TINKERCAD_RAPID_STEPS.md`](TINKERCAD_RAPID_STEPS.md).
+- [Onshape Education](https://www.onshape.com/en/education/), [OpenSCAD](https://openscad.org/), and [BlocksCAD](https://www.blockscad3d.com/) — optional alternatives already named by this lab.
+- [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/), [PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/), and [Bambu Studio](https://bambulab.com/en/download/studio) — use only if they match the local printer.
+- [MakerBot Digital Factory migration note](../../../PRIMARY/3D-Printing-Course-3-5/docs/migration-note.md) and [profile notes](../../../PRIMARY/3D-Printing-Course-3-5/print-ops/digital-factory-profile-notes.md) — local MakerBot SKETCH path; CloudPrint is retired.
+
+Keep the prepared `OPENSCAD_TOKEN_TEMPLATE.scad` and one pre-sliced emergency token ready. The facilitator owns queueing, slicing, and printer operation.
+
 ## 45-minute run
 
 | Time | Segment | Action |

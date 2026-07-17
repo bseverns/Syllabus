@@ -17,6 +17,17 @@ A 5–10 second sound logo with:
 - a clear emotional or functional intent;
 - a completed cue sheet.
 
+## Facilitator software links
+
+Choose **one** recording/editor path before the event, test it with the station hardware, and keep the same path at every table. A native phone or tablet recorder is the no-account fallback.
+
+- [BandLab](https://www.bandlab.com/) — browser-based recording and arranging.
+- [Soundtrap](https://www.soundtrap.com/musicmakers) — browser-based recording and arranging.
+- [GarageBand](https://www.apple.com/mac/garageband/) — local Apple-device path.
+- [Audacity](https://www.audacityteam.org/download/) — local desktop path.
+
+Use the local [`FOLEY_OBJECT_GUIDE.md`](FOLEY_OBJECT_GUIDE.md), [`FOLEY_BIN_SETUP.md`](FOLEY_BIN_SETUP.md), and [`SOUND_LOGO_CUE_SHEET.md`](SOUND_LOGO_CUE_SHEET.md) to prepare the objects, bins, and printed artifact.
+
 ## 45-minute run
 
 | Time | Segment | Action |

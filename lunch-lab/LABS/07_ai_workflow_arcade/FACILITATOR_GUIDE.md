@@ -4,6 +4,17 @@
 
 Participants will test a small AI workflow that turns a messy brief into a structured output, then decide what a human must verify before the output becomes usable.
 
+## Facilitator links
+
+Confirm host approval before opening any service. Stage only the stations you can run with synthetic material; the printed cards cover the rest.
+
+- [Source packet example](SOURCE_PACKET_EXAMPLE.md) and [`AI_WORKFLOW_CARD.md`](AI_WORKFLOW_CARD.md) — required local materials for every path.
+- [ChatGPT](https://chatgpt.com/) — example hosted interface; use only if the host has approved it.
+- [Google Docs](https://workspace.google.com/products/docs/) and [Google Sheets](https://workspace.google.com/products/sheets/) — structured-output station.
+- [Ollama](https://ollama.com/) and [LM Studio](https://lmstudio.ai/) — optional facilitator-only local-model comparison.
+
+For concept generation, use the approved hosted text interface first; add image generation only when the host has explicitly approved a specific service. For transcript work, use a pre-recorded sample or printed transcript, not live participant audio. The automation station needs only the printed workflow card unless a pre-staged demo is already working.
+
 ## 45-minute run of show
 
 ### 0:00–0:04 — Frame

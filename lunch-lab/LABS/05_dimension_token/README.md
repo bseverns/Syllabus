@@ -37,7 +37,7 @@ Participants leave with at least one of the following:
 
 - Tinkercad, Onshape, or OpenSCAD/BlocksCAD path
 - Chromebooks or laptops
-- Cura, PrusaSlicer, MakerBot CloudPrint, or equivalent slicer
+- Cura, PrusaSlicer, [MakerBot Digital Factory](../../../PRIMARY/3D-Printing-Course-3-5/docs/migration-note.md), or equivalent slicer
 - 1–3 small FDM printers, ideally preheated and tested
 - PLA filament
 - calipers

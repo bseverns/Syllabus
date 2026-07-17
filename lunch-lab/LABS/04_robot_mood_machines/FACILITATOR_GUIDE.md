@@ -4,6 +4,13 @@
 
 Participants remix a prebuilt LEGO Spike robot behavior to express a chosen mood, service style, or personality.
 
+## Facilitator links
+
+- [SPIKE App download](https://education.lego.com/en-us/downloads/spike-app/software/) — install and update before the event.
+- [SPIKE Prime software support](https://education.lego.com/en-us/product-resources/spike-prime/downloads/software-updates/) — use if the app or hub version needs attention.
+
+Prepare one working driving-base project with obvious speed, pause, turn, light, and sound controls. Test it on the actual robot and test mat; participants change the prepared program, not robot hardware.
+
 ## 45-minute run
 
 | Time | Segment | Action |
