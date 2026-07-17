@@ -1,8 +1,8 @@
 # Simulator Setup
 
 Pick one (or both):
-- **VelociDrone** (PC/Mac): strong physics, classroom‑friendly tracks.
-- **FPV Freerider** (PC/Mac/Android): lightweight and inexpensive.
+- [**VelociDrone**](https://www.velocidrone.com/) (PC/Mac): strong physics, classroom‑friendly tracks.
+- [**FPV Freerider**](https://fpv-freerider.itch.io/fpv-freerider) (PC/Mac/Android): lightweight and inexpensive.
 
 ## Radio → USB
 Reference the [controller, aircraft, and goggles](../../../lunch-lab/ASSETS/course-visuals/cc-images/fpv-controller-and-goggles.jpg) before handling the flight hardware; its CC BY-SA attribution is maintained in the [Lunch Labs visual pack](../../../lunch-lab/ASSETS/course-visuals/README.md).
@@ -17,4 +17,4 @@ Reference the [controller, aircraft, and goggles](../../../lunch-lab/ASSETS/cour
 - Slow figure‑8 (keep the horizon level)
 - Gate line (smooth line, no sudden inputs)
 
-Log sim minutes and drills in your **Pilot Logbook**.
+Log sim minutes and drills in your **Pilot Logbook**. Learners start with the course-wide [`Student Lab and Flight Card`](../STUDENT_LAB_AND_FLIGHT_CARD.md).

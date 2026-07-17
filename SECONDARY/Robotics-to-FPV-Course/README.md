@@ -20,12 +20,13 @@ Students start with **Arduino I/O + voltage control** on a driving base, learn *
 - `assessments/Flight-Checkride-Checklist.md` — hover box → figure‑8 → gates.
 - `assessments/Pilot-Logbook.csv` — per‑pilot journal template.
 - `sim/Setup.md` & `sim/Drill-Cards.md` — simulator setup + progressive drills.
+- `STUDENT_LAB_AND_FLIGHT_CARD.md` — course-wide student launch, safety boundaries, and links to the existing simulator, bench, flight, recovery, and logbook surfaces.
 - `checklists/*` — charging station, crash recovery, classroom ops placards.
 
 ## Quickstart (Instructor)
 1. **Clone** this repo and print the checklists in `checklists/` and `assessments/`.
 2. **Stage** zones: solder lab, charging station, flight cage/gates, bench test table.
-3. **Choose a simulator** (VelociDrone or FPV Freerider) and set up radios for USB.
+3. **Choose a simulator** (VelociDrone or FPV Freerider), set up radios for USB, and print `STUDENT_LAB_AND_FLIGHT_CARD.md` with the drill cards.
 4. **Procure parts** per `build/*.csv` (buy +20% motors/props, +2 AIOs, extra batteries).
 5. **Prep bind phrases** (ELRS) and a **VTX channel plan** (25 mW cap indoors).
 6. During class: run each `curriculum/week-XX.md`, collect pilot logs, film check‑rides.
