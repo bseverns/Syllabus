@@ -19,6 +19,13 @@ This is a “start from zero” activity for rooms where students may not have a
 - Only use the GPIO pins the Piper app shows for the level.
 - If a button press “does nothing,” don’t force it—**check ground + pin position**.
 
+## Build routine visual
+![Piper controller build loop](../assets/piper/piper-controller-loop.svg)
+
+![Close-up of a Raspberry Pi 3 GPIO header](../assets/piper/raspberry-pi-3-gpio-header.jpg)
+
+Use the photo only to identify the GPIO header. The current Piper app's on-screen pin diagram controls every actual connection; full source and use notes are in the [Piper visual pack](../assets/piper/README.md).
+
 ---
 
 ## Part 1 — Launch StoryMode

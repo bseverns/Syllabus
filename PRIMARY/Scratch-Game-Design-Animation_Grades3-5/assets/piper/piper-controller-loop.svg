@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title>Piper GPIO controller build loop</title>
+  <desc>Four connected cards show the Piper controller routine: open the Piper activity and keep its pin diagram visible, connect ground and one input, test the input in Piper, then label it and add the next input. A footer says to check ground, the local pin diagram, and wire seating if a control fails.</desc>
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-weight: 700; fill: #f8fafc; }
+      .card-title { font-family: Arial, sans-serif; font-weight: 700; fill: #172033; }
+      .body { font-family: Arial, sans-serif; fill: #334155; }
+      .small { font-family: Arial, sans-serif; fill: #475569; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#64748b"/></marker>
+  </defs>
+  <rect width="1200" height="700" fill="#0f172a"/>
+  <rect x="32" y="28" width="1136" height="104" rx="20" fill="#172554"/>
+  <text x="68" y="76" class="title" font-size="38">Piper GPIO controls · one reliable input at a time</text>
+  <text x="68" y="108" class="title" font-size="20" font-weight="400">The Piper activity’s on-screen pin diagram is the source of truth; this is a build routine, not a pin map.</text>
+
+  <g>
+    <rect x="48" y="190" width="240" height="300" rx="20" fill="#dbeafe"/>
+    <circle cx="92" cy="236" r="24" fill="#2563eb"/><text x="92" y="244" text-anchor="middle" class="title" font-size="23">1</text>
+    <text x="82" y="292" class="card-title" font-size="26">Open Piper</text>
+    <text x="82" y="326" class="body" font-size="20">Choose StoryMode</text>
+    <text x="82" y="354" class="body" font-size="20">or GPIO Keyboard.</text>
+    <rect x="84" y="386" width="168" height="62" rx="10" fill="#ffffff" stroke="#60a5fa" stroke-width="3"/>
+    <text x="168" y="414" text-anchor="middle" class="card-title" font-size="17">KEEP THE APP’S</text>
+    <text x="168" y="436" text-anchor="middle" class="card-title" font-size="17">PIN DIAGRAM OPEN</text>
+  </g>
+  <path d="M300 340 H346" stroke="#64748b" stroke-width="8" fill="none" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="360" y="190" width="240" height="300" rx="20" fill="#dcfce7"/>
+    <circle cx="404" cy="236" r="24" fill="#16a34a"/><text x="404" y="244" text-anchor="middle" class="title" font-size="23">2</text>
+    <text x="394" y="292" class="card-title" font-size="26">Connect one</text>
+    <text x="394" y="322" class="card-title" font-size="26">input</text>
+    <text x="394" y="360" class="body" font-size="19">Ground first, then</text>
+    <text x="394" y="386" class="body" font-size="19">one button or key.</text>
+    <circle cx="436" cy="430" r="18" fill="#facc15" stroke="#854d0e" stroke-width="3"/>
+    <path d="M454 430 H522" stroke="#16a34a" stroke-width="8" stroke-linecap="round"/>
+    <text x="394" y="464" class="small" font-size="17">Power off if rewiring.</text>
+  </g>
+  <path d="M612 340 H658" stroke="#64748b" stroke-width="8" fill="none" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="672" y="190" width="240" height="300" rx="20" fill="#fef3c7"/>
+    <circle cx="716" cy="236" r="24" fill="#d97706"/><text x="716" y="244" text-anchor="middle" class="title" font-size="23">3</text>
+    <text x="706" y="292" class="card-title" font-size="26">Test in Piper</text>
+    <text x="706" y="326" class="body" font-size="20">Press once. Confirm</text>
+    <text x="706" y="354" class="body" font-size="20">one reliable action.</text>
+    <rect x="708" y="388" width="168" height="58" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="3"/>
+    <text x="792" y="424" text-anchor="middle" class="card-title" font-size="20">WIRE → TEST</text>
+  </g>
+  <path d="M924 340 H970" stroke="#64748b" stroke-width="8" fill="none" marker-end="url(#arrow)"/>
+
+  <g>
+    <rect x="984" y="190" width="168" height="300" rx="20" fill="#f3e8ff"/>
+    <circle cx="1028" cy="236" r="24" fill="#7e22ce"/><text x="1028" y="244" text-anchor="middle" class="title" font-size="23">4</text>
+    <text x="1018" y="292" class="card-title" font-size="24">Label + add</text>
+    <text x="1018" y="322" class="card-title" font-size="24">the next</text>
+    <text x="1018" y="360" class="body" font-size="18">Mars movement,</text>
+    <text x="1018" y="386" class="body" font-size="18">then jump — or</text>
+    <text x="1018" y="412" class="body" font-size="18">five keyboard keys.</text>
+    <text x="1018" y="458" class="small" font-size="16">Keep earlier inputs</text>
+    <text x="1018" y="480" class="small" font-size="16">working as you add.</text>
+  </g>
+
+  <rect x="48" y="548" width="1104" height="96" rx="18" fill="#fff7ed" stroke="#f97316" stroke-width="3"/>
+  <text x="78" y="588" class="card-title" font-size="23">If a control fails:</text>
+  <text x="78" y="620" class="body" font-size="21">check shared ground → the local Piper pin diagram → wire seating. Do not guess pins from a generic image.</text>
+  <text x="48" y="680" class="title" font-size="17" font-weight="400">Original repository visual · safe GPIO routine for Piper StoryMode and Keyboard activities</text>
+</svg>

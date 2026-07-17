@@ -17,6 +17,11 @@ This is a **mouse-first** build:
 - Conductive parts for keys (your kit’s method: wires, alligator clips, conductive tape, foil, or Piper parts)
 - Tape + marker for labeling
 
+## Build routine visual
+![Piper controller build loop](../assets/piper/piper-controller-loop.svg)
+
+The current Piper activity's on-screen diagram controls every actual pin choice. Use the [Piper visual pack](../assets/piper/README.md) for the GPIO-header orientation photo and its CC attribution.
+
 ---
 
 ## Build steps (do these in order)

@@ -12,6 +12,7 @@ Students can begin with a mouse, then use **physical buttons** to control moveme
 - Print:
   - **Handout 00A** (Piper StoryMode: Mars + Cheeseteroid)
   - **Handout 01** (Studio Rules + Controls)
+- Project the [Piper controller build loop](../../assets/piper/piper-controller-loop.svg) before students touch wires, then use the [GPIO-header orientation photo](../../assets/piper/raspberry-pi-3-gpio-header.jpg) only to name the header. The Piper app's local pin diagram remains the source of truth; [asset notes and attribution](../../assets/piper/README.md) live with the pack.
 - Optional: have a tiny Scratch demo ready that uses **on-screen buttons** (mouse clicks) to move a sprite.
 
 ## Materials
