@@ -37,3 +37,7 @@ The emphasis is on:
 - Light, low-stakes assessment based on effort, completion, and use of terms.
 
 You can hook these into Google Classroom using the content in the `GOOGLE_CLASSROOM_*.md` files.
+
+## Before teaching
+
+Use [`FACILITATOR_PREP.md`](FACILITATOR_PREP.md) to stage the Scratch starter/remix URL, test the MakeCode download path, and publish the existing student-facing Google Classroom posts only after both tracks work on student devices.

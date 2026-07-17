@@ -77,7 +77,7 @@ This file collects suggested Classroom posts for the 9th grade course.
 > Today you’ll open a simple starter game in Scratch and make it your own just a little bit.  
 >  
 > 1. Click the starter project link:  
->    • `[ADD LINK TO STARTER PROJECT HERE]`  
+>    • `[PASTE YOUR TESTED REMIX URL HERE BEFORE PUBLISHING]`
 > 2. Click **“Remix”** (or **File → Save as a copy**) to make your own version.  
 > 3. Make at least **one visible change**, for example:  
 >    • Change the main character’s costume  

@@ -68,7 +68,7 @@
 
 > Today you’ll program the micro:bit to show faces when you press its buttons.  
 >  
-> 1. Open the MakeCode micro:bit editor: `[ADD LINK TO MAKECODE]`  
+> 1. Open the MakeCode micro:bit editor: [makecode.microbit.org](https://makecode.microbit.org/)
 > 2. Create a new project called `MoodFace`.  
 > 3. Program:  
 >    • On start: show an icon of your choice.  
