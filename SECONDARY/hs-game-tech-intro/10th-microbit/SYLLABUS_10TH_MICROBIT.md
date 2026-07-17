@@ -63,6 +63,7 @@ By the end of the unit, students should be able to:
 
 - Warm-up: what can your phone sense? (motion, light, orientation).
 - Mini-lesson: sensor = input that measures something physical.
+- Project the [micro:bit v2 component reference](../../../lunch-lab/ASSETS/course-visuals/cc-images/bbc-microbit.jpg) to locate the labeled accelerometer and other board parts; compare it with the local board because micro:bit versions vary. Its [CC BY-SA 4.0 attribution](../../../lunch-lab/ASSETS/course-visuals/README.md) is maintained with the Lunch Labs visual pack.
 - MakeCode project `GestureTester`:
   - `on shake` → random icon or number.
   - `tilt left` / `tilt right` → show arrows.

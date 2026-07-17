@@ -29,6 +29,7 @@ version: "v1.0"
 - Test playback levels (target 70–80 dB).  
 - Confirm BandLab/Apps sign‑in on 2–3 devices.  
 - Prepare template/session files and example assets.  
+- Project the [Foley studio reference](../../../lunch-lab/ASSETS/course-visuals/cc-images/foley-artist.png) before the hook; it provides context for intentional object-based sound work, not a required room or prop setup. Its [CC BY-SA 4.0 attribution](../../../lunch-lab/ASSETS/course-visuals/README.md) is maintained with the Lunch Labs visual pack.
 - Post the day’s **file‑naming** and **export** targets on the board.
 
 ## Timeline (60 min)

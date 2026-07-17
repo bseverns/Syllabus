@@ -427,6 +427,7 @@ Slug rule: start with s13- and use lowercase letters, numbers, and dashes only.
 Teacher prep
 - Prepare a short silent clip or storyboard prompt.
 - Gather simple foley objects.
+- Project the [Foley studio reference](../../../lunch-lab/ASSETS/course-visuals/cc-images/foley-artist.png) before the hook; its [CC BY-SA 4.0 attribution](../../../lunch-lab/ASSETS/course-visuals/README.md) is maintained with the Lunch Labs visual pack.
 
 Materials
 - Phones

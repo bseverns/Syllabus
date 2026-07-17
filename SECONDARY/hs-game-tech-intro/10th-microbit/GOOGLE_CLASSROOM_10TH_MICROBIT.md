@@ -103,7 +103,8 @@
 
 **Description:**
 
-> A quick overview of built-in sensors: accelerometer (motion), buttons, and others.  
+> A quick overview of built-in sensors: accelerometer (motion), buttons, and others.
+> Use the [micro:bit v2 component reference](../../../lunch-lab/ASSETS/course-visuals/cc-images/bbc-microbit.jpg) to locate the labeled accelerometer, then compare it with the local board. Its [CC BY-SA 4.0 attribution](../../../lunch-lab/ASSETS/course-visuals/README.md) is maintained with the Lunch Labs visual pack.
 > We’ll focus on using “shake” and “tilt” in our programs.
 
 ---
