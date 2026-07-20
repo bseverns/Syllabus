@@ -27,4 +27,10 @@ A **Responsibility Pack** for a real artifact (their own, a lab device, or a cas
 - `templates/` audits, consent forms, doc contribution guide, release notes
 - `resources/` primers (right-to-repair, inclusive interaction, licenses, documentation)
 
+## Launch path
+
+1. Use `FACILITATOR_LAUNCH_GUIDE.md` to prepare case-study fallbacks, low-cost materials, consent/privacy boundaries, participation routes, and the weekly studio rhythm.
+2. Give learners `STUDENT_START_HERE.md`; it introduces the evidence loop without requiring prior technical vocabulary or personal disclosure.
+3. Complete the local artifact-permission, private-storage, testing, and optional-publication preflight before Week 1.
+
 _Last updated: 2026-02-05_

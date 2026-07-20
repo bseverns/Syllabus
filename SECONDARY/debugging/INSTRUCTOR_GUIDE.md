@@ -31,6 +31,10 @@ Good classrooms for this course:
 - printed handouts or digital copies of the debugging log and bug report
 - timer for short debugging rounds
 
+For exact quantities, device-free alternatives, preflight, timing, and common-stuck responses, use `FACILITATOR_LAUNCH_GUIDE.md`.
+
+Give every learner `STUDENT_START_HERE.md` in Session 1. Its four-move routine is the shared language for the full course.
+
 ## What to emphasize
 
 - evidence before theory

@@ -13,7 +13,7 @@ To loop 0–3, reset at Q4:
   (diode anode at Q4, cathode at RESET)
 - 100k: RESET → GND (pull-down)
 
-Try reset at Q2 (3-step), Q3 (4-step), Q4 (5-step).
+The reset output is not heard as a held step: Q2 produces a 2-step `Q0–Q1` cycle, Q3 produces 3 steps, Q4 produces 4 steps, and Q5 produces 5 steps.
 
 ## OR patterns
 - Selected Q outputs → diodes → PATTERN node

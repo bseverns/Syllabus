@@ -2,6 +2,18 @@
 
 Use this when the repo needs to function as a short post-secondary module instead of a loose reading list.
 
+## ClassHub Delivery Map
+
+Keep configurations, radio identifiers, logs, locations, flight records, and safety evidence private by default. A submitted artifact documents a proof attempt; instructor signoff and local operating rules still control motor tests and flight.
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Sessions 1–2 — stack/configuration | Parts map, safety acknowledgment, bench checklist, saved configuration, and proven/unproven note | Private files/images; bench-safety checklist; proof reflection |
+| Sessions 3–4 — telemetry/mapping | Semantics table, replayable capture, session log, mapping sheet, and controlled comparison | Private capture/config upload; mapping rubric; lab reflection |
+| Session 5 — troubleshooting/portfolio | Symptom-first narrative, triage/grounding decision, and final artifact bundle | Final rubric; private portfolio; optional redacted, consent-cleared clip |
+
+Scope helper support to vocabulary, symptom-to-check reasoning, and documentation—not configuration commands for an unverified rig or authorization to fly.
+
 ## Format
 
 - 5 sessions

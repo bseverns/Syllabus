@@ -20,7 +20,7 @@ By the end, students can:
 
 ## Prerequisites
 - Basic algebra; comfort with graphs
-- Some programming experience (Python preferred)
+- Some programming experience is helpful; students without it complete the Week 0 bridge in `../FACILITATOR_LAUNCH_GUIDE.md`
 - Curiosity and patience for iterative debugging
 
 ## Materials

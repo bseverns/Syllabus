@@ -49,4 +49,4 @@ Before the course, test this exact sequence on a student device: record or impor
 
 ## 6. Final evidence
 
-A complete student project has a 30–60 second piece, a title, simple cover art, and a reflection that names one found sound, one change after listening, and one thing the room did to the audio. Keep the course `PILOT` until a real run confirms timing, tool reliability, access needs, and the recovery paths above.
+A complete student project has a 30–60 second piece, a title, simple cover art, and a reflection that names one found sound, one change after listening, and one thing the room did to the audio. The package is `GO-P`: preflight the actual DAW, device, headset, recording-zone, and turnaround constraints, then record any first-run revisions here.

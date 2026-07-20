@@ -21,3 +21,9 @@ Students learn how counting, division, and state become patchable structure.
 - **Session 2:** Turn steps into divisions + patch as composition
 
 See `syllabus/2-session-block.md`.
+
+## Pilot launch path
+
+1. An experienced facilitator completes `FACILITATOR_LAUNCH_CHECKLIST.md` on the exact local 5V platform before enrollment.
+2. Prepare one tray per pair from `parts/parts-list.md` and give learners `STUDENT_START_HERE.md`.
+3. Keep the package at `PILOT` until the physical verification and first delivery record timing, quantities, substitutions, and failure points.

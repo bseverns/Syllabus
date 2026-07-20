@@ -53,3 +53,14 @@ Students will be able to:
 
 ### Studio assessment
 - 30–60s patch demo + patch diagram + short reflection
+
+## ClassHub Delivery Map
+
+Use ClassHub as a private evidence surface. It does not authorize powering, patching, or continued use of a circuit; facilitator inspection and the local bench procedure remain controlling.
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Session 1 — clock/count | Power/rail inspection, measured voltage, visible counter sequence, and worksheet notes | Private photo/document upload; bench checklist; short reflection |
+| Session 2 — divide/patch | Three outputs, one verified reset length, patch diagram, and recording or observed demonstration | Private artifact upload; completion checklist; optional consent-cleared audio clip |
+
+Keep bench photos private when they expose room, participant, or equipment identifiers. A de-energized diagram/observation route can satisfy the conceptual evidence.

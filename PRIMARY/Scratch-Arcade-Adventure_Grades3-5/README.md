@@ -29,6 +29,14 @@ A polished arcade-style Scratch game with:
 - `04_Template_Plan/`: suggested architecture for stable projects
 - `05_Starter-Project_Build-Recipe/`: a teacher-ready starter setup
 
+## Launch and beginner support
+
+1. Use [`BEGINNER_BRIDGE.md`](02_Instructor-Playbook/BEGINNER_BRIDGE.md) to run the four-task launch check without treating speed, typing, or prior device ownership as readiness.
+2. Run its two-session bridge when students need the core Scratch and save/reopen habits before Week 1.
+3. Complete the device, account, starter-project, and sharing-policy preflight before each delivery.
+
+The bridge supports limited prior tech exposure; it does not turn the 12-week advanced sequence into a first-ever Scratch course. Students who still need a slower first course should begin with `Scratch Stories and Games`.
+
 ## Course personality
 
 This course emphasizes:

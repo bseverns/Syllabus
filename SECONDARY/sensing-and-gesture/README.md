@@ -6,6 +6,8 @@ Students explore how bodies, sensors, and systems entangle. We treat **gesture**
 
 ## Files
 
+- `FACILITATOR_LAUNCH_GUIDE.md` – tier decision, materials, preflight, timing, novice language, access, and recovery paths
+- `STUDENT_START_HERE.md` – plain-language learner orientation, participation choices, and consent expectations
 - `COURSE_DESCRIPTION.md` – catalog-style overview and learning goals  
 - `SCHEDULE.md` – 14-week outline  
 - `ASSIGNMENTS.md` – grading sketch and week-linked deliverables  
@@ -15,3 +17,9 @@ Students explore how bodies, sensors, and systems entangle. We treat **gesture**
 - `INSTRUCTOR_NOTES.md` – teaching guidance, tech tiers, safety/ethics notes  
 - `LOCAL_NOTES_TEMPLATE.md` – template for local site/constraints notes  
 - `sessions/` – per-week session plans/stubs (Weeks 1–14)
+
+## Launch in three steps
+
+1. Choose and publish Tier 0, 1, or 2 using `FACILITATOR_LAUNCH_GUIDE.md`; do not promise an untested camera or pose pipeline.
+2. Complete the room, device, privacy, documentation, and accessible-participation preflight.
+3. Give students `STUDENT_START_HERE.md`, then teach from `SCHEDULE.md` and the matching session file.

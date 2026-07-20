@@ -23,6 +23,8 @@ Use this folder if you want a course on:
 
 ## What is inside
 
+- `FACILITATOR_LAUNCH_GUIDE.md`: preflight, materials, timing, novice supports, and recovery paths
+- `STUDENT_START_HERE.md`: plain-language learner orientation and four-move debugging routine
 - `COURSE_DESCRIPTION.md`: overview and learning outcomes
 - `COURSE_ONEPAGER.md`: concise school-facing overview
 - `SYLLABUS.md`: 8-session sequence
@@ -31,6 +33,12 @@ Use this folder if you want a course on:
 - `ASSESSMENT_RUBRIC.md`: growth-focused rubric
 - `sessions/`: full session plans
 - `handouts/`: student-facing tools
+
+## Launch in three steps
+
+1. Choose one shared system and complete the preflight in `FACILITATOR_LAUNCH_GUIDE.md`.
+2. Give students `STUDENT_START_HERE.md`, then use the matching file in `sessions/` for each meeting.
+3. Keep the named evidence from each session and assess the final portfolio with `ASSESSMENT_RUBRIC.md`.
 
 ## Source archive
 

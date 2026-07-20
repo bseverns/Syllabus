@@ -1,5 +1,7 @@
 # U.S. operations and radio-compliance note
 
+**Official-source check:** 2026-07-19. Recheck the linked FAA and FCC pages before each delivery; requirements and operating interpretations can change.
+
 This primer is not legal advice. It is a teaching note for post-secondary programs that may move from bench to field work.
 
 ## Why this belongs in the primer

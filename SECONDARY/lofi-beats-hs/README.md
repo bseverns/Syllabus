@@ -56,4 +56,4 @@ By the end of the workshop, students should be able to:
 
 1. Read [`FACILITATOR_QUICKSTART.md`](FACILITATOR_QUICKSTART.md) before Session 1; it names one-tool staging, safe recording boundaries, per-session evidence, and recovery paths.
 2. Print or post [`STUDENT_PROJECT_CARD.md`](STUDENT_PROJECT_CARD.md) at Session 1 so every student can see the next concrete project action.
-3. Keep the course at `PILOT` until a delivery confirms the actual DAW, device, headset, recording-zone, and turnaround constraints.
+3. The package is `GO-P`: preflight the actual DAW, devices, headsets, recording zone, and turnaround constraints before each delivery; record the first run's revisions in `FACILITATOR_QUICKSTART.md`.

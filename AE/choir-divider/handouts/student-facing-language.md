@@ -14,8 +14,8 @@ Take only Q0 → one pulse every 10 ticks (slow downbeat).
 Take Q0 and Q5 → two pulses per 10 ticks (half-time/offbeat pair).
 
 ### 2) Reset early
-Reset at Q3 → loop 0–1–2–3 then reset (4-step cycle).  
-Reset at Q2 → 3-step cycle. Reset at Q4 → 5-step cycle.
+Reset at Q3 → play Q0–Q1–Q2, then reset (3-step cycle).  
+Reset at Q4 → 4-step cycle. Reset at Q5 → 5-step cycle.
 
 ## What to patch in
 - A clock from your rack **or** the internal 555 clock.

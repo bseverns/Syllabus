@@ -43,6 +43,12 @@ Start here, then zoom inward:
    - `jupyter lab`
 4. Open `labs/week01_signals_basics.ipynb`
 
+## Course launch
+
+1. Instructors complete `FACILITATOR_LAUNCH_GUIDE.md`, including the full notebook smoke test on the actual student environment.
+2. Give learners `STUDENT_START_HERE.md`; run the Week 0 bridge for students new to Python or notebooks.
+3. Use the frozen executed notebooks, saved clips/data, and private file-submission route whenever live audio, Git, or local installation is unavailable.
+
 ## Notes for instructors
 - This course is designed to flex. Each week includes **core** + **extension** tracks.
 - You can run it as a seminar (discussion-heavy) or a lab (hands-on-heavy).

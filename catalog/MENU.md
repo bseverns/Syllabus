@@ -36,6 +36,16 @@ Create an animated two-level Scratch game with cutscenes, playtesting, and a cle
 **Documentation:** GO — School-facing syllabus, minute-by-minute playbook, session plans, handouts, and starter-project recipe are present.  
 **Source:** [`PRIMARY/Scratch-Game-Design-Animation_Grades3-5`](../PRIMARY/Scratch-Game-Design-Animation_Grades3-5)
 
+### Scratch Arcade Adventure
+
+Build an intermediate arcade game with a heads-up display, enemy patterns, power-ups, stages, a final challenge, and player-informed revisions.
+
+**Formats:** course  
+**Screen load:** S3  
+**Equipment:** E2→E2 — Scratch-capable devices, tested account or class-studio access, optional mice/headphones, and printable planning cards.  
+**Documentation:** GO-P — Complete 12-session intermediate packet includes school-facing materials, session plans, handouts, rubrics, troubleshooting, starter recipe, and a two-session beginner bridge; preflight accounts, devices, storage, and placement.  
+**Source:** [`PRIMARY/Scratch-Arcade-Adventure_Grades3-5`](../PRIMARY/Scratch-Arcade-Adventure_Grades3-5)
+
 ## Middle school
 
 ### Engineering Challenge Lab
@@ -87,6 +97,16 @@ Move from ground-robot control systems to simulator training, safe FPV flight, m
 **Equipment:** E4→E4 — Robotics kits, simulator stations, USB radios, LiPo systems, FPV equipment, safety zones, and RF planning.  
 **Documentation:** GO-P — Full 15-week curriculum, BOMs, safety, simulator drills, bench checks, and pilot logs; requires an experienced technical lead and approved flight environment.  
 **Source:** [`SECONDARY/Robotics-to-FPV-Course`](../SECONDARY/Robotics-to-FPV-Course)
+
+### Debugging Studio
+
+Practice describing problems, testing one change at a time, supporting peers, and documenting what a difficult system teaches you.
+
+**Formats:** course  
+**Screen load:** S0–S3  
+**Equipment:** E0→E2 — Printable process cases at minimum; optionally one shared coding, robotics, media, or maker platform.  
+**Documentation:** GO-P — Eight-session packet includes learner handouts, assessment, a facilitator launch guide, device-free routes, novice language, and recovery moves; locally select and test the shared example system.  
+**Source:** [`SECONDARY/debugging`](../SECONDARY/debugging)
 
 ## High school
 
@@ -169,6 +189,76 @@ Make and critique an AI-supported project while building habits around source ch
 **Equipment:** E2→E2 — Devices, a host-approved AI tool stack or non-AI fallback, and privacy-conscious account planning.  
 **Documentation:** GO-P — Four detailed sessions, facilitation guide, handouts, assessment, and ClassHub package are present; approve tools and privacy rules before delivery.  
 **Source:** [`SECONDARY/AI_in_Your_Feed`](../SECONDARY/AI_in_Your_Feed)
+
+### Lo-Fi Beat Laboratory
+
+Use found sounds and imperfect rooms as instruments for a short original track.
+
+**Formats:** course  
+**Screen load:** S3  
+**Equipment:** E2→E2 — Computers, headphones, browser-based DAW or sampler, and simple recording access.  
+**Documentation:** GO-P — Eight session plans now pair with a facilitator quickstart, student project card, per-session evidence, safe recording boundaries, and recovery paths; the actual DAW, devices, headsets, and recording zones require local preflight.  
+**Source:** [`SECONDARY/lofi-beats-hs`](../SECONDARY/lofi-beats-hs)
+
+### High School Drone Racing League
+
+Launch a school FPV racing program with simulator-first training, safety, maintenance, progressive practice, and race-day operations.
+
+**Formats:** series, course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E4 — Simulators, USB radios, FPV aircraft, LiPo systems, charging, maintenance tools, and approved flight/race space.  
+**Documentation:** GO-P — Ready-to-run league starter kit with bootcamp, safety/law, simulator, maintenance, race-day, gear, and waiver materials; local RF, safety, policy, and technical-lead preflight is required.  
+**Source:** [`SECONDARY/HS_Drone_Racing_League`](../SECONDARY/HS_Drone_Racing_League)
+
+### Sound Design for Theater
+
+Create, edit, cue, rehearse, and document original sound for live performance with stagecraft and stage-management collaborators.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E2→E3 — Recording devices, editing stations, headphones, playback/PA, and an approved theater rehearsal environment.  
+**Documentation:** GO-P — Complete eight-session theater sound course with quickstart, cue sheets, showcase checklist, reflection prompts, assessment, and ClassHub evidence map; local playback and rehearsal preflight is required.  
+**Source:** [`PRIMARY/CTMSoundDesign`](../PRIMARY/CTMSoundDesign)
+
+### Tiny Whoop Tuning & Racing
+
+Learn safe simulator-first FPV practice, Betaflight configuration, maintenance, tuning, and small-race operations.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E4 — VelociDrone stations, radios, Tiny Whoops, batteries/charging, Betaflight-compatible hardware, and approved flight space.  
+**Documentation:** GO-P — Complete ten-week packet with safety/logistics notes, paired-session plans, signoffs, maintenance resources, simulator drills, troubleshooting, and competency grid; local flight, battery, and technical-lead preflight is required.  
+**Source:** [`SECONDARY/TinyWhoop-Workshop`](../SECONDARY/TinyWhoop-Workshop)
+
+### Robotics & Vibe Coding
+
+Build a sensing robot whose motion and data become expressive sound, light, and performance behavior.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E3 — LEGO SPIKE, Arduino, or MicroPython robot kits; devices; programming tools; and build/test space.  
+**Documentation:** GO-P — Complete eight-session Level 1 package with pacing, materials, facilities, safety, assessment, teacher/student guides, sessions, and implementation dialects; local kit and software preflight is required.  
+**Source:** [`SECONDARY/robotic-vibes/courses/robotics-vibe-coding-level1`](../SECONDARY/robotic-vibes/courses/robotics-vibe-coding-level1)
+
+### Debugging Studio
+
+Practice describing problems, testing one change at a time, supporting peers, and documenting what a difficult system teaches you.
+
+**Formats:** course  
+**Screen load:** S0–S3  
+**Equipment:** E0→E2 — Printable process cases at minimum; optionally one shared coding, robotics, media, or maker platform.  
+**Documentation:** GO-P — Eight-session packet includes learner handouts, assessment, a facilitator launch guide, device-free routes, novice language, and recovery moves; locally select and test the shared example system.  
+**Source:** [`SECONDARY/debugging`](../SECONDARY/debugging)
+
+### SPIKE Prime Robotics
+
+Build and program a LEGO SPIKE driving base, use sensors to navigate a maze, and refine an autonomous robot through evidence-based testing.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E3 — LEGO SPIKE Prime kits, app-compatible devices, charging, spare parts, a maze, and a bounded SuGo test ring.  
+**Documentation:** GO-P — Twelve-session sequence includes build and coding directions, challenge/reflection handouts, materials, troubleshooting, and a facilitator runbook with novice and offline routes; verify kits, app compatibility, and room safety.  
+**Source:** [`SECONDARY/Robotics_HS_SpikePrime`](../SECONDARY/Robotics_HS_SpikePrime)
 
 ## Early high school
 
@@ -263,3 +353,149 @@ Install and use a local language model while comparing local control, cloud conv
 **Equipment:** E3→E4 — Participant computers that meet local-model requirements, staged installers/models, and strong technical support.  
 **Documentation:** GO-P — Instructor and participant documentation is robust; hardware compatibility and model downloads must be tested on representative machines.  
 **Source:** [`SECONDARY/diy-local-ai-workshop`](../SECONDARY/diy-local-ai-workshop)
+
+### Robotics & Vibe Coding
+
+Build a sensing robot whose motion and data become expressive sound, light, and performance behavior.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E3 — LEGO SPIKE, Arduino, or MicroPython robot kits; devices; programming tools; and build/test space.  
+**Documentation:** GO-P — Complete eight-session Level 1 package with pacing, materials, facilities, safety, assessment, teacher/student guides, sessions, and implementation dialects; local kit and software preflight is required.  
+**Source:** [`SECONDARY/robotic-vibes/courses/robotics-vibe-coding-level1`](../SECONDARY/robotic-vibes/courses/robotics-vibe-coding-level1)
+
+### FPV Systems Primer
+
+Learn FPV as a disciplined systems practice through props-off proof, configuration records, telemetry replay, mapping, maintenance, and evidence-based stop decisions.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E4 — Whoop-class rigs, radios, batteries/charging, Betaflight stations, current limiting, inspection tools, and optional approved simulator/flight infrastructure.  
+**Documentation:** GO-P — Five-session bench-complete package includes labs, templates, rubric, safety/compliance resources, learner orientation, and an exact launch/materials checklist; live-prop work requires separate technical, policy, regulatory, and site approval.  
+**Source:** [`POST_SECONDARY/fpv-primer`](../POST_SECONDARY/fpv-primer)
+
+## Grades 11–12
+
+### Advanced Digital Fabrication Lab
+
+Operate a multi-printer lab while learning multi-material workflows, 3D scanning, calibration, and G-code interventions.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E4 — Intermediate CAD devices, an operational printer fleet, calibration tools, scanner access, and instructor-controlled G-code workflow.  
+**Documentation:** GO-P — Complete semester package with lessons, checklists, assessment, profiles, templates, and demo proof; local machine fleet, CAM, and safety preflight are required.  
+**Source:** [`POST_SECONDARY/Advanced-DigiFab-Lab-Multimaterial-Scanning-Gcode`](../POST_SECONDARY/Advanced-DigiFab-Lab-Multimaterial-Scanning-Gcode)
+
+### Foundations of Signals & Systems
+
+Learn digital signal processing by listening, plotting, transforming, and explaining audio or sensor-like data in reproducible Python notebooks.
+
+**Formats:** course  
+**Screen load:** S3–S4  
+**Equipment:** E2→E2 — Python/Jupyter-capable computers or hosted notebooks, private file storage, sample datasets, and optional headphones.  
+**Documentation:** GO-P — Complete 12-week package includes sessions, notebooks, assignments, math primer, glossary, setup, troubleshooting, capstone, learner orientation, and facilitator launch guide; smoke-test all notebooks in the local Python environment.  
+**Source:** [`POST_SECONDARY/DSP_SOUND/Foundations-Signals-and-Systems`](../POST_SECONDARY/DSP_SOUND/Foundations-Signals-and-Systems)
+
+### Ethics, Accessibility & Long-Term Thinking
+
+Audit and improve a real or case-study system through consent, accessibility, repairability, maintenance, lifecycle, licensing, and documentation evidence.
+
+**Formats:** course  
+**Screen load:** S0–S3  
+**Equipment:** E0→E2 — Paper or private digital templates and low-cost prototyping materials at minimum; optional access-testing tools and project-specific lab equipment.  
+**Documentation:** GO-P — Complete 12-week package includes sessions, assignments, rubrics, administration, risk guidance, templates, Responsibility Pack, learner orientation, and facilitator launch support; locally approve artifacts, consent/testing, privacy, and publication boundaries.  
+**Source:** [`POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking`](../POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking)
+
+## Grades 8–11
+
+### Parametric Sculpture & 3D Print
+
+Use parametric rules, pattern, scans, and print behavior as material for sculptural work and exhibition.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E3 — CAD-capable devices, printer access, basic 3D-printing knowledge, and exhibition/documentation materials.  
+**Documentation:** GO-P — Complete eight-week package with day plans, starter files, critique rubrics, templates, and safety/exhibit checklists; local CAD, printer, and material preflight is required.  
+**Source:** [`POST_SECONDARY/Art-Sculpture-Parametric-3D-Print`](../POST_SECONDARY/Art-Sculpture-Parametric-3D-Print)
+
+## Post-secondary
+
+### Critical Making & Civic Media
+
+Diagnose a local public problem, test a modest intervention with partners, and document the work for replication or critique.
+
+**Formats:** course  
+**Screen load:** S1–S3  
+**Equipment:** E0→E2 — Low-cost making materials, documentation tools, and an approved partner or bounded local public.  
+**Documentation:** GO-P — Complete 12-week, 24-session studio-seminar with sessions, assignments, rubric, partner onboarding, and reusable templates; local partner and permission preflight is required.  
+**Source:** [`POST_SECONDARY/critical-making-civic-media`](../POST_SECONDARY/critical-making-civic-media)
+
+### Imaging Otherwise
+
+Question visual defaults through speculative imaging studies, technical experiments, critique, and a public-facing final project.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E1→E2 — Image-making tools, documentation access, assigned readings, and critique/display space.  
+**Documentation:** GO-P — Complete 14-week studio-seminar with syllabus, assignments, reading/media list, instructor notes, accessibility practices, and ClassHub evidence map; local tool and display preflight is required.  
+**Source:** [`POST_SECONDARY/ImagingOtherwise`](../POST_SECONDARY/ImagingOtherwise)
+
+### Sound / Systems / Society
+
+Study sound as infrastructure through listening, small-system design, community gathering, and power-aware documentation.
+
+**Formats:** course  
+**Screen load:** S1–S2  
+**Equipment:** E1→E2 — Listening/playback tools, small PA or sound-system access, readings, and a gathering or demonstration context.  
+**Documentation:** GO-P — Complete 14-week course stack with syllabus, three project briefs, logs, readings, instructor notes, and ClassHub delivery map; local sound-system, safety, and gathering preflight is required.  
+**Source:** [`POST_SECONDARY/SoundSystemsSociety`](../POST_SECONDARY/SoundSystemsSociety)
+
+### DIY Instrument Lab
+
+Design and build sound-making systems from found objects, contact mics, circuits, sensors, and controllers while examining sound-tool politics.
+
+**Formats:** course  
+**Screen load:** S1–S3  
+**Equipment:** E2→E3 — Found materials, audio tools, electronics/sensors by local tier, build tools, and documented safety procedures.  
+**Documentation:** GO-P — Complete 14-week studio-seminar with schedule, assignments, readings, instructor safety/contingency notes, local adaptation template, and session plans; local hardware and safety preflight is required.  
+**Source:** [`POST_SECONDARY/diy-instrument-lab`](../POST_SECONDARY/diy-instrument-lab)
+
+### Sensing & Gesture Studio
+
+Explore how gestures become signals, mappings, and systems while building an embodied, ethical, and access-aware interactive work.
+
+**Formats:** course  
+**Screen load:** S0–S3  
+**Equipment:** E0→E3 — Paper scores and accessible movement materials at minimum; optional sensor kits, cameras, microcontrollers, and locally verified creative software.  
+**Documentation:** GO-P — Fourteen-session studio/seminar includes assignments, readings, assessment structure, ethics/access guidance, learner orientation, and a tiered facilitator launch guide; locally choose and test the technology, privacy, and showing tier.  
+**Source:** [`SECONDARY/sensing-and-gesture`](../SECONDARY/sensing-and-gesture)
+
+### FPV Systems Primer
+
+Learn FPV as a disciplined systems practice through props-off proof, configuration records, telemetry replay, mapping, maintenance, and evidence-based stop decisions.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E4 — Whoop-class rigs, radios, batteries/charging, Betaflight stations, current limiting, inspection tools, and optional approved simulator/flight infrastructure.  
+**Documentation:** GO-P — Five-session bench-complete package includes labs, templates, rubric, safety/compliance resources, learner orientation, and an exact launch/materials checklist; live-prop work requires separate technical, policy, regulatory, and site approval.  
+**Source:** [`POST_SECONDARY/fpv-primer`](../POST_SECONDARY/fpv-primer)
+
+### Foundations of Signals & Systems
+
+Learn digital signal processing by listening, plotting, transforming, and explaining audio or sensor-like data in reproducible Python notebooks.
+
+**Formats:** course  
+**Screen load:** S3–S4  
+**Equipment:** E2→E2 — Python/Jupyter-capable computers or hosted notebooks, private file storage, sample datasets, and optional headphones.  
+**Documentation:** GO-P — Complete 12-week package includes sessions, notebooks, assignments, math primer, glossary, setup, troubleshooting, capstone, learner orientation, and facilitator launch guide; smoke-test all notebooks in the local Python environment.  
+**Source:** [`POST_SECONDARY/DSP_SOUND/Foundations-Signals-and-Systems`](../POST_SECONDARY/DSP_SOUND/Foundations-Signals-and-Systems)
+
+### Ethics, Accessibility & Long-Term Thinking
+
+Audit and improve a real or case-study system through consent, accessibility, repairability, maintenance, lifecycle, licensing, and documentation evidence.
+
+**Formats:** course  
+**Screen load:** S0–S3  
+**Equipment:** E0→E2 — Paper or private digital templates and low-cost prototyping materials at minimum; optional access-testing tools and project-specific lab equipment.  
+**Documentation:** GO-P — Complete 12-week package includes sessions, assignments, rubrics, administration, risk guidance, templates, Responsibility Pack, learner orientation, and facilitator launch support; locally approve artifacts, consent/testing, privacy, and publication boundaries.  
+**Source:** [`POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking`](../POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking)

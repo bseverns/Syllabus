@@ -16,3 +16,15 @@
 | 12   | Build Sprint II: Choreography & Interface       | Staging interactions, signage, onboarding                   |
 | 13   | Showing / Performance Night                     | Public or internal event, observation, logging              |
 | 14   | Deinstallation, Documentation & Final Crit      | Final crit + documentation bundles                          |
+## ClassHub Delivery Map
+
+Use ClassHub for private evidence capture; embodied recordings and access notes remain private by default. Gallery sharing is optional, student-initiated, consent-cleared, and teacher-moderated.
+
+| Phase | Required private evidence | ClassHub materials |
+| --- | --- | --- |
+| Weeks 1–4 — gesture/signal | Gesture journal, score, body-as-sensor reflection, and first signal representation | Private document/image/audio upload; process reflection |
+| Weeks 5–8 — camera/mapping/Prototype 0 | Mapping table, consent/access note, system diagram, test evidence, and Prototype 0 brief | Private file/video upload; ethics checklist; midpoint rubric |
+| Weeks 9–12 — system/proposal/build | Risk/assumption list, proposal, role record, and iteration log | Private proposal and log uploads; critique checklist |
+| Weeks 13–14 — showing/documentation | Consent-cleared documentation or non-recorded alternative, event log, final bundle, and individual reflection | Final rubric; private portfolio; optional moderated gallery artifact |
+
+An upload does not prove sensing accuracy, consent, accessibility, or safe operation. Instructor review and live participation choices remain controlling.

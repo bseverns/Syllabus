@@ -119,6 +119,8 @@ If you are using this repo as a short course instead of a self-study reference, 
 3. `templates/air65-bench-proof-checklist.md`
 4. `templates/post-crash-triage-sheet.md`
 
+Before enrollment, choose the bench-only, indoor micro-flight, or field-capable boundary in `LAUNCH_AND_MATERIALS_CHECKLIST.md`. Give learners `STUDENT_START_HERE.md`; it explains the stack, stop rules, required artifacts, and a de-energized/recorded-data participation route for students new to FPV or temporarily without working hardware.
+
 The intended baseline is still a whoop-class rig similar to a BETAFPV Air65 with ELRS, but the evaluation logic is transferable to other small FPV platforms.
 
 ## Safety + responsibility (read this)
