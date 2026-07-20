@@ -1,37 +1,34 @@
-// Week 07 — Multiplexer scanning (conceptual scaffold)
-// This sketch assumes a 3-bit select mux (like CD4051) feeding A0.
-// You MUST adapt pin numbers to your wiring/chip.
+// Week 07: CD4051-style mux scan. Confirm the exact chip pinout and voltage first.
+const uint8_t SELECT_PINS[3] = {2, 3, 4};
+const uint8_t SIGNAL_PIN = A0;
+const uint8_t CHANNELS = 8;
+const unsigned int SETTLE_US = 200;
+const unsigned long FRAME_MS = 20;
+unsigned long lastFrame = 0;
 
-// Select pins
-const int S0 = 2;
-const int S1 = 3;
-const int S2 = 4;
-
-const int SIG = A0;
-
-void setChannel(int ch) {
-  digitalWrite(S0, (ch & 1) ? HIGH : LOW);
-  digitalWrite(S1, (ch & 2) ? HIGH : LOW);
-  digitalWrite(S2, (ch & 4) ? HIGH : LOW);
+void selectChannel(uint8_t channel) {
+  for (uint8_t bit = 0; bit < 3; bit++) {
+    digitalWrite(SELECT_PINS[bit], (channel >> bit) & 0x01);
+  }
 }
 
 void setup() {
-  pinMode(S0, OUTPUT); pinMode(S1, OUTPUT); pinMode(S2, OUTPUT);
+  for (uint8_t i = 0; i < 3; i++) pinMode(SELECT_PINS[i], OUTPUT);
   Serial.begin(115200);
-  delay(500);
 }
 
 void loop() {
-  unsigned long now = millis();
-  for (int ch = 0; ch < 8; ch++) {
-    setChannel(ch);
-    delayMicroseconds(10); // settling time (tune!)
-    int raw = analogRead(SIG);
+  const unsigned long now = millis();
+  if (now - lastFrame < FRAME_MS) return;
+  lastFrame = now;
+  for (uint8_t channel = 0; channel < CHANNELS; channel++) {
+    selectChannel(channel);
+    delayMicroseconds(SETTLE_US);
+    const int value = analogRead(SIGNAL_PIN);
     Serial.print(now);
-    Serial.print(",");
-    Serial.print(ch);
-    Serial.print(",");
-    Serial.println(raw);
+    Serial.print(',');
+    Serial.print(channel);
+    Serial.print(',');
+    Serial.println(value);
   }
-  delay(10);
 }

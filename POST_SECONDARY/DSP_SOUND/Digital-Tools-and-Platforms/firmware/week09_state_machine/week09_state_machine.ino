@@ -1,45 +1,51 @@
-// Week 09 — State machines + modes
-// One button cycles modes; LEDs indicate current mode.
-// Wiring: button to D2 and GND with INPUT_PULLUP.
+// Week 09: button advances IDLE -> PLAY -> CONFIG; pot is state-dependent.
+enum Mode { IDLE, PLAY, CONFIG };
+const uint8_t BUTTON_PIN = 2;
+const uint8_t LED_PINS[3] = {9, 10, 11};
+const uint8_t CONTROL_PIN = A0;
+const unsigned long DEBOUNCE_MS = 25;
+const unsigned long REPORT_MS = 100;
 
-const int BTN = 2;
-const int LED1 = 5;
-const int LED2 = 6;
-const int LED3 = 9;
-
-enum Mode { MODE_A=0, MODE_B=1, MODE_C=2 };
-Mode mode = MODE_A;
-
-unsigned long lastChange = 0;
-const unsigned long DEBOUNCE_MS = 30;
-
-void setup() {
-  pinMode(BTN, INPUT_PULLUP);
-  pinMode(LED1, OUTPUT); pinMode(LED2, OUTPUT); pinMode(LED3, OUTPUT);
-  Serial.begin(115200);
-  delay(500);
-}
+Mode mode = IDLE;
+bool lastRaw = false;
+bool stablePressed = false;
+unsigned long changedAt = 0;
+unsigned long lastReport = 0;
 
 void showMode() {
-  digitalWrite(LED1, mode == MODE_A);
-  digitalWrite(LED2, mode == MODE_B);
-  digitalWrite(LED3, mode == MODE_C);
+  for (uint8_t i = 0; i < 3; i++) digitalWrite(LED_PINS[i], i == (uint8_t)mode ? HIGH : LOW);
+}
+
+void setup() {
+  pinMode(BUTTON_PIN, INPUT_PULLUP);
+  for (uint8_t i = 0; i < 3; i++) pinMode(LED_PINS[i], OUTPUT);
+  Serial.begin(115200);
+  showMode();
 }
 
 void loop() {
-  unsigned long now = millis();
-  static int last = HIGH;
-  int raw = digitalRead(BTN);
-
-  if (raw != last) { last = raw; lastChange = now; }
-
-  // Detect press (stable LOW)
-  if (raw == LOW && (now - lastChange) > DEBOUNCE_MS) {
-    // Wait for release to avoid repeat
-    while (digitalRead(BTN) == LOW) { delay(1); }
-    mode = (Mode)(((int)mode + 1) % 3);
-    showMode();
-    Serial.print(now); Serial.print(",MODE=");
-    Serial.println((int)mode);
+  const unsigned long now = millis();
+  const bool rawPressed = digitalRead(BUTTON_PIN) == LOW;
+  if (rawPressed != lastRaw) {
+    lastRaw = rawPressed;
+    changedAt = now;
+  }
+  if (now - changedAt >= DEBOUNCE_MS && rawPressed != stablePressed) {
+    stablePressed = rawPressed;
+    if (stablePressed) {
+      mode = (Mode)(((uint8_t)mode + 1) % 3);
+      showMode();
+      Serial.print("EVENT,MODE,");
+      Serial.println((uint8_t)mode);
+    }
+  }
+  if (now - lastReport >= REPORT_MS) {
+    lastReport = now;
+    Serial.print("DATA,");
+    Serial.print(now);
+    Serial.print(',');
+    Serial.print((uint8_t)mode);
+    Serial.print(',');
+    Serial.println(analogRead(CONTROL_PIN));
   }
 }

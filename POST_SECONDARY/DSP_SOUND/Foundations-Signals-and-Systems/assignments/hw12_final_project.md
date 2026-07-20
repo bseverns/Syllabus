@@ -1,14 +1,16 @@
-# HW 12 — Showcase: final projects + reflection
+# HW 12 — Showcase, reproducibility check, and reflection
 
 ## Prompts
-1. Document one thing you built or observed this week (include a plot).
-2. Write 5–10 sentences explaining *why it works*.
-3. Propose one “local hack” extension you would try next.
+1. Run the project from a clean restart using only its written instructions. Record any missing step, hidden file, or version assumption and repair the documentation.
+2. Show the same input through the baseline and final system. Include at least two visualizations and a labeled parameter comparison.
+3. Demonstrate the documented failure mode safely and explain how a user can recognize or recover from it.
+4. Respond to one critique: what changed, what evidence motivated the change, and what remains unresolved?
+5. Write a final reflection connecting one time-domain idea, one frequency-domain idea, and one design/measurement tradeoff.
 
 ## Deliverables
-- Saved notebook outputs
-- At least one plot in `export/`
-- Reflection `reflections/week12.md`
+- Runnable `project/demo.ipynb`, completed `project/REPORT.md`, and run instructions
+- Final plots/clips in `export/` with private or appropriately licensed source data
+- Reproducibility/failure-mode record and `reflections/week12.md`
 
 ## Submission
 Follow `assignments/SUBMISSION.md`.

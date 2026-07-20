@@ -1,28 +1,29 @@
-// Week 04 — Timing without delay (metronome)
-// Goal: build a non-blocking timer loop using millis().
+// Week 04: millis()-scheduled metronome; reports t_ms,tick,interval_ms.
+const uint8_t LED_PIN = LED_BUILTIN;
+const unsigned long TICK_MS = 250;
 
-const int LED_PIN = LED_BUILTIN;
-int bpm = 120;
-
-unsigned long intervalMs() {
-  return (unsigned long)(60000.0 / (float)bpm);
-}
+unsigned long previousTick = 0;
+unsigned long tickCount = 0;
+bool ledState = false;
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
   Serial.begin(115200);
-  delay(500);
-  Serial.println("t_ms,tick");
+  previousTick = millis();
 }
 
 void loop() {
-  static unsigned long lastTick = 0;
-  unsigned long now = millis();
-  if (now - lastTick >= intervalMs()) {
-    lastTick += intervalMs();
-    digitalWrite(LED_PIN, !digitalRead(LED_PIN));
-
+  const unsigned long now = millis();
+  if (now - previousTick >= TICK_MS) {
+    const unsigned long actualInterval = now - previousTick;
+    previousTick += TICK_MS;  // Holds the schedule instead of resetting to now.
+    tickCount++;
+    ledState = !ledState;
+    digitalWrite(LED_PIN, ledState);
     Serial.print(now);
-    Serial.println(",1");
+    Serial.print(',');
+    Serial.print(tickCount);
+    Serial.print(',');
+    Serial.println(actualInterval);
   }
 }

@@ -1,22 +1,28 @@
-// Week 01 — Blink + Serial Hello
-// Goal: prove you can flash firmware and see Serial output.
-// Board: Arduino/Teensy (adjust LED_BUILTIN pin if needed)
+// Week 01: non-blocking blink plus a numeric Serial stream.
+const uint8_t LED_PIN = LED_BUILTIN;
+const unsigned long BLINK_MS = 500;
+const unsigned long REPORT_MS = 100;
+
+unsigned long lastBlink = 0;
+unsigned long lastReport = 0;
+bool ledState = false;
 
 void setup() {
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
   Serial.begin(115200);
-  delay(500);
-  Serial.println("HELLO_FROM_BOARD");
 }
 
 void loop() {
-  static unsigned long last = 0;
-  static bool on = false;
-  unsigned long now = millis();
-  if (now - last >= 500) {
-    last = now;
-    on = !on;
-    digitalWrite(LED_BUILTIN, on ? HIGH : LOW);
-    Serial.println(on ? "LED=1" : "LED=0");
+  const unsigned long now = millis();
+  if (now - lastBlink >= BLINK_MS) {
+    lastBlink = now;
+    ledState = !ledState;
+    digitalWrite(LED_PIN, ledState);
+  }
+  if (now - lastReport >= REPORT_MS) {
+    lastReport = now;
+    Serial.print(now);
+    Serial.print(',');
+    Serial.println(ledState ? 1 : 0);
   }
 }

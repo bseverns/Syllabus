@@ -19,12 +19,13 @@ By the end of 12 weeks, students can:
 - send *real* control data to a host (Serial and/or MIDI)
 - document circuits + firmware so others can rebuild them
 
-## Target hardware (pick one)
-- **Teensy 4.0/4.1** (ideal if you want USB MIDI without drama)
-- **Arduino Uno / Nano / compatible** (good for fundamentals)
-- **Raspberry Pi Pico** (optional alt; if you already love it)
+## Hardware baseline
 
-The repo includes Arduino-style sketches. Teensy works in Arduino IDE with the Teensyduino add-on.
+- **Required reference route:** Arduino Uno / Nano / compatible, using the documented pin plan and Serial messages.
+- **Optional native USB-MIDI route:** Teensy 4.x or another board only after its board package, USB mode, pin map, and all affected sketches pass local preflight.
+- **Alternate-board port:** Raspberry Pi Pico or another Arduino-compatible target is an instructor adaptation, not a drop-in substitution.
+
+The supplied sketches compile for the Uno reference route. Freeze one local board family before enrollment; see the bill of materials and facilitator launch guide.
 
 ## Repo map
 - `syllabus/` → course description + weekly schedule
@@ -39,14 +40,23 @@ The repo includes Arduino-style sketches. Teensy works in Arduino IDE with the T
 - `resources/` → glossary + safety notes + protocol cheat sheets
 
 ## Quick start (instructor)
-1. Install Arduino IDE + board support (see `setup/TOOLCHAIN.md`)
-2. For Python logging: `pip install -r requirements.txt`
-3. Flash Week 01 sketch: `firmware/week01_blink_hello/week01_blink_hello.ino`
-4. In a terminal: `python scripts/serial_logger.py --port YOUR_PORT --baud 115200 --outfile export/week01.csv`
-5. Open the lab notebook: `labs/week01_serial_basics.ipynb`
+1. Freeze the local board baseline and complete `FACILITATOR_LAUNCH_GUIDE.md` plus `PREFLIGHT_RECORD.md`.
+2. Build team kits from `hardware/BOM_AND_KIT.md` and verify `hardware/WIRING_BASELINE.md` on one reference bench.
+3. Install Arduino IDE + board support (see `setup/TOOLCHAIN.md`) and compile every sketch with `bash tests/compile_firmware.sh`.
+4. For Python logging: `pip install -r requirements.txt`.
+5. Flash `firmware/week01_blink_hello/week01_blink_hello.ino`.
+6. Capture with `scripts/serial_logger.py`, then use `labs/week01_serial_basics.ipynb` or the structured route in `labs/README.md`.
+
+## Learner and delivery support
+
+- Give students `STUDENT_START_HERE.md` before the first bench build.
+- Use the detailed `sessions/` and exact `assignments/` files for Weeks 1–12.
+- Keep `STUDENT_PROGRESS_TRACKER.md` with each board/team folder.
+- Serial, discrete LEDs, and Uno-compatible core APIs are the required route; native USB MIDI, addressable LEDs, and alternate sensors are extensions.
+- Hardware failure does not end the learning path: de-energized boards, saved logs, paper protocols/state diagrams, and reference captures preserve the same evidence targets.
 
 ## Licensing
 - Course text + prompts: **CC BY 4.0** (`LICENSES/CC-BY-4.0.txt`)
 - Code: **MIT** (`LICENSES/MIT.txt`)
 
-_Last updated: 2026-02-05_
+_Last updated: 2026-07-19_

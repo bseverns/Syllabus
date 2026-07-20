@@ -43,7 +43,7 @@
 - HW: `assignments/hw07_mux.md`
 
 ## Week 8 — LED feedback systems
-- NeoPixel/FastLED basics, state-driven LEDs
+- State-driven discrete LEDs; optional locally preflighted addressable-LED extension
 - Firmware: `firmware/week08_led_feedback/`
 - Lab: `labs/week08_led_design.ipynb`
 - HW: `assignments/hw08_leds.md`
@@ -69,4 +69,6 @@
 ## Week 12 — Build week
 - assemble a small controller (4 knobs + 4 buttons + LEDs)
 - Project: `project/PROJECT_BRIEF.md`
+- Firmware baseline: `firmware/week12_controller/`
+- HW: `assignments/hw12_build.md`
 - Demo + critique

@@ -1,39 +1,31 @@
-// Week 05 — Sensor thresholds + hysteresis
-// Example: photoresistor on A0. Output an LED toggle when crossing thresholds.
-// Serial: t_ms,raw,state
+// Week 05: analog sensor on A0 with hysteresis; LED on D9 through a resistor.
+const uint8_t SENSOR_PIN = A0;
+const uint8_t LED_PIN = 9;
+const int ON_THRESHOLD = 650;
+const int OFF_THRESHOLD = 550;
+const unsigned long REPORT_MS = 20;
 
-const int SENSOR_PIN = A0;
-const int LED_PIN = LED_BUILTIN;
-
-// Tune for your sensor + lighting
-const int THRESH_UP = 650;
-const int THRESH_DOWN = 600;
-
-bool state = false;
+bool active = false;
+unsigned long lastReport = 0;
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
   Serial.begin(115200);
-  delay(500);
 }
 
 void loop() {
-  unsigned long now = millis();
-  int raw = analogRead(SENSOR_PIN);
+  const int raw = analogRead(SENSOR_PIN);
+  if (!active && raw >= ON_THRESHOLD) active = true;
+  if (active && raw <= OFF_THRESHOLD) active = false;
+  digitalWrite(LED_PIN, active ? HIGH : LOW);
 
-  // Hysteresis: separate thresholds for up/down transitions
-  if (!state && raw > THRESH_UP) state = true;
-  if (state && raw < THRESH_DOWN) state = false;
-
-  digitalWrite(LED_PIN, state ? HIGH : LOW);
-
-  static unsigned long lastLog = 0;
-  if (now - lastLog >= 20) {
-    lastLog = now;
+  const unsigned long now = millis();
+  if (now - lastReport >= REPORT_MS) {
+    lastReport = now;
     Serial.print(now);
-    Serial.print(",");
+    Serial.print(',');
     Serial.print(raw);
-    Serial.print(",");
-    Serial.println(state ? 1 : 0);
+    Serial.print(',');
+    Serial.println(active ? 1 : 0);
   }
 }

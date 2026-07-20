@@ -33,4 +33,6 @@ A **Responsibility Pack** for a real artifact (their own, a lab device, or a cas
 2. Give learners `STUDENT_START_HERE.md`; it introduces the evidence loop without requiring prior technical vocabulary or personal disclosure.
 3. Complete the local artifact-permission, private-storage, testing, and optional-publication preflight before Week 1.
 
+During delivery, use `FACILITATOR_WEEKLY_FIELD_GUIDE.md` for weekly prep and recovery; `STUDENT_PROGRESS_TRACKER.md` keeps the Responsibility Pack evidence and next ownership action visible.
+
 _Last updated: 2026-02-05_

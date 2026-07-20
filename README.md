@@ -50,6 +50,7 @@ The lists below are an informal archive map. Delivery claims live in `catalog/me
 - [SoundSystemsSociety](./POST_SECONDARY/SoundSystemsSociety) – College-level seminar where PA systems meet politics, complete with assignments, listening logs, and instructor notes for power-aware sound practice.
 - [stringfield-studio-hs](./SECONDARY/stringfield-studio-hs) – Physical sound drawing studio that makes gesture visible and audible through string rigs, recording, and compositional sketches.
 - [Foundations-Signals-and-Systems](./POST_SECONDARY/DSP_SOUND/Foundations-Signals-and-Systems) – Twelve-week DSP on-ramp with runnable-notebook preflight, math and Python onboarding, weekly labs, assignments, troubleshooting, access routes, and a reproducible capstone.
+- [Digital-Tools-and-Platforms](./POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms) – Twelve-week microcontroller studio with compiled weekly firmware, exact kits/wiring, Serial analysis, detailed sessions, novice bench language, and an integrated physical-controller capstone.
 - [Ethics-Accessibility-LongTerm-Thinking](./POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking) – Twelve-week responsibility studio with low-cost materials, case-study fallbacks, consent-safe testing, accessibility and repair work, learner onboarding, and a documented Responsibility Pack.
 
 ## Course kits — imaging, media art & storytelling

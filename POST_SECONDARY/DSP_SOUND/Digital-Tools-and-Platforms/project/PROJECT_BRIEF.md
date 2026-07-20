@@ -21,3 +21,5 @@ Build a small physical controller that feels playable:
   - `firmware/` build sketch
   - `export/` CSV logs + at least one plot
   - a short `REPORT.md` explaining design decisions
+
+Use `firmware/week12_controller/` as the Uno-compatible baseline, `hardware/WIRING_BASELINE.md` as the default pin plan, and `assignments/hw12_build.md` for the exact proof and handoff requirements. An approved two-knob/two-button reduction is complete when debounce, deadband, non-blocking scheduling, two modes, visible feedback, host messages, recovery testing, and documentation remain evident.

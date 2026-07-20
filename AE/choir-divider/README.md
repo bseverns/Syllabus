@@ -27,3 +27,5 @@ See `syllabus/2-session-block.md`.
 1. An experienced facilitator completes `FACILITATOR_LAUNCH_CHECKLIST.md` on the exact local 5V platform before enrollment.
 2. Prepare one tray per pair from `parts/parts-list.md` and give learners `STUDENT_START_HERE.md`.
 3. Keep the package at `PILOT` until the physical verification and first delivery record timing, quantities, substitutions, and failure points.
+
+Use `PILOT_VERIFICATION_RECORD.md` for both the instructor proof build and first learner delivery; its completed evidence supports—but does not automatically authorize—a later catalog readiness change.

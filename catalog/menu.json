@@ -682,6 +682,19 @@
       "repo_paths": ["POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking"],
       "preflight_required": ["artifact-permission", "consent", "privacy", "access", "testing-plan", "publication-boundary"],
       "public": true
+    },
+    {
+      "offering_id": "digital-tools-platforms",
+      "public_title": "Digital Tools & Platforms",
+      "summary": "Build a reliable physical controller while learning microcontroller inputs, timing, protocols, multiplexing, feedback, calibration, modes, and host messages.",
+      "age_bands": ["Grades 11–12", "Post-secondary"],
+      "formats": ["course"],
+      "screen_load": ["S2", "S3"],
+      "equipment": {"minimum_tier": "E3", "full_tier": "E3", "summary": "One documented microcontroller kit and computer per pair, breadboards, buttons, pots, LEDs/resistors, analog sensor, CD4051-class mux, meters, tools, and optional native USB-MIDI board."},
+      "readiness": {"status": "GO-P", "note": "Complete 12-week hardware/software package now includes Uno-compiled firmware for every week, exact kit and wiring baselines, detailed sessions and assignments, logging/analysis tools, capstone, learner supports, facilitator launch guide, and preflight record; bench-test the exact local board and components."},
+      "repo_paths": ["POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms"],
+      "preflight_required": ["board-baseline", "firmware-compile", "bench-verification", "toolchain", "serial-permissions", "materials", "safety", "technical-lead"],
+      "public": true
     }
   ]
 }

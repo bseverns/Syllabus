@@ -406,6 +406,16 @@ Audit and improve a real or case-study system through consent, accessibility, re
 **Documentation:** GO-P — Complete 12-week package includes sessions, assignments, rubrics, administration, risk guidance, templates, Responsibility Pack, learner orientation, and facilitator launch support; locally approve artifacts, consent/testing, privacy, and publication boundaries.  
 **Source:** [`POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking`](../POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking)
 
+### Digital Tools & Platforms
+
+Build a reliable physical controller while learning microcontroller inputs, timing, protocols, multiplexing, feedback, calibration, modes, and host messages.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E3 — One documented microcontroller kit and computer per pair, breadboards, buttons, pots, LEDs/resistors, analog sensor, CD4051-class mux, meters, tools, and optional native USB-MIDI board.  
+**Documentation:** GO-P — Complete 12-week hardware/software package now includes Uno-compiled firmware for every week, exact kit and wiring baselines, detailed sessions and assignments, logging/analysis tools, capstone, learner supports, facilitator launch guide, and preflight record; bench-test the exact local board and components.  
+**Source:** [`POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms`](../POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms)
+
 ## Grades 8–11
 
 ### Parametric Sculpture & 3D Print
@@ -499,3 +509,13 @@ Audit and improve a real or case-study system through consent, accessibility, re
 **Equipment:** E0→E2 — Paper or private digital templates and low-cost prototyping materials at minimum; optional access-testing tools and project-specific lab equipment.  
 **Documentation:** GO-P — Complete 12-week package includes sessions, assignments, rubrics, administration, risk guidance, templates, Responsibility Pack, learner orientation, and facilitator launch support; locally approve artifacts, consent/testing, privacy, and publication boundaries.  
 **Source:** [`POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking`](../POST_SECONDARY/DSP_SOUND/Ethics-Accessibility-LongTerm-Thinking)
+
+### Digital Tools & Platforms
+
+Build a reliable physical controller while learning microcontroller inputs, timing, protocols, multiplexing, feedback, calibration, modes, and host messages.
+
+**Formats:** course  
+**Screen load:** S2–S3  
+**Equipment:** E3→E3 — One documented microcontroller kit and computer per pair, breadboards, buttons, pots, LEDs/resistors, analog sensor, CD4051-class mux, meters, tools, and optional native USB-MIDI board.  
+**Documentation:** GO-P — Complete 12-week hardware/software package now includes Uno-compiled firmware for every week, exact kit and wiring baselines, detailed sessions and assignments, logging/analysis tools, capstone, learner supports, facilitator launch guide, and preflight record; bench-test the exact local board and components.  
+**Source:** [`POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms`](../POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms)

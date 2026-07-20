@@ -1,53 +1,41 @@
-// Week 03 — Potentiometer → PWM LED + smoothing + deadband
-// Wiring: pot wiper to A0, ends to 5V/3.3V and GND.
-// LED on PWM pin 9 (change if needed).
-// Serial output: t_ms,raw,smoothed,mappedPWM
-
-const int POT_PIN = A0;
-const int LED_PIN = 9;
-
-// Exponential moving average
-float ema = 0.0f;
-const float ALPHA = 0.1f;
-
-// Deadband in raw ADC units (0..1023 on Arduino, 0..4095 on some boards)
+// Week 03: potentiometer on A0, PWM LED on D9 through a resistor.
+// ADC_MAX is 1023 for a default 10-bit Arduino Uno/Nano ADC; adapt locally.
+const uint8_t POT_PIN = A0;
+const uint8_t LED_PIN = 9;
+const int ADC_MAX = 1023;
+const float SMOOTHING = 0.15f;
 const int DEADBAND = 4;
-int lastRaw = 0;
+const unsigned long REPORT_MS = 20;
+
+float smoothed = 0.0f;
+int stableValue = 0;
+unsigned long lastReport = 0;
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
   Serial.begin(115200);
-  delay(500);
-  lastRaw = analogRead(POT_PIN);
-  ema = (float)lastRaw;
+  smoothed = analogRead(POT_PIN);
+  stableValue = (int)smoothed;
 }
 
 void loop() {
-  unsigned long now = millis();
-  int raw = analogRead(POT_PIN);
+  const int raw = analogRead(POT_PIN);
+  smoothed += SMOOTHING * (raw - smoothed);
+  if (abs((int)smoothed - stableValue) >= DEADBAND) {
+    stableValue = (int)smoothed;
+  }
+  const int pwm = map(stableValue, 0, ADC_MAX, 0, 255);
+  analogWrite(LED_PIN, constrain(pwm, 0, 255));
 
-  // Deadband: ignore tiny changes
-  if (abs(raw - lastRaw) < DEADBAND) raw = lastRaw;
-  lastRaw = raw;
-
-  // EMA smoothing
-  ema = (1.0f - ALPHA) * ema + ALPHA * (float)raw;
-
-  // Map to PWM
-  int pwm = map((int)ema, 0, 1023, 0, 255);
-  pwm = constrain(pwm, 0, 255);
-  analogWrite(LED_PIN, pwm);
-
-  // Log at ~100 Hz
-  static unsigned long lastLog = 0;
-  if (now - lastLog >= 10) {
-    lastLog = now;
+  const unsigned long now = millis();
+  if (now - lastReport >= REPORT_MS) {
+    lastReport = now;
     Serial.print(now);
-    Serial.print(",");
+    Serial.print(',');
     Serial.print(raw);
-    Serial.print(",");
-    Serial.print((int)ema);
-    Serial.print(",");
+    Serial.print(',');
+    Serial.print(smoothed, 2);
+    Serial.print(',');
     Serial.println(pwm);
   }
 }

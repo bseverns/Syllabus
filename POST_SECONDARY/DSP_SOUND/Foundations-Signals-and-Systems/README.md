@@ -49,6 +49,8 @@ Start here, then zoom inward:
 2. Give learners `STUDENT_START_HERE.md`; run the Week 0 bridge for students new to Python or notebooks.
 3. Use the frozen executed notebooks, saved clips/data, and private file-submission route whenever live audio, Git, or local installation is unavailable.
 
+During delivery, use `FACILITATOR_WEEKLY_FIELD_GUIDE.md` for prep/evidence/recovery and give learners `STUDENT_PROGRESS_TRACKER.md` to make milestones and support requests visible.
+
 ## Notes for instructors
 - This course is designed to flex. Each week includes **core** + **extension** tracks.
 - You can run it as a seminar (discussion-heavy) or a lab (hands-on-heavy).
