@@ -10,6 +10,17 @@ A messy, honest archive of courses I've slung across classrooms, studios, and wo
 
 The lists below are an informal archive map. Delivery claims live in `catalog/menu.json`; course details live in each package.
 
+## Newly bounded pilot packages
+
+- [Repair-Studio](./SECONDARY/Repair-Studio) – Four-session high-school low-voltage diagnosis, documentation, repair, reuse, and salvage studio.
+- [Public-Data-Sensors-and-Civic-Interfaces](./SECONDARY/Public-Data-Sensors-and-Civic-Interfaces) – Four-session high-school paper-first civic-data and interface studio with explicit privacy boundaries.
+- [Live-Media-Lab](./SECONDARY/Live-Media-Lab) – Four-session high-school audiovisual systems studio for real rooms, audiences, and run sheets.
+- [Public-Screens-and-RealTime-Video](./POST_SECONDARY/Public-Screens-and-RealTime-Video) – Four-session post-secondary public screen/projection and operating-documentation studio.
+- [Maintenance-Repair-and-Infrastructures-Studio](./POST_SECONDARY/Maintenance-Repair-and-Infrastructures-Studio) – Four-session post-secondary maintenance mapping, continuity, and handoff studio.
+- [Local-AI-Archives-and-Small-Tools](./POST_SECONDARY/Local-AI-Archives-and-Small-Tools) – Four-session post-secondary provenance-first archive and bounded-tool studio.
+
+All six are `PILOT` offerings: run them with the named preflight, then use their delivery review before promoting them to the public-ready shelf.
+
 ## How to navigate the chaos
 - **Clone it, then zoom in.** Most course folders ship with their own README or syllabus map. Follow those breadcrumbs before spelunking blindly.
 - **Work from the inside out.** Lesson plans live alongside assessments, checklists, slicer profiles, BandLab station cards—you name it. When in doubt, open `syllabus/` first, then chase `lessons/`, `activities/`, or `sessions/`.

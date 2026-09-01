@@ -695,6 +695,84 @@
       "repo_paths": ["POST_SECONDARY/DSP_SOUND/Digital-Tools-and-Platforms"],
       "preflight_required": ["board-baseline", "firmware-compile", "bench-verification", "toolchain", "serial-permissions", "materials", "safety", "technical-lead"],
       "public": true
+    },
+    {
+      "offering_id": "repair-studio",
+      "public_title": "Repair Studio: Devices, Diagnostics & Reuse",
+      "summary": "Diagnose low-voltage devices, document evidence, and decide whether a device should be repaired, reused, or safely salvaged.",
+      "age_bands": ["High school"],
+      "formats": ["workshop", "course"],
+      "screen_load": ["S0", "S1"],
+      "equipment": {"minimum_tier": "E1", "full_tier": "E1", "summary": "Pre-screened battery-powered or unpowered devices, basic hand tools, multimeters, parts trays, and repair logs."},
+      "readiness": {"status": "PILOT", "note": "Four-session low-voltage package has sequence, materials, risk controls, assessment, and recovery path; one real delivery must verify device sourcing, tool flow, and timing."},
+      "repo_paths": ["SECONDARY/Repair-Studio"],
+      "preflight_required": ["device-screening", "materials", "safety", "room"],
+      "public": false
+    },
+    {
+      "offering_id": "public-data-sensors-civic-interfaces",
+      "public_title": "Public Data, Sensors & Civic Interfaces",
+      "summary": "Turn one small, permissioned observation into a clearer public-facing sign, map, dashboard, or guide without treating people as data.",
+      "age_bands": ["High school"],
+      "formats": ["workshop", "course"],
+      "screen_load": ["S0", "S2"],
+      "equipment": {"minimum_tier": "E0", "full_tier": "E2", "summary": "Paper-first observation and prototype materials; optional shared spreadsheet or microcontroller station."},
+      "readiness": {"status": "PILOT", "note": "Four-session paper-first package has ethics/privacy boundaries, sequence, materials, assessment, and fallback; one delivery must verify the approved local question and user-test flow."},
+      "repo_paths": ["SECONDARY/Public-Data-Sensors-and-Civic-Interfaces"],
+      "preflight_required": ["site-permission", "privacy", "materials", "room"],
+      "public": false
+    },
+    {
+      "offering_id": "live-media-lab",
+      "public_title": "Live Media Lab: Sound, Projection & Generative Performance",
+      "summary": "Build a timed visual-and-sound study, test it in a real room, and leave a usable run sheet for the next operator.",
+      "age_bands": ["High school"],
+      "formats": ["workshop", "course"],
+      "screen_load": ["S2", "S3"],
+      "equipment": {"minimum_tier": "E2", "full_tier": "E3", "summary": "Shared laptops, a single approved visual tool, headphones, one display/projector, speaker, and tested cable path."},
+      "readiness": {"status": "PILOT", "note": "Four-session package has room/cable/volume controls, recovery paths, sequence, and assessment; one delivery must verify local software, projection, and reset labor."},
+      "repo_paths": ["SECONDARY/Live-Media-Lab"],
+      "preflight_required": ["devices", "software", "room", "safety"],
+      "public": false
+    },
+    {
+      "offering_id": "public-screens-realtime-video",
+      "public_title": "Public Screens, Experimental Video & Real-Time Systems",
+      "summary": "Make a screen or projection work for a specific site, test it with an audience, and document reliable playback and maintenance.",
+      "age_bands": ["Post-secondary"],
+      "formats": ["workshop", "course"],
+      "screen_load": ["S2", "S3"],
+      "equipment": {"minimum_tier": "E2", "full_tier": "E3", "summary": "Laptops, one tested display/projector and playback path, simple audio, adapters, and a permissioned site."},
+      "readiness": {"status": "PILOT", "note": "Four-session site-aware package has setup, operating, audience, safety, and recovery guidance; one delivery must verify permissions, playback, and venue conditions."},
+      "repo_paths": ["POST_SECONDARY/Public-Screens-and-RealTime-Video"],
+      "preflight_required": ["site-permission", "hardware", "software", "safety"],
+      "public": false
+    },
+    {
+      "offering_id": "maintenance-repair-infrastructures",
+      "public_title": "Maintenance, Repair & Infrastructures Studio",
+      "summary": "Observe an upkeep system, map hidden labor, test one small continuity intervention, and make a handoff legible.",
+      "age_bands": ["Post-secondary"],
+      "formats": ["workshop", "course"],
+      "screen_load": ["S0", "S2"],
+      "equipment": {"minimum_tier": "E0", "full_tier": "E2", "summary": "Observation and mapping materials, low-fi prototype supplies, and an approved site/process or classroom case."},
+      "readiness": {"status": "PILOT", "note": "Four-session observation-and-prototype package has consent, authority, safety, sequence, assessment, and fallback guidance; one delivery must verify steward access and intervention usefulness."},
+      "repo_paths": ["POST_SECONDARY/Maintenance-Repair-and-Infrastructures-Studio"],
+      "preflight_required": ["site-permission", "consent", "materials", "room"],
+      "public": false
+    },
+    {
+      "offering_id": "local-ai-archives-small-tools",
+      "public_title": "Local AI, Archives & Small Tools",
+      "summary": "Audit a permissioned document set, test a bounded retrieval or annotation workflow, and make provenance and limits visible.",
+      "age_bands": ["Post-secondary"],
+      "formats": ["workshop", "course"],
+      "screen_load": ["S2", "S4"],
+      "equipment": {"minimum_tier": "E2", "full_tier": "E3", "summary": "Computer pairs, a permissioned corpus, one approved tool path, and a paper-based retrieval fallback."},
+      "readiness": {"status": "PILOT", "note": "Four-session package has permission, privacy, provenance, tool-failure, sequence, and assessment guidance; one delivery must verify corpus preparation and approved-tool conditions."},
+      "repo_paths": ["POST_SECONDARY/Local-AI-Archives-and-Small-Tools"],
+      "preflight_required": ["corpus-permission", "privacy", "tools", "devices"],
+      "public": false
     }
   ]
 }
