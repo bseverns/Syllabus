@@ -27,6 +27,17 @@ def broken_local_markdown_links(root: Path) -> list[str]:
 
 
 class ValidateMenuTest(unittest.TestCase):
+    def test_build_together_pilot_is_packaged_and_cataloged(self):
+        package = REPO_ROOT / "FAMILIES/Build-Together"
+        self.assertTrue((package / "README.md").is_file())
+        self.assertTrue((package / "SYLLABUS.md").is_file())
+
+        menu = json.loads((REPO_ROOT / "catalog/menu.json").read_text())
+        offering = next(item for item in menu["offerings"] if item["offering_id"] == "build-together-family")
+        self.assertEqual(offering["readiness"]["status"], "PILOT")
+        self.assertFalse(offering["public"])
+        self.assertEqual(offering["repo_paths"], ["FAMILIES/Build-Together"])
+
     def test_rejects_an_offering_with_a_missing_repo_path(self):
         menu = {
             "offerings": [

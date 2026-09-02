@@ -16,6 +16,19 @@
       "public": true
     },
     {
+      "offering_id": "build-together-family",
+      "public_title": "Build Together: Family Invention Lab",
+      "summary": "Mixed-age family teams build, test, trade roles, and revise one shared invention using ordinary materials and optional shared technology.",
+      "age_bands": ["Families"],
+      "formats": ["workshop"],
+      "screen_load": ["S0", "S1"],
+      "equipment": {"minimum_tier": "E0", "full_tier": "E2", "summary": "Cardboard, recycled materials, and hand tools at minimum; optional low-voltage components or one shared SPIKE kit per family."},
+      "readiness": {"status": "PILOT", "note": "Runnable 90–120 minute package derived from Build Your Block; requires one documented delivery and revision before public listing."},
+      "repo_paths": ["FAMILIES/Build-Together"],
+      "preflight_required": ["materials", "room", "access", "permissions"],
+      "public": false
+    },
+    {
       "offering_id": "idea-to-3d-print",
       "public_title": "From Idea to 3D Print",
       "summary": "Draw, measure, model, slice, print, and revise a useful object for someone else.",
