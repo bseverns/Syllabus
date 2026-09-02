@@ -2,6 +2,8 @@
 
 `index.json` is the archive index. `menu.json` is the canonical deployment-aware layer for offering claims; generated menus are disposable views. Historical folders remain the practical source locations, not canonical audience metadata. See [`standards/COURSE_PACKAGE_STANDARD.md`](../standards/COURSE_PACKAGE_STANDARD.md) for the readiness contract.
 
+The [`24-brief coverage matrix`](BRIEF_COVERAGE.md) records how each supplied one-page brief maps to a canonical package without duplicating complete courses.
+
 ## Menu fields
 
 | Field | Use |

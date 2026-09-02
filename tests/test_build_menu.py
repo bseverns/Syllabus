@@ -38,6 +38,48 @@ class ValidateMenuTest(unittest.TestCase):
         self.assertFalse(offering["public"])
         self.assertEqual(offering["repo_paths"], ["FAMILIES/Build-Together"])
 
+    def test_new_brief_pilots_are_packaged_and_cataloged(self):
+        expected = {
+            "build-your-block-advanced-studio": "SECONDARY/Build-Your-Block-Advanced-Studio",
+            "robot-orchestra-family": "FAMILIES/Robot-Orchestra",
+            "make-it-real-family": "FAMILIES/Make-It-Real",
+            "family-sound-lab": "FAMILIES/Family-Sound-Lab",
+            "family-flight-night": "FAMILIES/Family-Flight-Night",
+            "family-debugging-lab": "FAMILIES/Family-Debugging-Lab",
+        }
+        menu = json.loads((REPO_ROOT / "catalog" / "menu.json").read_text())
+        offerings = {item["offering_id"]: item for item in menu["offerings"]}
+
+        for offering_id, source in expected.items():
+            with self.subTest(offering_id=offering_id):
+                package = REPO_ROOT / source
+                self.assertTrue((package / "README.md").is_file())
+                syllabus = package / "SYLLABUS.md"
+                self.assertTrue(syllabus.is_file())
+                syllabus_text = syllabus.read_text(encoding="utf-8")
+                self.assertIn("## ClassHub Delivery Map", syllabus_text)
+                if offering_id == "build-your-block-advanced-studio":
+                    self.assertIn("28 sessions", syllabus_text)
+                    self.assertIn("105 minutes", syllabus_text)
+                    self.assertIn("Session 28", syllabus_text)
+                self.assertEqual(offerings[offering_id]["readiness"]["status"], "PILOT")
+                self.assertFalse(offerings[offering_id]["public"])
+
+    def test_digital_music_control_has_canonical_syllabus(self):
+        syllabus = REPO_ROOT / "SECONDARY/Digital-Music-Control/SYLLABUS.md"
+        self.assertTrue(syllabus.is_file())
+        text = syllabus.read_text(encoding="utf-8")
+        self.assertIn("maker_track/LEVEL1_FROM_BLINK_TO_MIDI.md", text)
+        self.assertIn("## ClassHub Delivery Map", text)
+
+    def test_digital_manufacturing_has_12_session_module_map_without_laser_dependency(self):
+        syllabus = (REPO_ROOT / "SECONDARY/digital_manufacturing/syllabus/syllabus.md").read_text(encoding="utf-8")
+        briefs = (REPO_ROOT / "SECONDARY/digital_manufacturing/assessments/project_briefs.md").read_text(encoding="utf-8")
+        self.assertEqual(syllabus.count("| Session "), 12)
+        self.assertNotIn("Laser", syllabus + briefs)
+        self.assertIn("Genmitsu Cubiko", syllabus)
+        self.assertIn("LulzBot Mini 2/3", syllabus)
+
     def test_rejects_an_offering_with_a_missing_repo_path(self):
         menu = {
             "offerings": [

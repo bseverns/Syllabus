@@ -1,6 +1,6 @@
 # Project Briefs
 
-## Mini‑Project 1 — Nameplate (Laser/CNC)
+## Mini‑Project 1 — Nameplate (CNC)
 - Goal: Clean edges, correct spelling, safe hold‑downs.
 - Deliverable: Physical plate + logbook entry.
 

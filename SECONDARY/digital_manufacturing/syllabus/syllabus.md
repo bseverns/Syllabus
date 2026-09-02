@@ -10,19 +10,28 @@
 - Build **hybrid assemblies** from additive and subtractive parts.
 - Document decisions, parameters, and results like a designer.
 
-## Sessions at a glance
-1. **Bits Become Matter** — file types, tolerances, units → Laser‑etched nameplate  
-2. **CAD Foundations** — sketch → extrude → combine → A tiny object with intent  
-3. **Parametric Design** — variables & constraints → Keychain that adapts  
-4. **Material Thinking** — feeds, speeds, kerf → Test cuts on the CNC  
-5. **Toolpaths & G‑code** — how geometry becomes motion → Annotate G‑code  
-6. **Subtractive Fabrication** — workholding, zeroing, safety → Mill a small plate  
-7. **Additive Fabrication** — slicing, support, infill → Print modular connectors  
-8. **Assemblies** — joining printed and milled parts → Simple mechanism  
-9. **Automation & AI** — assistive tools, ethics → Parametric/generative trials  
-10. **Ecologies** — repair, reuse, materials → Reflection and redesign  
-11. **Final Build** — independent design → Fabricate and finish  
-12. **Exhibition** — present, critique, and celebrate
+## Twelve-session module map
+
+Each row names the existing module packet that supplies the lesson plan, demo script, activity, handout, and reflection. Every meeting ends with a source/settings save, evidence capture, tool return, machine-area cleanup, and labeled project parking.
+
+| Meeting | Existing module | Target and demonstration | Artifact and evidence |
+| --- | --- | --- | --- |
+| Session 1 | `module_01_foundations` — Day 1 | File types, units, safe workflow; demo vector-to-CNC path | Dimensioned vector and CNC-engraved nameplate plan; export check |
+| Session 2 | `module_01_foundations` — Day 2 | Tolerance and first controlled toolpath; demo air-cut and hold-down check | Nameplate result or documented simulation; setup sheet and reflection |
+| Session 3 | `module_02_parametric_design` — Day 1 | Sketch constraints and variables; demo one controlled dimension change | Parametric keychain source with named dimensions; screenshot |
+| Session 4 | `module_02_parametric_design` — Day 2 | Export and fit prediction; demo source-to-slicer/CAM handoff | Revised keychain/export; predicted versus observed fit note |
+| Session 5 | `module_03_subtractive_fab` — Day 1 | Material, feeds/speeds, workholding, zeroing; demo air-cut | Setup sheet, stock sketch, annotated toolpath, safety check |
+| Session 6 | `module_03_subtractive_fab` — Day 2 | Facilitator-managed CNC run; demo stop/recovery and inspection | Milled plate or recorded machine result; measurement and fault log |
+| Session 7 | `module_04_additive_fab` — Day 1 | Orientation, support, infill, and queue; demo sliced preview | Connector source, preview, settings record, print approval |
+| Session 8 | `module_04_additive_fab` — Day 2 | Facilitator-managed print and inspection; demo cleanup and fit test | Printed connector or documented queue result; fit/failure evidence |
+| Session 9 | `module_05_assemblies` | Joining additive/subtractive parts; demo tolerance diagnosis | Working hybrid assembly; test table and one revision |
+| Session 10 | `module_06_ecologies_ethics` | Repair, reuse, material impact; demo disassembly audit | Repair/reuse redesign and material decision reflection |
+| Session 11 | `module_07_final_project` | Independent design review and bounded fabrication; demo production preflight | Final source files, settings, artifact/progress evidence, checklist |
+| Session 12 | `module_08_exhibition` | Explain choices, limits, and impact; demo consent-cleared display | Final artifact or process record, critique, reflection, approved share |
+
+## Supported machine boundary
+
+Repository machine assets are built around the **Genmitsu Cubiko** and **LulzBot Mini 2/3**. Other printers or CNC machines require local slicer/CAM, material, connection, sample-file, safety, and recovery validation before delivery; repository files do not authorize a machine run.
 
 ## How you'll be assessed
 - **Design Logbook (30%)** — sketches, parameters, screenshots, tests.
