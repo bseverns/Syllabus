@@ -4,6 +4,10 @@ This doc gives instructors and students one concrete reference platform for begi
 
 Use it to explain what the parts are and how the signals move through the quad.
 
+![Diagram separating a tiny whoop’s power, control, and video systems: 1S battery to 5-in-1 board to motors; pilot radio through ELRS to the board; camera through analog VTX to goggles or ground receiver.](../assets/flight-systems-map.svg)
+
+This is an orientation map, not a wiring diagram or configuration recipe. Bench tests and configuration stay props-off; the instructor controls flight clearance.
+
 ## What is a tiny whoop?
 
 A tiny whoop is a very small quadcopter, usually built for:

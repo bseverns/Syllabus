@@ -11,6 +11,8 @@ A four-session Grades 3–5 pilot studio where learners make low-voltage systems
 3. Build one working demo and one deliberate fault for Session 1.
 4. Use only the low-voltage materials listed in the syllabus; no mains power or soldering in this pilot.
 
+![Low-voltage invention concept map: power source, complete path, control, and a light, sound, or motion output.](assets/power-path-control-output.svg)
+
 <!-- ponytail: one syllabus contains the whole four-session pilot. Add circuit cards only after a delivery proves live modeling and the embedded prompts are insufficient. -->
 
 ## Lineage

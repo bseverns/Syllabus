@@ -11,6 +11,8 @@ A four-session, screen-light pilot workshop for Pre-K–Grade 2. Learners test l
 3. Pre-cut silhouettes, stage a safe light-test zone, and prepare a normal-room-light fallback.
 4. Run four 60-minute sessions; preserve one test trace and one final-scene note per learner/team.
 
+![Shadow test showing a low-heat light aimed through an object toward a screen, with prompts to move the object nearer the light and then nearer the screen.](assets/shadow-test-map.svg)
+
 <!-- ponytail: the pilot uses LEDs and paper, not a projector or editing software. Add higher-tech tools only if a delivery needs capabilities these materials cannot provide. -->
 
 ## Lineage

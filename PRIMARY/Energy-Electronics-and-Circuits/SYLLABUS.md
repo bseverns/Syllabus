@@ -40,6 +40,8 @@ updated: "2026-07-14"
 
 ## Four-session sequence
 
+![Four-stage concept map showing power, a complete path, a switch control, and a light, sound, or motion output.](assets/power-path-control-output.svg)
+
 ### Session 1 — Make energy visible
 
 **Target:** make and explain one closed paper circuit.

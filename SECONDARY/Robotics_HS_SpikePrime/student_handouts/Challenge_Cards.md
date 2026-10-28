@@ -2,6 +2,8 @@
 
 Before every run: clear the lane or ring, put hands outside the area, and wait for the instructor's start signal. Stop the program before touching or adjusting a robot.
 
+![A four-step loop for a robot maze run: predict a route, test after the instructor signal, notice the result, and revise one thing.](../assets/maze-run-loop.svg)
+
 ### Maze Navigation
 - Reach the goal without touching walls.
 - Use at least one sensor.

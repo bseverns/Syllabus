@@ -58,6 +58,8 @@ For a two-hour section, shorten both studies. Preserve the break, documentation,
 
 ## Plain-language opening
 
+Project the [gesture sensing map](assets/gesture-sensing-map.svg) before the Week 1 opening. It makes Tier 0 participation and the consent boundary as visible as the technical pipeline.
+
 Say this in Week 1:
 
 > You do not need to be a dancer, performer, programmer, or electronics expert. A gesture can be large, tiny, imagined, drawn, spoken, performed by an object, or represented in recorded data. You choose how your body participates. Our job is to notice what a sensing system assumes, test how it responds, and make those choices visible.

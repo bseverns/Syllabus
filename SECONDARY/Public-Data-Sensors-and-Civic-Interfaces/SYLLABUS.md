@@ -31,6 +31,8 @@ Clipboards; pencils; printed tally/data-journal sheets; graph paper; markers; pa
 
 ## Four-session sequence
 
+![Five-step workflow from bounded question through permissioned observation and context to public prototype, user test, revision, and privacy limits.](assets/permissioned-public-data-loop.svg)
+
 ### Session 1 — Decide what deserves measurement
 
 **Target:** distinguish a useful local question from an extractive one.

@@ -35,6 +35,8 @@ suggested_path: "PRIMARY/Light-Color-and-Shadow-Lab"
 
 ## Four-session sequence
 
+![Light, object, and screen map for trying near-light and near-screen object positions while noticing how the shadow changes.](assets/shadow-test-map.svg)
+
 ### Session 1 — Find a shadow
 
 **Target:** notice that distance changes shadow size and sharpness.

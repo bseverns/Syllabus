@@ -35,6 +35,8 @@ suggested_path: "PRIMARY/Chain-Reaction-Playground"
 
 ## Four-session sequence
 
+![Four-step visual for a reliable chain reaction: start, watch, reset, and change one thing before testing again.](assets/cause-effect-loop.svg)
+
 ### Session 1 — One cause, one effect
 
 **Target:** make one action reliably cause another visible action.

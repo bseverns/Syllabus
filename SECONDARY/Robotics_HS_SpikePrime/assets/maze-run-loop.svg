@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Robot maze run: predict, test, notice, revise</title>
+  <desc id="desc">A four-step student workflow diagram for a LEGO SPIKE Prime maze run. Students draw or say their route, run the robot after the instructor signals, record what happened, and make one change before testing again. A safety reminder says hands stay outside the lane while a robot is moving.</desc>
+  <defs>
+    <style>.heading{font:700 40px Arial,sans-serif;fill:#172a46}.sub{font:400 19px Arial,sans-serif;fill:#455a77}.num{font:700 32px Arial,sans-serif;fill:#fff}.label{font:700 25px Arial,sans-serif;fill:#172a46}.copy{font:400 18px Arial,sans-serif;fill:#263a57}.note{font:700 19px Arial,sans-serif;fill:#8a321d}.small{font:600 16px Arial,sans-serif;fill:#263a57}.card{stroke-width:3}.arrow{fill:none;stroke:#476485;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}</style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#263a57"/></marker>
+  </defs>
+  <rect width="1200" height="700" fill="#f7f9fc"/>
+  <text x="50" y="62" class="heading">Maze run loop: predict → test → notice → revise</text>
+  <text x="50" y="94" class="sub">A team uses one clear route idea at a time. A crash, wrong turn, or slow run is evidence—not a reason to guess.</text>
+
+  <g>
+    <rect x="62" y="173" width="245" height="330" rx="22" fill="#fff6dd" stroke="#d89c19" class="card"/>
+    <circle cx="105" cy="218" r="27" fill="#d89c19"/><text x="96" y="229" class="num">1</text>
+    <text x="148" y="225" class="label">Predict</text>
+    <path d="M105 295h83v-35h58v70h-83v35h83" fill="none" stroke="#8e6510" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="115" cy="295" r="12" fill="#42a26b"/><circle cx="246" cy="330" r="12" fill="#ca535a"/>
+    <text x="88" y="393" class="copy">Draw or say the route.</text><text x="88" y="420" class="copy">Name the sensor rule</text><text x="88" y="447" class="copy">or turn you expect.</text>
+  </g>
+  <g>
+    <rect x="343" y="173" width="245" height="330" rx="22" fill="#eaf3ff" stroke="#4a90d9" class="card"/>
+    <circle cx="386" cy="218" r="27" fill="#4a90d9"/><text x="377" y="229" class="num">2</text>
+    <text x="429" y="225" class="label">Test</text>
+    <rect x="403" y="274" width="108" height="71" rx="12" fill="#7897b7"/><circle cx="429" cy="361" r="22" fill="#344a62"/><circle cx="488" cy="361" r="22" fill="#344a62"/><rect x="424" y="288" width="32" height="25" rx="4" fill="#d3f0ff"/><path d="M386 412h158" stroke="#9fb5ca" stroke-width="7" stroke-dasharray="10 12"/>
+    <text x="369" y="444" class="copy">Wait for the instructor</text><text x="369" y="471" class="copy">signal, then run once.</text>
+  </g>
+  <g>
+    <rect x="624" y="173" width="245" height="330" rx="22" fill="#edf9f2" stroke="#42a26b" class="card"/>
+    <circle cx="667" cy="218" r="27" fill="#42a26b"/><text x="658" y="229" class="num">3</text>
+    <text x="710" y="225" class="label">Notice</text>
+    <circle cx="748" cy="306" r="56" fill="#fff" stroke="#42a26b" stroke-width="7"/><path d="M722 306h52M748 280v52" stroke="#42a26b" stroke-width="7" stroke-linecap="round"/><path d="M730 366l-35 36" stroke="#42a26b" stroke-width="14" stroke-linecap="round"/>
+    <text x="650" y="444" class="copy">Record where it went</text><text x="650" y="471" class="copy">differently than expected.</text>
+  </g>
+  <g>
+    <rect x="905" y="173" width="245" height="330" rx="22" fill="#fff0f1" stroke="#cf5a65" class="card"/>
+    <circle cx="948" cy="218" r="27" fill="#cf5a65"/><text x="939" y="229" class="num">4</text>
+    <text x="991" y="225" class="label">Revise</text>
+    <path d="M970 320c8-51 68-68 104-38 35 30 20 83-19 88" fill="none" stroke="#cf5a65" stroke-width="10" stroke-linecap="round"/><path d="M1059 349l-3 25 25-5" fill="none" stroke="#cf5a65" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M966 393h116" stroke="#cf5a65" stroke-width="8"/><path d="M966 417h85" stroke="#cf5a65" stroke-width="8"/>
+    <text x="931" y="444" class="copy">Change one thing:</text><text x="931" y="471" class="copy">route, timing, or rule.</text>
+  </g>
+  <path d="M308 338h29" class="arrow"/><path d="M337 330 L349 338 L337 346 Z" fill="#476485"/><path d="M589 338h29" class="arrow"/><path d="M618 330 L630 338 L618 346 Z" fill="#476485"/><path d="M870 338h29" class="arrow"/><path d="M899 330 L911 338 L899 346 Z" fill="#476485"/>
+  <path d="M1027 514c0 100-750 100-750 0" class="arrow"/><path d="M277 506 L265 514 L277 522 Z" fill="#476485"/>
+  <rect x="62" y="596" width="1088" height="59" rx="16" fill="#fff0e8" stroke="#dd7441" stroke-width="2"/>
+  <text x="87" y="633" class="note">Safety: clear the lane, keep hands outside while the robot moves, then stop the program before you retrieve or adjust it.</text>
+</svg>

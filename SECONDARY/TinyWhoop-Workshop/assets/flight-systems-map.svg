@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Tiny whoop: three systems that work together</title>
+  <desc id="desc">A teaching diagram that separates power, control, and video systems on a tiny whoop. The battery supplies the 5-in-1 flight-controller and ESC board and motors. The pilot radio sends commands through an ELRS control link to the board. The camera sends video through an analog VTX to goggles or a ground receiver. A safety banner says that bench work happens with props off.</desc>
+  <defs>
+    <style>
+      .heading{font:700 37px Arial,sans-serif;fill:#14213d}.sub{font:400 18px Arial,sans-serif;fill:#40516d}.panel{stroke-width:3}.label{font:700 21px Arial,sans-serif;fill:#14213d}.copy{font:400 17px Arial,sans-serif;fill:#25344d}.small{font:600 15px Arial,sans-serif;fill:#25344d}.box{fill:#fff;stroke:#20385a;stroke-width:2}.arrow{fill:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}.banner{font:700 24px Arial,sans-serif;fill:#6f191d}
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#263a57"/></marker>
+  </defs>
+  <rect width="1200" height="700" fill="#f7f9fc"/>
+  <text x="50" y="58" class="heading">Tiny Whoop: three systems that work together</text>
+  <text x="50" y="90" class="sub">Use this as an orientation map. It explains jobs and signal paths—not a wiring diagram or configuration recipe.</text>
+
+  <rect x="48" y="124" width="1104" height="154" rx="18" fill="#fff2e8" stroke="#ef8e4e" class="panel"/>
+  <circle cx="87" cy="163" r="20" fill="#ef8e4e"/><text x="80" y="171" class="label">1</text>
+  <text x="123" y="171" class="label">Power system — makes motion possible</text>
+  <g class="box"><rect x="115" y="197" width="176" height="51" rx="10"/><rect x="440" y="197" width="242" height="51" rx="10"/><rect x="834" y="197" width="196" height="51" rx="10"/></g>
+  <text x="149" y="228" class="label">1S battery</text><text x="475" y="220" class="label">5-in-1 board</text><text x="475" y="241" class="small">flight controller + ESCs</text><text x="880" y="220" class="label">motors + props</text><text x="866" y="241" class="small">lift and thrust</text>
+  <path d="M292 222 H435" class="arrow" stroke="#d86f2b"/><path d="M435 214 L447 222 L435 230 Z" fill="#d86f2b"/><path d="M683 222 H829" class="arrow" stroke="#d86f2b"/><path d="M829 214 L841 222 L829 230 Z" fill="#d86f2b"/>
+
+  <rect x="48" y="296" width="1104" height="154" rx="18" fill="#eaf3ff" stroke="#4a90d9" class="panel"/>
+  <circle cx="87" cy="335" r="20" fill="#4a90d9"/><text x="80" y="343" class="label">2</text>
+  <text x="123" y="343" class="label">Control system — tells the quad what the pilot wants</text>
+  <g class="box"><rect x="92" y="369" width="185" height="51" rx="10"/><rect x="383" y="369" width="176" height="51" rx="10"/><rect x="666" y="369" width="202" height="51" rx="10"/><rect x="975" y="369" width="126" height="51" rx="10"/></g>
+  <text x="119" y="400" class="label">pilot radio</text><text x="426" y="400" class="label">ELRS link</text><text x="694" y="400" class="label">flight controller</text><text x="1002" y="400" class="label">ESCs</text>
+  <path d="M278 394 H378" class="arrow" stroke="#2877c2"/><path d="M378 386 L390 394 L378 402 Z" fill="#2877c2"/><path d="M560 394 H661" class="arrow" stroke="#2877c2"/><path d="M661 386 L673 394 L661 402 Z" fill="#2877c2"/><path d="M869 394 H970" class="arrow" stroke="#2877c2"/><path d="M970 386 L982 394 L970 402 Z" fill="#2877c2"/>
+
+  <rect x="48" y="468" width="1104" height="154" rx="18" fill="#edf9f2" stroke="#42a26b" class="panel"/>
+  <circle cx="87" cy="507" r="20" fill="#42a26b"/><text x="80" y="515" class="label">3</text>
+  <text x="123" y="515" class="label">Video system — lets the pilot see</text>
+  <g class="box"><rect x="147" y="541" width="160" height="51" rx="10"/><rect x="481" y="541" width="176" height="51" rx="10"/><rect x="831" y="541" width="224" height="51" rx="10"/></g>
+  <text x="194" y="572" class="label">camera</text><text x="511" y="563" class="label">analog VTX</text><text x="496" y="584" class="small">video transmitter</text><text x="860" y="563" class="label">goggles / ground</text><text x="885" y="584" class="small">receiver</text>
+  <path d="M308 566 H476" class="arrow" stroke="#2c8a57"/><path d="M476 558 L488 566 L476 574 Z" fill="#2c8a57"/><path d="M658 566 H826" class="arrow" stroke="#2c8a57"/><path d="M826 558 L838 566 L826 574 Z" fill="#2c8a57"/>
+
+  <rect x="48" y="642" width="1104" height="40" rx="12" fill="#fff0f0" stroke="#ca535a" stroke-width="2"/>
+  <text x="68" y="669" class="banner">Safety boundary: bench tests and configuration happen with props off; flight happens only in the instructor-cleared flight area.</text>
+</svg>

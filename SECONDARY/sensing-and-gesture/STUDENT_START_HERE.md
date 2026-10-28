@@ -13,6 +13,8 @@ You choose how your body participates. You will always have an alternative to to
 
 ## The course's basic pipeline
 
+![Five-stage gesture-sensing map: a chosen gesture or data source is partially sensed, mapped to an interpretation and response, then reflected on for limits and revision.](assets/gesture-sensing-map.svg)
+
 1. **Gesture:** something changes or carries meaning.
 2. **Sensing:** a person or device notices part of that change.
 3. **Interpretation:** the system decides what the signal means.

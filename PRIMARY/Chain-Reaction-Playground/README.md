@@ -11,6 +11,8 @@ A four-session, fully unplugged pilot workshop for Pre-K–Grade 2. Learners use
 3. Mark the test boundary and keep replacement ramps/balls in a fast-fix bin.
 4. Run four 60-minute sessions; preserve one before/after repair note from the final chain.
 
+![Four-step chain-reaction routine: start one safe action, watch the next effect, reset, and change one thing before testing again.](assets/cause-effect-loop.svg)
+
 <!-- ponytail: a reliable two-action chain is the pilot's complete success. Add complexity only after a group can reset and explain this minimum consistently. -->
 
 ## Lineage

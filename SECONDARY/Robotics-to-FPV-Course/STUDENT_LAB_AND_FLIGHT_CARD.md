@@ -34,6 +34,8 @@ Use this with your team at every session. The instructor decides when a build ma
 
 ## 5. If a craft crashes
 
+![Five-step FPV crash recovery path: disarm, secure and remove battery, inspect, get instructor direction before the next bench or flight decision, and log the repair.](assets/crash-recovery-loop.svg)
+
 1. Say “crash” and wait for the flight area to be made safe.
 2. Do not re-power or re-arm the craft.
 3. Follow the [`Crash Recovery Checklist`](checklists/Crash-Recovery-Checklist.md), then log the repair.

@@ -1,5 +1,7 @@
 # Week 10 — Indoor LOS flights
 
+Project the [crash recovery loop](../assets/crash-recovery-loop.svg) before the first hover block; it supports the existing crash protocol and does not replace instructor flight-area clearance.
+
 **Time:** 1.5 hours  
 **Targets:** throttle discipline; hover boxes; gentle turns
 
