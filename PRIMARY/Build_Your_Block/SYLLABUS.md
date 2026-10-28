@@ -133,6 +133,21 @@ This course is designed for real mixed-age rooms. Each week includes:
 
 The goal is not to make older students into unpaid assistants. The goal is to keep every student doing meaningful studio work.
 
+
+---
+
+## 8-day age-band stack
+
+For programs that meet with separate age bands for 8 days each, use the adaptation layer in [adaptations/8_day_age_band_stack/](adaptations/8_day_age_band_stack/).
+
+That version keeps the same Build Your Block spine while tuning the cognitive load:
+
+- **K–2:** sensory neighborhood world-building and shared installation
+- **Grades 3–4:** working block inventions with one clear interaction
+- **Grades 5–7:** public prototype stations with user testing, reset logic, and explanation
+
+The 7-week intensive remains the full version of the course. The 8-day stack is the deployable short-form version for age-disparate groups.
+
 ---
 
 ## Materials and platform choices
