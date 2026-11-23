@@ -53,6 +53,10 @@ Keep a circle/demo edge, materials table, build tables or floor trays, and a par
 
 **Demo:** one brad hinge and one tape hinge; name only `pivot` after learners have handled both.
 
+![A cardboard creature with a raised wing attached to its body by a paper fastener, allowing the wing to pivot.](../Machines-That-Move/assets/flap-creature.svg)
+
+*Look and wonder:* Point to the wing. Where might it move? This is an idea to observe, not a build template; adult-prepared parts and local safety rules still apply.
+
 **Build:** learners make a flap creature, door, wing, or mouth. During sprint 2, they add one drawing or label that explains the action.
 
 **Evidence / parking:** photo or facilitator note: `My ___ moves when I ___.` Park in a labeled tray.

@@ -8,7 +8,7 @@ A four-session, screen-light pilot workshop for Pre-K–Grade 2. Learners build 
 
 1. Read [SYLLABUS.md](SYLLABUS.md) and the [K–2 operating model](../K2-PILOT-OPERATING-MODEL.md).
 2. Choose a low, reachable shared footprint and pre-sort building, connecting, and decorating trays.
-3. Print place/user picture cards and make one readable model before Session 1.
+3. Print place/user picture cards and make one readable model before Session 1. For Sessions 2–3, show the [illustrated neighborhood](assets/neighborhood.svg): invite learners to point out entrances and trace a route; welcome different designs rather than copying it. See [asset notes](assets/README.md).
 4. Run four 60-minute sessions; preserve one photo, quote, or sketch per learner/team.
 
 <!-- ponytail: the whole pilot stays in one syllabus file. Add separate cards only if the first delivery shows facilitators cannot run the prompts directly. -->

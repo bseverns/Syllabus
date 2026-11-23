@@ -18,6 +18,7 @@
 - Quick preview: what should be working by minute 40.
 
 **0:05–0:12 Micro-lesson (demo)**
+- Project the [example level illustration](../../assets/game-design/example-level.svg), also in Handout 05. Ask students to point out a possible goal and obstacles; the star is optional, and the picture does not define game rules. Invite different designs rather than copying it.
 - Show 3 win conditions:
   1) reach the door,
   2) collect X points,

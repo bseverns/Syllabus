@@ -12,6 +12,8 @@ A four-session, screen-light pilot workshop for Pre-K–Grade 2. Learners use ca
 4. Run the four 60-minute sessions; end every session with one trace and a parked next step.
 5. Record the pilot review at the bottom of the syllabus before changing readiness.
 
+For Session 1, show the [flap creature illustration](../Machines-That-Move/assets/flap-creature.svg) before the live hinge demo; invite learners to notice the pivot, not copy a design. Adult preparation and the safety guidance in the syllabus control tool use. See [asset notes](../Machines-That-Move/assets/README.md).
+
 <!-- ponytail: one syllabus file carries the pilot's sequence, materials, safety, prompts, and assessment. Split into handouts only after the first delivery exposes a real facilitator or learner need. -->
 
 ## Package map

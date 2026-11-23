@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+<title id="title">Cardboard flap creature</title>
+<desc id="desc">A cardboard creature with a paper-fastener pivot joining its body to a raised wing; the wing can swing around the fastener.</desc>
+<rect width="900" height="560" fill="#fff9ed"/>
+<ellipse cx="449" cy="480" rx="320" ry="35" fill="#e8dccb"/>
+<!-- Cardboard body, feet, and face -->
+<path d="M286 412 L307 463 L350 463 L355 417 M492 415 L501 463 L545 463 L550 400" fill="#bc8552" stroke="#503728" stroke-width="8" stroke-linejoin="round"/>
+<path d="M244 205 Q265 133 398 134 L536 153 Q610 169 615 264 L599 384 Q589 425 532 429 L319 429 Q251 421 241 355 Z" fill="#dba96d" stroke="#503728" stroke-width="9"/>
+<path d="M258 226 L598 226 M254 248 L608 248 M250 270 L609 270 M248 292 L608 292 M247 314 L606 314 M248 336 L604 336 M253 358 L601 358 M263 380 L592 380" stroke="#c4945e" stroke-width="3" opacity=".6"/>
+<circle cx="367" cy="199" r="15" fill="#fff" stroke="#503728" stroke-width="5"/><circle cx="370" cy="200" r="6" fill="#503728"/>
+<circle cx="485" cy="199" r="15" fill="#fff" stroke="#503728" stroke-width="5"/><circle cx="488" cy="200" r="6" fill="#503728"/>
+<path d="M402 232 Q426 253 452 232" fill="none" stroke="#503728" stroke-width="6" stroke-linecap="round"/>
+<!-- A single raised wing pinned to the body -->
+<path d="M404 313 Q342 291 300 222 Q269 170 302 126 Q315 109 335 129 Q370 163 417 174 Q463 184 469 219 Q474 263 438 302 Z" fill="#edc481" stroke="#503728" stroke-width="8" stroke-linejoin="round"/>
+<path d="M330 154 Q355 213 410 256 M315 179 Q335 238 393 277" fill="none" stroke="#c38f57" stroke-width="5" stroke-linecap="round"/>
+<circle cx="421" cy="292" r="15" fill="#e7b85b" stroke="#503728" stroke-width="5"/><path d="M414 292 H428" stroke="#503728" stroke-width="4"/>
+</svg>

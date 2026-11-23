@@ -46,6 +46,10 @@ updated: "2026-07-14"
 
 **Prompt:** *What stays still, and what gets to move?*
 
+![A cardboard creature with a raised wing attached to its body by a paper fastener, allowing the wing to pivot.](assets/flap-creature.svg)
+
+*Look and wonder:* Where is the pivot, and which part could move? This is an idea to observe, not a build template; adult-prepared parts and local safety rules still apply.
+
 **Build:** learners make a flap, lever, or slider creature. They test one motion before decorating.
 
 **Evidence:** labeled sketch or spoken explanation: `I push here; this moves here.`

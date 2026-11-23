@@ -21,6 +21,7 @@ Use these next to the diagrams and live demonstrations. The infill image compare
 | 4 | [`infill-density-slicer.jpg`](cc-images/infill-density-slicer.jpg) | Compare solid skin, sparse lines, grid infill, and an empty shell in slicer previews. | Four slicer previews show a cube with a closed top and three different internal structures. |
 | 4, 7 | [`support-material-overhang.jpg`](cc-images/support-material-overhang.jpg) | Distinguish the model from temporary material under an overhang. | Green support material rises from the build plate beneath an angled orange model. |
 | 9 | [`first-layer-detached-failure.jpg`](cc-images/first-layer-detached-failure.jpg) | Diagnose a print that detached after its first layer. | A hand holds a tangled white Benchy print that detached from the build plate after its first layer. |
+| 9 | [`benchy-completed.jpg`](cc-images/benchy-completed.jpg) | Compare visible boat features with the separate detached-print example; then inspect actual student prints. | A hand holds a completed green 3D-printed boat with a hull, cabin openings, and chimney. |
 
 ## Reuse existing course assets
 
@@ -34,9 +35,20 @@ Use these next to the diagrams and live demonstrations. The infill image compare
 - **Relief and iteration:** Flat art gains a base and raised detail; a failed first version leads to one change and a second version.
 - **User capstone:** User, need, ideas, small prototype, and constraint check form a path beside a four-part presentation prompt.
 
-All four SVGs are original repository assets covered by the package license. The six files in `cc-images/` retain the licenses below and are not relicensed by this repository.
+All four SVGs are original repository assets covered by the package license. The files in `cc-images/` retain the licenses below and are not relicensed by this repository.
 
 ## Asset-level attribution
+
+### `benchy-completed.jpg`
+
+- **Title:** *3D-printed 3DBenchy by Creative Tools*
+- **Creator:** Creative Tools
+- **Source:** [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:3D-printed_3DBenchy_by_Creative_Tools.jpg)
+- **License:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- **Modifications:** None; original image.
+- **Facilitation:** Compare visible features with the separate detached-print example in Week 9, then use learner prints for evidence-based revision. It is an observation prompt, not a template or proof of a fix.
+- **Alt text:** A hand holds a completed green 3D-printed boat with a hull, cabin openings, and chimney.
+- **Attribution:** “3D-printed 3DBenchy by Creative Tools” by Creative Tools, via Wikimedia Commons, licensed under CC BY 2.0.
 
 ### `fdm-layer-deposition.png`
 

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img" aria-labelledby="title desc">
+  <title id="title">A possible game level</title>
+  <desc id="desc">A small blue character faces a spiky obstacle and a gap on the way to a glowing door, with a star above the gap.</desc>
+  <rect width="960" height="480" fill="#d9f1fa"/>
+  <circle cx="780" cy="85" r="42" fill="#ffe07a"/>
+  <path d="M0 315 Q140 220 280 315 Q420 225 570 315 Q720 230 960 305 V480 H0Z" fill="#a5d9cf"/>
+  <path d="M0 358 H440 V480 H0Z M565 358 H960 V480 H565Z" fill="#765537"/>
+  <path d="M0 358 H440 M565 358 H960" fill="none" stroke="#3d8060" stroke-width="22"/>
+  <path d="M440 370 Q500 410 565 370 V480 H440Z" fill="#a8dded"/>
+  <ellipse cx="152" cy="355" rx="45" ry="9" fill="#4d664e" opacity=".35"/>
+  <path d="M124 328 L112 351 M169 328 L181 351" stroke="#173d6c" stroke-width="12" stroke-linecap="round"/>
+  <rect x="112" y="250" width="80" height="84" rx="32" fill="#388ad1" stroke="#173d6c" stroke-width="5"/>
+  <circle cx="166" cy="278" r="5" fill="#173d6c"/>
+  <path d="M168 296 Q177 302 184 294 M118 303 L102 318" fill="none" stroke="#173d6c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M285 348 L305 302 L325 348 L345 302 L365 348Z" fill="#d75e52" stroke="#843e39" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M501 223 L512 247 L538 250 L519 268 L523 294 L501 281 L479 294 L483 268 L464 250 L490 247Z" fill="#ffce45" stroke="#a46f13" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="754" y="185" width="118" height="173" rx="55" fill="#ffde76" stroke="#9b6b32" stroke-width="10"/>
+  <path d="M778 358 V241 Q813 205 848 241 V358Z" fill="#7454a3"/>
+  <circle cx="831" cy="301" r="6" fill="#ffe490"/>
+  <path d="M731 223 l-15 -9 M739 197 l-9 -16 M883 223 l15 -9 M875 197 l9 -16" stroke="#d3a22b" stroke-width="6" stroke-linecap="round"/>
+</svg>

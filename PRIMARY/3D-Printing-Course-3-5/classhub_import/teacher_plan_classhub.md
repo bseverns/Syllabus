@@ -321,6 +321,7 @@ Teacher prep
 - Prepare a short compare-and-revise reflection routine.
 - Open the iteration sheet in the [course visual pack](../assets/course-visuals/README.md).
 - Open the [first-layer detachment photograph](../assets/course-visuals/cc-images/first-layer-detached-failure.jpg).
+- Compare it with the [completed 3DBenchy photograph](../assets/course-visuals/cc-images/benchy-completed.jpg) (Creative Tools, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/); [source](https://commons.wikimedia.org/wiki/File:3D-printed_3DBenchy_by_Creative_Tools.jpg), unmodified). Ask students to notice the hull and cabin versus tangled plastic; these are separate examples, not a before-and-after pair. The source reports detachment for the failed print; don't infer a specific fix from the images alone. Use actual student prints for revision decisions.
 - Make reprint rules and queue limits visible.
 
 Materials

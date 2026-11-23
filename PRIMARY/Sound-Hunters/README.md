@@ -7,7 +7,7 @@ A four-session, screen-light pilot workshop for Pre-K–Grade 2. Learners listen
 ## Quick start
 
 1. Read [SYLLABUS.md](SYLLABUS.md) and the [K–2 operating model](../K2-PILOT-OPERATING-MODEL.md).
-2. Test every Foley object for safe volume and sharp edges; stage two or three sound trays plus a quiet corner.
+2. Test every Foley object for safe volume and sharp edges; stage two or three sound trays plus a quiet corner. For Session 2, use the [Foley tray illustration](assets/foley-tray.svg) to invite story ideas after the live quiet/medium/stop demonstration—not as a required tray or a substitute for safety checks. Keep any beans or rice sealed inside the paper bag.
 3. Post the stop/listen signal and volume card before Session 1.
 4. Run four 60-minute sessions; preserve the cue strip and one learner quote from the final share.
 

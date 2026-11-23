@@ -11,6 +11,8 @@ A four-session Grades 3–5 pilot studio for mechanisms, automata, moving sculpt
 3. Pre-punch cardboard where a pivot or axle is required; keep sharp cutting and dowel preparation adult-managed.
 4. Treat motors and 3D-printed components as enrichment, not prerequisites.
 
+For Session 1, show the [flap creature illustration](assets/flap-creature.svg) before the live hinge demo; invite learners to notice the pivot, not copy a design. Adult preparation and the safety guidance in the syllabus control tool use. See [asset notes](assets/README.md).
+
 <!-- ponytail: this is a short mechanism pilot, not the unbuilt 8–12-week course imagined in the legacy brief. Extend only after a pilot identifies a worthwhile fifth session. -->
 
 ## Lineage

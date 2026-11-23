@@ -3,6 +3,11 @@
 **Game title:** ____________________________  
 **Player name:** ___________________________
 
+## Look at one possible level
+![A blue character faces a spiky obstacle and a gap on the way to a glowing door, with a star above the gap.](../assets/game-design/example-level.svg)
+
+What could the player’s goal be? What might make reaching it tricky? This is just an idea—design your own level below.
+
 ## Level 1 (the first challenge)
 **Goal (circle one):**
 - Reach the door

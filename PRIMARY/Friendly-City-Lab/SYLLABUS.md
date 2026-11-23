@@ -46,6 +46,10 @@ updated: "2026-07-14"
 
 **Prompt:** *What does this sign expect you to already know?*
 
+![In a fictional building, a sign with a book icon, the word Library, and a right arrow points toward a corridor and door.](assets/library-sign.svg)
+
+> What can a visitor infer from the words, picture, and arrow? What might still be unclear? This fictional example is a discussion starter, not approved signage or a template; invent and test your own ideas.
+
 **Build:** learners take a short observation walk or inspect provided images, then mark one helpful and one confusing message.
 
 **Evidence:** `I noticed ___; it helps/confuses ___ because ___.`

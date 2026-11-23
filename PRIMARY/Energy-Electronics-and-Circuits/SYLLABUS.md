@@ -48,6 +48,12 @@ updated: "2026-07-14"
 
 **Prompt:** *What has to connect for the light to work?*
 
+![Copper-tape paths on orange paper meet two LED leads; a coin cell rests on a tape strip at the right.](../Build_Your_Block/assets/course-visuals/cc-images/simple-paper-circuit.jpg)
+
+*Reference for observation:* Where do you see a power source, paths, and lights? The photo is not a wiring guide or permission to operate a circuit; the exposed coin cell is not this course's battery-handling model. Use the facilitator-approved materials and adult connection check.
+
+[*Simple paper circuit*](https://commons.wikimedia.org/wiki/File:Simple_paper_circuit.jpeg) by Mosborne01, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); resized.
+
 **Build:** learners make a light-up sign or symbol with LED, coin cell, and copper tape. Facilitator models a deliberate open path and a polarity reversal.
 
 **Evidence:** learner marks `power / path / light` on a sketch or points while explaining.

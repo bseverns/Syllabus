@@ -48,6 +48,10 @@ suggested_path: "PRIMARY/Build-a-Neighborhood"
 **Target:** make a place recognizable enough for another learner to use in play.
 **Prompt:** *What does someone need to see or do here?*
 **Demo:** add an entrance, path, sign, or seat to make a model readable.
+
+![Two small model buildings with entrances sit beside a winding path; a toy figure stands on the path.](assets/neighborhood.svg)
+
+Where might the figure enter a place? Point or describe; invent your own place and entrance. In Session 3, trace a possible route between places. This imaginary example is not a template or a tested accessible route.
 **Build:** learners complete one place with one access feature and one detail.
 **Evidence / parking:** partner points to where they would start; builder changes one confusing feature if needed.
 

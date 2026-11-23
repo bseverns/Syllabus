@@ -49,6 +49,11 @@ suggested_path: "PRIMARY/Sound-Hunters"
 **Prompt:** *What could this sound become in a story?*
 **Demo:** make the same object quiet, medium, then stop; model asking before playing a sound near someone.
 **Build/play:** rotate through two or three safe Foley trays; learners choose one sound and one story image.
+
+![A paper cup, sealed paper bag, folded fabric, and wooden blocks on a tray invite ideas for story sounds.](assets/foley-tray.svg)
+
+Imagine what these objects might sound like in a story; the facilitator's live demonstration and safety checks guide the activity, not the picture.
+
 **Evidence / parking:** each learner/pair places a picture or drawing beside its chosen sound.
 
 ### Session 3 — Make a sound story

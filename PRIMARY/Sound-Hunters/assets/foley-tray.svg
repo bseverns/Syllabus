@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+  <title id="title">A tray of story sounds</title>
+  <desc id="desc">A paper cup, sealed paper bag, folded fabric, and wooden blocks rest on a tray, inviting children to imagine the sounds of everyday objects.</desc>
+  <rect width="1000" height="620" fill="#f8f0df"/>
+  <ellipse cx="500" cy="535" rx="410" ry="45" fill="#d8c6ab"/>
+  <rect x="70" y="85" width="860" height="445" rx="56" fill="#a85638"/>
+  <rect x="90" y="100" width="820" height="400" rx="40" fill="#dfaa73" stroke="#793c2e" stroke-width="8"/>
+  <!-- Paper cup -->
+  <path d="M150 190 L300 190 L282 385 Q225 411 168 385 Z" fill="#fff9e9" stroke="#513e38" stroke-width="7"/>
+  <ellipse cx="225" cy="190" rx="75" ry="20" fill="#ead8be" stroke="#513e38" stroke-width="7"/>
+  <path d="M185 270 Q225 255 270 270 M183 288 Q225 273 268 288" fill="none" stroke="#d78c5a" stroke-width="7" stroke-linecap="round"/>
+  <!-- Paper bag, folded and taped shut -->
+  <path d="M362 162 L526 162 L542 399 Q452 425 347 399 Z" fill="#d89e59" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M362 162 L526 162 L520 205 L367 205 Z" fill="#edc480" stroke="#513e38" stroke-width="7"/>
+  <rect x="423" y="169" width="40" height="50" rx="3" fill="#f8e7a1" transform="rotate(-5 443 194)"/>
+  <path d="M377 258 Q397 246 407 261 M480 350 Q502 339 515 352" fill="none" stroke="#b87841" stroke-width="6" stroke-linecap="round"/>
+  <!-- Soft folded fabric -->
+  <path d="M592 145 Q700 124 802 153 L830 264 Q728 244 611 282 Z" fill="#84b2a1" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M611 282 Q718 243 830 264 L811 302 Q706 282 628 319 Z" fill="#609685" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M623 178 Q709 160 785 178 M634 199 Q711 182 791 199" fill="none" stroke="#b6d4c0" stroke-width="6" stroke-linecap="round"/>
+  <!-- Wooden blocks -->
+  <path d="M606 356 L714 331 L749 355 L641 384 Z" fill="#f2d397" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M641 384 L749 355 L749 414 L641 444 Z" fill="#c98950" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M606 356 L641 384 L641 444 L606 415 Z" fill="#ad7045" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M744 337 L807 321 L842 347 L778 365 Z" fill="#f2d397" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M778 365 L842 347 L842 402 L778 420 Z" fill="#c98950" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M744 337 L778 365 L778 420 L744 394 Z" fill="#ad7045" stroke="#513e38" stroke-width="7" stroke-linejoin="round"/>
+</svg>
