@@ -8,6 +8,7 @@
 ## Setup Tips
 - Fully charge Spike hubs before class.
 - On one student device, open the [SPIKE App](https://education.lego.com/en-us/downloads/spike-app/software/) and the [official building instructions](https://education.lego.com/en-us/product-resources/spike-prime/downloads/building-instructions/). Confirm the local app/version and build match the available kit before students begin.
+- Print or display the example photos in [Build Instructions](../student_handouts/Build_Instructions.md) and [Coding Tutorials](../student_handouts/Coding_Tutorials.md). Use them for observation, not as a substitute for the approved build, sensor setup, or port checks.
 - Preload test code to verify motor function, sensor connection, and the hub connection for every kit.
 - Reserve clear space for movement activities.
 - Mark the maze and SuGo boundary before class; only run one robot at a time unless the instructor has called a match.

@@ -57,6 +57,16 @@ suggested_path: "PRIMARY/Light-Color-and-Shadow-Lab"
 
 **Target:** make a character, place, or object readable in shadow.
 **Prompt:** *What could happen in this tiny light world?*
+**Look together:** These are puppets, not photographs of their shadows. Notice the shapes and poses; imagine what each character might do. Learners make their own characters rather than copying these examples.
+
+![Two colorful shadow-puppet figures displayed at the Yunnan Provincial Museum, one reaching upward with a long staff.](assets/yunnan-shadow-puppets.jpg)
+
+Shadow puppets at the Yunnan Provincial Museum, China. Photo: Daderot, public domain.
+
+![A Javanese wayang kulit puppet with a jointed arm, elaborate costume, and a long handle.](assets/wayang-kulit.jpg)
+
+Javanese wayang kulit puppet. Photo: Joe Mabel, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). [Sources and attribution](assets/README.md).
+
 **Demo:** create a foreground/background with two silhouettes and one clear action.
 **Build/play:** learners make a tabletop screen or shared scene using silhouettes, tape, and color windows.
 **Evidence / parking:** a partner identifies one character/place; builder changes one unclear shape if needed.

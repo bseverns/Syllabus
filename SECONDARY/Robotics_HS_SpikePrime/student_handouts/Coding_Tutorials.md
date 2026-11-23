@@ -14,4 +14,10 @@
 | 6–7 | Follow a maze strategy and improve a threshold/turn | One full maze test plus one revision. |
 | 8–11 | Detect the ring edge/opponent and refine strategy | A safe practice run and a note on the last change. |
 
+## Looking at a sensor
+
+![A lit sensor mounted on a LEGO robot, with a cable running toward its hub.](../assets/spike-sensor-example.jpg)
+
+Notice where the sensor faces and how it is held in place. What might change if it pointed elsewhere? This is an example, not your team's sensor placement or port map; check your own build and live readings. Photo: Mattruffoni, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [source and credits](../assets/README.md).
+
 Use movement blocks first, loops for repeated actions, and `wait until` blocks for sensor-based motion. If the robot drifts, pauses, or cannot see a sensor, record the problem and use the instructor's troubleshooting path instead of guessing.

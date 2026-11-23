@@ -10,6 +10,7 @@ A four-session, screen-light pilot workshop for Pre-K–Grade 2. Learners test l
 2. Test the room-light conditions and every low-heat LED before Session 1.
 3. Pre-cut silhouettes, stage a safe light-test zone, and prepare a normal-room-light fallback.
 4. Run four 60-minute sessions; preserve one test trace and one final-scene note per learner/team.
+5. For Session 3, print or display the shadow-puppet photographs in the syllabus; see [asset credits](assets/README.md).
 
 ![Shadow test showing a low-heat light aimed through an object toward a screen, with prompts to move the object nearer the light and then nearer the screen.](assets/shadow-test-map.svg)
 
