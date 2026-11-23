@@ -10,6 +10,7 @@ __pycache__/
 *.bgcode
 *.png
 *.jpg
+!assets/sewing-machine-cam.jpg
 *.jpeg
 *.zip
 .env

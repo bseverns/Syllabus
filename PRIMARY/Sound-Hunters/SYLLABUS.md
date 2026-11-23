@@ -52,7 +52,7 @@ suggested_path: "PRIMARY/Sound-Hunters"
 
 ![A paper cup, sealed paper bag, folded fabric, and wooden blocks on a tray invite ideas for story sounds.](assets/foley-tray.svg)
 
-Imagine what these objects might sound like in a story; the facilitator's live demonstration and safety checks guide the activity, not the picture.
+**Illustrative drawing, not a photograph or required tray.** Imagine what these objects might sound like in a story; the facilitator's live demonstration and safety checks guide the activity, not the picture. When available, replace it with a photo of your own facilitator-prepared tray, using safe, cleanable, age-appropriate materials and following local consent and privacy rules.
 
 **Evidence / parking:** each learner/pair places a picture or drawing beside its chosen sound.
 

@@ -70,6 +70,12 @@ updated: "2026-07-14"
 
 **Prompt:** *What action should happen again and again?*
 
+![Several wooden box automata with side cranks and figures on top; their mechanisms are hidden inside the boxes.](assets/automata-tam-makers.jpg)
+
+*Photo: [Fabrice Florin, “Automata at Tam Makers”](https://www.flickr.com/photos/fabola/46294607341/), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/); unmodified.*
+
+*Look and wonder:* What might move when a crank turns? The mechanisms are hidden; use the live demo to observe a cam and follower. These wooden examples are inspiration, not a required build. Adults prepare and cap dowels and manage cutting and punching; local safety rules apply.
+
 **Build:** teams attach a cam to a known-good base and tune the follower/character position.
 
 **Evidence:** `turns / moves / returns` check plus one explanation of the repeated action.

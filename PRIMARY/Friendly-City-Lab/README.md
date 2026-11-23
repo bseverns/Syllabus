@@ -8,7 +8,7 @@ A four-session Grades 3–5 pilot studio where learners notice confusing public 
 
 1. Read [SYLLABUS.md](SYLLABUS.md).
 2. Choose a school, library, or program-space observation route; secure site permission before learners leave the room.
-3. Gather 3–5 existing signs/maps plus the printable materials in the syllabus. Use the [fictional library sign](assets/library-sign.svg) as an in-room discussion example: ask what a visitor understands and what they might still need, without prescribing a design. See [asset notes](assets/README.md).
+3. Gather 3–5 existing signs/maps plus the printable materials in the syllabus. For the in-room fallback, show the [University of Minnesota entrance sign photograph](assets/university-minnesota-entrance.jpg) and ask what a visitor might learn and still need to know, without prescribing a design. Photo by [AlexiusHoratius](https://commons.wikimedia.org/wiki/File:University_of_Minnesota_entrance_sign_1.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), unchanged. It is a 2010 reference, not a substitute for current local signage or site permission. See [asset notes](assets/README.md).
 4. Keep all final work as prototypes unless the host approves installation or replacement of actual signage.
 
 <!-- ponytail: this pilot stays paper-first and uses one local site. Add cameras, QR codes, or digital maps only after a delivery shows a need that paper testing cannot meet. -->

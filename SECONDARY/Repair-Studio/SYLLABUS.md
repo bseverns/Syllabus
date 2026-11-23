@@ -49,6 +49,10 @@ Twelve pre-screened, battery-powered or unpowered devices: headphones, keyboards
 
 **Build/play:** pairs photograph/sketch before opening, manage fasteners in a tray, label visible parts, and produce a simple exploded-view note.
 
+![A disassembled USB mouse with its shell halves, circuit board, wheel, and cable laid out separately.](assets/disassembled-usb-mice.jpg)
+
+*“Microsoft computer mice disassembled” by [Dmitry G](https://commons.wikimedia.org/wiki/File:Microsoft_computer_mice_disassembled.JPG), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); unchanged.* Notice how the parts are separated; discuss how you would record where each belongs and keep fasteners together. This photo is an observation example, not permission to open or power a device; use only a facilitator-screened, `safe to open` device.
+
 **Evidence:** labeled interior sketch or photo set; all fasteners accounted for.
 
 ### Session 3 — Test, isolate, decide

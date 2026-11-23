@@ -15,4 +15,6 @@ A four-session high-school pilot where learners collect a small, permissioned ob
 
 The visual makes the course’s paper-first privacy gate visible; it does not grant collection permission or permit public upload of raw observations.
 
+For Session 3, use the [Minneapolis station photo and critique prompt](SYLLABUS.md#session-3--make-an-interface-for-a-real-user); confirm local conditions and permissions rather than treating the 2021 image as current guidance.
+
 **Source lineage:** [`in-progress/public-data-sensors-and-civic-interfaces.md`](../../in-progress/public-data-sensors-and-civic-interfaces.md) (forwarding note after this package was created); `SECONDARY/robotic-vibes`; `POST_SECONDARY/critical-making-civic-media`.

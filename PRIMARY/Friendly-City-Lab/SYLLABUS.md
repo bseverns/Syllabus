@@ -46,9 +46,11 @@ updated: "2026-07-14"
 
 **Prompt:** *What does this sign expect you to already know?*
 
-![In a fictional building, a sign with a book icon, the word Library, and a right arrow points toward a corridor and door.](assets/library-sign.svg)
+![A University of Minnesota entrance sign spans two white pillars, with trees and a brick building behind it.](assets/university-minnesota-entrance.jpg)
 
-> What can a visitor infer from the words, picture, and arrow? What might still be unclear? This fictional example is a discussion starter, not approved signage or a template; invent and test your own ideas.
+*University of Minnesota entrance, northwest corner of the Minneapolis campus, 2010. Photo by [AlexiusHoratius](https://commons.wikimedia.org/wiki/File:University_of_Minnesota_entrance_sign_1.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); unchanged.*
+
+> What might a visitor learn from this sign and its surroundings? What might they still need to know or look for? Use this photo as a discussion starter, not a template or replacement for current local signage; invent and test your own ideas. Site permission still controls observation and installation.
 
 **Build:** learners take a short observation walk or inspect provided images, then mark one helpful and one confusing message.
 

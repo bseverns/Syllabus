@@ -57,6 +57,10 @@ Six or more laptops with a single approved browser-based visual tool; headphones
 
 **Prompt:** *What survives when this leaves the laptop?*
 
+![A ceiling-mounted projector faces a whiteboard across a science classroom.](assets/UCHSScienceRoom9.10.09ByLuigiNovi3.jpg)
+
+Union City High School, New Jersey, 2009. Photo: [Luigi Novi](https://commons.wikimedia.org/wiki/File:UCHSScienceRoom9.10.09ByLuigiNovi3.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/); unchanged. Where might the image land, and how might room light and audience position affect a test? This is a room example, not a mounting guide: staff control ceiling equipment, approved setup, cable paths, and safe light and sound levels.
+
 **Build/play:** teams run brief projector/screen rehearsals, log what was unreadable or unreliable, and change one consequential element.
 
 **Evidence:** room-test note and revised setup/signal-flow sketch.

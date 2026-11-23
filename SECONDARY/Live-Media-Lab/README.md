@@ -11,4 +11,6 @@ A four-session high-school pilot where learners make a timed visual-and-sound st
 3. Keep cable paths taped down, volume bounded, and a screen-only fallback ready.
 4. Record room constraints, software friction, and reset time after Session 4.
 
+Use the [Session 3 classroom projector photo](SYLLABUS.md#session-3--test-the-room) to discuss sightlines and room conditions; it is not a setup or mounting instruction.
+
 **Source lineage:** [`in-progress/live-media-lab.md`](../../in-progress/live-media-lab.md) (forwarding note after this package was created); `SECONDARY/ExplorationSoundDesign`; `SECONDARY/digital-imaging-lab`.

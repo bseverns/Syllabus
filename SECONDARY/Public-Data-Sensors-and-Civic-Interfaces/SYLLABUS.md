@@ -59,6 +59,10 @@ Clipboards; pencils; printed tally/data-journal sheets; graph paper; markers; pa
 
 **Prompt:** *What should someone understand or do after encountering this?*
 
+![A Minneapolis bus shelter places a station name and destination above a posted information panel.](assets/46th-street-station-2021.jpg)
+
+46th Street & 46th Avenue A Line station, Minneapolis, 2021. Photo: [Collin Knopp-Schwyn](https://commons.wikimedia.org/wiki/File:46th_Street_%26_46th_Avenue_station,_northbound,_December_2021.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); unchanged. What can a rider learn from the name, destination, and panel, and what is hard to read from this viewpoint? This historical photo is not current service information or permission to collect data; verify local conditions and obtain site approval before any observation. Do not collect identifying information.
+
 **Build/play:** teams build a sign, map, dashboard card, display, or guide with a clear audience and action. Digital tools are optional and shared.
 
 **Evidence:** prototype plus an explicit source/context label.

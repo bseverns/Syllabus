@@ -75,7 +75,7 @@ Use photography, pixels, layers, collage, glitch, and image ethics to make a sma
 **Formats:** course  
 **Screen load:** S3  
 **Equipment:** E2→E2 — Devices, cameras or phones, headphones as needed, and a layer-based image editor.  
-**Documentation:** GO — Complete 12-session sequence, project briefs, rubrics, software notes, and local setup fields.  
+**Documentation:** GO-P — Complete 12-session sequence, project briefs, rubrics, software notes, and local setup fields; verify editor/device compatibility, file storage, accounts, and sharing consent locally.  
 **Source:** [`SECONDARY/digital-imaging-lab`](../SECONDARY/digital-imaging-lab)
 
 ### Digital Manufacturing Studio
@@ -269,7 +269,7 @@ Use photography, pixels, layers, collage, glitch, and image ethics to make a sma
 **Formats:** course  
 **Screen load:** S3  
 **Equipment:** E2→E2 — Devices, cameras or phones, headphones as needed, and a layer-based image editor.  
-**Documentation:** GO — Complete 12-session sequence, project briefs, rubrics, software notes, and local setup fields.  
+**Documentation:** GO-P — Complete 12-session sequence, project briefs, rubrics, software notes, and local setup fields; verify editor/device compatibility, file storage, accounts, and sharing consent locally.  
 **Source:** [`SECONDARY/digital-imaging-lab`](../SECONDARY/digital-imaging-lab)
 
 ## Adults

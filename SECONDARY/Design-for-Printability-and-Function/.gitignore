@@ -20,6 +20,7 @@ Thumbs.db
 # Images / Previews
 *.png
 *.jpg
+!assets/stanford-bunny-supports.jpg
 *.jpeg
 
 # Analysis
